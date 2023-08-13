@@ -114,7 +114,7 @@ Caractéristiques
 
 Allows +25 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 3500ft altitude.
-
+Estimated speed increase at sea level: 27 km/h
 
 ### 2 x Browning .303 and 57mm Molins Gun
 
@@ -122,7 +122,7 @@ Two nose-mounted "Browning .303" 7.7mm machine guns with 500 or 780 rounds per g
 Additional mass: 589 kg
 Ammunition mass: 159 kg
 Armour mass: 386 kg
-
+Estimated speed loss: 5 km/h
 
 ### 4 x Browning .303 and 57mm Molins Gun
 
@@ -130,7 +130,7 @@ Four nose-mounted "Browning .303" 7.7mm machine guns with 500 or 780 rounds per 
 Additional mass: 644 kg
 Ammunition mass: 159 kg
 Armour mass: 386 kg
-
+Estimated speed loss: 7 km/h﻿
 
 ### 8 х RP-3 HE / AP rockets on Mk.I Rails
 
@@ -148,7 +148,7 @@ Additional mass: 277 kg
 Ammunition mass: 170 kg
 Racks mass: 107 kg
 Estimated speed loss before launch: 39 km/h
-
+Estimated speed loss after launch: 21 km/h﻿
 
 ### 8 х RP-3 HE / AP rockets on Mk.III Rails
 
@@ -166,7 +166,7 @@ Additional mass: 242 kg
 Ammunition mass: 170 kg
 Racks mass: 72 kg
 Estimated speed loss before launch: 33 km/h
-
+Estimated speed loss after launch: 14 km/h﻿
 
 ### 8 х RP-3 HE / AP rockets on Mk.III Tiered Rails
 
@@ -184,12 +184,12 @@ Additional mass: 230 kg
 Ammunition mass: 170 kg
 Racks mass: 60 kg
 Estimated speed loss before launch: 33 km/h
-
+Estimated speed loss after launch: 14 km/h
 
 ### Mk.IIL Gunsight
 
 Mk.IIL Gunsight allows to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default)
-
+Additional mass: 2 kg
 
 ### Open Exhausts
 

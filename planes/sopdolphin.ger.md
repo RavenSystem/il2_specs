@@ -61,13 +61,13 @@ Referenzen
 4) Sopwith Dolphin Specification.
 
 ## Änderungen
-
+﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Cooper Bomben
 
@@ -77,13 +77,13 @@ Gewicht der Munition: 44 kg
 Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
 Geschwindigkeitsverlust nach Abwurf: 1 km/h
-
+﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Lewis Überflügel-Zwillings-Maschinengewehr
 
@@ -99,7 +99,7 @@ Gewicht der Halterung: 2 kg
 Gewicht der Munition: 16 kg
 Gseamtgewicht: 33 kg
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h
-
+﻿
 
 ### Twin Lewis lower-wing
 
@@ -112,7 +112,7 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 8 kg
 Total weight: 25 kg
-
+Geschätzter Geschwindigkeitsverlust: 3 km/h﻿
 
 ### Thermometer
 

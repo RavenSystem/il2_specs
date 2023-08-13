@@ -104,7 +104,7 @@ Additional mass: 2 kg
 
 Wilhelm Morell Anemometer (45-250 km/h) and D.R.P Altimeter (0-8000 m)
 Additional mass: 1.5 kg
-
+﻿
 
 ### Thermometer
 

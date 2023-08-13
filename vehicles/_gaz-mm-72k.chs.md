@@ -82,7 +82,7 @@ BR-132
 炮口初速：900 m/s，近距离装甲穿深 44 mm
 500m时：装甲穿深 33mm，速度 806 m/s，下坠高度 1.8m
 1000m时：装甲穿深 25mm，速度 528 m/s，下坠高度 8.3m
-
+2000m时：装甲穿深 13mm，速度 380 m/s，下坠高度 46.4m
 
 ### 防盾(早期型)
 
@@ -99,7 +99,7 @@ BR-132
 ### Remove gunsight cover
 
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.
-
+﻿
 
 ### 榴弹
 

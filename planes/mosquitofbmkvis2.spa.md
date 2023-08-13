@@ -113,7 +113,7 @@ Características operativas:
 
 Permite un impulso de +25 lb
 El cambio de etapa automático del compresor se deshabilita. El cambio de etapa debe realizarse de forma manual a 3500 ft de altitud.
-
+Incremento estimado de velocidad a nivel del mar: 27 km/h (17 mph)
 
 ### 2 Browning .303 y 1 cañón de 57mm
 
@@ -121,7 +121,7 @@ Instalación en el morro de 2 ametralladoras de 7,7 mm «Browning .303» con 500
 Peso adicional: 589 kg
 Peso de munición de 57 mm: 159 kg
 Peso del armamento: 386 kg
-
+Pérdida de velocidad estimada: 5 km/h
 
 ### 4 Browning .303 y 1 cañón de 57mm
 
@@ -129,7 +129,7 @@ Instalación en el morro de 4 ametralladoras de 7,7 mm «Browning .303» con 500
 Peso adicional: 644 kg
 Peso de munición de 57 mm: 159 kg
 Peso del armamento: 386 kg
-
+Pérdida de velocidad estimada: 7 km/h﻿
 
 ### 8 cohetes RP-3 en lanzadores Mk.I
 
@@ -147,7 +147,7 @@ Peso adicional: 277 kg (611 lb)
 Peso de munición: 170 kg (375 lb)
 Peso de los soportes: 107 kg (236 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 39 km/h (24 mph)
-
+Pérdida de velocidad estimada tras lanzarlos: 21 km/h (13 mph)﻿
 
 ### 8 cohetes RP-3 en lanzadores Mk.III
 
@@ -165,7 +165,7 @@ Peso adicional: 242 kg (534 lb)
 Peso de munición: 170 kg (375 lb)
 Peso de los soportes: 72 kg (159 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 33 km/h (21 mph)
-
+Pérdida de velocidad estimada tras lanzarlos: 14 km/h (9 mph)﻿
 
 ### 8 cohetes RP-3 apilados en lanzadores Mk.III
 
@@ -183,13 +183,13 @@ Peso adicional: 230 kg (507 lb)
 Peso de munición: 170 kg (375 lb)
 Peso de los soportes: 60 kg (132 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 33 km/h (21 mph)
-
+Pérdida de velocidad estimada tras lanzarlos: 14 km/h (9 mph)
 
 ### Mira Mk.IIL
 
 La mira Mk.IIL permite desplazar la línea del objetivo hasta 5 grados hacia abajo (teclas «Mayús_Dcha + Ñ» / «Mayús_Dcha + Punto» por defecto)
 Peso adicional: 2 kg (4,41 lb)
-
+Pérdida de velocidad estimada: 0 km/h
 
 ### Tubos de escape abiertos
 

@@ -122,18 +122,18 @@ Eigenschaften:
 - Das Visier ist mit einen Sonnenfilter ausgestattet.
 
 ## Änderungen
-
+﻿
 
 ### DB-605ASM engine
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)
 Additional mass: 21 kg
-
+Estimated speed increase at sea level: 43 km/h﻿
 
 ### MW-50 Mixture
 
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes
-
+Additional mass (mixture): 63 kg﻿
 
 ### 21 cm BR
 
@@ -143,7 +143,7 @@ Gewicht der Munition: 224 kg
 Gewicht der Abwurfwaffenroste: 34 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 51 km/h
 Geschwindigkeitsverlust nach dem Abfeuern: 11 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 2 km/h﻿
 
 ### 2 x 20 mm MG 151/20 in Waffengondeln
 
@@ -151,7 +151,7 @@ Geschwindigkeitsverlust nach dem Abfeuern: 11 km/h
 Zusätzliches Gewicht: 212 kg
 Gewicht der Munition: 55 kg
 Gewicht der Schusswaffen: 157 kg
-
+Geschwindigkeitsverlust: 13 km/h﻿
 
 ### 30 mm MK 108
 
@@ -159,14 +159,14 @@ Gewicht der Schusswaffen: 157 kg
 Zusätzliches Gewicht: 4 kg
 Gewicht der Munition: 38 kg
 Gewicht der Schusswaffen: 58 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
-
+Estimated speed increase at sea level: 45 km/h﻿
 
 ### 1 x Bombe, Typ SC 250
 

@@ -109,18 +109,18 @@ Operation features:
 - Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.
 
 ## Änderungen
-
+﻿
 
 ### Merlin XX Motor mit +14 lb Ladedruck
 
 Merlin XX Motor mit +14 lb Ladedruck
-
+Geschwindigkeitsgewinn in Bodennähe: 11 km/h﻿
 
 ### Luftfilter
 
 Luftfilter für staubige Bedingungen
 Zusätzliches Gewicht: 13 kg
-
+Geschwindigkeitsverlust: 5 km/h﻿
 
 ### 4 x 7.7mm Maschinengewehr "Browning .303"
 
@@ -128,7 +128,7 @@ Vier Außenflügel "Browning .303" 7.7mm Maschinengewehre mit jeweils 328 Schuss
 Zusätzliches Gewicht: 100 kg
 Gewicht der Munition: 39 kg
 Gewicht der Schusswaffen: 55 kg
-
+Geschwindigkeitsverlust: 3 km/h﻿
 
 ### 4 x 20mm "Hispano Mk.II" Kanone
 
@@ -136,13 +136,13 @@ Vier "Hispano Mk.II" 20mm flügelmontierte Kanonen mit jeweils90 Schuss anstelle
 Zusätzliches Gewicht: 195 kg
 Gewicht der Munition: 102 kg
 Gewicht der Schusswaffen: 228 kg
-
+Geschwindigkeitsverlust: 12 km/h﻿
 
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-
+Geschwindigkeitsverlust: 2 km/h﻿
 
 ### 2 x 12.7 mm BS und 2 x 20mm ShVAK
 
@@ -150,7 +150,7 @@ Zwei BS 12.7 mm flügelmontierte Maschinengewehre mit jeweils 100 Schuss und zwe
 Zusätzliches Gewicht: 59 kg
 Gewicht der Munition: 87 kg
 Gewicht der Schusswaffen: 124 kg
-
+Geschwindigkeitsverlust: 4 km/h﻿
 
 ### 2 x 40mm Vickers Behälter + Panzerung
 
@@ -159,7 +159,7 @@ Zusätzliches Gewicht: 390 kg
 Gewicht der Munition: 84 kg
 Gewicht der Schusswaffen: 323 kg
 Rüstungsgewicht: 148 kg
-
+Geschwindigkeitsverlust: 16 km/h﻿
 
 ### 2 x 40mm Vickers Class S Behälter
 

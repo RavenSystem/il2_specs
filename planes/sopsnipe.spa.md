@@ -62,13 +62,13 @@ Referencias:
 4) Dolphin and Snipe Aces of Wold War I.  Norman Franks, Osprey n.º48.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-
+﻿
 
 ### Bomba H.E.R.L.
 
@@ -77,7 +77,7 @@ Peso adicional: 57 kg
 Peso de munición: 51 kg
 Peso de los soportes: 6 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
-
+Pérdida de velocidad estimada tras soltar: 1 km/h﻿
 
 ### Bombas Cooper
 
@@ -87,10 +87,11 @@ Peso de munición: 44 kg
 Peso de los soportes: 12 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
 Pérdida de velocidad estimada tras soltar: 1 km/h
-
+﻿
 
 ### Recortes de cabina ampliados
 
+Recortes laterales de la cabina ampliados para mejorar el campo de visión delantero (conocida como modificación Baker)﻿
 
 ### Luz de cabina
 

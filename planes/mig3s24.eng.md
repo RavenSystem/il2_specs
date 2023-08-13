@@ -106,7 +106,7 @@ BK 12.7mm machineguns in wing-mounted gun pods with 145 rounds per each
 Additional mass: 155 kg
 Ammunition mass: 54 kg
 Guns mass: 101 kg
-
+Estimated speed loss: 13 km/h
 
 ### 2 x BS 12.7 mm (700 rounds)
 
@@ -114,7 +114,7 @@ BS 12.7mm nose-mounted machineguns with 350 rounds per each instead of default S
 Additional mass: 34 kg
 Ammunition mass: 131 kg
 Guns mass: 62 kg
-
+Estimated speed loss: 0 km/h
 
 ### 2 x FAB-50sv / FAB-100M bombs
 
@@ -132,7 +132,7 @@ Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-
+Estimated speed loss after drop: 12 km/h﻿
 
 ### 6 x ROS-82 rockets
 
@@ -141,7 +141,7 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
-
+Estimated speed loss after launch: 17 km/h
 
 ### 2 x 20mm ShVAK (300 rounds)
 

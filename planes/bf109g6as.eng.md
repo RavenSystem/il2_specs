@@ -128,12 +128,12 @@ Operation features:
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)
 Additional mass: 21 kg
-
+Estimated speed increase at sea level: 43 km/h
 
 ### MW-50 Mixture
 
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes
-
+Additional mass (mixture): 63 kg
 
 ### 21 cm BR
 
@@ -143,7 +143,7 @@ Ammunition mass: 224 kg
 Racks mass: 34 kg
 Estimated speed loss before launch: 51 km/h
 Estimated speed loss after launch: 11 km/h
-
+Estimated speed loss after drop: 2 km/h
 
 ### 2 x 20mm MG 151/20 gun pods
 
@@ -151,7 +151,7 @@ MG 151/20 20mm guns in wing-mounted gun pods with 135 rounds per each
 Additional mass: 212 kg
 Ammunition mass: 55 kg
 Guns mass: 157 kg
-
+Estimated speed loss: 13 km/h
 
 ### 30mm MK 108 gun
 
@@ -159,14 +159,14 @@ MK 108 30mm nose-gun with 65 rounds
 Additional mass: 4 kg
 Ammunition mass: 38 kg
 Gun mass: 58 kg
-
+Estimated speed loss: 0 km/h
 
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
-
+Estimated speed increase at sea level: 45 km/h
 
 ### 1 x SC 250 bomb
 

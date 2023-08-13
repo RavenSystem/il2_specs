@@ -76,7 +76,7 @@ Additional mass: 57 kg
 Ammunition mass: 51 kg
 Rack mass: 6 kg
 Estimated speed loss before drop: 2 km/h
-
+Estimated speed loss after drop: 1 km/h
 
 ### 库珀（Cooper）炸弹
 
@@ -85,10 +85,11 @@ Estimated speed loss before drop: 2 km/h
 弹药质量：44 kg
 挂架质量：12 kg
 投弹前预期速度损失：2 km/h
-
+投弹后预期速度损失：1 km/h
 
 ### Enlarged cockpit cutouts
 
+Enlarged cockpit cutouts for improved field of view ("Barker mod")
 
 ### 驾驶舱照明
 

@@ -67,37 +67,37 @@ Referenzen
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
 ## Änderungen
-
+﻿
 
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Querneigungsmesser
 
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Visier
 
 Zusätzliches Visier mit Kimme und Kreuz
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Kollimator Tag
 
 Oigee Reflexvisier (mit getönter Scheibe)
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Kollimator Nacht
 

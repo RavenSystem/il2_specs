@@ -69,37 +69,37 @@ References
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
 ## Modifications
-
+﻿
 
 ### Compteur de balles
 
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Inclinometre
 
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Viseur
 
 Viseur additionnel avec guidon de mire avant-arrière
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Collimateur de jour
 
 , Collimateur à réfraction Oigee (gradateur de jour installé)
 Masse supplémentaire : 2 kg
-
+﻿
 
 ### Collimateur de nuit
 

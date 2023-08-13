@@ -90,13 +90,13 @@ References
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
 ## Modyfikacje
-
+﻿
 
 ### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-
+﻿
 
 ### Cooper / H.E.R.L. bombs
 
@@ -112,18 +112,18 @@ Additional mass: 252 kg
 Ammunition mass: 204 kg
 Racks mass: 48 kg
 Estimated speed loss before drop: 8 km/h
-
+Estimated speed loss after drop: 4 km/h﻿
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
+﻿
 
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-30 Gallons)
-
+Additional mass: 1 kg﻿
 
 ### Twin Lewis Overwing
 
@@ -138,18 +138,18 @@ Guns weight: 15 kg (w/o ammo drums)
 Mounts weight: 8 kg
 Ammo weight: 24 kg
 Total weight: 47 kg
-
+Estimated speed loss: 4-14 km/h﻿
 
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-
+﻿
 
 ### Radio
 
 Radio transmitter
-
+Additional mass: 10 kg﻿
 
 ### Twin Lewis MG turret
 

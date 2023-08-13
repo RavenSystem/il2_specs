@@ -58,49 +58,49 @@ References
 5) The Pfalz D.III , Profile Publications Number 43.
 
 ## Modifications
-
+﻿
 
 ### Haut Altimètre
 
 D.R.P Altimètre (0-8000 m)
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Compteur de balles
 
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Inclinometre
 
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Viseur
 
 Viseur additionnel avec guidon de mire avant-arrière
 Masse supplémentaire : 1 kg
-
+﻿
 
 ### Collimateur de jour
 
 Collimateur à réfraction Oigee (gradateur de jour installé)
 Masse supplémentaire : 2 kg
-
+﻿
 
 ### Collimateur de nuit
 
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)
 Masse supplémentaire : 2 kg
-
+﻿
 
 ### Anémomètre
 

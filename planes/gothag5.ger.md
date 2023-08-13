@@ -73,7 +73,7 @@ Referenzen:
 4) The Gotha. Flight magazine 1917.
 
 ## Änderungen
-
+﻿
 
 ### Bomben, Typ P.u.W.
 
@@ -103,7 +103,7 @@ Zusätzliches Gewicht: 312 kg
 Gewicht der Munition: 300 kg
 Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 1.5 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 1 km/h﻿
 
 ### 20mm Becker Rear Turret
 
@@ -117,7 +117,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-
+Estimated speed loss: 2 km/h﻿
 
 ### Twin Parabellum MG Rear Turret
 
@@ -130,19 +130,19 @@ Guns weight: 19 kg (w/o ammo drums)
 Mount weight: 5 kg
 Ammo weight: 40 kg
 Total weight: 64 kg
-
+Estimated speed loss: 1 km/h﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Benzinuhr
 
 Anzeige mit Nadel für die Treibstoffmenge (0-100 l)
 Zusätzliches Gewicht: 0.5 kg
-
+﻿
 
 ### 20mm Becker Front Turret
 
@@ -156,7 +156,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-
+Estimated speed loss: 2 km/h﻿
 
 ### Twin Parabellum MG Front Turret
 

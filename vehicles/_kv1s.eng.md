@@ -95,7 +95,7 @@ VHF 9-RM transceiver.
 
 
 ## Modifications
-
+﻿
 
 ### Armour Piercing Shells
 
@@ -110,7 +110,7 @@ When fired from a F-34 / ZiS-5 gun:
 Muzzle velocity 660 m/s, armour penetration at point blank range 87 mm.
 500 m: armour penetration 73 mm, velocity 585 m/s, drop -3.2 m.
 1000 m: armour penetration 62 mm, velocity 524 m/s, drop -13.6 m.
-
+2000 m: armour penetration 47 mm, velocity 429 m/s, drop -63.5 m.﻿
 
 ### Armour Piercing High Explosive Shells
 
@@ -125,12 +125,12 @@ When fired from a F-34 / ZiS-5 gun:
 Muzzle velocity 660 m/s, armour penetration at point blank range 86 mm.
 500 m: armour penetration 72 mm, velocity 584 m/s, drop -3.2 m.
 1000 m: armour penetration 61 mm, velocity 522 m/s, drop -13.6 m.
-
+2000 m: armour penetration 46 mm, velocity 427 m/s, drop -64.0 m.﻿
 
 ### Removed Fuel Tank
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.
-
+﻿
 
 ### High-Explosive Shells
 
@@ -145,7 +145,7 @@ When fired from a F-34 / ZiS-5 gun:
 Muzzle velocity: 680 m/s.
 500 m: velocity: 616 m/s, drop -3.0 m.
 1000 m: velocity: 558 m/s, drop -12.5 m.
-
+2000 m: velocity: 468 m/s, drop -56.7 m.﻿
 
 ### Sub-Caliber Armour Piercing Shells
 

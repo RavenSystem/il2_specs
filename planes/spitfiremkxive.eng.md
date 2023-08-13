@@ -102,7 +102,7 @@ Operation features:
 
 Allows +21 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 11000ft altitude.
-
+Estimated speed increase at sea level: 20 km/h
 
 ### 2 x 250 lb G.P. bombs
 
@@ -111,7 +111,7 @@ Additional mass: 247 kg
 Ammunition mass: 227 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 22 km/h
-
+Estimated speed loss after drop: 11 km/h
 
 ### 500 lb G.P. bomb
 
@@ -120,7 +120,7 @@ Additional mass: 237 kg
 Ammunition mass: 227 kg
 Racks mass: 10 kg
 Estimated speed loss before drop: 12 km/h
-
+Estimated speed loss after drop: 6 km/h
 
 ### Recon camera
 
@@ -138,7 +138,7 @@ Rounded exhaust pipes
 
 Rear view mirror
 Additional mass: 1 kg
-
+Estimated speed loss: 1 km/h
 
 ### Reflector Gunsight
 

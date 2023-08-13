@@ -88,7 +88,7 @@ Operation features:
 - The range-finding gunsight reticle can be adjusted for a given target base and range.
 
 ## Modyfikacje
-
+﻿
 
 ### 2 x bomba 1000 lb M.C.
 
@@ -97,12 +97,12 @@ Additional mass: 969 kg
 Ammunition mass: 949 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 57 km/h
-
+Estimated speed loss after drop: 12 km/h﻿
 
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-
+Estimated speed increase at sea level: 23 km/h﻿
 
 ### 2 x bomba 500 lb M.C.
 

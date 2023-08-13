@@ -87,14 +87,14 @@ Eigenschaften:
 - Die linke Passagiertüre muss vor dem Flug entfernt werden, um Fallschirmjäger und Frachtbehälter abwerfen zu können. Verwenden Sie die Taste für den Bombenabwurf (Standardtaste "B"), um sie abzuwerfen.
 
 ## Änderungen
-
+﻿
 
 ### Luftfracht, 2300kg
 
 2300kg militärische Luftfracht
 Zusätzliches Gewicht: 2300 kg
 Geschwindigkeitsverlust: 2 km/h
-
+﻿
 
 ### 10 x MAB 250 Behälter
 
@@ -103,14 +103,14 @@ Zusätzliches Gewicht: 2550 kg
 Gewicht der Munition: 2500 kg
 Gewicht der Abwurfwaffenroste: 50 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 0 km/h﻿
 
 ### 12 Fallschirmjäger
 
 12 bewaffnete Fallschirmjäger
 Zusätzliches Gewicht: 1200 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 0 km/h﻿
 
 ### Heckgeschützturm
 

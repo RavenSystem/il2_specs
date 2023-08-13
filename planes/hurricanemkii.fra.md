@@ -109,18 +109,18 @@ Operation features:
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
 
 ## Modifications
-
+﻿
 
 ### Merlin XX engine with +14 lb boost
 
 Merlin XX engine with +14 lb boost
-
+Estimated speed increase at sea level: 11 km/h﻿
 
 ### Air Cleaner
 
 Air cleaner for dusty conditions
 Additional mass: 13 kg
-
+Estimated speed loss: 5 km/h﻿
 
 ### Four additional "Browning .303" MGs
 
@@ -128,7 +128,7 @@ Four additional wing-mounted "Browning .303" 7.7mm machine guns with 328 rounds 
 Additional mass: 100 kg
 Ammunition mass: 39 kg
 Guns mass: 55 kg
-
+Estimated speed loss: 3 km/h﻿
 
 ### 4 x 20mm "Hispano Mk.II" gun
 
@@ -137,13 +137,13 @@ Additional mass: 195 kg
 Ammunition mass: 102 kg
 Guns mass: 228 kg
 Estimated speed loss: 12 km/h
-
+﻿
 
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
-
+Estimated speed loss: 2 km/h﻿
 
 ### 2 x 12.7 mm BS and 2 x 20mm ShVAK
 
@@ -151,7 +151,7 @@ Two BS 12.7 mm wing-mounted machine guns with 100 rounds per each and two ShVAK 
 Additional mass: 59 kg
 Ammunition mass: 87 kg
 Guns mass: 124 kg
-
+Estimated speed loss: 4 km/h﻿
 
 ### 2 x 40mm Vickers gun pods + Armor
 
@@ -160,7 +160,7 @@ Additional mass: 390 kg
 Ammunition mass: 84 kg
 Guns mass: 323 kg
 Armour mass: 148 kg
-
+Estimated speed loss: 16 km/h﻿
 
 ### 2 x 40mm Vickers Class S gun pods
 

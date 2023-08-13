@@ -108,18 +108,18 @@ Características operativas:
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos al mismo tiempo o disparar cuatro a la vez.
 
 ## Modificaciones
-
+﻿
 
 ### Motor Merlin XX con +14 lb de impulso
 
 Motor Merlin XX que permite un impulso de +14 lb
-
+Incremento estimado de velocidad a nivel del mar: 11 km/h﻿
 
 ### Filtro de aire
 
 Filtro de aire para condiciones polvorientas
 Peso adicional: 13 kg
-
+Pérdida de velocidad estimada: 5 km/h﻿
 
 ### 4 ametralladoras Browning .303 adicionales
 
@@ -127,7 +127,7 @@ Peso adicional: 13 kg
 Peso adicional: 100 kg
 Peso de munición: 39 kg
 Peso del armamento: 55 kg
-
+Pérdida de velocidad estimada: 3 km/h﻿
 
 ### 4 cañones de 20 mm Hispano Mk.II
 
@@ -135,13 +135,13 @@ Peso del armamento: 55 kg
 Peso adicional: 195 kg
 Peso de munición: 102 kg
 Peso del armamento: 228 kg
-
+Pérdida de velocidad estimada: 12 km/h﻿
 
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-
+Pérdida de velocidad estimada: 2 km/h﻿
 
 ### 2 ametralladoras BS y 2 cañones ShVAK
 
@@ -149,7 +149,7 @@ Peso adicional: 1 kg
 Peso adicional: 59 kg
 Peso de munición: 87 kg
 Peso del armamento: 124 kg
-
+Pérdida de velocidad estimada: 4 km/h﻿
 
 ### 2 cañones de 40 mm Vickers + blindaje adicional
 
@@ -158,7 +158,7 @@ Peso adicional: 390 kg
 Peso de munición: 84 kg
 Peso del armamento: 323 kg
 Peso del blindaje: 148 kg
-
+Pérdida de velocidad estimada: 16 km/h﻿
 
 ### 2 cañones de 40 mm Vickers
 

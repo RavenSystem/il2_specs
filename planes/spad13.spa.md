@@ -62,13 +62,13 @@ Referencias:
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)
 Peso adicional: 2 kg
-
+﻿
 
 ### Ametralladoras cazaglobos
 
@@ -80,7 +80,7 @@ Peso de las armas: 26 kg
 Peso de la munición: 24 kg
 Cadencia de disparo: 600 bpm
 Peso adicional total: 58 kg
-
+﻿
 
 ### Bombas Cooper
 
@@ -90,19 +90,19 @@ Peso de munición: 22 kg
 Peso de los soportes: 0 kg
 Pérdida de velocidad estimada antes de soltar: 0 km/h
 Pérdida de velocidad estimada tras soltar: 0 km/h
-
+﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
-
+﻿
 
 ### Cámara de fotos
 

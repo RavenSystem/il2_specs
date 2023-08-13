@@ -101,7 +101,7 @@ Additional mass: 2 kg
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
-
+﻿
 
 ### Thermometer
 

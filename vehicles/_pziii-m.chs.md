@@ -117,7 +117,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：835 m/s，近距离装甲穿深 87 mm
 500m时：装甲穿深 68mm，速度 702 m/s，下坠高度 1.5m
 1000m时：装甲穿深 53mm，速度 587 m/s，下坠高度 8.4m
-
+2000m时：装甲穿深 30mm，速度 394 m/s，下坠高度 76.7m
 
 ### 榴弹
 
@@ -133,7 +133,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：550 m/s
 500m时：速度 444 m/s，下坠高度 4.9m
 1000m时：速度 368 m/s，下坠高度 22.6m
-
+2000m时：速度 285 m/s，下坠高度 118.5m﻿
 
 ### 次口径穿甲弹
 
@@ -151,7 +151,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：1180 m/s，近距离装甲穿深 175 mm
 500m时：装甲穿深 82mm，速度 696 m/s，下坠高度 2.1m
 1000m时：装甲穿深 43mm，速度 ：443 m/s，下坠高度 9.2m
-
+2000m时：装甲穿深 16mm，速度 ：223 m/s，下坠高度 49m
 
 ### 额外装甲
 

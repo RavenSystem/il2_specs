@@ -88,14 +88,14 @@ Características operativas:
 - La puerta izquierda de pasajeros debe ser retirada antes de iniciar el vuelo para permitir el salto de paracaidistas o el lanzamiento de contenedores de carga. Usa el botón de arrojar bombas («B» por defecto) para ordenar el salto o lanzamiento.
 
 ## Modificaciones
-
+﻿
 
 ### 2300 kg de carga en cajas
 
 2300 kg de cargamento militar en cajas
 Peso adicional: 2300 kg
 Pérdida de velocidad estimada: 2 km/h
-
+﻿
 
 ### 10 contenedores lanzables MAB 250
 
@@ -104,14 +104,14 @@ Peso adicional: 2550 kg
 Peso de contenedores: 2500 kg
 Peso de los soportes: 50 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
-
+Pérdida de velocidad estimada tras soltar: 0 km/h﻿
 
 ### 12 paracaidístas
 
 12 paracaidístas armados
 Peso adicional: 1200 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
-
+Pérdida de velocidad estimada tras soltar: 0 km/h
 
 ### Artillero trasero
 

@@ -122,18 +122,18 @@ Características operativas:
 - La mira tiene un filtro solar deslizante.
 
 ## Modificaciones
-
+﻿
 
 ### Motor DB-605ASM
 
 Motor DB-605ASM con combustible C3 y depósito (vacío) para sistema de inyección MW-50
 Peso adicional: 21 kg
-
+Aumento de velocidad estimado a nivel del mar: 43 km/h﻿
 
 ### Mezcla MW-50
 
 La inyección de una mezcla de agua y metanol MW-50 aumenta la resistencia del motor cuando funciona en modo Emergencia
-
+Peso adicional (solo mezcla): 63 kg﻿
 
 ### 2 cohetes WGr.21
 
@@ -143,7 +143,7 @@ Peso de munición: 224 kg
 Peso de los soportes: 34 kg
 Pérdida de velocidad estimada antes de lanzar: 51 km/h
 Pérdida de velocidad estimada tras lanzar: 11 km/h
-
+Pérdida de velocidad estimada tras soltar lanzadores: 2 km/h﻿
 
 ### 2 cañones de 20 mm MG 151/20
 
@@ -151,7 +151,7 @@ Pérdida de velocidad estimada tras lanzar: 11 km/h
 Peso adicional: 212 kg
 Peso de munición: 55 kg
 Peso del armamento: 157 kg
-
+Pérdida de velocidad estimada: 13 km/h﻿
 
 ### 1 cañón de 30 mm MK 108
 
@@ -159,14 +159,14 @@ Peso del armamento: 157 kg
 Peso adicional: 4 kg
 Peso de munición: 38 kg
 Peso de cañón: 58 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### Sistema MW-50
 
 Sistema de inyección de mezcla de agua y metanol MW-50 
 Peso adicional: 84 kg
 Peso de la mezcla de agua y metanol: 63 kg
-
+Aumento de velocidad estimado a nivel del mar: 45 km/h﻿
 
 ### 1 bomba SC 250
 

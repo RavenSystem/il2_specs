@@ -115,13 +115,13 @@ Zusätzliches Gewicht: 120 kg
 Gewicht der Munition: 100 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 20 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
 
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### Rückspiegel
 

@@ -60,31 +60,31 @@ References
 5) Albatros fighters in action by John F Connors.
 
 ## Modyfikacje
-
+﻿
 
 ### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns
 Additional mass: 1 kg
-
+﻿
 
 ### Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-
+﻿
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
+﻿
 
 ### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-
+﻿
 
 ### Lewis Overwing
 
@@ -99,19 +99,19 @@ Gun weight: 7 kg (w/o ammo drum)
 Mount weight: 4 kg
 Ammo weight: 12 kg
 Total weight: 23 kg
-
+Estimated speed loss: 2-6 km/h﻿
 
 ### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
+﻿
 
 ### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-
+﻿
 
 ### Anemometer, Altimeter, Clock
 
@@ -119,7 +119,7 @@ Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
 
 D.R.P Altimeter (0-8000 m)
-
+Additional mass: 1 kg
 
 ### Thermometer
 

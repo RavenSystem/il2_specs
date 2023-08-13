@@ -93,24 +93,24 @@ Características operativas:
 - Se puede ajustar la retícula de la mira para un objetivo y rango determinados. Para facilitar la puntería de los cohetes, es posible desplazar la mira hasta 5 grados hacia abajo (por defecto, Mayús_Dcha + Ñ / Mayús_Dcha + Punto).
 
 ## Modificaciones
-
+﻿
 
 ### Motor Sabre IIA con impulso +11 lb
 
 Motor Sabre IIA con impulso +11 lb
-
+Incremento estimado de velocidad a nivel del mar: 23 km/h﻿
 
 ### Hélice de 4 palas
 
 Instalación de una hélice de 4 palas
 Aumento estimado de la velocidad máxima: 12 km/h
-
+Aumento estimado de la tasa de ascenso máxima: 2,3 m/s﻿
 
 ### Blindaje adicional
 
 Instalación de blindaje adicional para el motor y la cabina
 Peso adicional: 157 kg
-
+Pérdida de velocidad estimada: 2 km/h﻿
 
 ### Bombas M.C.
 
@@ -128,13 +128,13 @@ Peso adicional: 969 kg
 Peso de munición: 949 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 42 km/h
-
+Pérdida de velocidad estimada tras soltar: 9 km/h﻿
 
 ### Deflector de polvo de cúpula
 
 Instalación de un deflector de polvo en la entrada de aire del motor.
 Peso adicional: 1 kg
-
+Pérdida de velocidad máxima estimada: 8 km/h﻿
 
 ### Сohetes dobles RP-3 en lanzadores Mk.I
 
@@ -146,13 +146,13 @@ Peso de munición: 460 kg (1014 lb)
 Peso de los soportes: 84 kg (185 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 66 km/h (41 mph)
 Pérdida de velocidad estimada tras lanzarlos: 30 km/h (19 mph)
-
+﻿
 
 ### Mira sin reflector
 
 Instalación de mira Mk.III tipo I
 Peso adicional: 0 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### 8 cohetes RP-3 en lanzadores Mk.I
 
@@ -171,7 +171,7 @@ Peso de munición: 170 kg (375 lb)
 Peso de los soportes: 84 kg (185 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 50 km/h (34 mph)
 Pérdida de velocidad estimada tras lanzarlos: 30 km/h (19 mph)
-
+﻿
 
 ### 8 cohetes RP-3 en lanzadores Mk.III
 

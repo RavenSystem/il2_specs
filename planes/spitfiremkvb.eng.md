@@ -121,7 +121,7 @@ Operation features:
 
 Merlin 45 engine. 
 Additional mass: 0 kg
-
+Estimated speed loss: 0 km/h
 
 ### Mirror
 

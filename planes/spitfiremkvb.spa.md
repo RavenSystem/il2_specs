@@ -114,13 +114,13 @@ Características operativas:
 - La mira tiene un filtro solar deslizante.
 
 ## Modificaciones
-
+﻿
 
 ### Motor Merlin 45
 
 Nuevo motor Merlin 45
 Peso adicional: 0 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### Espejo
 

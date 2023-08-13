@@ -96,7 +96,7 @@ Eigenschaften:
 - Beide Visiere haben schiebbare Sonnenfilter.
 
 ## Änderungen
-
+﻿
 
 ### 150-Oktan-Kraftstoff
 
@@ -112,7 +112,7 @@ Zusätzliches Gewicht: 247 kg
 Gewicht der Munition: 227 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 22 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 11 km/h﻿
 
 ### Bombe, Typ 500 lb G.P.
 
@@ -121,30 +121,30 @@ Zusätzliches Gewicht: 237 kg
 Gewicht der Munition: 227 kg
 Gewicht der Abwurfwaffenroste: 10 kg
 Geschwindigkeitsverlust vor Abwurf: 12 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 6 km/h﻿
 
 ### Recon camera
 
 F.24 camera installation behind the cockpit (clipped wing only)
 Additional mass: 28 kg
 Estimated speed loss: 0 km/h
-
+﻿
 
 ### Rounded exhaust pipes
 
 Rounded exhaust pipes
-
+﻿
 
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-
+Geschwindigkeitsverlust: 1 km/h﻿
 
 ### Reflector Gunsight
 
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
-
+﻿
 
 ### Gekappter Flügel
 

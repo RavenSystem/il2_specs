@@ -89,7 +89,7 @@ Additional mass: 256 kg
 Ammunition mass:256 kg
 Racks mass: 0 kg
 Estimated speed loss before drop: 6.3 km/h
-
+Estimated speed loss after drop: 0 km/h﻿
 
 ### Cockpit light
 
@@ -101,7 +101,7 @@ Additional mass: 1 kg
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
-
+﻿
 
 ### Lewis Overwing
 
@@ -116,7 +116,7 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight:2 kg
 Ammo weight: 20 kg
 Total weight: 29.5 kg
-
+Estimated speed loss: 3 km/h
 
 ### Camera
 
@@ -127,7 +127,7 @@ Additional mass: 10 kg
 ### Radio
 
 Radio transmitter
-
+Additional mass: 10 kg
 
 ### Sideslip Indicator
 

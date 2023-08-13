@@ -122,18 +122,18 @@ Caractéristiques
 - Le viseur a un filtre solaire coulissant.
 
 ## Modifications
-
+﻿
 
 ### DB-605ASM engine
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)
 Additional mass: 21 kg
-
+Estimated speed increase at sea level: 43 km/h﻿
 
 ### MW-50 Mixture
 
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes
-
+Additional mass (mixture): 63 kg﻿
 
 ### 21 cm BR
 
@@ -161,7 +161,7 @@ Canon MK 108 de 30 mm monté dans le nez avec 65 obus
 Masse supplémentaire: 4 kg
 Masse des munitions : 38 kg
 Masse des canons : 58 kg
-
+Perte estimée de vitesse : 0 km/h﻿
 
 ### MW-50 System
 

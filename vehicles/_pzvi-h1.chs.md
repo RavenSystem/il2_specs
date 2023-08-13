@@ -121,7 +121,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：800 m/s，近距离装甲穿深 140mm
 500m时：装甲穿深 129mm，速度 756 m/s，下坠高度 2.2m
 1000m时：装甲穿深 119mm，速度 713 m/s，下坠高度 8.6m
-
+2000m时：装甲穿深 100mm，速度 631 m/s，下坠高度 36.3m
 
 ### 榴弹
 
@@ -137,7 +137,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：820 m/s
 500m时：速度 771 m/s，下坠高度 2.0m
 1000m时：速度 723 m/s，下坠高度 8.1m
-
+2000m时：速度 629 m/s，下坠高度 35.5m
 
 ### 破甲弹
 
@@ -153,7 +153,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：600 m/s
 500m时：速度 476 m/s，下坠高度 4.1m
 1000m时：速度 369 m/s，下坠高度 19.4m
-
+2000m时：速度 273 m/s，下坠高度 114.6m﻿
 
 ### 次口径穿甲弹
 
@@ -169,7 +169,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：930 m/s时，在近距离装甲穿深 201mm
 500m时：装甲穿深 179mm，速度 858 m/s，下坠高度 1.7m
 1000m时：装甲穿深 159mm，速度 :791 m/s，下坠高度 6.6m
-
+2000m时：装甲穿深 126mm，速度 670 m/s，下坠高度 29.1m
 
 ### Smoke Mortars
 

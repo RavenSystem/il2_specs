@@ -66,7 +66,7 @@ Mira colimadora K8-T con sistema de corrección automática
 Miras de hierro de respaldo.
 
 ## Modificaciones
-
+﻿
 
 ### Proyectiles perforantes sólidos (AP)
 
@@ -83,24 +83,24 @@ Velocidad de salida 900 m/s, penetración del blindaje a bocajarro 44 mm.
 500 m: penetración del blindaje 3 mm, velocidad 806 m/s, caída -1,8 m.
 1000 m: penetración del blindaje 25 mm, velocidad 528 m/s, caída -8,3 m.
 2000 m: penetración del blindaje 13 mm, velocidad 380 m/s, caída -46,4 m.
-
+﻿
 
 ### Escudo para el cañón (inicial)
 
 Plancha blindada de 5 mm para proteger a la tripulación del cañón de los fragmentos de proyectiles y de las balas regulares (no AP). La primera variante tenía una forma rectangular simple.
 El escudo tiene una ventana adicional que debe abrirse para disparar en ángulos bajos.
-
+﻿
 
 ### Escudo para el cañón
 
 Plancha blindada de 5 mm para proteger a la tripulación del cañón de los fragmentos de proyectiles y de las balas regulares (no AP). La variante posterior tenía una forma más compleja.
 El escudo tiene una ventana adicional que debe abrirse para disparar en ángulos bajos.
-
+﻿
 
 ### Retirar cubierta de la mira
 
 La retirada de la cubierta de protección de la mira colimadora K8-T proporciona al artillero un ligero aumento del campo de visión.
-
+﻿
 
 ### Proyectiles explosivos (HE)
 

@@ -56,43 +56,43 @@ Referencias
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces número 33.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)
 Peso adicional: 2 kg
-
+﻿
 
 ### Altímetro
 
 Altímetro de Peltret y Lafage (0..5000 m)
 Peso adicional: 1 kg
-
+﻿
 
 ### Reloj
 
 Reloj Mecánico
 Peso adicional: 1 kg
-
+﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Brújula
 
 Brújula de L.Maxant
 Peso adicional: 1 kg
-
+﻿
 
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
-
+﻿
 
 ### Cohetes Le Prieur
 
@@ -102,13 +102,13 @@ Peso de munición: 16 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 8 km/h
 Pérdida de velocidad estimada tras soltar: 6 km/h
-
+﻿
 
 ### Anemómetro
 
 Anemómetro de E.Badin (70..200 km/h a 2000 m y 80..220 km/h a 4000 m)
 Peso adicional: 1 kg
-
+﻿
 
 ### Doble Lewis sobre ala superior
 

@@ -70,13 +70,13 @@ Referencias:
 6) Various NACA reports.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-
+﻿
 
 ### Bombas Cooper / H.E.R.L. / H.E.R.F.C.
 
@@ -99,30 +99,30 @@ Peso adicional: 224 kg
 Peso de munición: 208 kg
 Peso de los soportes: 16 kg
 Pérdida de velocidad estimada antes de soltar: 5 km/h
-
+Pérdida de velocidad estimada tras soltar: 3 km/h﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Indicador nivel de combustible
 
 Indicador analógico del nivel de combustible (0-30 Galones)
 Peso adicional: 1 kg
-
+﻿
 
 ### Cámara de fotos
 
 Cámara para tomar fotografías aéreas
 Peso adicional: 10 kg
-
+﻿
 
 ### Radio
 
 Radiotransmisor
-
+Peso adicional: 10 kg﻿
 
 ### Doble Lewis sobre ala superior
 
@@ -135,7 +135,7 @@ Peso de las armas: 15 kg (sin cargador)
 Peso de los soportes: 6 kg
 Peso de la munición: 10 kg
 Peso total: 31 kg
-
+Pérdida de velocidad estimada: 5 km/h﻿
 
 ### Doble Lewis en artillero
 
@@ -148,7 +148,7 @@ Peso de las armas: 15 kg (sin cargador)
 Peso de los soportes: 12 kg
 Peso de la munición: 32 kg
 Peso total: 59 kg
-
+Pérdida de velocidad estimada: 2 km/h﻿
 
 ### Doble Vickers frontal
 

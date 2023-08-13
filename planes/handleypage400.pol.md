@@ -74,21 +74,7 @@ Additional mass: 778 kg
 Ammunition mass: 748 kg
 Racks mass: 30 kg
 Estimated speed loss before drop: 5 km/h
-
-
-### 57mm Davis gun
-
-Nose mount with 57mm Davis manually-operated recoilless gun
-Ammo: 17 of 57mm shells
-Ammo type: HE (High Explosive rounds)
-Rate of fire: 3 rpm
-Projectile weight: 2,7 kg
-Muzzle velocity: 300 m/s
-Gun weight: 50 kg
-Mount weight: 15 kg
-Ammunition total weight: 119 kg
-Total weight: 210 kg
-
+Estimated speed loss after drop: 0 km/h﻿
 
 ### 57mm Davis gun
 
@@ -102,12 +88,26 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
+Estimated speed loss: 0,5 km/h﻿
 
+### 57mm Davis gun
+
+Nose mount with 57mm Davis manually-operated recoilless gun
+Ammo: 17 of 57mm shells
+Ammo type: HE (High Explosive rounds)
+Rate of fire: 3 rpm
+Projectile weight: 2,7 kg
+Muzzle velocity: 300 m/s
+Gun weight: 50 kg
+Mount weight: 15 kg
+Ammunition total weight: 119 kg
+Total weight: 210 kg
+Estimated speed loss: 0,5 km/h﻿
 
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-300 Gallons)
-
+Additional mass: 1 kg﻿
 
 ### Twin Lewis MG turret
 

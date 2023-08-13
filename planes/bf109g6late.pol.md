@@ -104,7 +104,7 @@ Operation features:
 - The gunsight has a sliding sun-filter.
 
 ## Modyfikacje
-
+﻿
 
 ### 21 cm BR
 
@@ -114,7 +114,7 @@ Ammunition mass: 224 kg
 Racks mass: 34 kg
 Estimated speed loss before launch: 51 km/h
 Estimated speed loss after launch: 11 km/h
-
+Estimated speed loss after drop: 2 km/h﻿
 
 ### 300-liter Drop Tank
 
@@ -123,7 +123,7 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-
+Estimated speed loss after drop: 10 km/h﻿
 
 ### Erla Haube
 
@@ -138,7 +138,7 @@ Działka MG 151/20 20 mm umieszczone w skrzydłach, po 135 nabojów na każde
 Additional mass: 212 kg
 Ammunition mass: 55 kg
 Guns mass: 157 kg
-
+Estimated speed loss: 13 km/h﻿
 
 ### Działko MK 108 30 mm
 
@@ -146,7 +146,7 @@ Działka MK 108 30 mm, 65 nabojów
 Additional mass: 4 kg
 Ammunition mass: 38 kg
 Gun mass: 58 kg
-
+Estimated speed loss: 0 km/h﻿
 
 ### MW-50 System
 

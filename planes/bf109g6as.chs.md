@@ -145,7 +145,7 @@ MW-50 water-methanol mixture injection increases engine endurance at emergency p
 挂架质量：34 kg
 发射前预期速度损失：51 km/h
 发射后预期速度损失：11 km/h
-
+投弹后预期速度损失：2 km/h
 
 ### 2 x 20mm MG 151/20机炮吊舱
 
@@ -153,7 +153,7 @@ MW-50 water-methanol mixture injection increases engine endurance at emergency p
 增加质量：212 kg
 弹药质量：55 kg
 枪炮质量：157 kg
-
+预期速度损失：13 km/h
 
 ### 30mm MK 108机炮
 
@@ -161,7 +161,7 @@ MK 108 30mm头部机炮，备弹65发
 增加质量：4 kg
 弹药质量：38 kg
 枪炮质量：58 kg
-
+预期速度损失：0 km/h
 
 ### MW-50系统
 

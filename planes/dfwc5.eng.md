@@ -69,7 +69,7 @@ References:
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-
+﻿
 
 ### 20mm Becker Turret
 
@@ -83,7 +83,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-
+Estimated speed loss: 6 km/h
 
 ### P.u.W. Bombs
 
@@ -99,13 +99,13 @@ Additional mass: 186 kg
 Ammunition mass: 150 kg
 Racks mass: 36 kg
 Estimated speed loss before drop: 4 km/h
-
+Estimated speed loss after drop: 2 km/h
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
+﻿
 
 ### Additional Gauges
 
@@ -113,7 +113,7 @@ A.Schlegelmilch engine coolant temperature indicator (0-100 °C)
 
 Mechanical Clock
 
-
+Additional mass: 0.5 kg
 
 ### Gunsight
 
@@ -130,7 +130,7 @@ Additional mass: 10 kg
 ### Radio
 
 Radio transmitter
-
+Additional mass: 10 kg﻿
 
 ### Twin Parabellum MG Turret
 

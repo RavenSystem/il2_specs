@@ -94,7 +94,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## Änderungen
-
+﻿
 
 ### Panzersprenggranaten
 
@@ -111,7 +111,7 @@ Mündungsgeschwindigkeit 925 m/s
 Durchschlagsleistung aus kürzester Entfernung: 158 mm
 500 m: Durchschlagsleistung 140 mm, Geschwindigkeit 825 m/s, Fall -1,6 m
 1000 m: Durchschlagsleistung 125 mm, Geschwindigkeit 785 m/s, Fall -6,6 m
-
+2000 m: Durchschlagsleistung 99 mm, Geschwindigkeit 667 m/s, Fall -29,6 m﻿
 
 ### Sprenggranaten
 
@@ -127,7 +127,7 @@ Abgefeuert aus einer 7,5 cm KwK 42 L/70 Kanone:
 Mündungsgeschwindigkeit 700 m/s
 500 m: Geschwindigkeit 648 m/s, Geschossabfall -2,8 m
 1000 m: Geschwindigkeit 601 m/s, Geschossabfall -11,5 m
-
+2000 m: Geschwindigkeit 518 m/s, Geschossabfall -49,9 m﻿
 
 ### Hartkerngranaten
 
@@ -145,10 +145,11 @@ Mündungsgeschwindigkeit 1170 m/s
 Durchschlagsleistung aus kürzester Entfernung: 208 mm
 500 m: Durchschlagsleistung 179 mm, Geschwindigkeit 1054 m/s, Fall -1.0 m
 1000 m: Durchschlagsleistung 154 mm, Geschwindigkeit 949 m/s, Fall -4.3 m
-
+2000 m: Durchschlagsleistung 111 mm, Geschwindigkeit 756 m/s, Fall -19.7 m﻿
 
 ### Entfernte zusätzliche Panzerplatten
 
+Entfernte 5 mm Schürzen, die am Rumpf befestigt waren. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem AT-Gewehrfeuer zu schützen, das für die dünneren Panzerseiten gefährlich war. Diese zusätzliche Panzerung konnte ein AP-Geschoss zwar nicht aufhalten, destabilisierte es aber oder verursachte seine Zersplitterung, bevor es auf die gepanzerte Hauptwanne aufschlagen konnte.﻿
 
 ### Smoke Mortars
 

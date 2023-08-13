@@ -63,31 +63,31 @@ Referencias:
 5) Albatros fighters in action por John F Connors.
 
 ## Modificaciones
-
+﻿
 
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras
 Peso adicional: 1 kg
-
+﻿
 
 ### Inclinómetro
 
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)
 Peso adicional: 1 kg
-
+﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Punto de mira
 
 Mira adicional con monturas de mira frontal y mira trasera
 Peso adicional: 1 kg
-
+﻿
 
 ### Lewis sobre ala superior
 
@@ -103,19 +103,19 @@ Peso del soporte: 4 kg
 Peso de la munición: 12 kg
 Peso total: 23 kg
 Pérdida de velocidad estimada: 2-6 km/h
-
+﻿
 
 ### Colimador diurno
 
 Colimador reflectante Oigee (con filtro solar instalado)
 Peso adicional: 2 kg
-
+﻿
 
 ### Colimador nocturno
 
 Colimador reflectante Oigee (sin filtro solar instalado)
 Peso adicional: 2 kg
-
+﻿
 
 ### Anemómetro, Altímetro, Relojes
 
@@ -123,7 +123,7 @@ Anemómetro Wilhelm Morell (45-250 km/h)
 Peso adicional: 1 kg
 
 Altímetro de D.R.P (0-8000 m)
-
+Peso adicional: 1 kg
 
 ### Termómetro
 

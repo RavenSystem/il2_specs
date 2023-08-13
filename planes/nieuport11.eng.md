@@ -97,13 +97,13 @@ Additional mass: 36 kg
 Ammunition mass: 16 kg
 Racks mass: 20 kg
 Estimated speed loss before launch: 8 km/h
-
+Estimated speed loss after launch: 6 km/h
 
 ### Anemometer
 
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)
 Additional mass: 1 kg
-
+﻿
 
 ### Twin Lewis Overwing
 

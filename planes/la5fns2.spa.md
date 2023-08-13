@@ -94,6 +94,7 @@ Características operativas:
 
 ### Munición especial
 
+Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE)
 
 ### 2 bombas FAB-100M
 
@@ -102,7 +103,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 
 ### 2 bombas FAB-50sv
 
@@ -111,19 +112,19 @@ Peso adicional: 120 kg
 Peso de munición: 100 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 20 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/h﻿
 
 ### Luz de aterrizaje
 
 Luz de aterrizaje para los vuelos nocturnos
 Peso adicional: 2 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### RPK-10
 

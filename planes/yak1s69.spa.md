@@ -91,7 +91,7 @@ Características operativas:
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.
 
 ## Modificaciones
-
+﻿
 
 ### 2 bombas FAB-100M
 
@@ -100,7 +100,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/h﻿
 
 ### 2 bombas FAB-50sv
 
@@ -109,10 +109,11 @@ Peso adicional: 120 kg
 Peso de munición: 100 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 20 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/h﻿
 
 ### Piloto femenino
 
+Lydia (Lilya) Vladimirovna Litvyak (18 de agosto de 1921 - 1 de agosto de 1943): piloto de caza soviético, comandante de vuelo, subteniente de la guardia (gvardii mladshiy leytenant), la mujer piloto con más exitos de la Segunda Guerra Mundial, Héroe de la Unión Soviética. Investigaciones posteriores confirman 4 victorias individuales y 3 compartidas en combates aéreos, así como el derribo de 1 aerostato. Murió en combate con menos de 22 años de edad en una batalla sobre el frente de Mius.﻿
 
 ### 2 cohetes ROS-82
 
@@ -121,7 +122,7 @@ Peso adicional: 60 kg
 Peso de munición: 42 kg
 Peso de los soportes: 18 kg
 Pérdida de velocidad estimada antes de lanzarlos: 8 km/h
-
+Pérdida de velocidad estimada tras lanzarlos: 6 km/h﻿
 
 ### 6 cohetes ROS-82
 
@@ -130,7 +131,7 @@ Peso adicional: 60 kg
 Peso de munición: 42 kg
 Peso de los soportes: 18 kg
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h
-
+Pérdida de velocidad estimada tras lanzarlos: 17 km/h﻿
 
 ### RPK-10
 

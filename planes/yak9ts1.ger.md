@@ -83,25 +83,25 @@ Eigenschaften:
 - Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.
 
 ## Änderungen
-
+﻿
 
 ### Munitionszähler
 
 NS-37 Kanone Munitionszähler
 Zusätzliches Gewicht: 1 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### PBP-1A Reflexvisier
 

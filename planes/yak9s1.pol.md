@@ -83,19 +83,19 @@ Operation features:
 - The canopy has no emergency release. In order to bail out, you must slow below 550 kph to open the canopy.
 
 ## Modyfikacje
-
+﻿
 
 ### Bezpośrednie światło
 
 Lądowanie światło dla lotów nocnych
 Additional mass: 2 kg
-
+Estimated speed loss: 0 km/h﻿
 
 ### Lustro
 
 Lustro do tyłu do półkuli
 Additional mass: 1 kg
-
+Estimated speed loss: 0 km/h﻿
 
 ### Reflector Gunsight
 

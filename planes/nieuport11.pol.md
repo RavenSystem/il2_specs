@@ -52,43 +52,43 @@ References
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
 ## Modyfikacje
-
+﻿
 
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)
 Additional mass: 2 kg
-
+﻿
 
 ### Altimeter
 
 Peltret and Lafage Altimeter (0..5000m)
 Additional mass: 1 kg
-
+﻿
 
 ### Clock
 
 Mechanical Clock
 Additional mass: 1 kg
-
+﻿
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
+﻿
 
 ### Compass
 
 L.Maxant Compass
 Additional mass: 1 kg
-
+﻿
 
 ### Le-Chretien
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
-
+﻿
 
 ### LePrieur rockets
 
@@ -97,13 +97,13 @@ Additional mass: 36 kg
 Ammunition mass: 16 kg
 Racks mass: 20 kg
 Estimated speed loss before launch: 8 km/h
-
+Estimated speed loss after launch: 6 km/h﻿
 
 ### Anemometer
 
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)
 Additional mass: 1 kg
-
+﻿
 
 ### Twin Lewis Overwing
 

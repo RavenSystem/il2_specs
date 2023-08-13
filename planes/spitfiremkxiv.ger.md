@@ -100,7 +100,7 @@ Eigenschaften:
 - Beide Visiere haben schiebbare Sonnenfilter.
 
 ## Änderungen
-
+﻿
 
 ### 150-Oktan-Kraftstoff
 
@@ -116,7 +116,7 @@ Zusätzliches Gewicht: 247 kg
 Gewicht der Munition: 227 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 22 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 11 km/h﻿
 
 ### Bombe, Typ 500 lb G.P.
 
@@ -125,7 +125,7 @@ Zusätzliches Gewicht: 237 kg
 Gewicht der Munition: 227 kg
 Gewicht der Abwurfwaffenroste: 10 kg
 Geschwindigkeitsverlust vor Abwurf: 12 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 6 km/h﻿
 
 ### "E"-Typ Flügel
 
@@ -133,19 +133,19 @@ Installation von 2 x 12,7 mm Browning .50 Maschinengewehren anstelle von 4 x 7,7
 Zusätzliches Gewicht: 48 kg
 Gewicht der Munition: 70 kg
 Gewicht der Schusswaffen: 72 kg
-
+Geschwindigkeitsgewinn: 5 km/h﻿
 
 ### MkII Kreiselvisier
 
 MkII kreiselstabilisiertes Visier
 Zusätzliches Gewicht: 5,2 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-
+Geschwindigkeitsverlust: 1 km/h﻿
 
 ### Maschinengewehre entfernt
 
@@ -153,7 +153,7 @@ Ausbau von flügelmontierten Maschinengewehren zur Reduzierung des Gesamtgewicht
 Gewichtseinsparung: 95 kg
 Entferntes Gewicht der Munition: 42 kg
 Entferntes Gewicht der Schusswaffen: 53 kg
-
+Geschwindigkeitsgewinn: 8 km/h﻿
 
 ### Gekappter Flügel
 

@@ -51,43 +51,43 @@ Referenzen
 3) Profile Publications. The Nieuport 17 Number 49.
 
 ## Änderungen
-
+﻿
 
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Höhenmesser
 
 Peltret and Lafage Höhenmesser (0..5000m)
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Uhr
 
 Taschenuhr
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Kompass
 
 L.Maxant Kompass
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### LePrieur rockets
 
@@ -97,13 +97,13 @@ Gewicht der Munition: 16 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 8 km/h
 Geschwindigkeitsverlust nach Abwurf: 6 km/h
-
+﻿
 
 ### Anemometer
 
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Lewis Überflügel-Zwillings-Maschinengewehr
 

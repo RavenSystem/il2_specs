@@ -69,7 +69,7 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 
 阿尔迪斯（Aldis）折射型直筒瞄准具
 增加质量：2 kg
-
+﻿
 
 ### 20mm贝克（Becker）炮塔
 
@@ -83,7 +83,7 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-
+预期速度损失：6 km/h
 
 ### P.u.W. 炸弹
 
@@ -99,13 +99,13 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 弹药质量：150 kg
 挂架质量：36 kg
 投弹前预期速度损失：4 km/h
-
+投弹后预期速度损失：2 km/h
 
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
+﻿
 
 ### 附加仪表
 
@@ -113,7 +113,7 @@ A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)
 
 机械时钟
 
-
+增加质量：0.5 kg
 
 ### 射击瞄准具
 
@@ -130,7 +130,7 @@ A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)
 ### 无线电
 
 无线电发射机
-
+增加质量：10 kg﻿
 
 ### 双帕拉贝伦（Parabellum）机枪炮塔
 

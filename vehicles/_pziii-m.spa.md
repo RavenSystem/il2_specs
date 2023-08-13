@@ -101,7 +101,7 @@ Transmisor-receptor VHF Fu 5
 
 
 ## Modificaciones
-
+﻿
 
 ### Proyectiles perforantes explosivos (APHE)
 
@@ -117,7 +117,7 @@ Disparado desde un cañón de 5 cm KwK 39 L/60:
 Velocidad de salida 835 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 68 mm, velocidad 702 m/s, caída -1,5 m.
 1000 m: penetración del blindaje 53 mm, velocidad 587 m/s, caída -8,4 m.
-
+2000 m: penetración del blindaje 30 mm, velocidad 394 m/s, caída -76,7 m.﻿
 
 ### Proyectiles explosivos (HE)
 
@@ -134,7 +134,7 @@ Disparado desde un cañón de 5 cm KwK 39 L/60:
 Velocidad de salida 550 m/s.
 500 m: velocidad 444 m/s, caída -4,9 m.
 1000 m: velocidad 368 m/s, caída -22,6 m.
-
+2000 m: velocidad 285 m/s, caída -118,5 m.﻿
 
 ### Proyectiles perforantes de núcleo rígido (APCR)
 
@@ -152,12 +152,12 @@ Disparado desde un cañón de 5 cm KwK 39 L/60:
 Velocidad de salida 1180 m/s, penetración del blindaje a bocajarro 175 mm.
 500 m: penetración del blindaje 82 mm, velocidad 696 m/s, caída -2,1 m.
 1000 m: penetración del blindaje 43 mm, velocidad 443 m/s, caída -9,2 m.
-
+2000 m: penetración del blindaje 16 mm, velocidad 223 m/s, caída -49,0 m.﻿
 
 ### Planchas blindadas adicionales
 
 Protección adicional: planchas blindadas de 5 mm unidas a los laterales del casco y torreta.
-
+Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.﻿
 
 ### Lanzagranadas de humo
 

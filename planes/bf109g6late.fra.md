@@ -104,7 +104,7 @@ Caractéristiques
 - Le viseur a un filtre solaire coulissant.
 
 ## Modifications
-
+﻿
 
 ### 21 cm BR
 
@@ -114,7 +114,7 @@ Masse des munitions : 224 kg
 Masse des pylones : 34 kg
 Perte estimée de vitesse avant le lancement : 51 km/h
 Perte estimée de vitesse après le lancement : 11 km/h
-
+Perte estimée de vitesse après le largage : 2 km/h﻿
 
 ### 300-liter Drop Tank
 
@@ -123,7 +123,7 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-
+Estimated speed loss after drop: 10 km/h﻿
 
 ### Erla Haube
 
@@ -147,7 +147,7 @@ Canon MK 108 de 30 mm monté dans le nez avec 65 obus
 Masse supplémentaire: 4 kg
 Masse des munitions : 38 kg
 Masse des canons : 58 kg
-
+Perte estimée de vitesse : 0 km/h﻿
 
 ### MW-50 System
 

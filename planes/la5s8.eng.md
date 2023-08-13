@@ -96,6 +96,7 @@ Operation features:
 
 ### Special Guns Ammo Load
 
+Loadout variants: armour piercing (AP) or high-explosive (HE) rounds only
 
 ### 2 x FAB-100M bombs
 
@@ -104,7 +105,7 @@ Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-
+Estimated speed loss after drop: 12 km/h
 
 ### 2 x FAB-50sv bombs
 
@@ -113,19 +114,19 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-
+Estimated speed loss after drop: 12 km/h
 
 ### M-82F engine
 
 Late M-82F engine modification with unlimited boosted mode duration. 
 Additional mass: 0 kg
-
+Estimated speed loss: 0 km/h
 
 ### RPK-10
 
 Fixed loop radio compass for navigation with radio beacons
 Additional mass: 10 kg
-
+Estimated speed loss: 0 km/h
 
 ### Flat Windscreen
 

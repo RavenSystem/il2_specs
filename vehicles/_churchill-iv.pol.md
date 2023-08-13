@@ -92,7 +92,7 @@ Wireless Set No. 19. HF/VHF transceiver.
 5 intercom terminals.
 
 ## Modyfikacje
-
+﻿
 
 ### HE Mortar Rounds
 
@@ -102,7 +102,7 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
 
 Mass 850 g, explosives mass 90 g.
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.
-
+Range 410m.﻿
 
 ### Armour Piercing Shells
 
@@ -116,13 +116,15 @@ When fired from a Ordnance Quick-Firing (QF) 6-pounder 7 cwt Mk.V:
 Muzzle velocity 890 m/s, armour penetration at point blank range 136 mm.
 500 m: armour penetration 104 mm, velocity 738 m/s, drop -1.8 m.
 1000 m: armour penetration 78 mm, velocity 602 m/s, drop -8.4 m.
-
+2000 m: armour penetration 41 mm, velocity 387 m/s, drop -45.7 m.﻿
 
 ### Removed Bow Fenders
 
+The track bow fenders of Churchill tanks on the Eastern front were often removed.﻿
 
 ### Removed Mid Fenders
 
+Rare variant with mid sections of caterpillar fenders removed.﻿
 
 ### Removed Fuel Tank
 

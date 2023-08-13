@@ -106,7 +106,7 @@ Características operativas:
 Peso adicional: 155 kg
 Peso de municion: 54 kg
 Peso del armamento: 101 kg
-
+Perdida de velocidad estimada: 13 km/h﻿
 
 ### 2 ametralladoras BS 12,7 mm (700 balas)
 
@@ -114,7 +114,7 @@ Peso del armamento: 101 kg
 Peso adicional: 34 kg
 Peso de munición: 131 kg
 Peso del armamento: 62 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### 2 bombas FAB-50sv / FAB-100M
 
@@ -132,7 +132,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/h﻿
 
 ### 6 cohetes ROS-82
 
@@ -141,7 +141,7 @@ Peso adicional: 60 kg
 Peso de munición: 42 kg
 Peso de los soportes: 18 kg
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h
-
+Pérdida de velocidad estimada tras lanzarlos: 17 km/h﻿
 
 ### 2 cañones de 20 mm ShVAK (300 balas)
 

@@ -114,7 +114,7 @@
 挂架质量：34 kg
 发射前预期速度损失：51 km/h
 发射后预期速度损失：11 km/h
-
+投弹后预期速度损失：2 km/h
 
 ### 300-liter Drop Tank
 
@@ -123,13 +123,13 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-
+Estimated speed loss after drop: 10 km/h
 
 ### 厄拉改件
 
 厄拉·豪伯型座舱盖改件
 增加质量: 9 kg
-
+预期速度损失：0 km/h
 
 ### 2 x 20mm MG 151/20机炮吊舱
 
@@ -137,7 +137,7 @@ Estimated speed loss before drop: 30 km/h
 增加质量：212 kg
 弹药质量：55 kg
 枪炮质量：157 kg
-
+预期速度损失：13 km/h
 
 ### 30mm MK 108机炮
 
@@ -145,7 +145,7 @@ MK 108 30mm头部机炮，备弹65发
 增加质量：4 kg
 弹药质量：38 kg
 枪炮质量：58 kg
-
+预期速度损失：0 km/h
 
 ### MW-50系统
 
@@ -162,7 +162,7 @@ MW-50水-甲醇混合物喷射系统
 弹药质量：249 kg
 挂架质量：30 kg
 投弹前预期速度损失：33 km/h
-
+投弹后预期速度损失：11 km/h
 
 ### 4 x SD 70炸弹
 

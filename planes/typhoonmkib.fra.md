@@ -92,24 +92,24 @@ Operation features:
 - The range-finding gunsight reticle can be adjusted for a given target base and range. To make it easier to aim missiles it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).
 
 ## Modifications
-
+﻿
 
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-
+Estimated speed increase at sea level: 23 km/h﻿
 
 ### Vis à 4 pales à hélice daérodyne
 
 Installation dune vis à 4 pales à hélice daérodyne
 Augmentation de la vitesse maximale estimée: 12 km/h
-
+Augmentation maximale estimée du taux de montée: 2,3 m/s﻿
 
 ### Armure supplémentaire
 
 Installation dun moteur supplémentaire et darmures cockpit
 Masse supplémentaire : 157 kg
-
+Perte estimée de vitesse : 2 km/h﻿
 
 ### Bombes  M.C.
 
@@ -127,13 +127,13 @@ Masse supplémentaire : 969 kg
 Masse des munitions : 949 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 42 km/h
-
+Perte estimée de vitesse après le largage : 9 km/h﻿
 
 ### Déflecteur de poussière en forme de dôme
 
 Installation dun déflecteur de poussière sur dentrée dair du moteur
 Masse supplémentaire : 1 kg
-
+Perte de vitesse maximale estimée : 8 km/h﻿
 
 ### Roquettes jumeaux RP-3 sur tour de lancement Mk.I
 
@@ -145,13 +145,13 @@ Masse des munitions : 460 kg
 Masse des rails : 84 kg
 Perte estimée de vitesse avant le lancement : 66 km/h
 Perte estimée de vitesse après le lancement : 30 km/h
-
+﻿
 
 ### Viseur sans réflecteur
 
 Installation du viseur de Type I Mk.III
 Masse supplémentaire : 0 kg
-
+Perte estimée de vitesse : 0 km/h﻿
 
 ### Roquettes RP-3 sur tour de lancement Mk.I
 
@@ -170,7 +170,7 @@ Masse des munitions : 170 kg
 Masse des rails : 84 kg
 Perte estimée de vitesse avant le lancement : 50 km/h
 Perte estimée de vitesse après le lancement : 30 km/h
-
+﻿
 
 ### Roquettes RP-3 sur tour de lancement Mk.III
 

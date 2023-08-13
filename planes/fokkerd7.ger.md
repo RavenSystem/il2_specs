@@ -59,48 +59,48 @@ Referenzen
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## Änderungen
-
+﻿
 
 ### Kompensierter Höhenmesser,
 
 D.R.P kompensierter Höhenmesser (0-8000 m)
-
+﻿
 
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Sprungzahlenanzeige für 2 Maschinengewehre
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Visier
 
 Zusätzliches Visier mit Kimme und Kreuz
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Kollimator Tag
 
 Oigee Reflexvisier (mit getönter Scheibe)
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Kollimator Nacht
 
 Oigee Reflexvisier (ohne getönte Scheibe)
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Thermometer
 

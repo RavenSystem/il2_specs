@@ -73,7 +73,7 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-
+﻿
 
 ### 上翼双刘易斯（Lewis）机枪
 
@@ -88,7 +88,7 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 基座重量：0.8 kg
 弹药重量：12 kg
 总重：20.3 kg
-
+预期速度损失：7-18 km/h
 
 ### LePrieur rockets
 
@@ -97,7 +97,7 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 弹药质量：12 kg
 挂架质量：24 kg
 投弹前预期速度损失：8 km/h
-
+投弹后预期速度损失：6 km/h
 
 ### 风速仪
 

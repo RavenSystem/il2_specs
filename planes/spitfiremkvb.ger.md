@@ -114,13 +114,13 @@ Eigenschaften:
 - Das Visier ist mit einen Sonnenfilter ausgestattet.
 
 ## Änderungen
-
+﻿
 
 ### Merlin 45 Motor
 
 Später Merlin 45 Motor.
 Zusätzliches Gewicht: 0 kg
-
+Geschwindigkeitsverlust: 0 km/h﻿
 
 ### Rückspiegel
 

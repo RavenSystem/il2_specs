@@ -98,7 +98,7 @@ Transmisor-receptor VHF Fu 5
 
 
 ## Modificaciones
-
+﻿
 
 ### Proyectiles perforantes explosivos (APHE)
 
@@ -114,7 +114,7 @@ Disparado desde un cañón de 7,5 cm KwK 40 L/48:
 Velocidad de salida 750 m/s, penetración del blindaje a bocajarro 117 mm.
 500 m: penetración del blindaje 104 mm, velocidad 691 m/s, caída -2,4 m.
 1000 m: penetración del blindaje 92 mm, velocidad 636 m/s, caída -10,0 m.
-
+2000 m: penetración del blindaje 72 mm, velocidad 537 m/s, caída -44,8 m.﻿
 
 ### Proyectiles explosivos (HE)
 
@@ -131,7 +131,7 @@ Disparado desde un cañón de 7,5 cm KwK 40 L/48:
 Velocidad de salida 550 m/s.
 500 m: velocidad 509 m/s, caída -4,5 m.
 1000 m: velocidad 473 m/s, caída -18,5 m.
-
+2000 m: velocidad 405 m/s, caída -80,9 m.﻿
 
 ### Proyectiles de carga hueca (HEAT)
 
@@ -147,7 +147,7 @@ Disparado desde un cañón 7,5 cm KwK 40 L/48:
 Velocidad de salida: 450 m/s.
 500 m: velocidad 328 m/s, caída -7,8 m.
 1000 m: velocidad 278 m/s, caída -38,1 m.
-
+2000 m: velocidad 244 m/s, caída -200,4 m.﻿
 
 ### Proyectiles perforantes núcleo rígido (APCR)
 
@@ -163,7 +163,7 @@ Disparado desde un cañón 7,5 cm KwK 40 L/48:
 Velocidad de salida 930 m/s, penetración del blindaje a bocajarro 150 mm.
 500 m: penetración del blindaje 128 mm, velocidad 832 m/s, caída -1,6 m.
 1000 m: penetración del blindaje 108 mm, velocidad 739 m/s, caída -10,0 m.
-
+2000 m: penetración del blindaje 75 mm, velocidad 573 m/s, caída -44,8 m.﻿
 
 ### Planchas blindadas adicionales
 

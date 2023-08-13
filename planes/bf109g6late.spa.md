@@ -104,7 +104,7 @@ Características operativas:
 - La mira tiene un filtro solar deslizante.
 
 ## Modificaciones
-
+﻿
 
 ### 2 cohetes WGr.21
 
@@ -114,7 +114,7 @@ Peso de munición: 224 kg
 Peso de los soportes: 34 kg
 Pérdida de velocidad estimada antes de lanzar: 51 km/h
 Pérdida de velocidad estimada tras lanzar: 11 km/h
-
+Pérdida de velocidad estimada tras soltar lanzadores: 2 km/h﻿
 
 ### Depósito de combustible de 300 litros
 
@@ -123,13 +123,13 @@ Peso vacío: 15 kg
 Peso adicional: 237 kg
 Capacidad de combustible: 300 l
 Pérdida de velocidad estimada antes de soltar: 30 km/h
-
+Pérdida de velocidad estimada tras soltar: 10 km/h﻿
 
 ### Erla haube
 
 Sustitución de la cubierta estándar de dos piezas por una Erla haube (cubierta Erla, en alemán)
 Peso retirado: 9 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### 2 cañones de 20 mm MG 151/20
 
@@ -137,7 +137,7 @@ Peso retirado: 9 kg
 Peso adicional: 212 kg
 Peso de munición: 55 kg
 Peso del armamento: 157 kg
-
+Pérdida de velocidad estimada: 13 km/h﻿
 
 ### 1 cañón de 30 mm MK 108
 
@@ -145,14 +145,14 @@ Peso del armamento: 157 kg
 Peso adicional: 4 kg
 Peso de munición: 38 kg
 Peso de cañón: 58 kg
-
+Pérdida de velocidad estimada: 0 km/h﻿
 
 ### Sistema MW-50
 
 Sistema de inyección de mezcla de agua y metanol MW-50 
 Peso adicional: 84 kg
 Peso de la mezcla de agua y metanol: 63 kg
-
+Aumento de velocidad estimado a nivel del mar: 45 km/h﻿
 
 ### 1 bomba SC 250
 
@@ -161,7 +161,7 @@ Peso adicional: 279 kg
 Peso de munición: 249 kg
 Peso de los soportes: 30 kg
 Pérdida de velocidad estimada antes de soltar: 33 km/h
-
+Pérdida de velocidad estimada tras soltar: 11 km/h﻿
 
 ### 4 bombas SD 70
 

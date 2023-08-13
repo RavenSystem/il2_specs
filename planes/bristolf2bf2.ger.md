@@ -87,13 +87,13 @@ Referenzen
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
 ## Änderungen
-
+﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Cooper / H.E.R.L. Bomben
 
@@ -109,19 +109,19 @@ Zusätzliches Gewicht: 252 kg
 Gewicht der Munition: 204 kg
 Gewicht der Abwurfwaffenroste: 48 kg
 Geschwindigkeitsverlust vor Abwurf: 8 km/h
-
+Geschwindigkeitsverlust nach Abwurf: 4 km/h﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Benzinuhr
 
 Anzeige mit Nadel für die Treibstoffmenge (0-30 Gallons)
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Lewis Überflügel-Zwillings-Maschinengewehr
 
@@ -137,17 +137,17 @@ Gewicht der Halterung: 8 kg
 Gewicht der Munition: 24 kg
 Gseamtgewicht: 47 kg
 Geschätzter Geschwindigkeitsverlust: 4-14 km/h
-
+﻿
 
 ### Kamera
 
 Kamera zum Aufnehmen von Luftbildern
-
+Zusätzliches Gewicht: 10 kg﻿
 
 ### Funkgerät
 
 Funkgerät
-
+Zusätzliches Gewicht: 10 kg﻿
 
 ### Twin Lewis MG turret
 

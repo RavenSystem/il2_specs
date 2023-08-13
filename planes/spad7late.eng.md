@@ -74,7 +74,7 @@ Additional mass: 1 kg
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
-
+﻿
 
 ### Lewis Overwing
 
@@ -89,7 +89,7 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight: 0.8 kg
 Ammo weight: 12 kg
 Total weight: 20.3 kg
-
+Estimated speed loss: 7-18 km/h
 
 ### LePrieur rockets
 
@@ -98,7 +98,7 @@ Additional mass: 36 kg
 Ammunition mass: 12 kg
 Racks mass: 24 kg
 Estimated speed loss before launch: 8 km/h
-
+Estimated speed loss after launch: 6 km/h
 
 ### Anemometer
 

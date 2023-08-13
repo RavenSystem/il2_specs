@@ -56,25 +56,25 @@ Referenzen
 4) French \Hispano Suiza\ engines tech data.
 
 ## Änderungen
-
+﻿
 
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)
 Zusätzliches Gewicht: 2 kg
-
+﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
-
+﻿
 
 ### Lewis Überflügel-Maschinengewehr
 
@@ -90,7 +90,7 @@ Gewicht der Halterung: 0.8 kg
 Gewicht der Munition: 12 kg
 Gseamtgewicht: 20.3 kg
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h
-
+﻿
 
 ### LePrieur rockets
 
@@ -100,7 +100,7 @@ Gewicht der Munition: 12 kg
 Gewicht der Abwurfwaffenroste: 24 kg
 Geschwindigkeitsverlust vor Abwurf: 8 km/h
 Geschwindigkeitsverlust nach Abwurf: 6 km/h
-
+﻿
 
 ### Anemometer
 

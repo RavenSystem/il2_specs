@@ -67,7 +67,7 @@ Reserve iron sights.
 
 
 ## Modifications
-
+﻿
 
 ### Armour Piercing Shells
 
@@ -100,7 +100,7 @@ The shield has an additional window that should be opened when firing at low ang
 ### Remove gunsight cover
 
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.
-
+﻿
 
 ### High-Explosive Shells
 

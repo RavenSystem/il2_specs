@@ -104,7 +104,7 @@ Operational features:
 - Please note that with all possible modifications and full fuel the total aircraft weight is 1390 kg, more than its maximum takeoff weight.
 
 ## Modifications
-
+﻿
 
 ### Charge de bombe
 
@@ -143,33 +143,34 @@ Masse supplémentaire : 316 kg
 Masse des munitions : 308 kg
 Masse des pylones : 8 kg
 Perte estimée de vitesse avant le largage : 13 km/h
-
+Perte estimée de vitesse après le largage : 2 km/h﻿
 
 ### Female Crew
 
+"Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces.
 
 ### Horizon gyroscopique
 
 Horizon gyroscopique AGP-2
 Additional mass: 2 kg
-
+Estimated speed loss: 0 km/h﻿
 
 ### Phare datterrissage
 
 Atterrissage lumière pour les vols de nuit
 Masse supplementaire : 2 kg
-
+Perte estimee de vitesse : 1 km/h﻿
 
 ### Navigation lights
 
 Navigation lights
-
+Additional mass: 4 kg﻿
 
 ### Radio
 
 Radio RSI-4
 Masse supplementaire : 12,6 kg
-
+Perte estimee de vitesse : 0 km/h﻿
 
 ### Roquettes
 
@@ -208,13 +209,13 @@ Masse supplémentaire : 224 kg
 Masse des munitions : 184 kg
 Masse des rails : 40 kg
 Perte estimée de vitesse avant le lancement : 8 km/h
-
+Perte estimée de vitesse après le lancement : 4 km/h﻿
 
 ### Tourelle arrière
 
 Tourelle arrière avec mitrailleuse ShKAS de 7,62 mm et 400 cartouches
 Masse supplémentaire : 34 kg
-
+Perte estimée de vitesse : 2 km/h
 
 ### Bow MG
 

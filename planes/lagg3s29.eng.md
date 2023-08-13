@@ -101,7 +101,7 @@ Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-
+Estimated speed loss after drop: 12 km/h
 
 ### 2 x FAB-50sv bombs
 
@@ -110,7 +110,7 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-
+Estimated speed loss after drop: 12 km/h﻿
 
 ### 6 x ROS-82 rockets
 
@@ -119,7 +119,7 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
-
+Estimated speed loss after launch: 17 km/h
 
 ### 37mm Sh-37 gun
 
@@ -127,7 +127,7 @@ Sh-37 37mm motor-gun with 20 rounds
 Additional mass: 117 kg
 Ammunition mass: 36 kg
 Gun mass: 169 kg
-
+Estimated speed loss: 2 km/h
 
 ### 23mm VYa-23 gun
 

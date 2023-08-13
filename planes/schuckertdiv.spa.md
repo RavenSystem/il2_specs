@@ -65,37 +65,37 @@ Referencias:
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## Modificaciones
-
+﻿
 
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras
 Peso adicional: 1 kg
-
+﻿
 
 ### Inclinómetro
 
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)
 Peso adicional: 1 kg
-
+﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Colimador diurno
 
 Colimador reflectante Oigee (con filtro solar instalado)
 Peso adicional: 2 kg
-
+﻿
 
 ### Colimador nocturno
 
 Colimador reflectante Oigee (sin filtro solar instalado)
 Peso adicional: 2 kg
-
+﻿
 
 ### Anemómetro
 

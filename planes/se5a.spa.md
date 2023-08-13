@@ -60,13 +60,13 @@ Referencias:
 4) Profile Publications, The S.E. 5A Number 1.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-
+﻿
 
 ### Bombas Cooper
 
@@ -76,13 +76,13 @@ Peso de munición: 44 kg
 Peso de los soportes: 12 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
 Pérdida de velocidad estimada tras soltar: 1 km/h
-
+﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Indicador nivel de combustible
 

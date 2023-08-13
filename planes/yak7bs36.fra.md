@@ -106,7 +106,7 @@ Masse supplémentaire : 120 kg
 Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
-
+Perte estimée de vitesse après le largage : 12 km/h﻿
 
 ### Phare datterrissage
 

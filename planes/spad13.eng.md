@@ -87,7 +87,7 @@ Additional mass: 22 kg
 Ammunition mass: 22 kg
 Racks mass: 0 kg
 Estimated speed loss before drop: 0 km/h
-
+Estimated speed loss after drop: 0 km/h
 
 ### Cockpit light
 

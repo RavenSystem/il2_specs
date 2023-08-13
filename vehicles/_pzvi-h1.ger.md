@@ -105,7 +105,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## Änderungen
-
+﻿
 
 ### Panzersprenggranaten
 
@@ -122,7 +122,7 @@ Mündungsgeschwindigkeit 800 m/s
 Durchschlagsleistung aus kürzester Entfernung: 140 mm
 500 m: Durchschlagsleistung 129 mm, Geschwindigkeit 756 m/s, Fall -2,2 m
 1000 m: Durchschlagsleistung 119 mm, Geschwindigkeit 713 m/s, Fall -8,6 m
-
+2000 m: Durchschlagsleistung 100 mm, Geschwindigkeit 631 m/s, Fall -36,3 m﻿
 
 ### Sprenggranaten
 
@@ -138,7 +138,7 @@ Abgefeuert aus einer 8,8 cm KwK 36 L/56 Kanone:
 Mündungsgeschwindigkeit 820 m/s
 500 m: Geschwindigkeit 771 m/s, Geschossabfall -2,0 m
 1000 m: Geschwindigkeit 723 m/s, Geschossabfall -8,1 m
-
+2000 m: Geschwindigkeit 629 m/s, Geschossabfall -35,5 m﻿
 
 ### Hohlladunggranaten
 
@@ -154,7 +154,7 @@ Abgefeuert aus einer 8,8 cm KwK 36 L/56 Kanone:
 Mündungsgeschwindigkeit: 600 m/s
 500 m: Geschwindigkeit 476 m/s, Geschossabfall -4,1 m
 1000 m: Geschwindigkeit 369 m/s, Geschossabfall -19,4 m
-
+2000 m: Geschwindigkeit 273 m/s, Geschossabfall -114,6 m﻿
 
 ### Hartkerngranaten
 
@@ -171,7 +171,7 @@ Mündungsgeschwindigkeit 930 m/s
 Durchschlagsleistung aus kürzester Entfernung: 201 mm
 500 m: Durchschlagsleistung 179 mm, Geschwindigkeit 858 m/s, Fall -1,7 m
 1000 m: Durchschlagsleistung 159 mm, Geschwindigkeit 791 m/s, Fall -6,6 m
-
+2000 m: Durchschlagsleistung 126 mm, Geschwindigkeit 670 m/s, Fall -29,1 m﻿
 
 ### Smoke Mortars
 

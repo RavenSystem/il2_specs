@@ -115,13 +115,13 @@ Caractéristiques
 - Le viseur a un filtre solaire coulissant.
 
 ## Modifications
-
+﻿
 
 ### Merlin 45 engine
 
 Merlin 45 engine. 
 Masse supplémentaire : 0 kg
-
+Perte estimée de vitesse : 0 km/h﻿
 
 ### Miroir
 

@@ -104,14 +104,14 @@ Additional mass: 2550 kg
 Containers mass: 2500 kg
 Racks mass: 50 kg
 Estimated speed loss before drop: 2 km/h
-
+Estimated speed loss after drop: 0 km/h
 
 ### 12 paratroopers
 
 12 paratroopers with ammunition
 Additional mass: 1200 kg
 Estimated speed loss before drop: 2 km/h
-
+Estimated speed loss after drop: 0 km/h
 
 ### Rear turret
 

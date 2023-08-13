@@ -111,7 +111,7 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-
+Estimated speed loss after drop: 12 km/h﻿
 
 ### Female Pilot
 

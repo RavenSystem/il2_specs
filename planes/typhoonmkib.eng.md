@@ -98,19 +98,19 @@ Operation features:
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-
+Estimated speed increase at sea level: 23 km/h
 
 ### 4-blades airscrew
 
 Installation of 4-blade airscrew
 Estimated maximum speed increase: 12 km/h
-
+Estimated maximum climb rate increase: 2.3 m/s
 
 ### Additional armor
 
 Installation of additional engine and cockpit armor
 Additional mass: 157 kg
-
+Estimated speed loss: 2 km/h
 
 ### M.C. Bombs
 
@@ -128,7 +128,7 @@ Additional mass: 969 kg
 Ammunition mass: 949 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 42 km/h
-
+Estimated speed loss after drop: 9 km/h
 
 ### Dome dust deflector
 
@@ -136,7 +136,7 @@ Installation of dust deflector on the engine air intake.
 Additional mass: 1 kg
 Estimated maximum speed loss: 8 km/h
 
-
+﻿
 
 ### Double RP-3 HE rockets on Mk.I rails
 
@@ -154,7 +154,7 @@ Estimated speed loss after launch: 30 km/h
 
 Installation of Type I Mk.III Gunsight
 Additional mass: 0 kg
-
+Estimated speed loss: 0 km/h﻿
 
 ### RP-3 HE / AP rockets on Mk.I rails
 
@@ -172,7 +172,7 @@ Additional mass: 254 kg
 Ammunition mass: 170 kg
 Racks mass: 84 kg
 Estimated speed loss before launch: 50 km/h
-
+Estimated speed loss after launch: 30 km/h﻿
 
 ### RP-3 HE / AP rockets on Mk.III rails
 

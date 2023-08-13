@@ -63,13 +63,13 @@ Referencias:
 2) Windsock Datafile 53 DFW C.V, por P.M. Grosz.
 
 ## Modificaciones
-
+﻿
 
 ### Aldis (Trofeo)
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-
+﻿
 
 ### Cañón Becker de 20 mm en artillero
 
@@ -83,7 +83,7 @@ Peso del arma: 30 kg (sin cargador)
 Peso del soporte: 10 kg
 Peso de la munición: 25 kg
 Peso total: 65 kg
-
+Pérdida de velocidad estimada: 6 km/h﻿
 
 ### Bombas P.u.W.
 
@@ -99,13 +99,13 @@ Peso adicional: 186 kg
 Peso de munición: 150 kg
 Peso de los soportes: 36 kg
 Pérdida de velocidad estimada antes de soltar: 4 km/h
-
+Pérdida de velocidad estimada tras soltar: 2 km/h﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-
+﻿
 
 ### Instrumentación adicional
 
@@ -113,24 +113,24 @@ Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °
 
 Reloj mecánico
 
-
+Peso adicional: 0,5 kg﻿
 
 ### Punto de mira
 
 Mira adicional con monturas de mira frontal y mira trasera
 Peso adicional: 1 kg
-
+﻿
 
 ### Cámara de fotos
 
 Cámara para tomar fotografías aéreas
 Peso adicional: 10 kg
-
+﻿
 
 ### Radio
 
 Radiotransmisor
-
+Peso adicional: 10 kg﻿
 
 ### Doble Parabellum en artillero
 

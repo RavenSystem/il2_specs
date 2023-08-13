@@ -93,7 +93,7 @@ Este carro de combate es gratuito para cualquier usuario de <i>IL-2 Great Battle
 
 
 ## Modificaciones
-
+﻿
 
 ### Proyectiles perforantes explosivos (APHE)
 
@@ -109,7 +109,7 @@ Disparado desde un cañón de 5 cm KwK 39 L/60:
 Velocidad de salida 835 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 68 mm, velocidad 702 m/s, caída -1,5 m.
 1000 m: penetración del blindaje 53 mm, velocidad 587 m/s, caída -8,4 m.
-
+2000 m: penetración del blindaje 30 mm, velocidad 394 m/s, caída -76,7 m.﻿
 
 ### Proyectiles explosivos (HE)
 
@@ -126,7 +126,7 @@ Disparado desde un cañón de 5 cm KwK 39 L/60:
 Velocidad de salida 550 m/s.
 500 m: velocidad 444 m/s, caída -4,9 m.
 1000 m: velocidad 368 m/s, caída -22,6 m.
-
+2000 m: velocidad 285 m/s, caída -118,5 m.﻿
 
 ### Proyectiles perforantes de núcleo rígido (APCR)
 

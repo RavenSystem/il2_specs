@@ -84,7 +84,7 @@ Additional mass: 1 kg
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-
+﻿
 
 ### Lewis Overwing
 
@@ -99,7 +99,7 @@ Gun weight: 7 kg (w/o ammo drum)
 Mount weight: 4 kg
 Ammo weight: 12 kg
 Total weight: 23 kg
-
+Estimated speed loss: 2-6 km/h
 
 ### Collimator Day
 
@@ -119,7 +119,7 @@ Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
 
 D.R.P Altimeter (0-8000 m)
-
+Additional mass: 1 kg
 
 ### Thermometer
 

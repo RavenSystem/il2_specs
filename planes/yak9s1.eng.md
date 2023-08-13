@@ -89,19 +89,19 @@ Operation features:
 
 Landing light for night flights
 Additional mass: 2 kg
-
+Estimated speed loss: 0 km/h
 
 ### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-
+Estimated speed loss: 0 km/h
 
 ### Reflector Gunsight
 
 PBP-1A reflector gunsight
 Additional mass: 0.5 kg
-
+Estimated speed loss: 0 km/h
 
 ### RPK-10
 
