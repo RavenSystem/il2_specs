@@ -61,10 +61,12 @@ References
 
 ## Modifications
 
+
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)
 Masse supplémentaire : 2 kg
+
 
 ### Balloon guns
 
@@ -77,6 +79,7 @@ Ammo weight: 32 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 58 kg
 
+
 ### Cooper bombes
 
 2 x bombes d’emploi général 24 lb Cooper (11 kg)
@@ -86,15 +89,18 @@ Masse des pylones : 0 kg
 Perte estimée de vitesse avant le largage : 0 km/h
 Perte estimée de vitesse après le largage : 0 km/h
 
+
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
 
+
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
+
 
 ### Camera
 

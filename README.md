@@ -529,7 +529,7 @@ Version: 5.104 (28/06/2023)
 [ [chs](vehicles/_su122.chs.md) ] [ [eng](vehicles/_su122.eng.md) ] [ [fra](vehicles/_su122.fra.md) ] [ [ger](vehicles/_su122.ger.md) ] [ [pol](vehicles/_su122.pol.md) ] [ [rus](vehicles/_su122.rus.md) ] [ [spa](vehicles/_su122.spa.md) ] 
 ![_su122](images/_su122.png)
 
-##&name=SU-152 ChKZ (1943)
+### SU-152 ChKZ (1943)
 
 [ [chs](vehicles/_su152.chs.md) ] [ [eng](vehicles/_su152.eng.md) ] [ [fra](vehicles/_su152.fra.md) ] [ [ger](vehicles/_su152.ger.md) ] [ [pol](vehicles/_su152.pol.md) ] [ [rus](vehicles/_su152.rus.md) ] [ [spa](vehicles/_su152.spa.md) ] 
 ![_su152](images/_su152.png)

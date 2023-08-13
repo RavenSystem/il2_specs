@@ -104,7 +104,9 @@
 ——射击瞄准具拥有一个滑动式的太阳滤光片。
 
 ## 修改
-&name=21cm火箭弹
+
+
+### 21cm火箭弹
 
 两枚位于可抛弃发射管里的WGr.21火箭弹
 增加质量：258 kg
@@ -112,7 +114,8 @@
 挂架质量：34 kg
 发射前预期速度损失：51 km/h
 发射后预期速度损失：11 km/h
-投弹后预期速度损失：2 km/
+
+
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -120,40 +123,47 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/
+
+
 ### 厄拉改件
 
 厄拉·豪伯型座舱盖改件
 增加质量: 9 kg
-预期速度损失：0 km/
+
+
 ### 2 x 20mm MG 151/20机炮吊舱
 
 机翼吊舱MG 151/20 20mm机炮，每门备弹135发
 增加质量：212 kg
 弹药质量：55 kg
 枪炮质量：157 kg
-预期速度损失：13 km/
+
+
 ### 30mm MK 108机炮
 
 MK 108 30mm头部机炮，备弹65发
 增加质量：4 kg
 弹药质量：38 kg
 枪炮质量：58 kg
-预期速度损失：0 km/
+
+
 ### MW-50系统
 
 MW-50水-甲醇混合物喷射系统
 增加质量: 84 kg
 水-甲醇混合物质量: 63 kg
 预期海平面时速增加: 45 km/h
-&name=SC 250炸弹
+
+
+### SC 250炸弹
 
 249kg 通用炸弹SC 250
 增加质量：279 kg
 弹药质量：249 kg
 挂架质量：30 kg
 投弹前预期速度损失：33 km/h
-投弹后预期速度损失：11 km/
+
+
 ### 4 x SD 70炸弹
 
 4 x 66 kg杀伤炸弹SD 70

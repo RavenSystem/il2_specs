@@ -89,11 +89,13 @@ Operation features:
 
 ## Modyfikacje
 
+
 ### 2300 kg of cargo
 
 2300 kg of military cargo payload
 Additional mass: 2300 kg
 Estimated speed loss: 2 km/h
+
 
 ### 10 x MAB 250 containers
 
@@ -102,13 +104,15 @@ Additional mass: 2550 kg
 Containers mass: 2500 kg
 Racks mass: 50 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 0 km/h
+
+
 ### 12 paratroopers
 
 12 paratroopers with ammunition
 Additional mass: 1200 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 0 km/h
+
+
 ### Tylna wieżyczka
 
 Tylna wieżyczka z karabinem maszynowym MG 15 7,92 mm z 1125 nabojami

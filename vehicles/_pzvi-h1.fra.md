@@ -106,6 +106,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 ## Modifications
 
+
 ### Armour Piercing High Explosive Shells
 
 8,8 cm Pzgr. 39
@@ -120,7 +121,8 @@ When fired from a 8,8 cm KwK 36 L/56 gun:
 Muzzle velocity 800 m/s, armour penetration at point blank range 140 mm.
 500 m: armour penetration 129 mm, velocity 756 m/s, drop -2.2 m.
 1000 m: armour penetration 119 mm, velocity 713 m/s, drop -8.6 m.
-2000 m: armour penetration 100 mm, velocity 631 m/s, drop -36.3 m.
+
+
 ### High-Explosive Shells
 
 8,8 cm Sprgr L/4,5
@@ -135,7 +137,8 @@ When fired from a 8,8 cm KwK 36 L/56 gun:
 Muzzle velocity 820 m/s.
 500 m: velocity 771 m/s, drop -2.0 m.
 1000 m: velocity 723 m/s, drop -8.1 m.
-2000 m: velocity 629 m/s, drop -35.5 m.
+
+
 ### High Explosive Anti-Tank Shells
 
 8,8 cm Gr. 39 HL
@@ -150,7 +153,8 @@ When fired from a 8,8 cm KwK 36 L/56:
 Muzzle velocity: 600 m/s.
 500 m: velocity 476 m/s, drop -4.1 m.
 1000 m: velocity 369 m/s, drop -19.4 m.
-2000 m: velocity 273 m/s, drop -114.6 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 8,8 cm Pzgr. 40
@@ -165,7 +169,8 @@ When fired from a 8,8 cm KwK 36 L/56 gun:
 Muzzle velocity 930 m/s, armour penetration at point blank range 201 mm.
 500 m: armour penetration 179 mm, velocity 858 m/s, drop -1.7 m.
 1000 m: armour penetration 159 mm, velocity: 791 m/s, drop -6.6 m.
-2000 m: armour penetration 126 mm, velocity: 670 m/s, drop -29.1 m.
+
+
 ### Smoke Mortars
 
 Installation of 6 external single-shot smoke mortars.

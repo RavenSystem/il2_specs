@@ -91,10 +91,14 @@ Caractéristiques
 
 ## Modifications
 
-&name=Munitions spéciales
+
+
+### Munitions spéciales
 
 Cartouches spécifiques: anti blindage (AB) ou explosive-brisante (EB)
-&name=2 bombes FAB-100M 
+
+
+### 2 bombes FAB-100M 
 
 2 bombes d’emploi général FAB-100M de 104 kg
 Masse supplémentaire : 228 kg
@@ -102,25 +106,31 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h
-&name=2 bombes FAB-50sv 
+
+
+### 2 bombes FAB-50sv 
 
 2 bombes d’emploi général FAB-50sv de 50 kg
 Masse supplémentaire : 120 kg
 Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
-Perte estimée de vitesse après le largage : 12 km/h
+
+
 ### Phare datterrissage
 
 Atterrissage lumière pour les vols de nuit
 Masse supplementaire : 2 kg
-Perte estimee de vitesse : 0 km/h
+
+
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
 Estimated speed loss: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg

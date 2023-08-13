@@ -68,6 +68,7 @@ Reserve iron sights.
 
 ## Modifications
 
+
 ### Armour Piercing Shells
 
 BR-132
@@ -82,17 +83,24 @@ Muzzle velocity 900 m/s, armour penetration at point blank range 44 mm.
 500 m: armour penetration 33 mm, velocity 806 m/s, drop -1.8 m.
 1000 m: armour penetration 25 mm, velocity 528 m/s, drop -8.3 m.
 2000 m: armour penetration 13 mm, velocity 380 m/s, drop -46.4 m.
-&name=Gun shield (early)
+
+
+### Gun shield (early)
 
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The early variant had a simple rectangular form.
 The shield has an additional window that should be opened when firing at low angles.
-&name=Gun shield
+
+
+### Gun shield
 
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The late variant had a complex form.
 The shield has an additional window that should be opened when firing at low angles.
-&name=Remove gunsight cover
+
+
+### Remove gunsight cover
 
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.
+
 
 ### High-Explosive Shells
 

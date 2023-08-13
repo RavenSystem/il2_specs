@@ -63,10 +63,12 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
+
 
 ### Bombas Cooper
 
@@ -77,10 +79,12 @@ Peso de los soportes: 12 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h
 Pérdida de velocidad estimada tras soltar: 1 km/h
 
+
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
+
 
 ### Doble Lewis sobre ala superior
 
@@ -95,7 +99,8 @@ Peso de las armas: 15 kg (sin cargador)
 Peso de los soportes: 2 kg
 Peso de la munición: 16 kg
 Peso total: 33 kg
-Pérdida de velocidad estimada: 7-18 km/h
+
+
 ### Dos Lewis sobre alas inferiores
 
 Dos ametralladoras Lewis sincronizadas adicionales de posición fija montadas sobre las alas inferiores.
@@ -107,7 +112,8 @@ Peso de las armas: 15 kg (sin cargador)
 Peso de los soportes: 2 kg
 Peso de la munición: 8 kg
 Peso total: 25 kg
-Pérdida de velocidad estimada: 3 km/h
+
+
 ### Termómetro
 
 Indicador de temperatura del refrigerante del motor O.S.I.C (30..100 °C)

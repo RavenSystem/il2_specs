@@ -59,22 +59,28 @@ S.E.5a（单座战斗机、侦察机实验型5a）是由英国R.A.F.公司（皇
 4) Profile Publication s，The S.E. 5A Number 1.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
-&name=库珀（Cooper）炸弹
+
+
+### 库珀（Cooper）炸弹
 
 最多4 x 11 kg（24 lb）通用炸弹
 增加质量：56 kg
 弹药质量：44 kg
 挂架质量：12 kg
 投弹前预期速度损失：2 km/h
-投弹后预期速度损失：1 km/h
+
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
+
 
 ### 油量表
 

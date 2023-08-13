@@ -93,7 +93,9 @@ Eigenschaften:
 
 ## Änderungen
 ﻿
-&name=2 x Bomben, Typ FAB-100M
+
+
+### 2 x Bomben, Typ FAB-100M
 
 2 x 104-kg-Splitterbomben FAB-100M
 Zusätzliches Gewicht: 228 kg
@@ -101,7 +103,9 @@ Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-&name=2 x Bomben, Typ FAB-50sv
+
+
+### 2 x Bomben, Typ FAB-50sv
 
 2 x 50-kg-Splitterbomben FAB-50sv
 Zusätzliches Gewicht: 120 kg
@@ -109,7 +113,9 @@ Gewicht der Munition: 100 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 20 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-&name=6 x Raketen, Typ ROS-82
+
+
+### 6 x Raketen, Typ ROS-82
 
 6 x ungelenkte 82-mm-Explosivraketen ROS-82
 Zusätzliches Gewicht: 60 kg
@@ -117,14 +123,18 @@ Gewicht der Munition: 42 kg
 Gewicht der Abwurfwaffenroste: 18 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 23 km/h
 Geschwindigkeitsverlust nach dem Abfeuern: 17 km/h﻿
-&name=37-mm-Geschütz, Typ Sh-37
+
+
+### 37-mm-Geschütz, Typ Sh-37
 
 Sh-37 37-mm-Maschinenkanone mit 20 Schuss
 Zusätzliches Gewicht: 117 kg
 Gewicht der Munition: 36 kg
 Gewicht der Schusswaffen: 169 kg
 Geschwindigkeitsverlust: 2 km/h﻿
-&name=23-mm-Geschütz, Typ VYa-23
+
+
+### 23-mm-Geschütz, Typ VYa-23
 
 VYa-23 23-mm-Maschinenkanone mit 90 Schuss
 Zusätzliches Gewicht: 35 kg

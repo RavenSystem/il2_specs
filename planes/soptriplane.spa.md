@@ -61,15 +61,18 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
 
+
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
+
 
 ### Doble Vickers frontal
 

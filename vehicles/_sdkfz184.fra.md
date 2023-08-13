@@ -75,6 +75,7 @@ VHF Fu 5 transceiver.
 
 ## Modifications
 
+
 ### Armour Piercing High Explosive Shells
 
 8,8 cm Pzgr. 39/43
@@ -89,7 +90,8 @@ When fired from a 8,8 cm KwK 43 L/71 gun:
 Muzzle velocity 1000 m/s, armour penetration at point blank range 192 mm.
 500 m: armour penetration 179 mm, velocity 951 m/s, drop -1.3 m.
 1000 m: armour penetration 167 mm, velocity 905 m/s, drop -5.4 m.
-2000 m: armour penetration 144 mm, velocity 816 m/s, drop -22.8 m.
+
+
 ### High-Explosive Shells
 
 8,8 cm Sprgr. Flak 41
@@ -104,7 +106,8 @@ When fired from a 8,8 cm KwK 43 L/71 gun:
 Muzzle velocity 700 m/s.
 500 m: velocity 662 m/s, drop -2.7 m.
 1000 m: velocity 625 m/s, drop -11.1 m.
-2000 m: velocity 556 m/s, drop -47.4 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 8,8 cm Pzgr. 40/43
@@ -119,7 +122,8 @@ When fired from a 8,8 cm KwK 43 L/71 gun:
 Muzzle velocity 1130 m/s, armour penetration at point blank range 266 mm.
 500 m: armour penetration 237 mm, velocity 1044 m/s, drop -1.1 m.
 1000 m: armour penetration 212 mm, velocity: 964 m/s, drop -4.6 m.
-2000 m: armour penetration 168 mm, velocity: 821 m/s, drop -19.7 m.
+
+
 ### Reversed gun mantlet shield
 
 Gun mantlet shield installed hind-foremost for easier access to the bolts holding the halves of the shield together (cosmetic change).

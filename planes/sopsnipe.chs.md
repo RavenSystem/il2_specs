@@ -61,18 +61,23 @@ Only a handful of squadrons got the new aircraft in time to use it on the Wester
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
-&name=H.E.R.L. bomb
+
+
+### H.E.R.L. bomb
 
 51 kg (112 lb) H.E.R.L. General Purpose Bomb
 Additional mass: 57 kg
 Ammunition mass: 51 kg
 Rack mass: 6 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/
+
+
 ### 库珀（Cooper）炸弹
 
 最多4 x 11 kg（24 lb）库珀（Cooper）通用炸弹
@@ -80,10 +85,11 @@ Estimated speed loss after drop: 1 km/
 弹药质量：44 kg
 挂架质量：12 kg
 投弹前预期速度损失：2 km/h
-投弹后预期速度损失：1 km/
+
+
 ### Enlarged cockpit cutouts
 
-Enlarged cockpit cutouts for improved field of view ("Barker mod"
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯

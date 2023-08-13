@@ -87,7 +87,9 @@ Eigenschaften:
 
 ## Änderungen
 ﻿
-&name=2 x Bomben, Typ FAB-100M
+
+
+### 2 x Bomben, Typ FAB-100M
 
 2 x 104-kg-Splitterbomben FAB-100M
 Zusätzliches Gewicht: 228 kg
@@ -95,20 +97,25 @@ Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-&name=2 x Bomben, Typ FAB-50sv
+
+
+### 2 x Bomben, Typ FAB-50sv
 
 2 x 50-kg-Splitterbomben FAB-50sv
 Zusätzliches Gewicht: 120 kg
 Gewicht der Munition: 100 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 20 km/h
-Geschwindigkeitsverlust nach Abwurf: 12 km/h
+
+
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen
 Zusätzliches Gewicht: 10 kg

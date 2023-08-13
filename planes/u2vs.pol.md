@@ -105,6 +105,7 @@ Operational features:
 
 ## Modyfikacje
 
+
 ### Ładunek bomby
 
 Podwieszane i podwieszane stojaki z bombami
@@ -142,29 +143,34 @@ Additional mass: 316 kg
 Ammunition mass: 308 kg
 Racks mass: 8 kg
 Estimated speed loss before drop: 13 km/h
-Estimated speed loss after drop: 2 km/h
+
+
 ### Female Crew
 
-"Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces
+
 ### Sztuczny horyzont
 
 Sztuczny horyzont AGP-2
 Additional mass: 2 kg
-Estimated speed loss: 0 km/h
+
+
 ### Bezpośrednie światło
 
 Lądowanie światło dla lotów nocnych
 Additional mass: 2 kg
-Estimated speed loss: 1 km/h
+
+
 ### Navigation lights
 
 Navigation lights
-Additional mass: 4 kg
+
+
 ### Radio
 
 Radio RSI-4
 Additional mass: 12.6 kg
-Estimated speed loss: 0 km/h
+
+
 ### Rakiety
 
 Niekierowany kruszący pocisk rakietowy ROS-82 – 82 mm lub niekierowany przeciwpancerny pocisk rakietowy RBS-82 – 82 mm lub niekierowany kruszący pocisk rakietowy ROS-132 – 132 mm
@@ -202,12 +208,14 @@ Additional mass: 224 kg
 Ammunition mass: 184 kg
 Racks mass: 40 kg
 Estimated speed loss before launch: 8 km/h
-Estimated speed loss after launch: 4 km/h
+
+
 ### Tylna wieżyczka
 
 Tylna wieżyczka z karabinem maszynowym SzKAS 7,62 mm z 400 nabojami
 Additional mass: 34 kg
-Estimated speed loss: 2 km/
+
+
 ### Bow MG
 
 Wing-mounted 7.62mm ShKAS machinegun with 500 rounds

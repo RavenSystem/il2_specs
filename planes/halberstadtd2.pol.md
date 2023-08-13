@@ -53,20 +53,24 @@ References
 
 ## Modyfikacje
 
+
 ### Aldis (Trofeum)
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
+
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
 
+
 ### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
+
 
 ### Thermometer
 

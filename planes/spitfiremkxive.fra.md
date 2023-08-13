@@ -97,11 +97,13 @@ Caractéristiques
 
 ## Modifications
 
+
 ### 150 grade fuel
 
 Allows +21 lb boost
 Supercharger gear shift automat is disabled. Stages should be manually switched at 11000ft altitude.
-Estimated speed increase at sea level: 20 km/h
+
+
 ### 2 bombes 250 lb G.P.
 
 2 bombes d’emploi général 250 lb G.P.
@@ -109,7 +111,8 @@ Masse supplémentaire : 247 kg
 Masse des munitions : 227 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 22 km/h
-Perte estimée de vitesse après le largage : 11 km/h
+
+
 ### 500 lb G.P.
 
 Le bombe d’emploi général 500 lb G.P.
@@ -117,25 +120,30 @@ Masse supplémentaire : 237 kg
 Masse des munitions : 227 kg
 Masse des pylones : 10 kg
 Perte estimée de vitesse avant le largage : 12 km/h
-Perte estimée de vitesse après le largage : 6 km/h
+
+
 ### Recon camera
 
 F.24 camera installation behind the cockpit (clipped wing only)
 Additional mass: 28 kg
 Estimated speed loss: 0 km/h
 
+
 ### Rounded exhaust pipes
 
 Rounded exhaust pipes
+
 
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
-Estimated speed loss: 1 km/h
+
+
 ### Reflector Gunsight
 
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
+
 
 ### Clipped Wing
 

@@ -64,14 +64,17 @@ References
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
 ## Modifications
-&name=1650 lb SN heavy bomb
+
+
+### 1650 lb SN heavy bomb
 
 1650 lb (748 kg) General Purpose Bomb
 Additional mass: 778 kg
 Ammunition mass: 748 kg
 Racks mass: 30 kg
 Estimated speed loss before drop: 5 km/h
-Estimated speed loss after drop: 0 km/h
+
+
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -84,7 +87,8 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h
+
+
 ### 57mm Davis gun (Lewis aim)
 
 Nose mount with 57mm Davis manually-operated recoilless gun and additional Lewis coaxial machinegun for draft aiming
@@ -97,11 +101,13 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h
+
+
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-300 Gallons)
 Additional mass: 1 kg
+
 
 ### Twin Lewis MG turret
 

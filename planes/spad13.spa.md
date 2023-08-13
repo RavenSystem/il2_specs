@@ -63,10 +63,12 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)
 Peso adicional: 2 kg
+
 
 ### Ametralladoras cazaglobos
 
@@ -79,6 +81,7 @@ Peso de la munición: 24 kg
 Cadencia de disparo: 600 bpm
 Peso adicional total: 58 kg
 
+
 ### Bombas Cooper
 
 2 bombas de propósito general de 24 lb (11 kg) Cooper
@@ -88,15 +91,18 @@ Peso de los soportes: 0 kg
 Pérdida de velocidad estimada antes de soltar: 0 km/h
 Pérdida de velocidad estimada tras soltar: 0 km/h
 
+
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
 
+
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
+
 
 ### Cámara de fotos
 

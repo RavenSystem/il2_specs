@@ -89,6 +89,7 @@ Operation features:
 
 ## Modyfikacje
 
+
 ### 2 x bomba 1000 lb M.C.
 
 2 x bomba ogólnego przeznaczenia 1000 lb M.C. – 474.5 kg
@@ -96,11 +97,13 @@ Additional mass: 969 kg
 Ammunition mass: 949 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 57 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-Estimated speed increase at sea level: 23 km/h
+
+
 ### 2 x bomba 500 lb M.C.
 
 2 x bomba ogólnego przeznaczenia 500 lb M.C. – 232 kg

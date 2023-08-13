@@ -1,4 +1,4 @@
-&name=GAZ-MM 72-K
+# GAZ-MM 72-K
 
 ![_gaz-mm-72k](../images/_gaz-mm-72k.png)
 
@@ -67,7 +67,9 @@ OZR-132高爆弹：重288g，初速910m/s，13g装药。
 
 
 ## 修改
-&name=穿甲弹
+
+
+### 穿甲弹
 
 BR-132
 
@@ -80,18 +82,24 @@ BR-132
 炮口初速：900 m/s，近距离装甲穿深 44 mm
 500m时：装甲穿深 33mm，速度 806 m/s，下坠高度 1.8m
 1000m时：装甲穿深 25mm，速度 528 m/s，下坠高度 8.3m
-2000m时：装甲穿深 13mm，速度 380 m/s，下坠高度 46.4
+
+
 ### 防盾(早期型)
 
 5 mm厚的装甲板，用于保护炮手免受炮弹破片和常规子弹(非穿甲弹)的伤害。早期型为一个简单的矩形装甲板。
 此防盾还具有一个小型观察窗，当进行低角度射击时应将其打开。
-&name=防盾
+
+
+### 防盾
 
 5 mm厚的装甲板，用于保护炮手免受炮弹破片和常规子弹(非穿甲弹)的伤害。早期型为一个简单的矩形装甲板。后期的复杂形状装甲板。
 此防盾还具有一个小型观察窗，当进行低角度射击时应将其打开。
-&name=Remove gunsight cover
+
+
+### Remove gunsight cover
 
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.
+
 
 ### 榴弹
 

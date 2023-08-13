@@ -62,10 +62,12 @@ References:
 
 ## Änderungen
 
+
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
+
 
 ### H.E.R.L. bomb
 
@@ -74,7 +76,8 @@ Additional mass: 57 kg
 Ammunition mass: 51 kg
 Rack mass: 6 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/h
+
+
 ### Cooper Bomben
 
 Vier (Zwei) 24 lb Cooper Bomben (11kg)
@@ -84,9 +87,10 @@ Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
 Geschwindigkeitsverlust nach Abwurf: 1 km/h
 
+
 ### Enlarged cockpit cutouts
 
-Enlarged cockpit cutouts for improved field of view ("Barker mod")
+
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen

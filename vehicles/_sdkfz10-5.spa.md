@@ -64,6 +64,7 @@ Miras de hierro de respaldo.
 
 ## Modificaciones
 
+
 ### Proyectiles perforantes sólidos (AP)
 
 2 cm Pzgr. Lspur
@@ -78,7 +79,8 @@ Disparado desde un cañón Flak 38:
 Velocidad de salida 780 m/s, penetración del blindaje a bocajarro 25 mm.
 500 m: penetración del blindaje 16 mm, velocidad 561 m/s, caída -2,7 m.
 1000 m: penetración del blindaje 9 mm, velocidad 393 m/s, caída -13,6 m.
-2000 m: penetración del blindaje 5 mm, velocidad 264 m/s, caída -96,1 m.
+
+
 ### Proyectiles explosivos (HE)
 
 2 cm Spgr.Patr.
@@ -97,9 +99,10 @@ Velocidad de salida 880 m/s.
 1000 m: velocidad 373 m/s, caída -11,0 m.
 2000 m: velocidad 245 m/s, caída -95,8 m.
 
+
 ### Desinstalar escudos del cañón
 
-Desinstalación de los escudos blindados del cañón para mejorar el campo de visión.
+
 ### Desinstalar escudo de la mira
 
 Desinstalación del escudo blindado de la mira para proporcionar al artillero un campo de visión ligeramente más amplio.

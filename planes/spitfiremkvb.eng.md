@@ -115,11 +115,14 @@ Operation features:
 - The gunsight has a sliding sun-filter.
 
 ## Modifications
-&name=Merlin 45 engine
+
+
+### Merlin 45 engine
 
 Merlin 45 engine. 
 Additional mass: 0 kg
-Estimated speed loss: 0 km/
+
+
 ### Mirror
 
 Rear view mirror

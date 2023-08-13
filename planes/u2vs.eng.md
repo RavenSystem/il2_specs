@@ -104,7 +104,9 @@ Operational features:
 - Please note that with all possible modifications and full fuel the total aircraft weight is 1390 kg, more than its maximum takeoff weight.
 
 ## Modifications
-&name=Bomb load
+
+
+### Bomb load
 
 Underwing and underbelly racks with bombs
 
@@ -146,29 +148,34 @@ Additional mass: 316 kg
 Ammunition mass: 308 kg
 Racks mass: 8 kg
 Estimated speed loss before drop: 13 km/h
-Estimated speed loss after drop: 2 km/
+
+
 ### Female Crew
 
-"Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces
+
 ### Horizon indicator
 
 Horizon indicator AGP-2
 Additional mass: 2 kg
-Estimated speed loss: 0 km/
+
+
 ### Landing light
 
 Landing light for night flights
 Additional mass: 2 kg
-Estimated speed loss: 1 km/
+
+
 ### Navigation lights
 
 Navigation lights
-Additional mass: 4 k
+
+
 ### Radio transmitter
 
 Radio transmitter RSI-4
 Additional mass: 12.6 kg
-Estimated speed loss: 0 km/
+
+
 ### Rockets
 
 82mm Explosive unguided rockets ROS-82 or 82mm Armour Piercing unguided rockets RBS-82 or 132mm Explosive unguided rockets ROS-132
@@ -206,12 +213,14 @@ Additional mass: 224 kg
 Ammunition mass: 184 kg
 Racks mass: 40 kg
 Estimated speed loss before launch: 8 km/h
-Estimated speed loss after launch: 4 km/
+
+
 ### Rear turret
 
 Rear turret with ShKAS 7.62mm machinegun with 400 rounds
 Additional mass: 34 kg
-Estimated speed loss: 2 km/
+
+
 ### Bow MG
 
 Wing-mounted 7.62mm ShKAS machinegun with 500 rounds

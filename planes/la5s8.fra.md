@@ -92,10 +92,14 @@ Caractéristiques
 
 ## Modifications
 
-&name=Munitions spéciales
+
+
+### Munitions spéciales
 
 Cartouches spécifiques: anti blindage (AB) ou explosive-brisante (EB)
-&name=2 bombes FAB-100M 
+
+
+### 2 bombes FAB-100M 
 
 2 bombes d’emploi général FAB-100M de 104 kg
 Masse supplémentaire : 228 kg
@@ -103,7 +107,9 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h
-&name=2 bombes FAB-50sv 
+
+
+### 2 bombes FAB-50sv 
 
 2 bombes d’emploi général FAB-50sv de 50 kg
 Masse supplémentaire : 120 kg
@@ -111,17 +117,23 @@ Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
 Perte estimée de vitesse après le largage : 12 km/h﻿
-&name=M-82F engine
+
+
+### M-82F engine
 
 Late M-82F engine modification with unlimited boosted mode duration.
 Masse supplémentaire : 0 kg
 Perte estimée de vitesse : 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg
 Perte estimée de vitesse : 0 km/h﻿
-&name=Pare-brise plat
+
+
+### Pare-brise plat
 
 La section frontale du pare-brise est plate pour une meilleure visibilité
 Masse supplémentaire : 2 kg

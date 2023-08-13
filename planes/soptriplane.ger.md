@@ -58,15 +58,18 @@ Referenzen:
 
 ## Änderungen
 
+
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
 
+
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
+
 
 ### Twin forward Vickers
 

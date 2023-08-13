@@ -60,11 +60,15 @@ References
 3) Profile Publications The Breguet 14, Number 157.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=8kg, 20 kg, 40 kg bombs
+
+
+### 8kg, 20 kg, 40 kg bombs
 
 Up to 8 x 40 kg General Purpose Bombs
 Additional mass: 320 kg
@@ -85,15 +89,19 @@ Additional mass: 256 kg
 Ammunition mass:256 kg
 Racks mass: 0 kg
 Estimated speed loss before drop: 6.3 km/h
-Estimated speed loss after drop: 0 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Le-Chretien
+
+
+### Le-Chretien
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
+
 
 ### Lewis Overwing
 
@@ -108,15 +116,19 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight:2 kg
 Ammo weight: 20 kg
 Total weight: 29.5 kg
-Estimated speed loss: 3 km/
+
+
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-&name=Radio
+
+
+### Radio
 
 Radio transmitter
-Additional mass: 10 k
+
+
 ### Sideslip Indicator
 
 Sideslip indicator (ball-type)

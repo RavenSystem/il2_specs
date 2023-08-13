@@ -62,10 +62,12 @@ References
 
 ## Modifications
 
+
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
+
 
 ### Bombes 8kg, 20 kg, 40 kg
 
@@ -88,16 +90,19 @@ Masse supplémentaire : 256 kg
 Masse des munitions : 256 kg
 Masse des pylones : 0 kg
 Perte estimée de vitesse avant le largage : 6.3 km/h
-Perte estimée de vitesse après le largage : 0 km/h
+
+
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
 
+
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
+
 
 ### Lewis Overwing
 
@@ -112,16 +117,19 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight:2 kg
 Ammo weight: 20 kg
 Total weight: 29.5 kg
-Estimated speed loss: 3 km/h
+
+
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
 
+
 ### Radio
 
 Radio transmitter
-Additional mass: 10 kg
+
+
 ### Indicateur de virage
 
 Indicateur de virage (à balle)

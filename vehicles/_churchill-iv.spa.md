@@ -93,6 +93,7 @@ Transmisor-receptor HF/VHF <i>Wireless Set No. 19</i>
 
 ## Modificaciones
 
+
 ### Granadas explosivas de mortero
 
 O-822Sh
@@ -101,7 +102,8 @@ Sustitución de 20 de las 30 granadas de humo de mortero por otras explosivas de
 
 Peso 850 g, peso del explosivo 90 g.
 Penetración de blindaje por  impacto directo 7 mm, efectivo contra infantería a menos de 5 m.
-Distancia de lanzamiento 410 m.
+
+
 ### Proyectiles perforantes sólidos (AP)
 
 6pdr APT
@@ -118,12 +120,13 @@ Velocidad de salida 890 m/s, penetración del blindaje a bocajarro 136 mm.
 1000 m: penetración del blindaje 78 mm, velocidad 602 m/s, caída -8.4 m.
 2000 m: penetración del blindaje 41 mm, velocidad 387 m/s, caída -45.7 m.
 
+
 ### Retirada guardabarros frontales
 
-En el Frente Oriental, la sección frontal de los guardabarros de las orugas de los carros de combate Churchill se retiraban a menudo.
+
 ### Retirada guardabarros centrales
 
-Variante no muy habitual, con la sección central de los guardabarros de las orugas retirados.
+
 ### Retirada de depósito externo
 
 En el Frente Oriental, el depósito de combustible externo instalado en la parte trasera del carro se retiraba con bastante frecuencia.

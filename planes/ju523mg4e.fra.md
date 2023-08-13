@@ -90,11 +90,13 @@ Caractèristiques:
 
 ## Modifications
 
+
 ### Cargaison, 2300 kg
 
 Cargaison militaire, 2300 kg
 Masse supplémentaire : 2300 kg
 Perte estimée de vitesse : 2 km/h
+
 
 ### Conteneur de 10 x MAB largables
 
@@ -103,13 +105,15 @@ Masse supplémentaire : 2550 kg
 Masse des conteneurs : 2500 kg
 Masse des pylones : 50 kg
 Perte estimée de vitesse avant le largage : 2 km/h
-Perte estimée de vitesse après le largage : 0 km/h
+
+
 ### 12 parachutistes
 
 12 parachutistes armés
 Masse supplémentaire : 1200 kg
 Perte estimée de vitesse avant le largage : 2 km/h
-Perte estimée de vitesse après le largage : 0 km/h
+
+
 ### Tourelle arrière
 
 Tourelle arrière avec mitrailleuse MG 15 de 7,92 mm et 1125 cartouches

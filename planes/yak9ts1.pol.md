@@ -84,27 +84,33 @@ Operation features:
 
 ## Modyfikacje
 
+
 ### Ammo counter
 
 NS-37 gun ammo counter
 Additional mass: 1 kg
-Estimated speed loss: 0 km/h
+
+
 ### Bezpośrednie światło
 
 Lądowanie światło dla lotów nocnych
 Additional mass: 2 kg
-Estimated speed loss: 0 km/h
+
+
 ### Lustro
 
 Lustro do tyłu do półkuli
 Additional mass: 1 kg
-Estimated speed loss: 0 km/h
+
+
 ### Reflector Gunsight
 
 PBP-1A reflector gunsight
 Additional mass: 0.5 kg
 Estimated speed loss: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Radiopółkompas służący do nawigacji z użyciem radiostacji prowadzących
 Additional mass: 10 kg

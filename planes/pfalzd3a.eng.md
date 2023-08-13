@@ -58,39 +58,57 @@ References
 5) The Pfalz D.III , Profile Publications Number 43.
 
 ## Modifications
-&name=High Altimeter
+
+
+### High Altimeter
 
 D.R.P Altimeter (0-8000 m)
 Additional mass: 1 kg
-&name=Bullet Counters
+
+
+### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns
 Additional mass: 1 kg
-&name=Inclinometer
+
+
+### Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-&name=Cockpit light
+
+
+### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Gunsight
+
+
+### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-&name=Collimator Day
+
+
+### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-&name=Collimator Night
+
+
+### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-&name=Anemometer
+
+
+### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
-&name=Thermometer
+
+
+### Thermometer
 
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)
 Additional mass: 1 kg

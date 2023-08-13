@@ -87,7 +87,9 @@ Operation features:
 
 ## Modyfikacje
 ﻿
-&name=2 x bomba FAB-100M
+
+
+### 2 x bomba FAB-100M
 
 2 x bomba ogólnego przeznaczenia FAB-100M – 104 kg
 Additional mass: 228 kg
@@ -95,20 +97,25 @@ Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
 Estimated speed loss after drop: 12 km/h﻿
-&name=2 x bomba FAB-50SW
+
+
+### 2 x bomba FAB-50SW
 
 2 x bomba ogólnego przeznaczenia FAB-50SW – 50 kg
 Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### Bezpośrednie światło
 
 Lądowanie światło dla lotów nocnych
 Additional mass: 2 kg
 Estimated speed loss: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Radiopółkompas służący do nawigacji z użyciem radiostacji prowadzących
 Additional mass: 10 kg

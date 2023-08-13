@@ -63,10 +63,13 @@ References:
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
 ## Modifications
-&name=Aldis (Trophy)
+
+
+### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
+
 
 ### 20mm Becker Turret
 
@@ -80,7 +83,8 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 6 km/
+
+
 ### P.u.W. Bombs
 
 Up to 12 x 12.5 kg P.u.W. General Purpose Bombs
@@ -95,11 +99,13 @@ Additional mass: 186 kg
 Ammunition mass: 150 kg
 Racks mass: 36 kg
 Estimated speed loss before drop: 4 km/h
-Estimated speed loss after drop: 2 km/
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Additional Gauges
 
@@ -107,19 +113,25 @@ A.Schlegelmilch engine coolant temperature indicator (0-100 °C)
 
 Mechanical Clock
 
-Additional mass: 0.5 k
+
+
 ### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-&name=Camera
+
+
+### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-&name=Radio
+
+
+### Radio
 
 Radio transmitter
-Additional mass: 10 kg
+
+
 ### Twin Parabellum MG Turret
 
 Ring turret with twin Parabellum machine guns.

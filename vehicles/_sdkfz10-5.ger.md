@@ -64,6 +64,7 @@ Reserve iron sights.
 
 ## Änderungen
 
+
 ### Panzerbrechende Granaten
 
 2 cm Pzgr. Lspur
@@ -78,6 +79,7 @@ Durchschlagsleistung aus kürzester Entfernung: 25 mm
 500 m: Durchschlagsleistung 16 mm, Geschwindigkeit 561 m/s, Fall -2,7 m
 1000 m: Durchschlagsleistung 9 mm, Geschwindigkeit 393 m/s, Fall -13,6 m
 2000 m: Durchschlagsleistung 5 mm, Geschwindigkeit 264 m/s, Fall -96,1 m
+
 
 ### Sprenggranaten
 
@@ -95,9 +97,10 @@ Mündungsgeschwindigkeit: 880 m/s
 1000 m: Geschwindigkeit 373 m/s, Geschossabfall -11,0 m
 2000 m: Geschwindigkeit 245 m/s, Geschossabfall -95,8 m
 
+
 ### Remove both gun shields
 
-Gun shields are completely removed for an improved field of view.
+
 ### Remove gunsight shield
 
 Removing the gunsight shield gives the gunner a slightly wider field of view.

@@ -94,7 +94,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## Modifications
-&name=Armour Piercing High Explosive Shells
+
+
+### Armour Piercing High Explosive Shells
 
 7,5 cm Pzgr. 39/42
 
@@ -108,7 +110,8 @@ When fired from a 7.5 cm KwK 42 L/70 gun:
 Muzzle velocity 925 m/s, armour penetration at point blank range 158 mm.
 500 m: armour penetration 140 mm, velocity 825 m/s, drop -1.6 m.
 1000 m: armour penetration 125 mm, velocity 785 m/s, drop -6.6 m.
-2000 m: armour penetration 99 mm, velocity 667 m/s, drop -29.6 m
+
+
 ### High-Explosive Shells
 
 7,5 cm SprGr.42
@@ -123,7 +126,8 @@ When fired from a 7,5 cm KwK 42 L/70 gun:
 Muzzle velocity 700 m/s.
 500 m: velocity 648 m/s, drop -2.8 m.
 1000 m: velocity 601 m/s, drop -11.5 m.
-2000 m: velocity 518 m/s, drop -49.9 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 7,5 cm Pzgr. 40/42
@@ -138,10 +142,11 @@ When fired from a KwK 42 L/70 gun:
 Muzzle velocity 1170 m/s, armour penetration at point blank range 208 mm.
 500 m: armour penetration 179 mm, velocity 1054 m/s, drop -1.0 m.
 1000 m: armour penetration 154 mm, velocity: 949 m/s, drop -4.3 m.
-2000 m: armour penetration 111 mm, velocity: 756 m/s, drop -19.7 m
+
+
 ### Removed additional armor plates
 
-Removed 5 mm Schürzen that were attached to the hull. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.
+
 ### Smoke Mortars
 
 Installation of 6 external single-shot smoke mortars.

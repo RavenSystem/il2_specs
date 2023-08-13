@@ -59,22 +59,28 @@ References
 4) Profile Publications, The S.E. 5A Number 1.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=Cooper bombs
+
+
+### Cooper bombs
 
 Up to 4 x 11 kg (24 lb) Cooper General Purpose Bombs
 Additional mass: 56 kg
 Ammunition mass: 44 kg
 Racks mass: 12 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Fuel Gauge
 

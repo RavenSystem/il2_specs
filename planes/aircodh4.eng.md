@@ -70,11 +70,15 @@ References
 6) Various NACA reports.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=Cooper / H.E.R.L. / H.E.R.F.C. bombs
+
+
+### Cooper / H.E.R.L. / H.E.R.F.C. bombs
 
 Up to 12 x 11 kg (24 lb) General Purpose Bombs
 Additional mass: 167 kg
@@ -95,24 +99,31 @@ Additional mass: 224 kg
 Ammunition mass: 208 kg
 Racks mass: 16 kg
 Estimated speed loss before drop: 5 km/h
-Estimated speed loss after drop: 3 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
 
+
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-30 Gallons)
 Additional mass: 1 kg
-&name=Camera
+
+
+### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-&name=Radio
+
+
+### Radio
 
 Radio transmitter
-Additional mass: 10 kg
+
+
 ### Twin Lewis Overwing
 
 Two overwing mounted additional fixed Lewis machineguns.
@@ -124,7 +135,8 @@ Guns weight: 15 kg (w/o ammo drums)
 Mounts weight: 6 kg
 Ammo weight: 10 kg
 Total weight: 31 kg
-Estimated speed loss: 5 km/h
+
+
 ### Twin Lewis MG turret
 
 Scarff ring turret with twin Lewis MG
@@ -136,7 +148,8 @@ Guns weight: 15 kg (w/o ammo drums)
 Mount weight: 12 kg
 Ammo weight: 32 kg
 Total weight: 59 kg
-Estimated speed loss: 2 km/h
+
+
 ### Twin forward Vickers
 
 Twin fixed forward firing Vickers guns.

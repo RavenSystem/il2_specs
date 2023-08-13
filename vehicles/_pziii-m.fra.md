@@ -102,6 +102,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 ## Modifications
 
+
 ### Armour Piercing High Explosive Shells
 
 5 cm Pzgr. 39
@@ -116,7 +117,8 @@ When fired from a 5 cm KwK 39 L/60 gun:
 Muzzle velocity 835 m/s, armour penetration at point blank range 87 mm.
 500 m: armour penetration 68 mm, velocity 702 m/s, drop -1.5 m.
 1000 m: armour penetration 53 mm, velocity 587 m/s, drop -8.4 m.
-2000 m: armour penetration 30 mm, velocity 394 m/s, drop -76.7 m.
+
+
 ### High-Explosive Shells
 
 5 cm Sprgr. 38
@@ -131,7 +133,8 @@ When fired from a 5 cm KwK 39 L/60 gun:
 Muzzle velocity 550 m/s.
 500 m: velocity 444 m/s, drop -4.9 m.
 1000 m: velocity 368 m/s, drop -22.6 m.
-2000 m: velocity 285 m/s, drop -118.5 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 5 cm Pzgr. 40
@@ -148,11 +151,13 @@ When fired from a 5 cm KwK 39 L/60 gun:
 Muzzle velocity 1180 m/s, armour penetration at point blank range 175 mm.
 500 m: armour penetration 82 mm, velocity 696 m/s, drop -2.1 m.
 1000 m: armour penetration 43 mm, velocity: 443 m/s, drop -9.2 m.
-2000 m: armour penetration 16 mm, velocity: 223 m/s, drop -49.0 m.
+
+
 ### Plaques de blindage latérale
 
 
 Additional protection: 5 mm armored plates attached to the hull and turret. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.
+
 
 ### Smoke Mortars
 

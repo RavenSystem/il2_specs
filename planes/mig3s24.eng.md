@@ -98,20 +98,24 @@ Operation features:
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
 
 ## Modifications
-&name=2 x 12.7 mm BK machinegun pods
+
+
+### 2 x 12.7 mm BK machinegun pods
 
 BK 12.7mm machineguns in wing-mounted gun pods with 145 rounds per each
 Additional mass: 155 kg
 Ammunition mass: 54 kg
 Guns mass: 101 kg
-Estimated speed loss: 13 km/
+
+
 ### 2 x BS 12.7 mm (700 rounds)
 
 BS 12.7mm nose-mounted machineguns with 350 rounds per each instead of default ShKAS and BS nose-mounted machineguns
 Additional mass: 34 kg
 Ammunition mass: 131 kg
 Guns mass: 62 kg
-Estimated speed loss: 0 km/
+
+
 ### 2 x FAB-50sv / FAB-100M bombs
 
 2 x 50 kg General Purpose Bombs FAB-50sv / 2 x 104 kg General Purpose Bombs FAB-100M
@@ -128,7 +132,8 @@ Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### 6 x ROS-82 rockets
 
 6 x 82mm High Explosive unguided rockets ROS-82
@@ -136,7 +141,8 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
-Estimated speed loss after launch: 17 km/
+
+
 ### 2 x 20mm ShVAK (300 rounds)
 
 ShVAK 20mm nose-mounted guns with 150 rounds per each instead of default ShKAS and BS nose-mounted machineguns

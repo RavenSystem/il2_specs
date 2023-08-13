@@ -110,41 +110,48 @@ Operation features:
 
 ## Änderungen
 
+
 ### Merlin XX Motor mit +14 lb Ladedruck
 
 Merlin XX Motor mit +14 lb Ladedruck
-Geschwindigkeitsgewinn in Bodennähe: 11 km/h
+
+
 ### Luftfilter
 
 Luftfilter für staubige Bedingungen
 Zusätzliches Gewicht: 13 kg
-Geschwindigkeitsverlust: 5 km/h
+
+
 ### 4 x 7.7mm Maschinengewehr "Browning .303"
 
 Vier Außenflügel "Browning .303" 7.7mm Maschinengewehre mit jeweils 328 Schuss
 Zusätzliches Gewicht: 100 kg
 Gewicht der Munition: 39 kg
 Gewicht der Schusswaffen: 55 kg
-Geschwindigkeitsverlust: 3 km/h
+
+
 ### 4 x 20mm "Hispano Mk.II" Kanone
 
 Vier "Hispano Mk.II" 20mm flügelmontierte Kanonen mit jeweils90 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre
 Zusätzliches Gewicht: 195 kg
 Gewicht der Munition: 102 kg
 Gewicht der Schusswaffen: 228 kg
-Geschwindigkeitsverlust: 12 km/h
+
+
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-Geschwindigkeitsverlust: 2 km/h
+
+
 ### 2 x 12.7 mm BS und 2 x 20mm ShVAK
 
 Zwei BS 12.7 mm flügelmontierte Maschinengewehre mit jeweils 100 Schuss und zwei ShVAK 20mm flügelmontierte Kanonen mit jeweils 120 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre
 Zusätzliches Gewicht: 59 kg
 Gewicht der Munition: 87 kg
 Gewicht der Schusswaffen: 124 kg
-Geschwindigkeitsverlust: 4 km/h
+
+
 ### 2 x 40mm Vickers Behälter + Panzerung
 
 Zwei flügelmontierte "Browning .303" 7.7mm Maschinengewehre mit jeweils 650 Schuss und zwei Vickers Class S 40mm Behälter mit jeweils 15 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre + zusätzliche Panzerplatten
@@ -152,7 +159,8 @@ Zusätzliches Gewicht: 390 kg
 Gewicht der Munition: 84 kg
 Gewicht der Schusswaffen: 323 kg
 Rüstungsgewicht: 148 kg
-Geschwindigkeitsverlust: 16 km/h
+
+
 ### 2 x 40mm Vickers Class S Behälter
 
 Zwei flügelmontierte "Browning .303" 7.7mm Maschinengewehre mit jeweils 650 Schuss und zwei Vickers Class S 40mm Behälter mit jeweils 15 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre

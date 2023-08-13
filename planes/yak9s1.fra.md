@@ -84,22 +84,27 @@ Caractéristiques
 
 ## Modifications
 
+
 ### Phare datterrissage
 
 Atterrissage lumière pour les vols de nuit
 Masse supplementaire : 2 kg
-Perte estimee de vitesse : 0 km/h
+
+
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
-Estimated speed loss: 0 km/h
+
+
 ### Reflector Gunsight
 
 PBP-1A reflector gunsight
 Additional mass: 0.5 kg
 Estimated speed loss: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg

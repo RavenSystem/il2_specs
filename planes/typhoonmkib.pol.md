@@ -92,20 +92,24 @@ Combat debut: May 1942
 
 ## Modyfikacje
 
+
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-Estimated speed increase at sea level: 23 km/h
+
+
 ### 4-blades airscrew
 
 Installation of 4-blade airscrew
 Estimated maximum speed increase: 12 km/h
-Estimated maximum climb rate increase: 2.3 m/s
+
+
 ### Additional armor
 
 Installation of additional engine and cockpit armor
 Additional mass: 157 kg
-Estimated speed loss: 2 km/h
+
+
 ### Bomba M.C.
 
 2 x bomba ogólnego przeznaczenia M.C.
@@ -122,12 +126,14 @@ Additional mass: 969 kg
 Ammunition mass: 949 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 42 km/h
-Estimated speed loss after drop: 9 km/h
+
+
 ### Kopułkowy deflektor przeciwpyłowy
 
 Montaż deflektor przeciwpyłowy na wlocie powietrza do silnika
 Additional mass: 1 kg
-Estimated maximum speed loss: 8 km/h
+
+
 ### Bliźniacze rakiety RP-3 na wodowaniu szyny Mk.I
 
 Niekierowany kruszący pocisk rakietowy RP-3 – 3-in na wodowaniu szyny Mk.I
@@ -137,12 +143,14 @@ Additional mass: 544 kg
 Ammunition mass: 460 kg
 Racks mass: 84 kg
 Estimated speed loss before launch: 66 km/h
-Estimated speed loss after launch: 30 km/h
+
+
 ### Gunsight without reflector
 
 Installation of Type I Mk.III Gunsight
 Additional mass: 0 kg
-Estimated speed loss: 0 km/h
+
+
 ### Rakiety RP-3 na wodowaniu szyny Mk.I
 
 Niekierowany kruszący pocisk rakietowy RP-3 – 3-in na wodowaniu szyny Mk.I
@@ -160,6 +168,7 @@ Ammunition mass: 170 kg
 Racks mass: 84 kg
 Estimated speed loss before launch: 50 km/h
 Estimated speed loss after launch: 30 km/h
+
 
 ### Rakiety RP-3 na wodowaniu szyny Mk.III
 

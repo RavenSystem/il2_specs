@@ -58,15 +58,18 @@ References:
 
 ## Modifications
 
+
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
 
+
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
+
 
 ### Twin forward Vickers
 

@@ -99,21 +99,27 @@ Eigenschaften:
 
 ## Änderungen
 ﻿
-&name=2 x 12.7 mm BK in Geschützbehältern
+
+
+### 2 x 12.7 mm BK in Geschützbehältern
 
 BK Flügelmontierte Geschützbehälter mit 12.7-mm-Maschinenkanonen mit je 145 Schuss
 Zusätzliches Gewicht: 155 kg
 Gewicht der Munition: 54 kg
 Gewicht der Schusswaffen: 101 kg
 Geschwindigkeitsverlust: 13 km/h﻿
-&name=2 x 12.7 mm BS mit 700 Schuss
+
+
+### 2 x 12.7 mm BS mit 700 Schuss
 
 BS 12.7mm rumpfmontierte Machinengewehre mit jeweils 350 Schuss anstelle der Standart ShKAS und BS rumpfmontierten Maschinengewehre
 Zusätzliches Gewicht: 34 kg
 Gewicht der Munition: 131 kg
 Gewicht der Schusswaffen: 62 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-&name=2 x Bomben, Typ FAB-50sv / FAB-100M
+
+
+### 2 x Bomben, Typ FAB-50sv / FAB-100M
 
 2 x 50-kg-Splitterbomben FAB-50sv / 2 x 104-kg-Splitterbomben FAB-100M
 
@@ -130,7 +136,9 @@ Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-&name=6 x Raketen, Typ ROS-82
+
+
+### 6 x Raketen, Typ ROS-82
 
 6 x ungelenkte 82-mm-Explosivraketen ROS-82
 Zusätzliches Gewicht: 60 kg
@@ -138,7 +146,9 @@ Gewicht der Munition: 42 kg
 Gewicht der Abwurfwaffenroste: 18 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 23 km/h
 Geschwindigkeitsverlust nach dem Abfeuern: 17 km/h﻿
-&name=2 x 20 mm ShVAK mit 300 Schuss
+
+
+### 2 x 20 mm ShVAK mit 300 Schuss
 
 ShVAK 20mm rumpfmontierte Kanonen mit jeweils 150 Schuss anstelle der Standard ShKAS und BS rumpfmontierten Maschinengewehre
 Zusätzliches Gewicht: 4 kg

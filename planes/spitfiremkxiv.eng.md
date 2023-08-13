@@ -101,11 +101,14 @@ Operation features:
 
 
 ## Modifications
-&name=150 grade fuel
+
+
+### 150 grade fuel
 
 Allows +21 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 11000ft altitude.
-Estimated speed increase at sea level: 20 km/
+
+
 ### 2 x 250 lb G.P. bombs
 
 2 x 250 lb General Purpose Bombs
@@ -113,7 +116,8 @@ Additional mass: 247 kg
 Ammunition mass: 227 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 22 km/h
-Estimated speed loss after drop: 11 km/
+
+
 ### 500 lb G.P. bomb
 
 500 lb General Purpose Bomb
@@ -121,31 +125,36 @@ Additional mass: 237 kg
 Ammunition mass: 227 kg
 Racks mass: 10 kg
 Estimated speed loss before drop: 12 km/h
-Estimated speed loss after drop: 6 km/
+
+
 ### E-type Wing
 
 2 x 12.7mm "Browning .50" machine guns instead of 4 x 7.7mm "Browning .303" machine guns
 Additional mass: 48 kg
 Ammunition mass: 70 kg
 Gun mass: 72 kg
-Estimated speed gain: 5 km/
+
+
 ### Gyro Gunsight
 
 MkII Gyro Gunsight
 Additional mass: 5.2 kg
-Estimated speed loss: 0 km/
+
+
 ### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-Estimated speed loss: 1 km/
+
+
 ### Remove machine guns
 
 Removal of wing-mounted machine guns to reduce total weight
 Removed mass: 95 kg
 Removed ammunition mass: 42 kg
 Removed guns mass: 53 kg
-Estimated speed gain: 8 km/
+
+
 ### Clipped Wing
 
 Clipped Wing

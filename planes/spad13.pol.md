@@ -61,10 +61,12 @@ References
 
 ## Modyfikacje
 
+
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)
 Additional mass: 2 kg
+
 
 ### Balloon guns
 
@@ -77,6 +79,7 @@ Ammo weight: 32 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 58 kg
 
+
 ### Cooper bombs
 
 2 x 11 kg (24 lb) Cooper General Purpose Bombs
@@ -84,16 +87,19 @@ Additional mass: 22 kg
 Ammunition mass: 22 kg
 Racks mass: 0 kg
 Estimated speed loss before drop: 0 km/h
-Estimated speed loss after drop: 0 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
 
+
 ### Le-Chretien
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
+
 
 ### Camera
 

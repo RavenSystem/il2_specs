@@ -1,4 +1,4 @@
-&name=KV-1S ChTZ（1943型）
+# KV-1S ChTZ（1943型）
 
 ![_kv1s](../images/_kv1s.png)
 
@@ -95,7 +95,9 @@ VHF 9-RM transceiver.
 
 
 ## 修改
-&name=穿甲弹
+
+
+### 穿甲弹
 
 BR-350BSP
 
@@ -108,7 +110,8 @@ BR-350BSP
 炮口初速：660 m/s，近距离装甲穿深 87 mm
 500m时：装甲穿深 73mm，速度 585 m/s，下坠高度 3.2m
 1000m时：装甲穿深 62mm，速度 524 m/s，下坠高度 13.6m
-2000m时：装甲穿深 47mm，速度 429 m/s，下坠高度 63.5
+
+
 ### 穿甲榴弹
 
 BR-350B
@@ -122,10 +125,12 @@ BR-350B
 炮口初速：660 m/s，近距离装甲穿深 86 mm
 500m时：装甲穿深 72mm，速度 584 m/s，下坠高度 3.2m
 1000m时：装甲穿深 61mm，速度 522 m/s，下坠高度 13.6m
-2000m时：装甲穿深 46mm，速度 427 m/s，下坠高度 64
+
+
 ### Removed Fuel Tank
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.
+
 
 ### 榴弹
 
@@ -141,6 +146,7 @@ OF-350
 500m时：速度 ：616 m/s，下坠高度 3.0m
 1000m时：速度 ：558 m/s，下坠高度 12.5m
 2000m时：速度 ：468 m/s，下坠高度 56.7m
+
 
 ### 次口径穿甲弹
 

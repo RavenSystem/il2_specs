@@ -59,15 +59,19 @@ References
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
+
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Twin forward Vickers
 

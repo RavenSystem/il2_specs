@@ -56,20 +56,24 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)
 Peso adicional: 2 kg
+
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
 
+
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
+
 
 ### Lewis sobre ala superior
 
@@ -84,7 +88,8 @@ Peso del arma: 7,5 kg (sin cargador)
 Peso del soporte: 0,8 kg
 Peso de la munición: 12 kg
 Peso total: 20,3 kg
-Pérdida de velocidad estimada: 7-18 km/h
+
+
 ### Cohetes Le Prieur
 
 6 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la penetración de la envoltura del globo o una granada altamente explosiva.
@@ -93,6 +98,7 @@ Peso de munición: 12 kg
 Peso de los soportes: 24 kg
 Pérdida de velocidad estimada antes de soltar: 8 km/h
 Pérdida de velocidad estimada tras soltar: 6 km/h
+
 
 ### Anemómetro
 

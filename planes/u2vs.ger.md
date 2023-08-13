@@ -105,6 +105,7 @@ Eigenschaften:
 
 ## Änderungen
 
+
 ### Bombenlast
 
 Flügel- und Rumpfhalterungen mit Bomben
@@ -142,29 +143,34 @@ Zusätzliches Gewicht: 316 kg
 Gewicht der Munition: 308 kg
 Gewicht der Abwurfwaffenroste: 8 kg
 Geschwindigkeitsverlust vor Abwurf: 13 km/h
-Geschwindigkeitsverlust nach Abwurf: 2 km/h
+
+
 ### Female Crew
 
-"Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces
+
 ### Fluglageanzeige
 
 Fluglageanzeige AGP-2
 Zusätzliches Gewicht: 2 kg
-Geschätzter Geschwindigkeitsverlust: 0 km/h
+
+
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
-Geschwindigkeitsverlust: 1 km/h
+
+
 ### Navigationslichter
 
 Navigationslichter
-Zusätzliches Gewicht: 4 kg
+
+
 ### Funkgerät
 
 Funkgerät RSI-4
 Zusätzliches Gewicht: 12.6 kg
-Geschwindigkeitsverlust: 0 km/h
+
+
 ### Raketen
 
  82mm explosive ungelenkte Raketen ROS-82 oder 82mm panzerbrechende ungelenkte Raketen RBS-82 oder 132mm explosive ungelenkte Raketen ROS-132
@@ -202,12 +208,14 @@ Zusätzliches Gewicht: 224 kg
 Gewicht der Munition: 184 kg
 Gewicht der Abwurfwaffenroste: 40 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 8 km/h
-Geschwindigkeitsverlust nach dem Abfeuern: 4 km/h
+
+
 ### Heckgeschützturm
 
 Rückwärtiges Geschütz mit 7,62-mm-ShKAS-Maschinengewehr mit 400 Schuss
 Zusätzliches Gewicht: 34 kg
-Geschwindigkeitsverlust: 2 km/
+
+
 ### Bug-MG
 
 Flügelmontiertes 7,62mm ShKAS Maschinengewehr mit 500 Schuss

@@ -99,6 +99,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 ## Änderungen
 
+
 ### Panzersprenggranaten
 
 7,5 cm Pzgr. 39
@@ -114,7 +115,8 @@ Mündungsgeschwindigkeit 750 m/s
 Durchschlagsleistung aus kürzester Entfernung: 117 mm
 500 m: Durchschlagsleistung 104 mm, Geschwindigkeit 691 m/s, Fall -2,4 m
 1000 m: Durchschlagsleistung 92 mm, Geschwindigkeit 636 m/s, Fall -10,0 m
-2000 m: Durchschlagsleistung 72 mm, Geschwindigkeit 537 m/s, Fall -44,8 m
+
+
 ### Sprenggranaten
 
 7,5 cm SprGr.34
@@ -129,7 +131,8 @@ Abgefeuert aus einer 7,5 cm KwK 40 L/48 Kanone:
 Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 509 m/s, Geschossabfall -4,5 m
 1000 m: Geschwindigkeit 473 m/s, Geschossabfall -18,5 m
-2000 m: Geschwindigkeit 405 m/s, Geschossabfall -80,9 m
+
+
 ### Hohlladunggranaten
 
 7,5 cm Gr.38 HL/С
@@ -144,7 +147,8 @@ Abgefeuert aus einer 7,5 cm KwK 40 L/48 Kanone:
 Mündungsgeschwindigkeit: 450 m/s
 500 m: Geschwindigkeit 328 m/s, Geschossabfall -7,8 m
 1000 m: Geschwindigkeit 278 m/s, Geschossabfall -38,1 m
-2000 m: Geschwindigkeit 244 m/s, Geschossabfall -200,4 m
+
+
 ### Hartkerngranaten
 
 7,5 cm Pzgr. 40
@@ -160,7 +164,8 @@ Mündungsgeschwindigkeit 930 m/s
 Durchschlagsleistung aus kürzester Entfernung: 150 mm
 500 m: Durchschlagsleistung 128 mm, Geschwindigkeit 832 m/s, Fall -1.6 m
 1000 m: Durchschlagsleistung 108 mm, Geschwindigkeit 739 m/s, Fall -10.0 m
-2000 m: Durchschlagsleistung 75 mm, Geschwindigkeit 573 m/s, Fall -44.8 m
+
+
 ### Zusätzliche Panzerschürzen
 
 Zusätzlicher Schutz 5mm. Zum Schutz vor Panzerbüchsen, welche die dünnere Seitenpanzerung durschlagen konnten. Obwohl die Schürzen ein panzerbrechendes Geschoss nicht aufhalten können, kann diese Zusatzpanzerung dafür sorgen, das Geschoss zum Trudeln zu bringen oder zu zersplittern, bevor es auf die Hauptpanzerung trifft.

@@ -52,20 +52,24 @@ Referenzen
 
 ## Änderungen
 
+
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
+
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
 
+
 ### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Zusätzliches Gewicht: 1 kg
+
 
 ### Thermometer
 

@@ -55,15 +55,18 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)
 Peso adicional: 2 kg
 
+
 ### Altímetro
 
 Altímetro de Peltret y Lafage (0..5000 m)
 Peso adicional: 1 kg
+
 
 ### Ametralladoras cazaglobos
 
@@ -76,30 +79,36 @@ Peso de la munición: 24 kg
 Cadencia de disparo: 600 bpm
 Peso adicional total: 50 kg
 
+
 ### Reloj
 
 Reloj Mecánico
 Peso adicional: 1 kg
+
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
 
+
 ### Brújula
 
 Brújula de L.Maxant
 Peso adicional: 1 kg
+
 
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
 
+
 ### Indicador de deslizamiento lateral
 
 Indicador de deslizamiento lateral (tipo bola)
 Peso adicional: 1 kg
+
 
 ### Anemómetro
 

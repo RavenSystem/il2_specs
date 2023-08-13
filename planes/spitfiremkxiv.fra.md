@@ -101,11 +101,13 @@ Caractéristiques
 
 ## Modifications
 
+
 ### 150 grade fuel
 
 Allows +21 lb boost
 Supercharger gear shift automat is disabled. Stages should be manually switched at 11000ft altitude.
-Estimated speed increase at sea level: 20 km/h
+
+
 ### 2 bombes 250 lb G.P.
 
 2 bombes d’emploi général 250 lb G.P.
@@ -113,7 +115,8 @@ Masse supplémentaire : 247 kg
 Masse des munitions : 227 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 22 km/h
-Perte estimée de vitesse après le largage : 11 km/h
+
+
 ### 500 lb G.P.
 
 Le bombe d’emploi général 500 lb G.P.
@@ -121,31 +124,36 @@ Masse supplémentaire : 237 kg
 Masse des munitions : 227 kg
 Masse des pylones : 10 kg
 Perte estimée de vitesse avant le largage : 12 km/h
-Perte estimée de vitesse après le largage : 6 km/h
+
+
 ### Aile de type "e"
 
 Installation de 2 x 12.7mm "Browning .50" mitrailleuses au lieu de 4 x 7.7mm "Browning .303" mitrailleuses
 Masse supplémentaire: 48 kg
 Masse des munitions : 70 kg
 Masse des canons : 72 kg
-Gain estimée de vitesse : 5 km/h
+
+
 ### Gyro Gunsight
 
 MkII Gyro Gunsight
 Additional mass: 5.2 kg
-Estimated speed loss: 0 km/h
+
+
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
-Estimated speed loss: 1 km/h
+
+
 ### Suppression des mitrailleuses
 
 Retrait des mitrailleuses montées sur les ailes pour réduire la masse totale
 Masse enlevée : 95 kg
 Masse des munitions enlevées : 42 kg
 Masse des mitrailleuses enlevées : 53 kg
-Gain estimé de vitesse : 8 km/h
+
+
 ### Clipped Wing
 
 Clipped Wing

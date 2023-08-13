@@ -1,4 +1,4 @@
-&name=四号坦克G型（Pz.Kpfw.IV Ausf.G）
+# 四号坦克G型（Pz.Kpfw.IV Ausf.G）
 
 ![_pziv-g](../images/_pziv-g.png)
 
@@ -98,7 +98,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## 修改
-&name=穿甲榴弹
+
+
+### 穿甲榴弹
 
 7，5 cm Pzgr.39
 
@@ -112,7 +114,8 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：750 m/s，近距离装甲穿深 117 mm
 500m时：装甲穿深 104mm，速度 691 m/s，下坠高度 2.4m
 1000m时：装甲穿深 92mm，速度 636 m/s，下坠高度 10.0m
-2000m时：装甲穿深 72mm，速度 537 m/s，下坠高度 44.8
+
+
 ### 榴弹
 
 7，5 cm SprGr.34
@@ -127,7 +130,8 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：550 m/s
 500m时：速度 509 m/s，下坠高度 4.5m
 1000m时：速度 473 m/s，下坠高度 18.5m
-2000m时：速度 405 m/s，下坠高度 80.9m
+
+
 ### 破甲弹
 
 7，5 cm Gr.38 HL/С
@@ -142,7 +146,8 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：450 m/s
 500m时：速度 328 m/s，下坠高度 7.8m
 1000m时：速度 278 m/s，下坠高度 38.1m
-2000m时：速度 244 m/s，下坠高度 200.4m
+
+
 ### 次口径穿甲弹
 
 7，5 cm Pzgr.40
@@ -157,7 +162,8 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：930 m/s，近距离装甲穿深 150 mm
 500m时：装甲穿深 128mm，速度 832 m/s，下坠高度 1.6m
 1000m时：装甲穿深 108mm，速度 739 m/s，下坠高度 10.0m
-2000m时：装甲穿深 75mm，速度 573 m/s，下坠高度 44.8
+
+
 ### 额外装甲
 
 附加防护：车身和炮塔附上5mm装甲板。

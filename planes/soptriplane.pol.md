@@ -60,15 +60,18 @@ References
 
 ## Modyfikacje
 
+
 ### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
 
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Twin forward Vickers
 

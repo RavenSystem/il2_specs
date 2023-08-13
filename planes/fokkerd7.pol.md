@@ -60,39 +60,47 @@ References
 
 ## Modyfikacje
 
+
 ### High Altimeter
 
 D.R.P Altimeter (0-8000 m)
+
 
 ### Bullet Counters
 
 Wilhelm Morell digital bullet counters for 2 machine guns
 Additional mass: 1 kg
 
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
 
+
 ### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
+
 
 ### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
 
+
 ### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
+
 
 ### Thermometer
 

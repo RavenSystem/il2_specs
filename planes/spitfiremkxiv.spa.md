@@ -101,11 +101,13 @@ Características operativas:
 
 ## Modificaciones
 
+
 ### Combustible de 150 octanos
 
 Permite un impulso de +21 lb
 El cambio de etapa automático del compresor se deshabilita. El cambio de etapa debe realizarse de forma manual a 11000 ft de altitud.
-Incremento estimado de velocidad a nivel del mar: 20 km/h
+
+
 ### 2 bombas G.P. de 250 lb
 
 2 bombas de propósito general (G.P., General Purpose) de 250 lb
@@ -113,7 +115,8 @@ Peso adicional: 247 kg
 Peso de munición: 227 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 22 km/h
-Pérdida de velocidad estimada tras soltar: 11 km/h
+
+
 ### 1 bomba G.P. de 500 lb
 
 1 bomba de propósito general (G.P., General Purpose) de 500 lb
@@ -121,31 +124,36 @@ Peso adicional: 237 kg
 Peso de munición: 227 kg
 Peso de los soportes: 10 kg
 Pérdida de velocidad estimada antes de soltar: 12 km/h
-Pérdida de velocidad estimada tras soltar: 6 km/h
+
+
 ### Ala tipo E
 
 Instalación de 2 ametralladoras de 12,7 mm «Browning .50» en lugar de 4 ametralladoras de 7,7 mm «Browning .303»
 Peso adicional: 48 kg
 Peso de munición: 70 kg
 Peso del armamento: 72 kg
-Ganancia de velocidad estimada: 5 km/h
+
+
 ### Mira giroscópica
 
 Instalación de una mira giroscópica Mk.II, en lugar de la mira refectora fija
 Peso adicional: 5,2 kg
-Pérdida de velocidad estimada: 0 km/h
+
+
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-Pérdida de velocidad estimada: 1 km/h
+
+
 ### Desinstalar ametralladoras
 
 Desinstalación de ametralladoras montadas en las alas para reducir el peso total
 Peso retirado: 95 kg
 Peso de munición retirada: 42 kg
 Peso del armamento retirado: 53 kg
-Ganancia de velocidad estimada: 8 km/h
+
+
 ### Alas recortadas
 
 Alas recortadas

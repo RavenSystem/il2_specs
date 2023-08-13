@@ -62,10 +62,12 @@ Referenzen
 
 ## Änderungen
 
+
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
+
 
 ### Cooper Bomben
 
@@ -76,10 +78,12 @@ Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
 Geschwindigkeitsverlust nach Abwurf: 1 km/h
 
+
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
+
 
 ### Lewis Überflügel-Zwillings-Maschinengewehr
 
@@ -96,6 +100,7 @@ Gewicht der Munition: 16 kg
 Gseamtgewicht: 33 kg
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h
 
+
 ### Twin Lewis lower-wing
 
 Two additional lower-wing mounted fixed Lewis machine guns.
@@ -107,7 +112,8 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 8 kg
 Total weight: 25 kg
-Geschätzter Geschwindigkeitsverlust: 3 km/h
+
+
 ### Thermometer
 
 O.S.I.C Kühlwasserthermometer (30-100 °C)

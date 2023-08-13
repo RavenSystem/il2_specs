@@ -96,11 +96,14 @@ Operation features:
 - Both gunsights have sliding sun-filters.
 
 ## Modifications
-&name=150 grade fuel
+
+
+### 150 grade fuel
 
 Allows +21 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 11000ft altitude.
-Estimated speed increase at sea level: 20 km/
+
+
 ### 2 x 250 lb G.P. bombs
 
 2 x 250 lb General Purpose Bombs
@@ -108,7 +111,8 @@ Additional mass: 247 kg
 Ammunition mass: 227 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 22 km/h
-Estimated speed loss after drop: 11 km/
+
+
 ### 500 lb G.P. bomb
 
 500 lb General Purpose Bomb
@@ -116,24 +120,32 @@ Additional mass: 237 kg
 Ammunition mass: 227 kg
 Racks mass: 10 kg
 Estimated speed loss before drop: 12 km/h
-Estimated speed loss after drop: 6 km/
+
+
 ### Recon camera
 
 F.24 camera installation behind the cockpit (clipped wing only)
 Additional mass: 28 kg
 Estimated speed loss: 0 km/h
-&name=Rounded exhaust pipes
+
+
+### Rounded exhaust pipes
 
 Rounded exhaust pipes
-&name=Mirror
+
+
+### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-Estimated speed loss: 1 km/
+
+
 ### Reflector Gunsight
 
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
-&name=Clipped Wing
+
+
+### Clipped Wing
 
 Clipped Wing
 Removed mass: 4 kg

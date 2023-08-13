@@ -92,14 +92,17 @@ Operation features:
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
 
 ## Modifications
-&name=2 x FAB-100M bombs
+
+
+### 2 x FAB-100M bombs
 
 2 x 104 kg General Purpose Bombs FAB-100M
 Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-Estimated speed loss after drop: 12 km/
+
+
 ### 2 x FAB-50sv bombs
 
 2 x 50 kg General Purpose Bombs FAB-50sv
@@ -107,7 +110,8 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### 6 x ROS-82 rockets
 
 6 x 82mm High Explosive unguided rockets ROS-82
@@ -115,14 +119,16 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
-Estimated speed loss after launch: 17 km/
+
+
 ### 37mm Sh-37 gun
 
 Sh-37 37mm motor-gun with 20 rounds
 Additional mass: 117 kg
 Ammunition mass: 36 kg
 Gun mass: 169 kg
-Estimated speed loss: 2 km/
+
+
 ### 23mm VYa-23 gun
 
 VYa-23 23mm motor-gun with 90 rounds

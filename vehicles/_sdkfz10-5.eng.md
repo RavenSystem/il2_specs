@@ -64,6 +64,7 @@ Reserve iron sights.
 
 ## Modifications
 
+
 ### Armour Piercing Shells
 
 2 cm Pzgr. Lspur
@@ -78,6 +79,7 @@ Muzzle velocity 780 m/s, armour penetration at point blank range 25 mm.
 500 m: armour penetration 16 mm, velocity 561 m/s, drop -2.7 m.
 1000 m: armour penetration 9 mm, velocity 393 m/s, drop -13.6 m.
 2000 m: armour penetration 5 mm, velocity 264 m/s, drop -96.1 m.
+
 
 ### High-Explosive Shells
 
@@ -94,9 +96,11 @@ Muzzle velocity: 880 m/s.
 500 m: velocity 634 m/s, drop -2.1 m.
 1000 m: velocity 373 m/s, drop -11.0 m.
 2000 m: velocity 245 m/s, drop -95.8 m.
-&name=Remove both gun shields
 
-Gun shields are completely removed for an improved field of view
+
+### Remove both gun shields
+
+
 ### Remove gunsight shield
 
 Removing the gunsight shield gives the gunner a slightly wider field of view.

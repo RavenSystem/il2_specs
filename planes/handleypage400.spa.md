@@ -69,6 +69,7 @@ Referencias:
 
 ## Modificaciones
 
+
 ### 1 bomba pesada 1650 lb SN
 
 1 bomba de propósito general de 1650 lb (748 kg)
@@ -76,7 +77,8 @@ Peso adicional: 778 kg
 Peso de munición: 748 kg
 Peso de los soportes: 30 kg
 Pérdida de velocidad estimada antes de soltar: 5 km/h
-Pérdida de velocidad estimada tras soltar: 0 km/h
+
+
 ### Cañón Davis en artillero frontal
 
 Cañón manual sin retroceso Davis de 57 mm en la posición del artillero frontal
@@ -89,7 +91,8 @@ Peso del arma: 50 kg
 Peso del soporte: 15 kg
 Peso de la munición: 119 kg
 Peso total: 210 kg
-Pérdida de velocidad estimada: 0,5 km/h
+
+
 ### Cañón Davis en artillero frontal (+Lewis)
 
 Cañón manual sin retroceso Davis de 57 mm en la posición del artillero frontal con ametralladora coaxial Lewis para ayudar al apuntado
@@ -102,11 +105,13 @@ Peso del arma: 50 kg
 Peso del soporte: 15 kg
 Peso de la munición: 119 kg
 Peso total: 210 kg
-Pérdida de velocidad estimada: 0,5 km/h
+
+
 ### Indicador nivel de combustible
 
 Indicador analógico del nivel de combustible (0-300 Galones)
 Peso adicional: 1 kg
+
 
 ### Doble Lewis en artillero trasero
 

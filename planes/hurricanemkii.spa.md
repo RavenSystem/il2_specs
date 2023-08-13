@@ -109,41 +109,48 @@ Características operativas:
 
 ## Modificaciones
 
+
 ### Motor Merlin XX con +14 lb de impulso
 
 Motor Merlin XX que permite un impulso de +14 lb
-Incremento estimado de velocidad a nivel del mar: 11 km/h
+
+
 ### Filtro de aire
 
 Filtro de aire para condiciones polvorientas
 Peso adicional: 13 kg
-Pérdida de velocidad estimada: 5 km/h
+
+
 ### 4 ametralladoras Browning .303 adicionales
 
 4 ametralladoras de 7,7 mm Browning .303 adicionales, montadas en el exterior de las alas con 328 balas cada una, para hacer un total de 12 ametralladoras Browning .303
 Peso adicional: 100 kg
 Peso de munición: 39 kg
 Peso del armamento: 55 kg
-Pérdida de velocidad estimada: 3 km/h
+
+
 ### 4 cañones de 20 mm Hispano Mk.II
 
 4 cañones de 20 mm Hispano Mk.II montados en las alas con 90 balas cada uno, en lugar de las 8 ametralladoras de 7,7 mm Browning .303 montadas por defecto
 Peso adicional: 195 kg
 Peso de munición: 102 kg
 Peso del armamento: 228 kg
-Pérdida de velocidad estimada: 12 km/h
+
+
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-Pérdida de velocidad estimada: 2 km/h
+
+
 ### 2 ametralladoras BS y 2 cañones ShVAK
 
 2 ametralladoras de 12,7 mm BS montadas en las alas con 100 balas cada una y 2 cañones de 20 mm ShVAK montados también en las alas con 120 balas cada uno, en lugar de las 8 ametralladoras Browning .303 montadas en las alas por defecto
 Peso adicional: 59 kg
 Peso de munición: 87 kg
 Peso del armamento: 124 kg
-Pérdida de velocidad estimada: 4 km/h
+
+
 ### 2 cañones de 40 mm Vickers + blindaje adicional
 
 2 cañones de 40 mm Vickers Class S montados en carcasas subalares con 15 balas cada uno, en lugar de 6 de las 8 ametralladoras Browning .303 montadas en las alas por defecto. Las 2 ametralladoras de 7,7 mm Browning .303 restantes cuentan con 650 balas cada una. Esta modificación cuenta además con planchas de blindaje adicional
@@ -151,7 +158,8 @@ Peso adicional: 390 kg
 Peso de munición: 84 kg
 Peso del armamento: 323 kg
 Peso del blindaje: 148 kg
-Pérdida de velocidad estimada: 16 km/h
+
+
 ### 2 cañones de 40 mm Vickers
 
 2 cañones de 40 mm Vickers Class S montados en carcasas subalares con 15 balas cada uno, en lugar de 6 de las 8 ametralladoras Browning .303 montadas en las alas por defecto. Las 2 ametralladoras de 7,7 mm Browning .303 restantes cuentan con 650 balas cada una

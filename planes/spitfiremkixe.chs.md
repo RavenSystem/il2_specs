@@ -126,11 +126,14 @@ Merlin 70发动机：
 
 
 ## 修改
-&name=150号汽油
+
+
+### 150号汽油
 
 允许+25 lb增压
 禁用增压器自动换挡。应在9000 feet高度手动换挡。
-预期海平面增速：29 km/
+
+
 ### 2 x 250 lb 通用炸弹
 
 2 x 250 lb 通用炸弹
@@ -138,7 +141,8 @@ Merlin 70发动机：
 弹药质量：227 kg
 挂架质量：20 kg
 投弹前预期速度损失：24 km/h
-投弹后预期速度损失：8 km/
+
+
 ### 500 lb 通用炸弹
 
 500 lb 通用炸弹
@@ -146,7 +150,8 @@ Merlin 70发动机：
 弹药质量：227 kg
 挂架质量：10 kg
 投弹前预期速度损失：13 km/h
-投弹后预期速度损失：7 km/
+
+
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -154,22 +159,26 @@ Empty mass: 50 kg
 Full mass: 275 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/
+
+
 ### 陀螺瞄准具
 
 MkII陀螺射击瞄准具
 增加质量：5.2 kg
-预期速度损失：0 km/
+
+
 ### 梅林70发动机
 
 梅林70发动机。
 增加质量：0 kg
-预期速度损失：0 km/
+
+
 ### 后视镜
 
 后视镜
 增加质量：1 kg
-预期速度损失：1 km/h
+
+
 ### 2 х RP-3 高爆/穿甲 火箭弹
 
 2 х 3-inch RP-3无制导高爆/穿甲火箭弹
@@ -186,7 +195,8 @@ RP-3 AP:
 弹药质量：55 kg
 挂架质量：20 kg
 发射前预期速度损失：21 km/h
-发射后预期速度损失：17 km/
+
+
 ### 裁剪翼
 
 裁剪翼

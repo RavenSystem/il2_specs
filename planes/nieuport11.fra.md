@@ -52,35 +52,42 @@ References
 
 ## Modifications
 
+
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)
 Masse supplémentaire : 2 kg
+
 
 ### Altimetre
 
 Altimetre Peltret and Lafage (0..5000m)
 Masse supplémentaire : 1 kg
 
+
 ### Montre de bord
 
 Montre mécanique
 Masse supplémentaire : 1 kg
+
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
 
+
 ### Compas
 
 Compas L.Maxant
 Masse supplémentaire : 1 kg
 
+
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
+
 
 ### LePrieur rockets
 
@@ -91,10 +98,12 @@ Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 8 km/h
 Perte estimée de vitesse après le largage : 6 km/h
 
+
 ### Anemometre
 
 Anemometre E.Badin (70..200 km/h à 2000 m et 80..220 km/h à 4000 m)
 Masse supplémentaire : 1 kg
+
 
 ### Twin Lewis Overwing
 

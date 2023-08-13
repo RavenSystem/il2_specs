@@ -127,11 +127,13 @@ Características operativas:
 
 ## Modificaciones
 
+
 ### Combustible de 150 octanos
 
 Permite un impulso de +25 lb
 El cambio de etapa automático del compresor se deshabilita. El cambio de etapa debe realizarse de forma manual a 9000 ft de altitud.
-Incremento estimado de velocidad a nivel del mar: 29 km/h
+
+
 ### 2 bombas G.P. de 250 lb
 
 2 bombas de propósito general (G.P., General Purpose) de 250 lb
@@ -139,7 +141,8 @@ Peso adicional: 247 kg
 Peso de munición: 227 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 24 km/h
-Pérdida de velocidad estimada tras soltar: 8 km/h
+
+
 ### 1 bomba G.P. de 500 lb
 
 1 bomba de propósito general (G.P., General Purpose) de 500 lb
@@ -147,7 +150,8 @@ Peso adicional: 237 kg
 Peso de munición: 227 kg
 Peso de los soportes: 10 kg
 Pérdida de velocidad estimada antes de soltar: 13 km/h
-Pérdida de velocidad estimada tras soltar: 7 km/h
+
+
 ### Depósito de combustible de 300 litros
 
 Depósito de combustible suspendido desechable con capacidad para 300 litros
@@ -155,22 +159,26 @@ Peso vacío: 50 kg
 Peso adicional: 275 kg
 Capacidad de combustible: 300 l
 Pérdida de velocidad estimada antes de soltar: 30 km/h
-Pérdida de velocidad estimada tras soltar: 10 km/h
+
+
 ### Mira giroscópica
 
 Instalación de una mira giroscópica Mk.II, en lugar de la mira refectora fija
 Peso adicional: 5,2 kg (11,5 lb)
-Pérdida de velocidad estimada: 0 km/h
+
+
 ### Motor Merlin 70
 
 Nuevo motor Merlin 70 
 Peso adicional: 0 kg
-Pérdida de velocidad estimada: 0 km/h
+
+
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-Pérdida de velocidad estimada: 1 km/h
+
+
 ### 2 cohetes RP-3 en lanzadores Mk.I
 
 2 cohetes no guiados de 3 pulgadas (76 mm) RP-3 semiperforante con carga explosiva (SAP/HE) o perforante (AP en carriles de lanzamiento Mk.I
@@ -188,6 +196,7 @@ Peso de munición: 55 kg (121 lb)
 Peso de los soportes: 20 kg (44 lb)
 Pérdida de velocidad estimada antes de lanzarlos: 21 km/h (46,3 mph)
 Pérdida de velocidad estimada tras lanzarlos: 17 km/h (37,5 mph)
+
 
 ### Alas recortadas
 

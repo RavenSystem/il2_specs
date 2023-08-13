@@ -69,10 +69,12 @@ References
 
 ## Modifications
 
+
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
+
 
 ### 20mm Becker Turret
 
@@ -86,7 +88,8 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 6 km/h
+
+
 ### Bombes P.u.W.
 
 12 bombes d’emploi général 12.5 kg P.u.W
@@ -101,11 +104,13 @@ Masse supplémentaire : 186 kg
 Masse des munitions : 150 kg
 Masse des pylones : 36 kg
 Perte estimée de vitesse avant le largage : 4 km/h
-Perte estimée de vitesse après le largage : 2 km/h
+
+
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
+
 
 ### Jauges supplémentaires
 
@@ -117,16 +122,19 @@ Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 
 
 Montre Mécanique
 
-Masse supplémentaire : 3 kg
+
+
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
 
+
 ### Radio
 
 Radio transmitter
-Additional mass: 10 kg
+
+
 ### Twin Parabellum MG Turret
 
 Ring turret with twin Parabellum machine guns.
@@ -138,7 +146,8 @@ Guns weight: 19 kg (w/o ammo drums)
 Mount weight: 5 kg
 Ammo weight: 30 kg
 Total weight: 54 kg
-Estimated speed loss: 8 km/h
+
+
 ### Twin Spandau MG
 
 Twin fixed forward firing LMG 08/15 guns.

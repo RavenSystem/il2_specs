@@ -59,27 +59,39 @@ References
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
 ## Modifications
-&name=Inclinometer
+
+
+### Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-&name=Cockpit light
+
+
+### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Gunsight
+
+
+### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-&name=Collimator Day
+
+
+### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-&name=Collimator Night
+
+
+### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-&name=Anemometer
+
+
+### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg

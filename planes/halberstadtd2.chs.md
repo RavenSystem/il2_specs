@@ -52,18 +52,25 @@ References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
 ## 修改
-&name=阿尔迪斯（Aldis）瞄准具（战利品）
+
+
+### 阿尔迪斯（Aldis）瞄准具（战利品）
 
 阿尔迪斯（Aldis）折射型直筒瞄准具
 增加质量：2 kg
-&name=驾驶舱照明
+
+
+### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-&name=风速仪
+
+
+### 风速仪
 
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)
 增加质量：1 kg
+
 
 ### 温度计
 

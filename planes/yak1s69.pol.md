@@ -92,7 +92,9 @@ Operation features:
 
 ## Modyfikacje
 ﻿
-&name=2 x bomba FAB-100M
+
+
+### 2 x bomba FAB-100M
 
 2 x bomba ogólnego przeznaczenia FAB-100M – 104 kg
 Additional mass: 228 kg
@@ -100,18 +102,23 @@ Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
 Estimated speed loss after drop: 12 km/h﻿
-&name=2 x bomba FAB-50SW
+
+
+### 2 x bomba FAB-50SW
 
 2 x bomba ogólnego przeznaczenia FAB-50SW – 50 kg
 Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### Female Pilot
 
 Lydia (Lilya) Vladimirovna Litvyak (18 August 1921 - 1 August 1943) - a Soviet fighter pilot, flight commander, Guards Junior Lieutenant, most successful female pilot of World War 2, Hero of the Soviet Union. Later research confirms 4 individual and 3 shared victories in aerial combat, as well as 1 aerostat shot down. Killed in action at the age of less than 22 years in a battle over the Mius Front.﻿
-&name=2 x rakieta ROS-82
+
+
+### 2 x rakieta ROS-82
 
 2 x niekierowany kruszący pocisk rakietowy ROS-82 – 82 mm
 Additional mass: 60 kg
@@ -119,7 +126,9 @@ Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 8 km/h
 Estimated speed loss after launch: 6 km/h﻿
-&name=6 x rakieta ROS-82
+
+
+### 6 x rakieta ROS-82
 
 6 x niekierowany kruszący pocisk rakietowy ROS-82 – 82 mm
 Additional mass: 60 kg
@@ -127,7 +136,9 @@ Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
 Estimated speed loss after launch: 17 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Radiopółkompas służący do nawigacji z użyciem radiostacji prowadzących
 Additional mass: 10 kg

@@ -91,14 +91,17 @@ Operation features:
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.
 
 ## Modifications
-&name=2 x FAB-100M bombs
+
+
+### 2 x FAB-100M bombs
 
 2 x 104 kg General Purpose Bombs FAB-100M
 Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-Estimated speed loss after drop: 12 km/
+
+
 ### 2 x FAB-50sv bombs
 
 2 x 50 kg General Purpose Bombs FAB-50sv
@@ -106,10 +109,11 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/
+
+
 ### Female Pilot
 
-Lydia (Lilya) Vladimirovna Litvyak (18 August 1921 - 1 August 1943) - a Soviet fighter pilot, flight commander, Guards Junior Lieutenant, most successful female pilot of World War 2, Hero of the Soviet Union. Later research confirms 4 individual and 3 shared victories in aerial combat, as well as 1 aerostat shot down. Killed in action at the age of less than 22 years in a battle over the Mius Front.
+
 ### 2 x ROS-82 rockets
 
 2 x 82mm High Explosive unguided rockets ROS-82
@@ -117,7 +121,8 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 8 km/h
-Estimated speed loss after launch: 6 km/h
+
+
 ### 6 x ROS-82 rockets
 
 6 x 82mm High Explosive unguided rockets ROS-82
@@ -125,7 +130,8 @@ Additional mass: 60 kg
 Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
-Estimated speed loss after launch: 17 km/
+
+
 ### RPK-10
 
 Fixed loop radio compass for navigation with radio beacons

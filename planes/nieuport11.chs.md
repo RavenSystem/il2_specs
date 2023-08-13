@@ -52,42 +52,58 @@ References
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)
 增加质量：2 kg
-&name=高度计
+
+
+### 高度计
 
 佩尔特雷拉菲切型高度计(0至5000m)
 增加质量：1 kg
-&name=时钟
+
+
+### 时钟
 
 机械时钟
 增加质量：1 kg
-&name=驾驶舱照明
+
+
+### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-&name=罗盘
+
+
+### 罗盘
 
 L.麦克森型罗盘
 增加质量：1 kg
-&name=勒克雷蒂安（LeChretien）瞄准具
+
+
+### 勒克雷蒂安（LeChretien）瞄准具
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-&name=LePrieur rockets
+
+
+### LePrieur rockets
 
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.
 增加质量：36 kg
 弹药质量：16 kg
 挂架质量：20 kg
 投弹前预期速度损失：8 km/h
-投弹后预期速度损失：6 km/
+
+
 ### 风速计
 
 E.巴丁型风速计(2000m时70至200km/h，4000m时80至220km/h)
 增加质量：1 kg
+
 
 ### 机翼上加装两挺刘易斯机枪
 

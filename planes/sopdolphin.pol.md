@@ -63,10 +63,12 @@ References
 
 ## Modyfikacje
 
+
 ### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
+
 
 ### Cooper bombs
 
@@ -75,11 +77,13 @@ Additional mass: 56 kg
 Ammunition mass: 44 kg
 Racks mass: 12 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
+
 
 ### Twin Lewis Overwing
 
@@ -94,7 +98,8 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 16 kg
 Total weight: 33 kg
-Estimated speed loss: 7-18 km/h
+
+
 ### Twin Lewis lower-wing
 
 Two additional lower-wing mounted fixed Lewis machine guns.
@@ -106,7 +111,8 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 8 kg
 Total weight: 25 kg
-Estimated speed loss: 3 km/h
+
+
 ### Thermometer
 
 O.S.I.C engine coolant temperature Indicator (30-100 °C)

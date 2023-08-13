@@ -57,15 +57,19 @@ Pilots reported that the plane exhibited an outstanding climb rate, high speed a
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
+
 
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
+
 
 ### 加装两挺前射维克斯机枪
 

@@ -75,30 +75,36 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras
 Peso adicional: 1 kg
+
 
 ### Inclinómetro
 
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)
 Peso adicional: 1 kg
 
+
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
+
 
 ### Punto de mira
 
 Mira adicional con monturas de mira frontal y mira trasera
 Peso adicional: 1 kg
 
+
 ### Colimador diurno
 
 Colimador reflectante Oigee (con filtro solar instalado)
 Peso adicional: 2 kg
+
 
 ### Colimador nocturno
 

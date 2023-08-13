@@ -91,9 +91,11 @@ Operation features:
 
 ## Modifications
 
-&name=Special Guns Ammo Load
 
-Loadout variants: armour piercing (AP) or high-explosive (HE) rounds onl
+
+### Special Guns Ammo Load
+
+
 ### 2 x FAB-100M bombs
 
 2 x 104 kg General Purpose Bombs FAB-100M
@@ -101,7 +103,8 @@ Additional mass: 228 kg
 Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
-Estimated speed loss after drop: 12 km/
+
+
 ### 2 x FAB-50sv bombs
 
 2 x 50 kg General Purpose Bombs FAB-50sv
@@ -109,17 +112,20 @@ Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/
+
+
 ### Landing light
 
 Landing light for night flights
 Additional mass: 2 kg
-Estimated speed loss: 0 km/
+
+
 ### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-Estimated speed loss: 0 km/
+
+
 ### RPK-10
 
 Fixed loop radio compass for navigation with radio beacons

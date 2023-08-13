@@ -79,10 +79,12 @@ Referencias:
 
 ## Modificaciones
 
+
 ### Aldis (Trofeo)
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
+
 
 ### Cañón Becker de 20 mm en artillero
 
@@ -96,7 +98,8 @@ Peso del arma: 30 kg (sin cargador)
 Peso del soporte: 10 kg
 Peso de la munición: 25 kg
 Peso total: 65 kg
-Pérdida de velocidad estimada: 6 km/h
+
+
 ### Bombas P.u.W.
 
 Hasta 12 bombas de propósito general de 12,5 kg P.u.W (Prünfanstalt und der Werft Fliegertruppe)
@@ -111,11 +114,13 @@ Peso adicional: 186 kg
 Peso de munición: 150 kg
 Peso de los soportes: 36 kg
 Pérdida de velocidad estimada antes de soltar: 4 km/h
-Pérdida de velocidad estimada tras soltar: 2 km/h
+
+
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
+
 
 ### Instrumentación adicional
 
@@ -127,16 +132,19 @@ Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °
 
 Reloj mecánico
 
-Peso adicional: 3 kg
+
+
 ### Cámara de fotos
 
 Cámara para tomar fotografías aéreas
 Peso adicional: 10 kg
 
+
 ### Radio
 
 Radiotransmisor
-Peso adicional: 10 kg
+
+
 ### Doble Parabellum en artillero
 
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero.
@@ -148,7 +156,8 @@ Peso de las armas: 19 kg (sin cargador)
 Peso de los soportes: 5 kg
 Peso de la munición: 30 kg
 Peso total: 54 kg
-Pérdida de velocidad estimada: 8 km/h
+
+
 ### Doble Spandau frontal
 
 Dos ametralladoras frontales sincronizadas Spandau LMG 08/15 de posición fija.

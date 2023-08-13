@@ -59,10 +59,12 @@ Referenzen
 
 ## Änderungen
 
+
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
+
 
 ### Cooper Bomben
 
@@ -73,10 +75,12 @@ Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
 Geschwindigkeitsverlust nach Abwurf: 1 km/h
 
+
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
+
 
 ### Benzinuhr
 

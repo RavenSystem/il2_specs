@@ -62,18 +62,23 @@ References:
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=H.E.R.L. bomb
+
+
+### H.E.R.L. bomb
 
 51 kg (112 lb) H.E.R.L. General Purpose Bomb
 Additional mass: 57 kg
 Ammunition mass: 51 kg
 Rack mass: 6 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/
+
+
 ### Cooper bombs
 
 Up to 4 x 11 kg (24 lb) Cooper General Purpose Bombs
@@ -81,10 +86,11 @@ Additional mass: 56 kg
 Ammunition mass: 44 kg
 Racks mass: 12 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/
+
+
 ### Enlarged cockpit cutouts
 
-Enlarged cockpit cutouts for improved field of view ("Barker mod"
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties

@@ -105,6 +105,7 @@ Operation features:
 
 ## Modyfikacje
 
+
 ### 21 cm BR
 
 Two WGr.21 rockets in jettisonable launchers
@@ -113,7 +114,8 @@ Ammunition mass: 224 kg
 Racks mass: 34 kg
 Estimated speed loss before launch: 51 km/h
 Estimated speed loss after launch: 11 km/h
-Estimated speed loss after drop: 2 km/h
+
+
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -121,33 +123,40 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/h
+
+
 ### Erla Haube
 
 Erla Haube canopy retrofit modification
 Removed mass: 9 kg
 Estimated speed loss: 0 km/h﻿
-&name=2 x działko MG 151/20 20 mm
+
+
+### 2 x działko MG 151/20 20 mm
 
 Działka MG 151/20 20 mm umieszczone w skrzydłach, po 135 nabojów na każde
 Additional mass: 212 kg
 Ammunition mass: 55 kg
 Guns mass: 157 kg
-Estimated speed loss: 13 km/h
+
+
 ### Działko MK 108 30 mm
 
 Działka MK 108 30 mm, 65 nabojów
 Additional mass: 4 kg
 Ammunition mass: 38 kg
 Gun mass: 58 kg
-Estimated speed loss: 0 km/h
+
+
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
 Estimated speed increase at sea level: 45 km/h﻿
-&name=1 x bomba SC 250
+
+
+### 1 x bomba SC 250
 
 Bomba ogólnego przeznaczenia SC 250 – 249 kg
 Additional mass: 279 kg
@@ -155,7 +164,9 @@ Ammunition mass: 249 kg
 Racks mass: 30 kg
 Estimated speed loss before drop: 33 km/h
 Estimated speed loss after drop: 11 km/h﻿
-&name=4 x bomba SD 70
+
+
+### 4 x bomba SD 70
 
 4 x bomba ogólnego przeznaczenia SD 70 – 66 kg
 Additional mass: 304 kg

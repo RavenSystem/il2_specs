@@ -126,11 +126,14 @@ Operation features:
 
 
 ## Modifications
-&name=150 grade fuel
+
+
+### 150 grade fuel
 
 Allows +25 lb boost
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 9000ft altitude.
-Estimated speed increase at sea level: 29 km/
+
+
 ### 2 x 250 lb G.P. bombs
 
 2 x 250 lb General Purpose Bombs
@@ -138,7 +141,8 @@ Additional mass: 247 kg
 Ammunition mass: 227 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 24 km/h
-Estimated speed loss after drop: 8 km/
+
+
 ### 500 lb G.P. bomb
 
 500 lb General Purpose Bomb
@@ -146,7 +150,8 @@ Additional mass: 237 kg
 Ammunition mass: 227 kg
 Racks mass: 10 kg
 Estimated speed loss before drop: 13 km/h
-Estimated speed loss after drop: 7 km/
+
+
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -154,22 +159,26 @@ Empty mass: 50 kg
 Full mass: 275 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/
+
+
 ### Gyro Gunsight
 
 MkII Gyro Gunsight
 Additional mass: 5.2 kg
-Estimated speed loss: 0 km/
+
+
 ### Merlin 70 engine
 
 Merlin 70 engine. 
 Additional mass: 0 kg
-Estimated speed loss: 0 km/
+
+
 ### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-Estimated speed loss: 1 km/h
+
+
 ### 2 х RP-3 HE / AP rockets
 
 2 х 3-in Semi-Armour Piercing/High Explosive or Armour Piercing unguided rockets RP-3
@@ -186,7 +195,8 @@ Additional mass: 75 kg
 Ammunition mass: 55 kg
 Racks mass: 20 kg
 Estimated speed loss before launch: 21 km/h
-Estimated speed loss after launch: 17 km/
+
+
 ### Clipped Wing
 
 Clipped Wing

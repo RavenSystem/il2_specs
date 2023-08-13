@@ -63,23 +63,30 @@ References:
 7) Sopwith Camel Specification.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=Cooper bombs
+
+
+### Cooper bombs
 
 Up to 4 x 11 kg (24 lb) Cooper General Purpose Bombs
 Additional mass: 56 kg
 Ammunition mass: 44 kg
 Racks mass: 12 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Enlarged window
+
+
+### Enlarged window
 
 Enlarged cutout in the upper wing for improved field of view.
 Estimated speed loss: 2 km/h

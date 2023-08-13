@@ -122,16 +122,22 @@ DB-605ASM:
 ——射击瞄准具拥有一个滑动式的太阳滤光片。
 
 ## 修改
-&name=DB-605ASM engine
+
+
+### DB-605ASM engine
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)
 增加质量: 21 kg
 预期海平面时速增加: 43 km/h
-&name=MW-50 Mixture
+
+
+### MW-50 Mixture
 
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes
 增加质量: 63 kg
-&name=21cm火箭弹
+
+
+### 21cm火箭弹
 
 两枚位于可抛弃发射管里的WGr.21火箭弹
 增加质量：258 kg
@@ -139,28 +145,33 @@ MW-50 water-methanol mixture injection increases engine endurance at emergency p
 挂架质量：34 kg
 发射前预期速度损失：51 km/h
 发射后预期速度损失：11 km/h
-投弹后预期速度损失：2 km/
+
+
 ### 2 x 20mm MG 151/20机炮吊舱
 
 机翼吊舱MG 151/20 20mm机炮，每门备弹135发
 增加质量：212 kg
 弹药质量：55 kg
 枪炮质量：157 kg
-预期速度损失：13 km/
+
+
 ### 30mm MK 108机炮
 
 MK 108 30mm头部机炮，备弹65发
 增加质量：4 kg
 弹药质量：38 kg
 枪炮质量：58 kg
-预期速度损失：0 km/
+
+
 ### MW-50系统
 
 MW-50水-甲醇混合物喷射系统
 增加质量: 84 kg
 水-甲醇混合物质量: 63 kg
 预期海平面时速增加: 45 km/h
-&name=SC 250炸弹
+
+
+### SC 250炸弹
 
 249kg 通用炸弹SC 250
 增加质量：279 kg

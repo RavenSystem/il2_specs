@@ -57,20 +57,24 @@ Referenzen
 
 ## Änderungen
 
+
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)
 Zusätzliches Gewicht: 2 kg
+
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
 
+
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
+
 
 ### Lewis Überflügel-Maschinengewehr
 
@@ -87,6 +91,7 @@ Gewicht der Munition: 12 kg
 Gseamtgewicht: 20.3 kg
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h
 
+
 ### LePrieur rockets
 
 6 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.
@@ -95,6 +100,7 @@ Gewicht der Munition: 12 kg
 Gewicht der Abwurfwaffenroste: 24 kg
 Geschwindigkeitsverlust vor Abwurf: 8 km/h
 Geschwindigkeitsverlust nach Abwurf: 6 km/h
+
 
 ### Anemometer
 

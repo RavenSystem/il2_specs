@@ -1,4 +1,4 @@
-&name=Handley Page O/400
+# Handley Page O/400
 
 ![handleypage400](../images/handleypage400.png)
 
@@ -64,14 +64,17 @@ References
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
 ## 修改
-&name=1650 lb SN重型炸弹
+
+
+### 1650 lb SN重型炸弹
 
 1650 lb (748 kg) 通用炸弹
 增加质量：778 kg
 弹药质量：748 kg
 挂架质量：30 kg
 投弹前预期速度损失：5 km/h
-投弹后预期速度损失：0 km/h
+
+
 ### 20mm贝克（Becker）炮塔
 
 装有贝克（Becker）机炮的炮塔
@@ -84,7 +87,8 @@ References
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-预期速度损失：6 km/h
+
+
 ### 20mm贝克（Becker）炮塔
 
 装有贝克（Becker）机炮的炮塔
@@ -97,11 +101,13 @@ References
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-预期速度损失：6 km/h
+
+
 ### 油量表
 
 指针式油量表（0-300 gal）
 增加质量：1 kg
+
 
 ### 双刘易斯（Lewis）机枪炮塔
 

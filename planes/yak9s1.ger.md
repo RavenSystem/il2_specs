@@ -84,22 +84,27 @@ Eigenschaften:
 
 ## Änderungen
 
+
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
-Geschwindigkeitsverlust: 0 km/h
+
+
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-Geschwindigkeitsverlust: 0 km/h
+
+
 ### PBP-1A Reflexvisier
 
 PBP-1A Reflexvisier
 Zusätzliches Gewicht: 0.5 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen
 Zusätzliches Gewicht: 10 kg

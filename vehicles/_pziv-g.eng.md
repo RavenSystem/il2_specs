@@ -98,7 +98,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## Modifications
-&name=Armour Piercing High Explosive Shells
+
+
+### Armour Piercing High Explosive Shells
 
 7,5 cm Pzgr. 39
 
@@ -112,7 +114,8 @@ When fired from a 7.5 cm KwK 40 L/48 gun:
 Muzzle velocity 750 m/s, armour penetration at point blank range 117 mm.
 500 m: armour penetration 104 mm, velocity 691 m/s, drop -2.4 m.
 1000 m: armour penetration 92 mm, velocity 636 m/s, drop -10.0 m.
-2000 m: armour penetration 72 mm, velocity 537 m/s, drop -44.8 m
+
+
 ### High-Explosive Shells
 
 7,5 cm SprGr.34
@@ -127,7 +130,8 @@ When fired from a 7,5 cm KwK 40 L/48 gun:
 Muzzle velocity 550 m/s.
 500 m: velocity 509 m/s, drop -4.5 m.
 1000 m: velocity 473 m/s, drop -18.5 m.
-2000 m: velocity 405 m/s, drop -80.9 m
+
+
 ### High Explosive Anti-Tank Shells
 
 7,5 cm Gr.38 HL/C
@@ -142,7 +146,8 @@ When fired from a 7,5 cm KwK 40 L/48:
 Muzzle velocity: 450 m/s.
 500 m: velocity 328 m/s, drop -7.8 m.
 1000 m: velocity 278 m/s, drop -38.1 m.
-2000 m: velocity 244 m/s, drop -200.4 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 7,5 cm Pzgr. 40
@@ -157,7 +162,8 @@ When fired from a 7,5 cm KwK 40 L/48 gun:
 Muzzle velocity 930 m/s, armour penetration at point blank range 150 mm.
 500 m: armour penetration 128 mm, velocity 832 m/s, drop -1.6 m.
 1000 m: armour penetration 108 mm, velocity: 739 m/s, drop -10.0 m.
-2000 m: armour penetration 75 mm, velocity: 573 m/s, drop -44.8 m
+
+
 ### Additional armor plates
 
 Additional protection: 5 mm armored plates attached to the hull and turret. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.

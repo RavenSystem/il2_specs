@@ -72,6 +72,7 @@ References:
 
 ## Modyfikacje
 
+
 ### P.u.W. Bombs
 
 Up to 12 x 12.5 kg P.u.W. General Purpose Bombs
@@ -100,7 +101,8 @@ Additional mass: 312 kg
 Ammunition mass: 300 kg
 Racks mass: 12 kg
 Estimated speed loss before drop: 1.5 km/h
-Estimated speed loss after drop: 1 km/h
+
+
 ### 20mm Becker Rear Turret
 
 Rear Turret with Becker Automatic Cannon
@@ -113,7 +115,8 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 2 km/h
+
+
 ### Twin Parabellum MG Rear Turret
 
 Rear ring turret with twin Parabellum machine guns.
@@ -125,16 +128,19 @@ Guns weight: 19 kg (w/o ammo drums)
 Mount weight: 5 kg
 Ammo weight: 40 kg
 Total weight: 64 kg
-Estimated speed loss: 1 km/h
+
+
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
 
+
 ### Fuel Gauge and Clock
 
 Needle Scale fuel level Gauge (0-800 l) and Mechanical Clock
-Additional mass: 0.5 kg
+
+
 ### 20mm Becker Front Turret
 
 Front Turret with Becker Automatic Cannon
@@ -147,7 +153,8 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 2 km/h
+
+
 ### Twin Parabellum MG Front Turret
 
 Front ring turret with twin Parabellum machine guns.

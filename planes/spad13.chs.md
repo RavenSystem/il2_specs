@@ -59,11 +59,15 @@ S.XIII于1917年夏末秋初首次出现在前线，最初供应给法国战斗�
 4) Performance (Report No.5). Aeronautiqe Militare Ministre de la Guerre，1917.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)
 增加质量：2 kg
-&name=“气球”机枪
+
+
+### “气球”机枪
 
 双维克斯（Vickers）“气球”机枪
 Ammo：400发11.43mm弹药
@@ -73,23 +77,30 @@ Ammo：400发11.43mm弹药
 弹药重量：32 kg
 射速：600 rpm
 总重：58 kg
-&name=库珀（Cooper）炸弹
+
+
+### 库珀（Cooper）炸弹
 
 2 x 11 kg（24 lb）库珀（Cooper）通用炸弹
 增加质量：22 kg
 弹药质量：22 kg
 挂架质量：0 kg
 投弹前预期速度损失：0 km/h
-投弹后预期速度损失：0 km/
+
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-&name=勒克雷蒂安（LeChretien）瞄准具
+
+
+### 勒克雷蒂安（LeChretien）瞄准具
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-&name=相机
+
+
+### 相机
 
 可拍摄航空照片的相机
 增加质量：10 kg

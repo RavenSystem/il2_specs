@@ -54,15 +54,21 @@ References
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## Modifications
-&name=Aldis
+
+
+### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)
 Additional mass: 2 kg
-&name=Altimeter
+
+
+### Altimeter
 
 Peltret and Lafage Altimeter (0..5000m)
 Additional mass: 1 kg
-&name=Balloon guns
+
+
+### Balloon guns
 
 Twin Vickers "Balloon" guns
 Ammo: 300 of 11.43mm rounds
@@ -72,27 +78,39 @@ Guns weight: 26 kg
 Ammo weight: 24 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 50 kg
-&name=Clock
+
+
+### Clock
 
 Mechanical Clock
 Additional mass: 1 kg
-&name=Cockpit light
+
+
+### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Compass
+
+
+### Compass
 
 L.Maxant Compass
 Additional mass: 1 kg
-&name=Le-Chretien
+
+
+### Le-Chretien
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
-&name=Sideslip Indicator
+
+
+### Sideslip Indicator
 
 Sideslip indicator (ball-type)
 Additional mass: 1 kg
-&name=Anemometer
+
+
+### Anemometer
 
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)
 Additional mass: 1 kg

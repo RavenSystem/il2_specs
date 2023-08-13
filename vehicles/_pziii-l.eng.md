@@ -91,7 +91,9 @@ This tank is free to any IL-2 Great Battles user. Tank Crew expansion tanks have
 
 
 ## Modifications
-&name=Armour Piercing High Explosive Shells
+
+
+### Armour Piercing High Explosive Shells
 
 5 cm Pzgr. 39
 
@@ -105,7 +107,8 @@ When fired from a 5 cm KwK 39 L/60 gun:
 Muzzle velocity 835 m/s, armour penetration at point blank range 87 mm.
 500 m: armour penetration 68 mm, velocity 702 m/s, drop -1.5 m.
 1000 m: armour penetration 53 mm, velocity 587 m/s, drop -8.4 m.
-2000 m: armour penetration 30 mm, velocity 394 m/s, drop -76.7 m
+
+
 ### High-Explosive Shells
 
 5 cm Sprgr. 38
@@ -120,7 +123,8 @@ When fired from a 5 cm KwK 39 L/60 gun:
 Muzzle velocity 550 m/s.
 500 m: velocity 444 m/s, drop -4.9 m.
 1000 m: velocity 368 m/s, drop -22.6 m.
-2000 m: velocity 285 m/s, drop -118.5 m.
+
+
 ### Sub-Caliber Armour Piercing Shells
 
 5 cm Pzgr. 40

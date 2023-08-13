@@ -83,26 +83,32 @@ Operation features:
 - The canopy has no emergency release. In order to bail out, you must slow below 550 kph to open the canopy.
 
 ## Modifications
-&name=Ammo counter
+
+
+### Ammo counter
 
 NS-37 gun ammo counter
 Additional mass: 1 kg
-Estimated speed loss: 0 km/
+
+
 ### Landing light
 
 Landing light for night flights
 Additional mass: 2 kg
-Estimated speed loss: 0 km/
+
+
 ### Mirror
 
 Rear view mirror
 Additional mass: 1 kg
-Estimated speed loss: 0 km/
+
+
 ### Reflector Gunsight
 
 PBP-1A reflector gunsight
 Additional mass: 0.5 kg
-Estimated speed loss: 0 km/
+
+
 ### RPK-10
 
 Fixed loop radio compass for navigation with radio beacons

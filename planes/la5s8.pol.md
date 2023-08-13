@@ -92,10 +92,14 @@ Operation features:
 
 ## Modyfikacje
 
-&name=Specjalna amunicja
+
+
+### Specjalna amunicja
 
 Warianty wyposażenia: tylko naboje przeciwpancerne lub kruszące﻿
-&name=2 x bomba FAB-100M
+
+
+### 2 x bomba FAB-100M
 
 2 x bomba ogólnego przeznaczenia FAB-100M – 104 kg
 Additional mass: 228 kg
@@ -103,25 +107,32 @@ Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
 Estimated speed loss after drop: 12 km/h﻿
-&name=2 x bomba FAB-50SW
+
+
+### 2 x bomba FAB-50SW
 
 2 x bomba ogólnego przeznaczenia FAB-50SW – 50 kg
 Additional mass: 120 kg
 Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
-Estimated speed loss after drop: 12 km/h
+
+
 ### M-82F engine
 
 Late M-82F engine modification with unlimited boosted mode duration.
 Additional mass: 0 kg
 Estimated speed loss: 0 km/h﻿
-&name=RPK-10
+
+
+### RPK-10
 
 Radiopółkompas służący do nawigacji z użyciem radiostacji prowadzących
 Additional mass: 10 kg
 Estimated speed loss: 0 km/h﻿
-&name=Płaska owiewka kabiny
+
+
+### Płaska owiewka kabiny
 
 Płaska przednia część owiewki kabiny, zapewniająca lepszą widoczność
 Additional mass: 2 kg

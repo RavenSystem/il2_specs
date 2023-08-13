@@ -1,4 +1,4 @@
-&name=Bristol F2B (F.III)
+# Bristol F2B (F.III)
 
 ![bristolf2bf3](../images/bristolf2bf3.png)
 
@@ -91,10 +91,12 @@ References
 
 ## Modifications
 
+
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
+
 
 ### Cooper / H.E.R.L. bombes
 
@@ -110,16 +112,19 @@ Masse supplémentaire : 252 kg
 Masse des munitions : 204 kg
 Masse des pylones : 48 kg
 Perte estimée de vitesse avant le largage : 8 km/h
-Perte estimée de vitesse après le largage : 4 km/h
+
+
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
 
+
 ### Jauge d\essence,
 
 Jauge de niveau de carburant à aiguille (0-30 Gallons)
 Masse supplémentaire : 1 kg
+
 
 ### Twin Lewis Overwing
 
@@ -134,16 +139,19 @@ Guns weight: 15 kg (w/o ammo drums)
 Mounts weight: 8 kg
 Ammo weight: 24 kg
 Total weight: 47 kg
-Estimated speed loss: 4-14 km/h
+
+
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
 
+
 ### Radio
 
 Radio transmitter
-Additional mass: 10 kg
+
+
 ### Twin Lewis MG turret
 
 Scarff ring turret with twin Lewis MG

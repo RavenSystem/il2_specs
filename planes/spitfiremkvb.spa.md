@@ -115,11 +115,13 @@ Características operativas:
 
 ## Modificaciones
 
+
 ### Motor Merlin 45
 
 Nuevo motor Merlin 45
 Peso adicional: 0 kg
-Pérdida de velocidad estimada: 0 km/h
+
+
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión

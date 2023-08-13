@@ -70,7 +70,9 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 4) The Gotha. Flight magazine 1917.
 
 ## 修改
-&name=P.u.W. 炸弹
+
+
+### P.u.W. 炸弹
 
 最多12 x 12.5 kg P.u.W. 通用炸弹
 增加质量：434 kg
@@ -98,7 +100,8 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 弹药质量：300 kg
 挂架质量：12 kg
 投弹前预期速度损失：1.5 km/h
-投弹后预期速度损失：1 km/h
+
+
 ### Rear 20mm贝克（Becker）炮塔
 
 装有贝克（Becker）机炮的炮塔
@@ -111,7 +114,8 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-预期速度损失：2 km/h
+
+
 ### Rear 双帕拉贝伦（Parabellum）机枪炮塔
 
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。
@@ -123,16 +127,19 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 基座重量：5 kg
 弹药重量：40 kg
 总重：64 kg
-预期速度损失：1 km/
+
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
 
+
 ### 油量表
 
 指针式油量表（0-800 l）
 增加质量：0.5 kg
+
 
 ### Front 20mm贝克（Becker）炮塔
 
@@ -146,7 +153,8 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-预期速度损失：2 km/h
+
+
 ### Front 双帕拉贝伦（Parabellum）机枪炮塔
 
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。

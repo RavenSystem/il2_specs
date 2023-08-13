@@ -63,10 +63,13 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
 ## 修改
-&name=阿尔迪斯（Aldis）瞄准具（战利品）
+
+
+### 阿尔迪斯（Aldis）瞄准具（战利品）
 
 阿尔迪斯（Aldis）折射型直筒瞄准具
 增加质量：2 kg
+
 
 ### 20mm贝克（Becker）炮塔
 
@@ -80,7 +83,8 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 基座重量：10 kg
 弹药重量：25 kg
 总重：65 kg
-预期速度损失：6 km/
+
+
 ### P.u.W. 炸弹
 
 最多12 x 12.5 kg P.u.W. 通用炸弹
@@ -95,11 +99,13 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 弹药质量：150 kg
 挂架质量：36 kg
 投弹前预期速度损失：4 km/h
-投弹后预期速度损失：2 km/
+
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
+
 
 ### 附加仪表
 
@@ -107,19 +113,25 @@ A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)
 
 机械时钟
 
-增加质量：0.5 k
+
+
 ### 射击瞄准具
 
 带有前后准心的附加瞄准具
 增加质量：1 kg
-&name=相机
+
+
+### 相机
 
 可拍摄航空照片的相机
 增加质量：10 kg
-&name=无线电
+
+
+### 无线电
 
 无线电发射机
-增加质量：10 kg
+
+
 ### 双帕拉贝伦（Parabellum）机枪炮塔
 
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。

@@ -52,18 +52,25 @@ References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
 ## Modifications
-&name=Aldis (Trophy)
+
+
+### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-&name=Cockpit light
+
+
+### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-&name=Anemometer
+
+
+### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
+
 
 ### Thermometer
 

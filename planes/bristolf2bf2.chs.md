@@ -1,4 +1,4 @@
-&name=Bristol F2B (F.II)
+# Bristol F2B (F.II)
 
 ![bristolf2bf2](../images/bristolf2bf2.png)
 
@@ -88,11 +88,15 @@
 9) Various RFC trial reports on Bristol Fighter，1917-1918.
 
 ## 修改
-&name=阿尔迪斯（Alidas）瞄准具
+
+
+### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
-&name=库珀（Cooper）/H.E.R.L. 炸弹
+
+
+### 库珀（Cooper）/H.E.R.L. 炸弹
 
 最多12 x 11 kg（24 lb）通用炸弹
 增加质量：167 kg
@@ -106,16 +110,19 @@
 弹药质量：204 kg
 挂架质量：48 kg
 投弹前预期速度损失：8 km/h
-投弹后预期速度损失：4 km/h
+
+
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
 
+
 ### 油量表
 
 指针式油量表（0-30 gal）
 增加质量：1 kg
+
 
 ### 双翼上刘易斯（Lewis）机枪
 
@@ -130,15 +137,19 @@
 基座重量：8 kg
 弹药重量：24 kg
 总重：47 kg
-预期速度损失：4-14 km/
+
+
 ### 相机
 
 可拍摄航空照片的相机
 增加质量：10 kg
-&name=无线电
+
+
+### 无线电
 
 无线电发射机
-增加质量：10 kg
+
+
 ### 双刘易斯（Lewis）机枪炮塔
 
 双刘易斯（Lewis）机枪的斯卡夫（Scarff）旋转炮塔

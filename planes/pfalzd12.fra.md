@@ -56,45 +56,54 @@ References
 
 ## Modifications
 
+
 ### Compteur de balles
 
  Compteur digital Wilhelm Morell pour 2 mitrailleuses
 Masse supplémentaire : 1 kg
+
 
 ### Inclinometre
 
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)
 Masse supplémentaire : 1 kg
 
+
 ### Montre de bord
 
 Montre mécanique
 Masse supplémentaire : 1 kg
+
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
 
+
 ### Compas
 
 Compas L.Maxant
 Masse supplémentaire : 1 kg
+
 
 ### Collimateur de jour
 
 Collimateur à réfraction Oigee (gradateur de jour installé)
 Masse supplémentaire : 2 kg
 
+
 ### Collimateur de nuit
 
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)
 Masse supplémentaire : 2 kg
 
+
 ### Anémomètre
 
 Wilhelm Morell Anémomètre (45-250 km/h)
 Masse supplémentaire : 1 kg
+
 
 ### Thermometre
 
