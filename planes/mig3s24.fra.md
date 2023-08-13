@@ -1,4 +1,4 @@
-﻿# MiG-3 type 24
+# MiG-3 type 24
 
 ![mig3s24](../images/mig3s24.png)
 
@@ -99,27 +99,21 @@ Caractéristiques
 
 ## Modifications
 ﻿
-
-
-### 2 BK de 12,7 mm en nacelles
+&name=2 BK de 12,7 mm en nacelles
 
 2 mitrailleuses BK de 12,7 mm montées dans des nacelles sous les ailes avec 145 cartouches chaque
 Masse supplémentaire : 155 kg
 Masse des munitions : 54 kg
 Masse des mitrailleuses : 101 kg
 Perte estimée de vitesse : 13 km/h﻿
-
-
-### 2 BS 12,7 mm (700 cartouches)
+&name=2 BS 12,7 mm (700 cartouches)
 
 2 mitrailleuses BS de 12,7 mm montées dans le nez avec 350 cartouches chaque à la place des mitrailleuses ShKAS d’origine
 Masse supplémentaire : 34 kg
 Masse des munitions : 131 kg
 Masse des mitrailleuses : 62 kg
 Perte estimée de vitesse : 0 km/h﻿
-
-
-### 2 bombes FAB-50sv / FAB-100M 
+&name=2 bombes FAB-50sv / FAB-100M 
 
 2 bombes d’emploi général FAB-50sv de 50 kg ou FAB-100M de 104 kg
 
@@ -136,9 +130,7 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h﻿
-
-
-### 6 roquettes ROS-82 
+&name=6 roquettes ROS-82 
 
 6 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm
 Masse supplémentaire : 60 kg
@@ -146,9 +138,7 @@ Masse des munitions : 42 kg
 Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 23 km/h
 Perte estimée de vitesse après le lancement : 17 km/h﻿
-
-
-### 2 ShVAK de 20 mm (300 obus)
+&name=2 ShVAK de 20 mm (300 obus)
 
 2 canons ShVAK de 20 mm montés dans le nez avec 150 obus chaque à la place des mitrailleuses ShKAS ou BS
 Masse supplémentaire : 4 kg

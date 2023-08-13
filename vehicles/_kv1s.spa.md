@@ -1,4 +1,4 @@
-﻿# KV-1s ChTZ (1943)
+# KV-1s ChTZ (1943)
 
 ![_kv1s](../images/_kv1s.png)
 
@@ -95,7 +95,6 @@ Transmisor-receptor VHF 9-RM
 
 
 ## Modificaciones
-﻿
 
 ### Proyectiles perforantes sólidos (AP)
 
@@ -111,8 +110,7 @@ Disparado desde un cañón F-34 / ZiS-5:
 Velocidad de salida 660 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 73 mm, velocidad 585 m/s, caída -3,2 m.
 1000 m: penetración del blindaje 62 mm, velocidad 524 m/s, caída -13,6 m.
-2000 m: penetración del blindaje 47 mm, velocidad 429 m/s, caída -63,5 m.﻿
-
+2000 m: penetración del blindaje 47 mm, velocidad 429 m/s, caída -63,5 m.
 ### Proyectiles perforantes explosivos (APHE)
 
 BR-350B
@@ -127,12 +125,10 @@ Disparado desde un cañón F-34 / ZiS-5:
 Velocidad de salida 660 m/s, penetración del blindaje a bocajarro 86 mm.
 500 m: penetración del blindaje 72 mm, velocidad 584 m/s, caída -3,2 m.
 1000 m: penetración del blindaje 61 mm, velocidad 522 m/s, caída -13,6 m.
-2000 m: penetración del blindaje 46 mm, velocidad 427 m/s, caída -64,0 m.﻿
-
+2000 m: penetración del blindaje 46 mm, velocidad 427 m/s, caída -64,0 m.
 ### Retirada de depósitos externos
 
 En el Frente Oriental, los depósitos de combustible externos instalados en los laterales del carro se retiraban con bastante frecuencia.
-﻿
 
 ### Proyectiles explosivos (HE)
 
@@ -149,8 +145,7 @@ Disparado desde un cañón F-34 / ZiS-5:
 Velocidad de salida 680 m/s.
 500 m: velocidad 616 m/s, caída -3,0 m.
 1000 m: velocidad 558 m/s, caída -12,5 m.
-2000 m: velocidad 468 m/s, caída -56,7 m.﻿
-
+2000 m: velocidad 468 m/s, caída -56,7 m.
 ### Proyectiles perforantes de núcleo rígido (APCR)
 
 BR-354P

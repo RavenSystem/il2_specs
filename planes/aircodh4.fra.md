@@ -1,4 +1,4 @@
-﻿# Airco D.H.4
+# Airco D.H.4
 
 ![aircodh4](../images/aircodh4.png)
 
@@ -70,13 +70,11 @@ References
 6) Various NACA reports.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### Cooper / H.E.R.L. / H.E.R.F.C. bombes
 
@@ -99,31 +97,26 @@ Masse supplémentaire : 224 kg
 Masse des munitions : 208 kg
 Masse des pylones : 16 kg
 Perte estimée de vitesse avant le largage : 5 km/h
-Perte estimée de vitesse après le largage : 3 km/h﻿
-
+Perte estimée de vitesse après le largage : 3 km/h
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Jauge d\essence,
 
 Jauge de niveau de carburant à aiguille (0-30 Gallons)
 Masse supplémentaire : 1 kg
-﻿
 
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-﻿
 
 ### Radio
 
 Radio transmitter
-Additional mass: 10 kg﻿
-
+Additional mass: 10 kg
 ### Twin Lewis Overwing
 
 Two overwing mounted additional fixed Lewis machineguns.
@@ -135,8 +128,7 @@ Guns weight: 15 kg (w/o ammo drums)
 Mounts weight: 6 kg
 Ammo weight: 10 kg
 Total weight: 31 kg
-Estimated speed loss: 5 km/h﻿
-
+Estimated speed loss: 5 km/h
 ### Twin Lewis MG turret
 
 Scarff ring turret with twin Lewis MG
@@ -148,8 +140,7 @@ Guns weight: 15 kg (w/o ammo drums)
 Mount weight: 12 kg
 Ammo weight: 32 kg
 Total weight: 59 kg
-Estimated speed loss: 2 km/h﻿
-
+Estimated speed loss: 2 km/h
 ### Twin forward Vickers
 
 Twin fixed forward firing Vickers guns.

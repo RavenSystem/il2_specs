@@ -1,4 +1,4 @@
-﻿# Sopwith Dolphin
+# Sopwith Dolphin
 
 ![sopdolphin](../images/sopdolphin.png)
 
@@ -61,13 +61,11 @@ References
 4) Sopwith Dolphin Specification.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### Cooper bombes
 
@@ -77,13 +75,11 @@ Masse des munitions : 44 kg
 Masse des pylones : 12 kg
 Perte estimée de vitesse avant le largage : 2 km/h
 Perte estimée de vitesse après le largage : 1 km/h
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Twin Lewis Overwing
 
@@ -98,8 +94,7 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 16 kg
 Total weight: 33 kg
-Estimated speed loss: 7-18 km/h﻿
-
+Estimated speed loss: 7-18 km/h
 ### Twin Lewis lower-wing
 
 Two additional lower-wing mounted fixed Lewis machine guns.
@@ -111,8 +106,7 @@ Guns weight: 15 kg (w/o ammo drum)
 Mounts weight: 2 kg
 Ammo weight: 8 kg
 Total weight: 25 kg
-Estimated speed loss: 3 km/h﻿
-
+Estimated speed loss: 3 km/h
 ### Thermometre
 
 Indicateur de température de liquide de refroidissement O.S.I.C (30-100 °C)

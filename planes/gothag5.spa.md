@@ -1,4 +1,4 @@
-﻿# Gotha G.V
+# Gotha G.V
 
 ![gothag5](../images/gothag5.png)
 
@@ -72,7 +72,6 @@ Referencias:
 4) The Gotha. Flight magazine 1917.
 
 ## Modificaciones
-﻿
 
 ### Bombas P.u.W.
 
@@ -102,8 +101,7 @@ Peso adicional: 312 kg
 Peso de munición: 300 kg
 Peso de los soportes: 12 kg
 Pérdida de velocidad estimada antes de soltar: 1,5 km/h
-Pérdida de velocidad estimada tras soltar: 1 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 1 km/h
 ### Cañón Becker en artillero trasero
 
 Cañón automático Becker de 20 mm montado sobre anillo en la posición del artillero trasero
@@ -116,8 +114,7 @@ Peso del arma: 30 kg (sin cargador)
 Peso del soporte: 10 kg
 Peso de la munición: 25 kg
 Peso total: 65 kg
-Pérdida de velocidad estimada: 2 km/h﻿
-
+Pérdida de velocidad estimada: 2 km/h
 ### Doble Parabellum en artillero trasero
 
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero trasero
@@ -129,19 +126,16 @@ Peso de las armas: 19 kg (sin cargador)
 Peso de los soportes: 5 kg
 Peso de la munición: 40 kg
 Peso total: 64 kg
-Pérdida de velocidad estimada: 1 km/h﻿
-
+Pérdida de velocidad estimada: 1 km/h
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-﻿
 
 ### Indicador de combustible y reloj
 
 Indicador analógico del nivel de combustible (0-800 l) y reloj mecánico
 Peso adicional: 0,5 kg
-﻿
 
 ### Cañón Becker en artillero frontal
 
@@ -155,8 +149,7 @@ Peso del arma: 30 kg (sin cargador)
 Peso del soporte: 10 kg
 Peso de la munición: 25 kg
 Peso total: 65 kg
-Pérdida de velocidad estimada: 2 km/h﻿
-
+Pérdida de velocidad estimada: 2 km/h
 ### Doble Parabellum en artillero frontal
 
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero frontal

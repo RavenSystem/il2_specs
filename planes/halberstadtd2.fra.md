@@ -1,4 +1,4 @@
-﻿# Halberstadt D.II
+# Halberstadt D.II
 
 ![halberstadtd2](../images/halberstadtd2.png)
 
@@ -51,25 +51,21 @@ References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
 ## Modifications
-﻿
 
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Anémomètre
 
 Wilhelm Morell Anémomètre (45-250 km/h)
 Masse supplémentaire : 1 kg
-﻿
 
 ### Thermometre
 

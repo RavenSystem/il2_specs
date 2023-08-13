@@ -1,4 +1,4 @@
-﻿# MiG-3 ser.24
+# MiG-3 ser.24
 
 ![mig3s24](../images/mig3s24.png)
 
@@ -99,27 +99,21 @@ Operation features:
 
 ## Modyfikacje
 ﻿
-
-
-### 2 x działko BK 12.7 mm
+&name=2 x działko BK 12.7 mm
 
 Działka BK 12.7 mm umieszczone w skrzydłach, po 145 nabojów na każde
 Additional mass: 155 kg
 Ammunition mass: 54 kg
 Guns mass: 101 kg
 Estimated speed loss: 13 km/h﻿
-
-
-### 2 x BS 12.7 mm (700 nabojów)
+&name=2 x BS 12.7 mm (700 nabojów)
 
 BS 12.7mm nose-mounted machineguns with 350 rounds per each instead of default ShKAS and BS nose-mounted machineguns
 Additional mass: 34 kg
 Ammunition mass: 131 kg
 Guns mass: 62 kg
 Estimated speed loss: 0 km/h﻿
-
-
-### 2 x bomba FAB-50SW / FAB-100M
+&name=2 x bomba FAB-50SW / FAB-100M
 
 2 x bomba ogólnego przeznaczenia FAB-50SW – 50 kg / 2 x bomba ogólnego przeznaczenia FAB-100M – 104 kg
 
@@ -136,9 +130,7 @@ Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
 Estimated speed loss after drop: 12 km/h﻿
-
-
-### 6 x rakieta ROS-82
+&name=6 x rakieta ROS-82
 
 6 x niekierowany kruszący pocisk rakietowy ROS-82 – 82 mm
 Additional mass: 60 kg
@@ -146,9 +138,7 @@ Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
 Estimated speed loss after launch: 17 km/h﻿
-
-
-### 2 x ShVAK 20 mm (300 nabojów)
+&name=2 x ShVAK 20 mm (300 nabojów)
 
 ShVAK 20mm nose-mounted guns with 150 rounds per each instead of default ShKAS and BS nose-mounted machineguns
 Additional mass: 4 kg

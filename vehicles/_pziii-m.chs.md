@@ -1,4 +1,4 @@
-﻿# 三号坦克M型（Pz.Kpfw.III Ausf.M）
+# 三号坦克M型（Pz.Kpfw.III Ausf.M）
 
 ![_pziii-m](../images/_pziii-m.png)
 
@@ -101,9 +101,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## 修改
-
-
-### 穿甲榴弹
+&name=穿甲榴弹
 
 5 cm Pzgr.39
 
@@ -117,8 +115,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：835 m/s，近距离装甲穿深 87 mm
 500m时：装甲穿深 68mm，速度 702 m/s，下坠高度 1.5m
 1000m时：装甲穿深 53mm，速度 587 m/s，下坠高度 8.4m
-2000m时：装甲穿深 30mm，速度 394 m/s，下坠高度 76.7m
-
+2000m时：装甲穿深 30mm，速度 394 m/s，下坠高度 76.7
 ### 榴弹
 
 5 cm Sprgr. 38
@@ -133,8 +130,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：550 m/s
 500m时：速度 444 m/s，下坠高度 4.9m
 1000m时：速度 368 m/s，下坠高度 22.6m
-2000m时：速度 285 m/s，下坠高度 118.5m﻿
-
+2000m时：速度 285 m/s，下坠高度 118.5m
 ### 次口径穿甲弹
 
 5 cm Pzgr.40
@@ -151,16 +147,13 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：1180 m/s，近距离装甲穿深 175 mm
 500m时：装甲穿深 82mm，速度 696 m/s，下坠高度 2.1m
 1000m时：装甲穿深 43mm，速度 ：443 m/s，下坠高度 9.2m
-2000m时：装甲穿深 16mm，速度 ：223 m/s，下坠高度 49m
-
+2000m时：装甲穿深 16mm，速度 ：223 m/s，下坠高度 49
 ### 额外装甲
 
 附加防护：车身和炮塔附上5mm装甲板。
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。
 虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。
-
-
-### Smoke Mortars
+&name=Smoke Mortars
 
 Installation of 6 external single-shot smoke mortars.
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade

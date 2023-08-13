@@ -1,4 +1,4 @@
-﻿# SPAD 13.C1
+# SPAD 13.C1
 
 ![spad13](../images/spad13.png)
 
@@ -60,15 +60,11 @@ References
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
 ## Modifications
-
-
-### Aldis
+&name=Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)
 Additional mass: 2 kg
-
-
-### Balloon guns
+&name=Balloon guns
 
 Twin Vickers "Balloon" guns
 Ammo: 400 of 11.43mm rounds
@@ -78,30 +74,23 @@ Guns weight: 26 kg
 Ammo weight: 32 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 58 kg
-
-
-### Cooper bombs
+&name=Cooper bombs
 
 2 x 11 kg (24 lb) Cooper General Purpose Bombs
 Additional mass: 22 kg
 Ammunition mass: 22 kg
 Racks mass: 0 kg
 Estimated speed loss before drop: 0 km/h
-Estimated speed loss after drop: 0 km/h
-
+Estimated speed loss after drop: 0 km/
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Le-Chretien
+&name=Le-Chretien
 
 Le-Chretien Refractor-type Collimator Sight
 Additional mass: 1 kg
-
-
-### Camera
+&name=Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg

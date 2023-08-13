@@ -1,4 +1,4 @@
-﻿# Pfalz D.XII
+# Pfalz D.XII
 
 ![pfalzd12](../images/pfalzd12.png)
 
@@ -56,55 +56,38 @@ References
 3) WW I Aero №124, May 1989.
 
 ## Modifications
-
-
-### Bullet counters
+&name=Bullet counters
 
 Wilhelm Morell digital bullet counters for 2 machine guns
 Additional mass: 1 kg
-
-
-### Inclinometer
+&name=Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-
-
-### Clock
+&name=Clock
 
 Mechanical Clock
 Additional mass: 1 kg
-
-
-### Cockpit light
+&name=Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Compass
+&name=Compass
 
 L.Maxant Compass
 Additional mass: 1 kg
-
-
-### Collimator Day
+&name=Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
-
-### Collimator Night
+&name=Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-
-
-### Anemometer and High Altimeter
+&name=Anemometer and High Altimeter
 
 Wilhelm Morell Anemometer (45-250 km/h) and D.R.P Altimeter (0-8000 m)
 Additional mass: 1.5 kg
-﻿
 
 ### Thermometer
 

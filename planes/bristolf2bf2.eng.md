@@ -1,4 +1,4 @@
-﻿# Bristol F2B (F.II)
+# Bristol F2B (F.II)
 
 ![bristolf2bf2](../images/bristolf2bf2.png)
 
@@ -90,15 +90,11 @@ References
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
 ## Modifications
-
-
-### Aldis
+&name=Aldis
 
 Aldis Refractor-type Collimator Sight
 Additional mass: 2 kg
-
-
-### Cooper / H.E.R.L. bombs
+&name=Cooper / H.E.R.L. bombs
 
 Up to 12 x 11 kg (24 lb) General Purpose Bombs
 Additional mass: 167 kg
@@ -112,19 +108,16 @@ Additional mass: 252 kg
 Ammunition mass: 204 kg
 Racks mass: 48 kg
 Estimated speed loss before drop: 8 km/h
-Estimated speed loss after drop: 4 km/h﻿
-
+Estimated speed loss after drop: 4 km/h
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-﻿
 
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-30 Gallons)
 Additional mass: 1 kg
-﻿
 
 ### Twin Lewis Overwing
 
@@ -139,19 +132,15 @@ Guns weight: 15 kg (w/o ammo drums)
 Mounts weight: 8 kg
 Ammo weight: 24 kg
 Total weight: 47 kg
-Estimated speed loss: 4-14 km/h
-
+Estimated speed loss: 4-14 km/
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-
-
-### Radio
+&name=Radio
 
 Radio transmitter
-Additional mass: 10 kg﻿
-
+Additional mass: 10 kg
 ### Twin Lewis MG turret
 
 Scarff ring turret with twin Lewis MG

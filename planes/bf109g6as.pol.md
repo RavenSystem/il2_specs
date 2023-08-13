@@ -1,4 +1,4 @@
-﻿# Bf 109 G-6AS
+# Bf 109 G-6AS
 
 ![bf109g6as](../images/bf109g6as.png)
 
@@ -122,19 +122,16 @@ Operation features:
 - The gunsight has a sliding sun-filter.
 
 ## Modyfikacje
-﻿
 
 ### DB-605ASM engine
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)
 Additional mass: 21 kg
-Estimated speed increase at sea level: 43 km/h﻿
-
+Estimated speed increase at sea level: 43 km/h
 ### MW-50 Mixture
 
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes
-Additional mass (mixture): 63 kg﻿
-
+Additional mass (mixture): 63 kg
 ### 21 cm BR
 
 Two WGr.21 rockets in jettisonable launchers
@@ -144,33 +141,27 @@ Racks mass: 34 kg
 Estimated speed loss before launch: 51 km/h
 Estimated speed loss after launch: 11 km/h
 Estimated speed loss after drop: 2 km/h﻿
-
-
-### 2 x działko MG 151/20 20 mm
+&name=2 x działko MG 151/20 20 mm
 
 Działka MG 151/20 20 mm umieszczone w skrzydłach, po 135 nabojów na każde
 Additional mass: 212 kg
 Ammunition mass: 55 kg
 Guns mass: 157 kg
-Estimated speed loss: 13 km/h﻿
-
+Estimated speed loss: 13 km/h
 ### Działko MK 108 30 mm
 
 Działka MK 108 30 mm, 65 nabojów
 Additional mass: 4 kg
 Ammunition mass: 38 kg
 Gun mass: 58 kg
-Estimated speed loss: 0 km/h﻿
-
+Estimated speed loss: 0 km/h
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
 Estimated speed increase at sea level: 45 km/h﻿
-
-
-### 1 x bomba SC 250
+&name=1 x bomba SC 250
 
 Bomba ogólnego przeznaczenia SC 250 – 249 kg
 Additional mass: 279 kg

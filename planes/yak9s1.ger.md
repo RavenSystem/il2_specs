@@ -1,4 +1,4 @@
-﻿# Yak-9 Brh.1
+# Yak-9 Brh.1
 
 ![yak9s1](../images/yak9s1.png)
 
@@ -83,28 +83,23 @@ Eigenschaften:
 - Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.
 
 ## Änderungen
-﻿
 
 ### Scheinwerfer
 
 Landescheinwerfer für Nachtflüge
 Zusätzliches Gewicht: 2 kg
-Geschwindigkeitsverlust: 0 km/h﻿
-
+Geschwindigkeitsverlust: 0 km/h
 ### Rückspiegel
 
 Rückspiegel
 Zusätzliches Gewicht: 1 kg
-Geschwindigkeitsverlust: 0 km/h﻿
-
+Geschwindigkeitsverlust: 0 km/h
 ### PBP-1A Reflexvisier
 
 PBP-1A Reflexvisier
 Zusätzliches Gewicht: 0.5 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-
-
-### RPK-10
+&name=RPK-10
 
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen
 Zusätzliches Gewicht: 10 kg

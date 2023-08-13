@@ -1,4 +1,4 @@
-﻿# Pfalz D.XII
+# Pfalz D.XII
 
 ![pfalzd12](../images/pfalzd12.png)
 
@@ -55,55 +55,46 @@ Referenzen
 3) WW I Aero №124, May 1989.
 
 ## Änderungen
-﻿
 
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Sprungzahlenanzeige für 2 Maschinengewehre
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Querneigungsmesser
 
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Uhr
 
 Taschenuhr
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kompass
 
 L.Maxant Kompass
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kollimator Tag
 
 Oigee Reflexvisier (mit getönter Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Kollimator Nacht
 
 Oigee Reflexvisier (ohne getönte Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Thermometer
 

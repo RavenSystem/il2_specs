@@ -1,4 +1,4 @@
-# Churchill IV
+&name=Churchill IV
 
 ![_churchill-iv](../images/_churchill-iv.png)
 
@@ -93,9 +93,7 @@ Wireless Set No. 19. HF/VHF transceiver.
 
 
 ## 修改
-
-
-### HE Mortar Rounds
+&name=HE Mortar Rounds
 
 O-822Sh
 
@@ -103,8 +101,7 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
 
 Mass 850 g, explosives mass 90 g.
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.
-Range 410m.
-
+Range 410m
 ### 穿甲弹
 
 6pdr APT
@@ -117,16 +114,13 @@ Range 410m.
 炮口初速：890 m/s，近距离装甲穿深 136 mm
 500m时：装甲穿深 104mm，速度 738 m/s，下坠高度 -1.8m
 1000m时：装甲穿深 78mm，速度 602 m/s，下坠高度 -8.4m
-2000m时：装甲穿深 41mm，速度 387 m/s，下坠高度 -45.7m
-
+2000m时：装甲穿深 41mm，速度 387 m/s，下坠高度 -45.7
 ### Removed Bow Fenders
 
-The track bow fenders of Churchill tanks on the Eastern front were often removed.
-
+The track bow fenders of Churchill tanks on the Eastern front were often removed
 ### Removed Mid Fenders
 
-Rare variant with mid sections of caterpillar fenders removed.
-
+Rare variant with mid sections of caterpillar fenders removed
 ### Removed Fuel Tank
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.

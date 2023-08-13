@@ -1,4 +1,4 @@
-﻿# Breguet 14.B2
+# Breguet 14.B2
 
 ![breguet14](../images/breguet14.png)
 
@@ -61,13 +61,11 @@ Referenzen
 3) Profile Publications The Breguet 14, Number 157.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ###  8kg, 20 kg, 40 kg Bomben
 
@@ -90,19 +88,16 @@ Zusätzliches Gewicht: 256 kg
 Gewicht der Munition: 256 kg
 Gewicht der Abwurfwaffenroste: 0 kg
 Geschwindigkeitsverlust vor Abwurf: 6.3 km/h
-Geschwindigkeitsverlust nach Abwurf: 0 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 0 km/h
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Lewis Überflügel-Maschinengewehr
 
@@ -118,18 +113,15 @@ Gewicht der Halterung: 2 kg
 Gewicht der Munition: 20 kg
 Gseamtgewicht: 29.5 kg
 Geschätzter Geschwindigkeitsverlust: 3 km/h
-﻿
 
 ### Kamera
 
 Kamera zum Aufnehmen von Luftbildern
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Funkgerät
 
 Funkgerät
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Schiebefluganzeige
 
 Schiebefluganzeiger (mit Kugel)

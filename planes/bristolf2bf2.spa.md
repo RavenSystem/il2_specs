@@ -1,4 +1,4 @@
-﻿# Bristol F2B (F.II)
+# Bristol F2B (F.II)
 
 ![bristolf2bf2](../images/bristolf2bf2.png)
 
@@ -88,13 +88,11 @@ Referencias:
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
 ## Modificaciones
-﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-﻿
 
 ### Bombas Cooper / H.E.R.L.
 
@@ -110,19 +108,16 @@ Peso adicional: 252 kg
 Peso de munición: 204 kg
 Peso de los soportes: 48 kg
 Pérdida de velocidad estimada antes de soltar: 8 km/h
-Pérdida de velocidad estimada tras soltar: 4 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 4 km/h
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-﻿
 
 ### Indicador nivel de combustible
 
 Indicador analógico del nivel de combustible (0-30 Galones)
 Peso adicional: 1 kg
-﻿
 
 ### Doble Lewis sobre ala superior
 
@@ -137,19 +132,16 @@ Peso de las armas: 15 kg (sin cargador)
 Peso de los soportes: 8 kg
 Peso de la munición: 24 kg
 Peso total: 47 kg
-Pérdida de velocidad estimada: 4-14 km/h﻿
-
+Pérdida de velocidad estimada: 4-14 km/h
 ### Cámara de fotos
 
 Cámara para tomar fotografías aéreas
 Peso adicional: 10 kg
-﻿
 
 ### Radio
 
 Radiotransmisor
-Peso adicional: 10 kg﻿
-
+Peso adicional: 10 kg
 ### Doble Lewis en artillero
 
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.

@@ -1,4 +1,4 @@
-﻿# Halberstadt CL.II
+# Halberstadt CL.II
 
 ![halberstadtcl2](../images/halberstadtcl2.png)
 
@@ -72,13 +72,11 @@ Referenzen
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.
 
 ## Änderungen
-﻿
 
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### 20mm Becker Turret
 
@@ -92,8 +90,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 6 km/h﻿
-
+Estimated speed loss: 6 km/h
 ### Bomben, Typ P.u.W.
 
 12 x Splitterbomben 12.5 kg P.u.W
@@ -108,13 +105,11 @@ Zusätzliches Gewicht: 186 kg
 Gewicht der Munition: 150 kg
 Gewicht der Abwurfwaffenroste: 36 kg
 Geschwindigkeitsverlust vor Abwurf: 4 km/h
-Geschwindigkeitsverlust nach Abwurf: 2 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 2 km/h
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Zusätzliche Anzeigen
 
@@ -126,18 +121,15 @@ A.Schlegelmilch Kühlwasserthermometer (0-100 °C)
 
 Taschenuhr
 
-Zusätzliches Gewicht: 3 kg﻿
-
+Zusätzliches Gewicht: 3 kg
 ### Kamera
 
 Kamera zum Aufnehmen von Luftbildern
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Funkgerät
 
 Funkgerät
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Twin Parabellum MG Turret
 
 Ring turret with twin Parabellum machine guns.
@@ -149,8 +141,7 @@ Guns weight: 19 kg (w/o ammo drums)
 Mount weight: 5 kg
 Ammo weight: 30 kg
 Total weight: 54 kg
-Estimated speed loss: 8 km/h﻿
-
+Estimated speed loss: 8 km/h
 ### Twin Spandau MG
 
 Twin fixed forward firing LMG 08/15 guns.

@@ -1,4 +1,4 @@
-﻿# SSW D.IV
+# SSW D.IV
 
 ![schuckertdiv](../images/schuckertdiv.png)
 
@@ -65,37 +65,31 @@ Referenzen:
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## Änderungen
-﻿
 
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Querneigungsmesser
 
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kollimator Tag
 
 Oigee Reflexvisier (mit getönter Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Kollimator Nacht
 
 Oigee Reflexvisier (ohne getönte Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Anemometer
 

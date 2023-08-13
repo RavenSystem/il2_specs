@@ -1,4 +1,4 @@
-# MiG-3 ser.24
+&name=MiG-3 ser.24
 
 ![mig3s24](../images/mig3s24.png)
 
@@ -98,24 +98,20 @@ Características operativas:
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.
 
 ## Modificaciones
-
-
-### 2 ametralladoras BK de 12,7 mm 
+&name=2 ametralladoras BK de 12,7 mm 
 
 2 ametralladoras BK de 12,7 mm montados en carcasas exteriores subalares con 145 balas cada uno
 Peso adicional: 155 kg
 Peso de municion: 54 kg
 Peso del armamento: 101 kg
-Perdida de velocidad estimada: 13 km/h﻿
-
+Perdida de velocidad estimada: 13 km/h
 ### 2 ametralladoras BS 12,7 mm (700 balas)
 
 2 ametralladoras BS de 12,7 mm montadas en el morro con 350 balas cada una en lugar de las ametralladoras estándar ShKAS y BS
 Peso adicional: 34 kg
 Peso de munición: 131 kg
 Peso del armamento: 62 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### 2 bombas FAB-50sv / FAB-100M
 
 2 bombas de propósito general de 50 kg FAB-50sv / 2 bombas de propósito general de 104 kg FAB-100M
@@ -132,8 +128,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 ### 6 cohetes ROS-82
 
 6 cohetes no guiados explosivos (HE) de 82 mm ROS-82
@@ -141,8 +136,7 @@ Peso adicional: 60 kg
 Peso de munición: 42 kg
 Peso de los soportes: 18 kg
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h
-Pérdida de velocidad estimada tras lanzarlos: 17 km/h﻿
-
+Pérdida de velocidad estimada tras lanzarlos: 17 km/h
 ### 2 cañones de 20 mm ShVAK (300 balas)
 
 2 cañones de 20 mm ShVAK montados en el morro con 150 balas cada uno en lugar de las ametralladoras estándar ShKAS y BS

@@ -1,4 +1,4 @@
-﻿# Churchill IV
+# Churchill IV
 
 ![_churchill-iv](../images/_churchill-iv.png)
 
@@ -92,7 +92,6 @@ Wireless Set No. 19. HF/VHF transceiver.
 5 intercom terminals.
 
 ## Änderungen
-﻿
 
 ### HE Mortar Rounds
 
@@ -102,8 +101,7 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
 
 Mass 850 g, explosives mass 90 g.
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.
-Range 410m.﻿
-
+Range 410m.
 ### Panzerbrechende Granaten
 
 6pdr APT
@@ -117,16 +115,13 @@ Mündungsgeschwindigkeit: 890 m/s
 Durchschlagsleistung aus kürzester Entfernung: 136 mm
 500 m: Durchschlagsleistung 104 mm, Geschwindigkeit 738 m/s, Fall -1.8 m
 1000 m: Durchschlagsleistung 78 mm, Geschwindigkeit 602 m/s, Fall -8.4 m
-2000 m: Durchschlagsleistung 41 mm, Geschwindigkeit 387 m/s, Fall -45.7 m﻿
-
+2000 m: Durchschlagsleistung 41 mm, Geschwindigkeit 387 m/s, Fall -45.7 m
 ### Removed Bow Fenders
 
-The track bow fenders of Churchill tanks on the Eastern front were often removed.﻿
-
+The track bow fenders of Churchill tanks on the Eastern front were often removed.
 ### Removed Mid Fenders
 
-Rare variant with mid sections of caterpillar fenders removed.﻿
-
+Rare variant with mid sections of caterpillar fenders removed.
 ### Removed Fuel Tank
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.

@@ -1,4 +1,4 @@
-﻿# Pz.Kpfw.III Ausf.L
+# Pz.Kpfw.III Ausf.L
 
 ![_pziii-l](../images/_pziii-l.png)
 
@@ -91,7 +91,6 @@ Dieser Panzer ist für jeden Benutzer von IL-2 Great Battles kostenlos. Die Panz
 
 
 ## Änderungen
-﻿
 
 ### Panzersprenggranaten
 
@@ -108,8 +107,7 @@ Mündungsgeschwindigkeit 835 m/s
 Durchschlagsleistung aus kürzester Entfernung: 87 mm
 500 m: Durchschlagsleistung 68 mm, Geschwindigkeit 702 m/s, Fall -1,5 m
 1000 m: Durchschlagsleistung 53 mm, Geschwindigkeit 587 m/s, Fall -8,4 m
-2000 m: Durchschlagsleistung 30 mm, Geschwindigkeit 394 m/s, Fall -76,7 m﻿
-
+2000 m: Durchschlagsleistung 30 mm, Geschwindigkeit 394 m/s, Fall -76,7 m
 ### Sprenggranaten
 
 5 cm Sprgr. 38
@@ -124,8 +122,7 @@ Abgefeuert aus einer 5 cm KwK 39 L/60 Kanone:
 Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 444 m/s, Geschossabfall -4,9 m
 1000 m: Geschwindigkeit 368 m/s, Geschossabfall -22,6 m
-2000 m: Geschwindigkeit 285 m/s, Geschossabfall -118,5 m﻿
-
+2000 m: Geschwindigkeit 285 m/s, Geschossabfall -118,5 m
 ### Hartkerngranaten
 
 5 cm Pzgr. 40

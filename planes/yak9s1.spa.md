@@ -1,4 +1,4 @@
-﻿# Yak-9 ser.1
+# Yak-9 ser.1
 
 ![yak9s1](../images/yak9s1.png)
 
@@ -83,26 +83,22 @@ Características operativas:
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.
 
 ## Modificaciones
-﻿
 
 ### Luz de aterrizaje
 
 Luz de aterrizaje para los vuelos nocturnos
 Peso adicional: 2 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### Espejo
 
 Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### Mira reflectora
 
 Mira reflectora PBP-1A
 Peso adicional: 0,5 kg
 Pérdida de velocidad estimada: 0 km/h
-﻿
 
 ### RPK-10
 

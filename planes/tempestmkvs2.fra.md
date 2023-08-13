@@ -1,4 +1,4 @@
-﻿# Tempest Mk.V ser.2
+# Tempest Mk.V ser.2
 
 ![tempestmkvs2](../images/tempestmkvs2.png)
 
@@ -88,7 +88,6 @@ Operation features:
 - The range-finding gunsight reticle can be adjusted for a given target base and range.
 
 ## Modifications
-﻿
 
 ### 2 bombes 1000 lb M.C.
 
@@ -97,13 +96,11 @@ Masse supplémentaire : 969 kg
 Masse des munitions : 949 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 57 km/h
-Perte estimée de vitesse après le largage : 12 km/h﻿
-
+Perte estimée de vitesse après le largage : 12 km/h
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost
-Estimated speed increase at sea level: 23 km/h﻿
-
+Estimated speed increase at sea level: 23 km/h
 ### 2 bombes 500 lb M.C.
 
 2 bombes d’emploi général 500 lb M.C.

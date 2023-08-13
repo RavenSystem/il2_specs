@@ -1,4 +1,4 @@
-﻿# Tempest Mk.V ser.2
+# Tempest Mk.V ser.2
 
 ![tempestmkvs2](../images/tempestmkvs2.png)
 
@@ -87,7 +87,6 @@ Características operativas:
 - Se puede ajustar la retícula de la mira para un objetivo y rango determinados.
 
 ## Modificaciones
-﻿
 
 ### 2 bombas M.C. de 1000 lb
 
@@ -96,13 +95,11 @@ Peso adicional: 969 kg
 Peso de munición: 949 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 57 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 ### Motor Sabre IIA con impulso +11 lb
 
 Motor Sabre IIA con impulso +11 lb
-Incremento estimado de velocidad a nivel del mar: 23 km/h﻿
-
+Incremento estimado de velocidad a nivel del mar: 23 km/h
 ### 2 bombas M.C. de 500 lb
 
 2 bombas de capacidad media (M.C., Medium Capacity) de 500 lb.

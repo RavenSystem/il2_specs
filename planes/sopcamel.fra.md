@@ -1,4 +1,4 @@
-﻿# Sopwith Camel
+# Sopwith Camel
 
 ![sopcamel](../images/sopcamel.png)
 
@@ -66,13 +66,11 @@ References:
 7) Sopwith Camel Specification.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### Cooper bombes
 
@@ -82,13 +80,11 @@ Masse des munitions : 44 kg
 Masse des pylones : 12 kg
 Perte estimée de vitesse avant le largage : 2 km/h
 Perte estimée de vitesse après le largage : 1 km/h
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Enlarged window
 

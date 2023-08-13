@@ -1,4 +1,4 @@
-﻿# DFW C.V
+# DFW C.V
 
 ![dfwc5](../images/dfwc5.png)
 
@@ -63,13 +63,11 @@ References:
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
 ## Modifications
-﻿
 
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### 20mm Becker Turret
 
@@ -83,8 +81,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 6 km/h﻿
-
+Estimated speed loss: 6 km/h
 ### Bombes P.u.W.
 
 12 bombes d’emploi général 12.5 kg P.u.W
@@ -99,13 +96,11 @@ Masse supplémentaire : 186 kg
 Masse des munitions : 150 kg
 Masse des pylones : 36 kg
 Perte estimée de vitesse avant le largage : 4 km/h
-Perte estimée de vitesse après le largage : 2 km/h﻿
-
+Perte estimée de vitesse après le largage : 2 km/h
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Jauges supplémentaires
 
@@ -113,25 +108,21 @@ Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 
 
 Montre Mécanique
 
-Masse supplémentaire : 0.5 kg﻿
-
+Masse supplémentaire : 0.5 kg
 ### Viseur
 
 Viseur additionnel avec guidon de mire avant-arrière
 Masse supplémentaire : 1 kg
-﻿
 
 ### Camera
 
 Camera for taking aerial photographs
 Additional mass: 10 kg
-﻿
 
 ### Radio
 
 Radio transmitter
-Additional mass: 10 kg﻿
-
+Additional mass: 10 kg
 ### Twin Parabellum MG Turret
 
 Ring turret with twin Parabellum machine guns.

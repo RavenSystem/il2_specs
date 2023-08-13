@@ -1,4 +1,4 @@
-﻿# LaGG-3 sér.29
+# LaGG-3 sér.29
 
 ![lagg3s29](../images/lagg3s29.png)
 
@@ -93,9 +93,7 @@ Caractéristiques
 
 ## Modifications
 ﻿
-
-
-### 2 bombes FAB-100M
+&name=2 bombes FAB-100M
 
 2 bombes d’emploi général FAB-100M de 104 kg
 Masse supplémentaire : 228 kg
@@ -103,9 +101,7 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h﻿
-
-
-### 2 bombes FAB-50sv
+&name=2 bombes FAB-50sv
 
 2 bombes d’emploi général FAB-50sv de 50 kg
 Masse supplémentaire : 120 kg
@@ -113,9 +109,7 @@ Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
 Perte estimée de vitesse après le largage : 12 km/h﻿
-
-
-### 6 roquettes ROS-82 
+&name=6 roquettes ROS-82 
 
 6 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm
 Masse supplémentaire : 60 kg
@@ -123,18 +117,14 @@ Masse des munitions : 42 kg
 Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 23 km/h
 Perte estimée de vitesse après le lancement : 17 km/h﻿
-
-
-### Sh-37 de 37 mm
+&name=Sh-37 de 37 mm
 
 Canon automatique Sh-37 de 37 mm avec 20 obus
 Masse supplémentaire : 117 kg
 Masse des munitions : 36 kg
 Masse de canon: 169 kg
 Perte estimée de vitesse : 2 km/h﻿
-
-
-### VYa-23 de 23 mm
+&name=VYa-23 de 23 mm
 
 Canon automatique VYa-23 de 23 mm avec 90 obus
 Masse supplémentaire : 35 kg

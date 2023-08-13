@@ -1,4 +1,4 @@
-﻿# LaGG-3 ser.29
+# LaGG-3 ser.29
 
 ![lagg3s29](../images/lagg3s29.png)
 
@@ -93,9 +93,7 @@ Operation features:
 
 ## Modyfikacje
 ﻿
-
-
-### 2 x bomba FAB-100M
+&name=2 x bomba FAB-100M
 
 2 x bomba ogólnego przeznaczenia FAB-100M – 104 kg
 Additional mass: 228 kg
@@ -103,9 +101,7 @@ Ammunition mass: 208 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 27 km/h
 Estimated speed loss after drop: 12 km/h﻿
-
-
-### 2 x bomba FAB-50SW
+&name=2 x bomba FAB-50SW
 
 2 x bomba ogólnego przeznaczenia FAB-50SW – 50 kg
 Additional mass: 120 kg
@@ -113,9 +109,7 @@ Ammunition mass: 100 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 20 km/h
 Estimated speed loss after drop: 12 km/h﻿
-
-
-### 6 x rakieta ROS-82
+&name=6 x rakieta ROS-82
 
 6 x niekierowany kruszący pocisk rakietowy ROS-82 – 82 mm
 Additional mass: 60 kg
@@ -123,18 +117,14 @@ Ammunition mass: 42 kg
 Racks mass: 18 kg
 Estimated speed loss before launch: 23 km/h
 Estimated speed loss after launch: 17 km/h﻿
-
-
-### Działko Sz-37 37 mm
+&name=Działko Sz-37 37 mm
 
 Działko Sz-37 37 mm z 20 nabojami
 Additional mass: 117 kg
 Ammunition mass: 36 kg
 Gun mass: 169 kg
 Estimated speed loss: 2 km/h﻿
-
-
-### Działko WJa-23 23 mm
+&name=Działko WJa-23 23 mm
 
 Działko WJa-23 23 mm z 90 nabojami
 Additional mass: 35 kg

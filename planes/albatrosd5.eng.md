@@ -1,4 +1,4 @@
-﻿# Albatros D.Va
+# Albatros D.Va
 
 ![albatrosd5](../images/albatrosd5.png)
 
@@ -60,31 +60,22 @@ References
 5) Albatros fighters in action by John F Connors.
 
 ## Modifications
-
-
-### Bullet Counters
+&name=Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns
 Additional mass: 1 kg
-
-
-### Inclinometer
+&name=Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-
-
-### Cockpit light
+&name=Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Gunsight
+&name=Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-﻿
 
 ### Lewis Overwing
 
@@ -99,28 +90,22 @@ Gun weight: 7 kg (w/o ammo drum)
 Mount weight: 4 kg
 Ammo weight: 12 kg
 Total weight: 23 kg
-Estimated speed loss: 2-6 km/h
-
+Estimated speed loss: 2-6 km/
 ### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
-
-### Collimator Night
+&name=Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-
-
-### Anemometer, Altimeter, Clock
+&name=Anemometer, Altimeter, Clock
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
 
 D.R.P Altimeter (0-8000 m)
-Additional mass: 1 kg
-
+Additional mass: 1 k
 ### Thermometer
 
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)

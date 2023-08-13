@@ -1,4 +1,4 @@
-﻿# SPAD 7.C1 180hp
+# SPAD 7.C1 180hp
 
 ![spad7late](../images/spad7late.png)
 
@@ -55,25 +55,18 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 4) French \Hispano Suiza\ engines tech data.
 
 ## 修改
-
-
-### 阿尔迪斯（Alidas）瞄准具
+&name=阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)
 增加质量：2 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 勒克雷蒂安（LeChretien）瞄准具
+&name=勒克雷蒂安（LeChretien）瞄准具
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-﻿
 
 ### 上翼双刘易斯（Lewis）机枪
 
@@ -88,8 +81,7 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 基座重量：0.8 kg
 弹药重量：12 kg
 总重：20.3 kg
-预期速度损失：7-18 km/h
-
+预期速度损失：7-18 km/
 ### LePrieur rockets
 
 6 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.
@@ -97,8 +89,7 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 弹药质量：12 kg
 挂架质量：24 kg
 投弹前预期速度损失：8 km/h
-投弹后预期速度损失：6 km/h
-
+投弹后预期速度损失：6 km/
 ### 风速仪
 
 E.巴丁型风速计(0m时0至230km/h，2000m时0至240km/h)

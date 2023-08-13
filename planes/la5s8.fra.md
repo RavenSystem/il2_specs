@@ -1,4 +1,4 @@
-﻿# La-5 sér.8
+# La-5 sér.8
 
 ![la5s8](../images/la5s8.png)
 
@@ -92,14 +92,10 @@ Caractéristiques
 
 ## Modifications
 
-
-
-### Munitions spéciales
+&name=Munitions spéciales
 
 Cartouches spécifiques: anti blindage (AB) ou explosive-brisante (EB)
-
-
-### 2 bombes FAB-100M 
+&name=2 bombes FAB-100M 
 
 2 bombes d’emploi général FAB-100M de 104 kg
 Masse supplémentaire : 228 kg
@@ -107,9 +103,7 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h
-
-
-### 2 bombes FAB-50sv 
+&name=2 bombes FAB-50sv 
 
 2 bombes d’emploi général FAB-50sv de 50 kg
 Masse supplémentaire : 120 kg
@@ -117,23 +111,17 @@ Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
 Perte estimée de vitesse après le largage : 12 km/h﻿
-
-
-### M-82F engine
+&name=M-82F engine
 
 Late M-82F engine modification with unlimited boosted mode duration.
 Masse supplémentaire : 0 kg
 Perte estimée de vitesse : 0 km/h﻿
-
-
-### RPK-10
+&name=RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg
 Perte estimée de vitesse : 0 km/h﻿
-
-
-### Pare-brise plat
+&name=Pare-brise plat
 
 La section frontale du pare-brise est plate pour une meilleure visibilité
 Masse supplémentaire : 2 kg

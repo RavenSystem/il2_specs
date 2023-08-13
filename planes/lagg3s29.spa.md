@@ -1,4 +1,4 @@
-﻿# LaGG-3 ser.29
+# LaGG-3 ser.29
 
 ![lagg3s29](../images/lagg3s29.png)
 
@@ -92,7 +92,6 @@ Características operativas:
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.
 
 ## Modificaciones
-﻿
 
 ### 2 bombas FAB-100M
 
@@ -101,8 +100,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 ### 2 bombas FAB-50sv
 
 2 bombas de propósito general de 50 kg FAB-50sv
@@ -110,8 +108,7 @@ Peso adicional: 120 kg
 Peso de munición: 100 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 20 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 ### 6 cohetes ROS-82
 
 6 cohetes no guiados explosivos (HE) de 82 mm ROS-82
@@ -119,16 +116,14 @@ Peso adicional: 60 kg
 Peso de munición: 42 kg
 Peso de los soportes: 18 kg
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h
-Pérdida de velocidad estimada tras lanzarlos: 17 km/h﻿
-
+Pérdida de velocidad estimada tras lanzarlos: 17 km/h
 ### 1 cañón de 37 mm Sh-37
 
 1 cañón de 37 mm Sh-37 instalado a través del motor con 20 balas
 Peso adicional: 117 kg
 Peso de munición: 36 kg
 Peso de cañón: 169 kg
-Pérdida de velocidad estimada: 2 km/h﻿
-
+Pérdida de velocidad estimada: 2 km/h
 ### 1 cañón de 23 mm VYa-23
 
 1 cañón de 23 mm VYa-23 instalado a través del motor con 90 balas

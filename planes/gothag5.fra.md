@@ -1,4 +1,4 @@
-﻿# Gotha G.V
+# Gotha G.V
 
 ![gothag5](../images/gothag5.png)
 
@@ -68,7 +68,6 @@ References:
 4) The Gotha. Flight magazine 1917.
 
 ## Modifications
-﻿
 
 ### Bombes P.u.W.
 
@@ -98,8 +97,7 @@ Masse supplémentaire : 312 kg
 Masse des munitions : 300 kg
 Masse des pylones : 12 kg
 Perte estimée de vitesse avant le largage : 1.5 km/h
-Perte estimée de vitesse après le largage : 1 km/h﻿
-
+Perte estimée de vitesse après le largage : 1 km/h
 ### 20mm Becker Rear Turret
 
 Rear Turret with Becker Automatic Cannon
@@ -112,8 +110,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 2 km/h﻿
-
+Estimated speed loss: 2 km/h
 ### Twin Parabellum MG Rear Turret
 
 Rear ring turret with twin Parabellum machine guns.
@@ -125,19 +122,16 @@ Guns weight: 19 kg (w/o ammo drums)
 Mount weight: 5 kg
 Ammo weight: 40 kg
 Total weight: 64 kg
-Estimated speed loss: 1 km/h﻿
-
+Estimated speed loss: 1 km/h
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Jauge d\essence
 
 Jauge de niveau de carburant à aiguille (0-800 l)
 Masse supplémentaire : 0.5 kg
-﻿
 
 ### 20mm Becker Front Turret
 
@@ -151,8 +145,7 @@ Gun weight: 30 kg
 Mount weight: 10 kg
 Ammunition total weight: 25 kg
 Total weight: 65 kg
-Estimated speed loss: 2 km/h﻿
-
+Estimated speed loss: 2 km/h
 ### Twin Parabellum MG Front Turret
 
 Front ring turret with twin Parabellum machine guns.

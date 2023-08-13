@@ -1,4 +1,4 @@
-﻿# Fokker D.VII
+# Fokker D.VII
 
 ![fokkerd7](../images/fokkerd7.png)
 
@@ -59,48 +59,33 @@ D.VII飞行员留意到，该机型具有良好的爬升速度、出色的驾驶
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## 修改
-
-
-### 高空高度计
+&name=高空高度计
 
 德意志帝国（D.R.P.）高度表（0-8000m）
-
-
-### 弹药计数器
+&name=弹药计数器
 
 威廉·莫雷尔(Wilhelm Morell)双机枪数字子弹计数器
 增加质量：1 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 射击瞄准具
+&name=射击瞄准具
 
 带有前后准心的附加瞄准具
 增加质量：1 kg
-
-
-### 瞄准具（昼）
+&name=瞄准具（昼）
 
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）
 增加质量：2 kg
-
-
-### 瞄准具（夜）
+&name=瞄准具（夜）
 
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）
 增加质量：2 kg
-
-
-### 风速仪
+&name=风速仪
 
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)
 增加质量：1 kg
-﻿
 
 ### 温度计
 

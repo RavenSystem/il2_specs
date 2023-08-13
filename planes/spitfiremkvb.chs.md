@@ -1,4 +1,4 @@
-﻿# Spitfire Mk.VB
+# Spitfire Mk.VB
 
 ![spitfiremkvb](../images/spitfiremkvb.png)
 
@@ -115,14 +115,11 @@ Merlin 45发动机：
 —射击瞄准具拥有一个滑动式的太阳滤光片。
 
 ## 修改
-
-
-### 梅林45发动机
+&name=梅林45发动机
 
 梅林45发动机. 
 增加质量：0 kg
-预期速度损失：0 km/h
-
+预期速度损失：0 km/
 ### 后视镜
 
 后视镜

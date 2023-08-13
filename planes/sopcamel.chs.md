@@ -1,4 +1,4 @@
-﻿# Sopwith Camel
+# Sopwith Camel
 
 ![sopcamel](../images/sopcamel.png)
 
@@ -62,30 +62,23 @@
 7) Sopwith Camel Specification.
 
 ## 修改
-
-
-### 阿尔迪斯（Alidas）瞄准具
+&name=阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
-
-
-### 库珀（Cooper）炸弹
+&name=库珀（Cooper）炸弹
 
 最多4 x 11 kg（24 lb）库珀（Cooper）通用炸弹
 增加质量：56 kg
 弹药质量：44 kg
 挂架质量：12 kg
 投弹前预期速度损失：2 km/h
-投弹后预期速度损失：1 km/h
-
+投弹后预期速度损失：1 km/
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 增大天窗
+&name=增大天窗
 
 增大上层机翼的缺口以改进视野。
 预期速度损失：2 km/h

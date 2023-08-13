@@ -1,4 +1,4 @@
-﻿# Sopwith Triplane
+# Sopwith Triplane
 
 ![soptriplane](../images/soptriplane.png)
 
@@ -57,19 +57,16 @@ Referenzen:
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Twin forward Vickers
 

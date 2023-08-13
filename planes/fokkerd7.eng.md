@@ -1,4 +1,4 @@
-﻿# Fokker D.VII
+# Fokker D.VII
 
 ![fokkerd7](../images/fokkerd7.png)
 
@@ -60,48 +60,33 @@ References
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## Modifications
-
-
-### High Altimeter
+&name=High Altimeter
 
 D.R.P Altimeter (0-8000 m)
-
-
-### Bullet counters
+&name=Bullet counters
 
 Wilhelm Morell digital bullet counters for 2 machine guns
 Additional mass: 1 kg
-
-
-### Cockpit light
+&name=Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Gunsight
+&name=Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-
-
-### Collimator Day
+&name=Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
-
-### Collimator Night
+&name=Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-
-
-### Anemometer
+&name=Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
-﻿
 
 ### Thermometer
 

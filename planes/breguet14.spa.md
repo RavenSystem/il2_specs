@@ -1,4 +1,4 @@
-﻿# Breguet 14.B2
+# Breguet 14.B2
 
 ![breguet14](../images/breguet14.png)
 
@@ -61,13 +61,11 @@ Referencias:
 3) Profile Publications The Breguet 14, número 157.
 
 ## Modificaciones
-﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-﻿
 
 ### Bombas 8 kg, 20 kg, 40 kg
 
@@ -90,19 +88,16 @@ Peso adicional: 256 kg
 Peso de munición: 256 kg
 Peso de los soportes: 0 kg
 Pérdida de velocidad estimada antes de soltar: 6,3 km/h
-Pérdida de velocidad estimada tras soltar: 0 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 0 km/h
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-﻿
 
 ### Le-Chretien
 
 Colimador reflectante Le-Chretien
 Peso adicional: 1 kg
-﻿
 
 ### Lewis sobre ala superior
 
@@ -117,19 +112,16 @@ Peso del arma: 7,5 kg (sin cargador)
 Peso del soporte: 2 kg
 Peso de la munición: 20 kg
 Peso total: 29,5 kg
-Pérdida de velocidad estimada: 3 km/h﻿
-
+Pérdida de velocidad estimada: 3 km/h
 ### Cámara de fotos
 
 Cámara para tomar fotografías aéreas
 Peso adicional: 10 kg
-﻿
 
 ### Radio
 
 Radiotransmisor
-Peso adicional: 10 kg﻿
-
+Peso adicional: 10 kg
 ### Indicador de deslizamiento lateral
 
 Indicador de deslizamiento lateral (tipo bola)

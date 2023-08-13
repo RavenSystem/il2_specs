@@ -1,4 +1,4 @@
-﻿# La-5 Brh. 8
+# La-5 Brh. 8
 
 ![la5s8](../images/la5s8.png)
 
@@ -92,14 +92,10 @@ Eigenschaften:
 
 ## Änderungen
 
-
-
-### Spezielle Geschützmunition
+&name=Spezielle Geschützmunition
 
 Ausstattungsvarianten: entweder nur panzerbrechend (PB) oder nur explosiv (E)﻿
-
-
-### 2 x Bomben, Typ FAB-100M
+&name=2 x Bomben, Typ FAB-100M
 
 2 x 104-kg-Splitterbomben FAB-100M
 Zusätzliches Gewicht: 228 kg
@@ -107,9 +103,7 @@ Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-
-
-### 2 x Bomben, Typ FAB-50sv
+&name=2 x Bomben, Typ FAB-50sv
 
 2 x 50-kg-Splitterbomben FAB-50sv
 Zusätzliches Gewicht: 120 kg
@@ -117,23 +111,17 @@ Gewicht der Munition: 100 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 20 km/h
 Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-
-
-### M-82F Motor
+&name=M-82F Motor
 
 Später M-82F Motor mit unlimitierter Dauer für den Boost-Modus.
 Zusätzliches Gewicht: 0 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-
-
-### RPK-10
+&name=RPK-10
 
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen
 Zusätzliches Gewicht: 10 kg
 Geschwindigkeitsverlust: 0 km/h﻿
-
-
-### Flache Windschutzscheibe
+&name=Flache Windschutzscheibe
 
 Flache Frontsektion für bessere Übersichtlichkeit
 Zusätzliches Gewicht: 2 kg

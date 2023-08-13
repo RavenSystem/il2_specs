@@ -1,4 +1,4 @@
-﻿# Fokker D.VIIF
+# Fokker D.VIIF
 
 ![fokkerd7f](../images/fokkerd7f.png)
 
@@ -77,43 +77,30 @@ D.VIIF主要提供给最好和最可靠的前线中队。因此，最优秀的�
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry，Directorate of Research. May，1919.
 
 ## 修改
-
-
-### 高空高度计
+&name=高空高度计
 
 德意志帝国（D.R.P.）高度表（0-8000m）
 增加质量：1 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 射击瞄准具
+&name=射击瞄准具
 
 带有前后准心的附加瞄准具
 增加质量：1 kg
-
-
-### 瞄准具（昼）
+&name=瞄准具（昼）
 
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）
 增加质量：2 kg
-
-
-### 瞄准具（夜）
+&name=瞄准具（夜）
 
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）
 增加质量：2 kg
-
-
-### 风速仪
+&name=风速仪
 
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)
 增加质量：1 kg
-﻿
 
 ### 温度计
 

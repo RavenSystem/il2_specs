@@ -1,4 +1,4 @@
-﻿# Albatros D.Va
+# Albatros D.Va
 
 ![albatrosd5](../images/albatrosd5.png)
 
@@ -61,31 +61,26 @@ Referenzen
 5) Albatros fighters in action by John F Connors.
 
 ## Änderungen
-﻿
 
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Querneigungsmesser
 
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Visier
 
 Zusätzliches Visier mit Kimme und Kreuz
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Lewis Überflügel-Maschinengewehr
 
@@ -101,19 +96,16 @@ Gewicht der Halterung: 4 kg
 Gewicht der Munition: 12 kg
 Gseamtgewicht: 23 kg
 Geschätzter Geschwindigkeitsverlust: 2-6 km/h
-﻿
 
 ### Kollimator Tag
 
 Oigee Reflexvisier (mit getönter Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Kollimator Nacht
 
 Oigee Reflexvisier (ohne getönte Scheibe)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Anemometer, Höhenmesser, Uhr
 
@@ -122,9 +114,7 @@ Zusätzliches Gewicht: 1 kg
 
 D.R.P kompensierter Höhenmesser (0-8000 m)
 Zusätzliches Gewicht: 1 kg
-
-
-### Thermometer
+&name=Thermometer
 
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)
 Zusätzliches Gewicht: 1 kg

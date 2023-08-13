@@ -1,4 +1,4 @@
-﻿# Nieuport 28.C1
+# Nieuport 28.C1
 
 ![nieuport28](../images/nieuport28.png)
 
@@ -54,21 +54,15 @@ References
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## 修改
-
-
-### 阿尔迪斯（Alidas）瞄准具
+&name=阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)
 增加质量：2 kg
-
-
-### 高度计
+&name=高度计
 
 佩尔特雷拉菲切型高度计(0至5000m)
 增加质量：1 kg
-
-
-### “气球”机枪
+&name=“气球”机枪
 
 双维克斯（Vickers）“气球”机枪
 Ammo：300发11.43mm弹药
@@ -78,39 +72,27 @@ Ammo：300发11.43mm弹药
 弹药重量：24 kg
 射速：600 rpm
 总重：50 kg
-
-
-### 时钟
+&name=时钟
 
 机械时钟
 增加质量：1 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 罗盘
+&name=罗盘
 
 L.麦克森型罗盘
 增加质量：1 kg
-
-
-### 勒克雷蒂安（LeChretien）瞄准具
+&name=勒克雷蒂安（LeChretien）瞄准具
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-
-
-### 侧滑指示器
+&name=侧滑指示器
 
 侧滑指示器(球型)
 增加质量：1 kg
-
-
-### 风速计
+&name=风速计
 
 E.巴丁型风速计(2000m时70至200km/h，4000m时80至220km/h)
 增加质量：1 kg

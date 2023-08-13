@@ -1,4 +1,4 @@
-﻿# Airco D.H.4
+# Airco D.H.4
 
 ![aircodh4](../images/aircodh4.png)
 
@@ -70,13 +70,11 @@ Referenzen
 6) Various NACA reports.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Cooper / H.E.R.L. / H.E.R.F.C. Bomben
 
@@ -99,30 +97,25 @@ Zusätzliches Gewicht: 224 kg
 Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 16 kg
 Geschwindigkeitsverlust vor Abwurf: 5 km/h
-Geschwindigkeitsverlust nach Abwurf: 3 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 3 km/h
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Benzinuhr
 
 Anzeige mit Nadel für die Treibstoffmenge (0-30 Gallons)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kamera
 
 Kamera zum Aufnehmen von Luftbildern
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Funkgerät
 
 Funkgerät
-Zusätzliches Gewicht: 10 kg﻿
-
+Zusätzliches Gewicht: 10 kg
 ### Lewis Überflügel-Zwillings-Maschinengewehr
 
 Zwei überflügeln montierte zusätzliche Lewis-Maschinengewehre ohne wechselbarer Position.
@@ -135,7 +128,6 @@ Gewicht der Halterung: 6 kg
 Gewicht der Munition: 10 kg
 Gseamtgewicht: 31 kg
 Geschätzter Geschwindigkeitsverlust: 5 km/h
-﻿
 
 ### Twin Lewis MG turret
 
@@ -148,8 +140,7 @@ Guns weight: 15 kg (w/o ammo drums)
 Mount weight: 12 kg
 Ammo weight: 32 kg
 Total weight: 59 kg
-Estimated speed loss: 2 km/h﻿
-
+Estimated speed loss: 2 km/h
 ### Twin forward Vickers
 
 Twin fixed forward firing Vickers guns.

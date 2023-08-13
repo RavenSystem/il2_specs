@@ -1,4 +1,4 @@
-﻿# SPAD 13.C1
+# SPAD 13.C1
 
 ![spad13](../images/spad13.png)
 
@@ -60,13 +60,11 @@ References
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)
 Masse supplémentaire : 2 kg
-﻿
 
 ### Balloon guns
 
@@ -78,7 +76,6 @@ Guns weight: 26 kg
 Ammo weight: 32 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 58 kg
-﻿
 
 ### Cooper bombes
 
@@ -88,19 +85,16 @@ Masse des munitions : 22 kg
 Masse des pylones : 0 kg
 Perte estimée de vitesse avant le largage : 0 km/h
 Perte estimée de vitesse après le largage : 0 km/h
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
-﻿
 
 ### Camera
 

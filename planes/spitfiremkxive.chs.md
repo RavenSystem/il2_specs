@@ -1,4 +1,4 @@
-﻿# Spitfire Mk.XIVe
+# Spitfire Mk.XIVe
 
 ![spitfiremkxive](../images/spitfiremkxive.png)
 
@@ -96,14 +96,11 @@
 —两个射击瞄准具都有滑动式的太阳滤光片。
 
 ## 修改
-
-
-### 150号汽油
+&name=150号汽油
 
 允许+21 lb增压
 禁用增压器自动换挡。应在11000 feet高度手动换挡。
-预期海平面增速：20 km/h
-
+预期海平面增速：20 km/
 ### 2 x 250 lb 通用炸弹
 
 2 x 250 lb 通用炸弹
@@ -111,8 +108,7 @@
 弹药质量：227 kg
 挂架质量：20 kg
 投弹前预期速度损失：22 km/h
-投弹后预期速度损失：11 km/h
-
+投弹后预期速度损失：11 km/
 ### 500 lb 通用炸弹
 
 500 lb 通用炸弹
@@ -120,32 +116,24 @@
 弹药质量：227 kg
 挂架质量：10 kg
 投弹前预期速度损失：12 km/h
-投弹后预期速度损失：6 km/h
-
+投弹后预期速度损失：6 km/
 ### Recon camera
 
 F.24 camera installation behind the cockpit (clipped wing only)
 增加质量：28 kg
 预期速度损失：0 km/h
-
-
-### Rounded exhaust pipes
+&name=Rounded exhaust pipes
 
 Rounded exhaust pipes
-
-
-### 后视镜
+&name=后视镜
 
 后视镜
 增加质量：1 kg
-预期速度损失：1 km/h
-
+预期速度损失：1 km/
 ### Reflector Gunsight
 
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
-
-
-### 裁剪翼
+&name=裁剪翼
 
 裁剪翼
 减少质量：4 kg

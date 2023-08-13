@@ -1,4 +1,4 @@
-﻿# Fokker D.VIIF
+# Fokker D.VIIF
 
 ![fokkerd7f](../images/fokkerd7f.png)
 
@@ -78,43 +78,30 @@ References
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry, Directorate of Research. May, 1919.
 
 ## Modifications
-
-
-### High Altimeter
+&name=High Altimeter
 
 D.R.P Altimeter (0-8000 m)
 Additional mass: 1 kg
-
-
-### Cockpit light
+&name=Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Gunsight
+&name=Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-
-
-### Collimator Day
+&name=Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
-
-### Collimator Night
+&name=Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-
-
-### Anemometer
+&name=Anemometer
 
 Wilhelm Morell Anemometer (45-250 km/h)
 Additional mass: 1 kg
-﻿
 
 ### Thermometer
 

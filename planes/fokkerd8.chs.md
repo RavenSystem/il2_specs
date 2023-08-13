@@ -1,4 +1,4 @@
-﻿# Fokker D.VIII
+# Fokker D.VIII
 
 ![fokkerd8](../images/fokkerd8.png)
 
@@ -58,39 +58,27 @@ Pilots\ impressions about the aircraft were as follows: its climb performance an
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
 ## 修改
-
-
-### 测斜仪
+&name=测斜仪
 
 D.R.G.M液体测斜仪（地面指示坡度，飞行中指示侧滑）
 增加质量：1 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 射击瞄准具
+&name=射击瞄准具
 
 带有前后准心的附加瞄准具
 增加质量：1 kg
-
-
-### 瞄准具（昼）
+&name=瞄准具（昼）
 
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）
 增加质量：2 kg
-
-
-### 瞄准具（夜）
+&name=瞄准具（夜）
 
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）
 增加质量：2 kg
-
-
-### 风速仪
+&name=风速仪
 
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)
 增加质量：1 kg

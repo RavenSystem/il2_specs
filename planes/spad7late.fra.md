@@ -1,4 +1,4 @@
-﻿# SPAD 7.C1 180hp
+# SPAD 7.C1 180hp
 
 ![spad7late](../images/spad7late.png)
 
@@ -56,25 +56,21 @@ References
 4) French \Hispano Suiza\ engines tech data.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)
 Masse supplémentaire : 2 kg
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
-﻿
 
 ### Lewis Overwing
 
@@ -89,8 +85,7 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight: 0.8 kg
 Ammo weight: 12 kg
 Total weight: 20.3 kg
-Estimated speed loss: 7-18 km/h﻿
-
+Estimated speed loss: 7-18 km/h
 ### LePrieur rockets
 
 6 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.
@@ -99,7 +94,6 @@ Masse des munitions : 12 kg
 Masse des pylones : 24 kg
 Perte estimée de vitesse avant le largage : 8 km/h
 Perte estimée de vitesse après le largage : 6 km/h
-﻿
 
 ### Anémomètre
 

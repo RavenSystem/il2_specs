@@ -1,4 +1,4 @@
-﻿# SSW D.IV
+# SSW D.IV
 
 ![schuckertdiv](../images/schuckertdiv.png)
 
@@ -60,39 +60,27 @@ SSW D.IV came very late to the Great War, too late to change Germany’s fortune
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## 修改
-
-
-### 弹药计数器
+&name=弹药计数器
 
 2挺机枪的威廉·莫雷尔（Wilhelm Morell）针式刻度弹药计数器
 增加质量：1 kg
-
-
-### 测斜仪
+&name=测斜仪
 
 D.R.G.M液体测斜仪（地面指示坡度，飞行中指示侧滑）
 增加质量：1 kg
-
-
-### 驾驶舱照明
+&name=驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 瞄准具（昼）
+&name=瞄准具（昼）
 
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）
 增加质量：2 kg
-
-
-### 瞄准具（夜）
+&name=瞄准具（夜）
 
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）
 增加质量：2 kg
-
-
-### 风速仪
+&name=风速仪
 
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)
 增加质量：1 kg

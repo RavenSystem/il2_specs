@@ -1,4 +1,4 @@
-﻿# Yak-9 sér.1
+# Yak-9 sér.1
 
 ![yak9s1](../images/yak9s1.png)
 
@@ -83,28 +83,23 @@ Caractéristiques
 - Il est impossible d\ouvrir ou de fermer la verrière à grande vitesse en raison d\un fort flux d\air La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.
 
 ## Modifications
-﻿
 
 ### Phare datterrissage
 
 Atterrissage lumière pour les vols de nuit
 Masse supplementaire : 2 kg
-Perte estimee de vitesse : 0 km/h﻿
-
+Perte estimee de vitesse : 0 km/h
 ### Miroir
 
 Miroir pour voir lhémisphère arrière
 Additional mass: 1 kg
-Estimated speed loss: 0 km/h﻿
-
+Estimated speed loss: 0 km/h
 ### Reflector Gunsight
 
 PBP-1A reflector gunsight
 Additional mass: 0.5 kg
 Estimated speed loss: 0 km/h﻿
-
-
-### RPK-10
+&name=RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg

@@ -1,4 +1,4 @@
-﻿# Sd.Kfz.184
+# Sd.Kfz.184
 
 ![_sdkfz184](../images/_sdkfz184.png)
 
@@ -74,7 +74,6 @@ Transmisor-receptor VHF Fu 5
 
 
 ## Modificaciones
-﻿
 
 ### Proyectiles perforantes explosivos (APHE)
 
@@ -90,8 +89,7 @@ Disparado desde un cañón de 8,8 cm KwK 43 L/71:
 Velocidad de salida 1000 m/s, penetración del blindaje a bocajarro 192 mm.
 500 m: penetración del blindaje 179 mm, velocidad 951 m/s, caída -1,3 m.
 1000 m: penetración del blindaje 167 mm, velocidad 905 m/s, caída -5,4 m.
-2000 m: penetración del blindaje 144 mm, velocidad 816 m/s, caída -22,8 m.﻿
-
+2000 m: penetración del blindaje 144 mm, velocidad 816 m/s, caída -22,8 m.
 ### Proyectiles explosivos (HE)
 
 Sprgr. Flak 41 de 8,8 cm
@@ -107,8 +105,7 @@ Disparado desde un cañón de 8,8 cm KwK 43 L/71:
 Velocidad de salida 700 m/s.
 500 m: velocidad 662 m/s, caída -2,7 m.
 1000 m: velocidad 625 m/s, caída -11,1 m.
-2000 m: velocidad 556 m/s, caída -47,4 m.﻿
-
+2000 m: velocidad 556 m/s, caída -47,4 m.
 ### Proyectiles perforantes núcleo rígido (APCR)
 
 Pzgr. 40/43 de 8,8 cm
@@ -123,8 +120,7 @@ Disparado desde un cañón de 8,8 cm KwK 43 L/71:
 Velocidad de salida 1130 m/s, penetración del blindaje a bocajarro 266 mm.
 500 m: penetración del blindaje 237 mm, velocidad 1044 m/s, caída -1,1 m.
 1000 m: penetración del blindaje 212 mm, velocidad 964 m/s, caída -4,6 m.
-2000 m: penetración del blindaje 168 mm, velocidad 821 m/s, caída -19,7 m.﻿
-
+2000 m: penetración del blindaje 168 mm, velocidad 821 m/s, caída -19,7 m.
 ### Pantalla de cañón invertida
 
 Modificación en campo en el que se instala la plancha de protección del cañón dejando los pernos y tuercas que sujetan las dos mitades de la plancha hacia afuera, facilitando de esta forma su acceso.

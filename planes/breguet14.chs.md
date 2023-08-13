@@ -1,4 +1,4 @@
-﻿# Breguet 14.B2
+# Breguet 14.B2
 
 ![breguet14](../images/breguet14.png)
 
@@ -61,15 +61,11 @@ Breguet 14 是一款两座双翼飞机，由法国Breguet航空公司设计。 �
 3) Profile Publications The Breguet 14, Number 157.
 
 ## 修改
-
-
-### 阿尔迪斯（Alidas）瞄准具
+&name=阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具
 增加质量：2 kg
-
-
-### 8kg, 20 kg, 40 kg 炸弹
+&name=8kg, 20 kg, 40 kg 炸弹
 
 最多8 x 40 kg 通用炸弹
 增加质量：320 kg
@@ -90,19 +86,15 @@ Breguet 14 是一款两座双翼飞机，由法国Breguet航空公司设计。 �
 弹药质量：256 kg
 挂架质量：0 kg
 投弹前预期速度损失：6.3 km/h
-投弹后预期速度损失：0 km/h﻿
-
+投弹后预期速度损失：0 km/h
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯
 增加质量：1 kg
-
-
-### 勒克雷蒂安（LeChretien）瞄准具
+&name=勒克雷蒂安（LeChretien）瞄准具
 
 勒克雷蒂安（LeChretien）折射型直筒瞄准具
 增加质量：1 kg
-﻿
 
 ### 上翼双刘易斯（Lewis）机枪
 
@@ -117,19 +109,15 @@ Breguet 14 是一款两座双翼飞机，由法国Breguet航空公司设计。 �
 基座重量：2 kg
 弹药重量：20 kg
 总重：29.5 kg
-预期速度损失：3 km/h
-
+预期速度损失：3 km/
 ### 相机
 
 可拍摄航空照片的相机
 增加质量：10 kg
-
-
-### 无线电
+&name=无线电
 
 无线电发射机
-增加质量：10 kg
-
+增加质量：10 k
 ### 侧滑指示器
 
 侧滑指示器(球型)

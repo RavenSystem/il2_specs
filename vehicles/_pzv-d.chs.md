@@ -1,4 +1,4 @@
-# 豹式坦克D型（Pz.Kpfw.V Ausf.D）
+&name=豹式坦克D型（Pz.Kpfw.V Ausf.D）
 
 ![_pzv-d](../images/_pzv-d.png)
 
@@ -94,9 +94,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 
 
 ## 修改
-
-
-### 穿甲榴弹
+&name=穿甲榴弹
 
 7，5 cm Pzgr.39/42
 
@@ -110,8 +108,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：925 m/s，近距离装甲穿深 158 mm
 500m时：装甲穿深 140mm，速度 825 m/s，下坠高度 1.6m
 1000m时：装甲穿深 125mm，速度 785 m/s，下坠高度 6.6m
-2000m时：装甲穿深 99mm，速度 667 m/s，下坠高度 29.6m
-
+2000m时：装甲穿深 99mm，速度 667 m/s，下坠高度 29.6
 ### 榴弹
 
 7，5 cm SprGr.42
@@ -126,8 +123,7 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：700 m/s
 500m时：速度 648 m/s，下坠高度 2.8m
 1000m时：速度 601 m/s，下坠高度 11.5m
-2000m时：速度 518 m/s，下坠高度 49.9m﻿
-
+2000m时：速度 518 m/s，下坠高度 49.9m
 ### 次口径穿甲弹
 
 7，5 cm Pzgr.40/42
@@ -142,14 +138,12 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 炮口初速：1170 m/s，近距离装甲穿深 208 mm
 500m时：装甲穿深 179mm，速度 1054 m/s，下坠高度 1.0m
 1000m时：装甲穿深 154mm，速度 949 m/s，下坠高度 4.3m
-2000m时：装甲穿深 111mm，速度 756 m/s，下坠高度 19.7m﻿
-
+2000m时：装甲穿深 111mm，速度 756 m/s，下坠高度 19.7m
 ### 移除附加装甲板
 
 移除附在车体上的5mm装甲侧裙板（Schürzen）
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。
-虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。
-
+虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体
 ### Smoke Mortars
 
 Installation of 6 external single-shot smoke mortars.

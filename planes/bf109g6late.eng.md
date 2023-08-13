@@ -1,4 +1,4 @@
-﻿# Bf 109 G-6 Late
+# Bf 109 G-6 Late
 
 ![bf109g6late](../images/bf109g6late.png)
 
@@ -104,9 +104,7 @@ Operation features:
 - The gunsight has a sliding sun-filter.
 
 ## Modifications
-
-
-### 21 cm BR
+&name=21 cm BR
 
 Two WGr.21 rockets in jettisonable launchers
 Additional mass: 258 kg
@@ -114,8 +112,7 @@ Ammunition mass: 224 kg
 Racks mass: 34 kg
 Estimated speed loss before launch: 51 km/h
 Estimated speed loss after launch: 11 km/h
-Estimated speed loss after drop: 2 km/h
-
+Estimated speed loss after drop: 2 km/
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -123,37 +120,32 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/h
-
+Estimated speed loss after drop: 10 km/
 ### Erla Haube
 
 Erla Haube canopy retrofit modification
 Removed mass: 9 kg
-Estimated speed loss: 0 km/h
-
+Estimated speed loss: 0 km/
 ### 2 x 20mm MG 151/20 gun pods
 
 MG 151/20 20mm guns in wing-mounted gun pods with 135 rounds per each
 Additional mass: 212 kg
 Ammunition mass: 55 kg
 Guns mass: 157 kg
-Estimated speed loss: 13 km/h
-
+Estimated speed loss: 13 km/
 ### 30mm MK 108 gun
 
 MK 108 30mm nose-gun with 65 rounds
 Additional mass: 4 kg
 Ammunition mass: 38 kg
 Gun mass: 58 kg
-Estimated speed loss: 0 km/h
-
+Estimated speed loss: 0 km/
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
-Estimated speed increase at sea level: 45 km/h
-
+Estimated speed increase at sea level: 45 km/
 ### 1 x SC 250 bomb
 
 249 kg General Purpose Bomb SC 250
@@ -161,8 +153,7 @@ Additional mass: 279 kg
 Ammunition mass: 249 kg
 Racks mass: 30 kg
 Estimated speed loss before drop: 33 km/h
-Estimated speed loss after drop: 11 km/h
-
+Estimated speed loss after drop: 11 km/
 ### 4 x SD 70 bombs
 
 4 x 66 kg fragmentation bombs SD 70

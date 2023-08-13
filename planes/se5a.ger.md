@@ -1,4 +1,4 @@
-﻿# S.E.5a
+# S.E.5a
 
 ![se5a](../images/se5a.png)
 
@@ -58,13 +58,11 @@ Referenzen
 4) Profile Publications, The S.E. 5A Number 1.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Cooper Bomben
 
@@ -74,13 +72,11 @@ Gewicht der Munition: 44 kg
 Gewicht der Abwurfwaffenroste: 12 kg
 Geschwindigkeitsverlust vor Abwurf: 2 km/h
 Geschwindigkeitsverlust nach Abwurf: 1 km/h
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Benzinuhr
 

@@ -1,4 +1,4 @@
-﻿# SSW D.IV
+# SSW D.IV
 
 ![schuckertdiv](../images/schuckertdiv.png)
 
@@ -65,37 +65,31 @@ References:
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## Modyfikacje
-﻿
 
 ### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns
 Additional mass: 1 kg
-﻿
 
 ### Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-﻿
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-﻿
 
 ### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-﻿
 
 ### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-﻿
 
 ### Anemometer
 

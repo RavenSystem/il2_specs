@@ -1,4 +1,4 @@
-﻿# Pz.Kpfw.VI Ausf.H1
+# Pz.Kpfw.VI Ausf.H1
 
 ![_pzvi-h1](../images/_pzvi-h1.png)
 
@@ -105,7 +105,6 @@ Transmisor-receptor VHF Fu 5
 
 
 ## Modificaciones
-﻿
 
 ### Proyectiles perforantes explosivos (APHE)
 
@@ -121,8 +120,7 @@ Disparado desde un cañón de 8,8 cm KwK 36 L/56:
 Velocidad de salida 800 m/s, penetración del blindaje a bocajarro 140 mm.
 500 m: penetración del blindaje 129 mm, velocidad 756 m/s, caída -2,2 m.
 1000 m: penetración del blindaje 119 mm, velocidad 713 m/s, caída -8,6 m.
-2000 m: penetración del blindaje 100 mm, velocidad 631 m/s, caída -36,3 m.﻿
-
+2000 m: penetración del blindaje 100 mm, velocidad 631 m/s, caída -36,3 m.
 ### Proyectiles explosivos (HE)
 
 Sprgr. L/4,5 de 8,8 cm
@@ -138,8 +136,7 @@ Disparado desde un cañón de 8,8 cm KwK 36 L/56:
 Velocidad de salida 820 m/s.
 500 m: velocidad 771 m/s, caída -2,0 m.
 1000 m: velocidad 723 m/s, caída -8,1 m.
-2000 m: velocidad 629 m/s, caída -35,5 m.﻿
-
+2000 m: velocidad 629 m/s, caída -35,5 m.
 ### Proyectiles de carga hueca (HEAT)
 
 Gr. 39 HL de 8,8 cm
@@ -154,8 +151,7 @@ Disparado desde un cañón de 8,8 cm KwK 36 L/56:
 Velocidad de salida: 600 m/s.
 500 m: velocidad 476 m/s, caída -4,1 m.
 1000 m: velocidad 369 m/s, caída -19,4 m.
-2000 m: velocidad 273 m/s, caída -114,6 m.﻿
-
+2000 m: velocidad 273 m/s, caída -114,6 m.
 ### Proyectiles perforantes núcleo rígido (APCR)
 
 Pzgr. 40 de 8,8 cm
@@ -170,8 +166,7 @@ Disparado desde un cañón de 8,8 cm KwK 36 L/56:
 Velocidad de salida 930 m/s, penetración del blindaje a bocajarro 201 mm.
 500 m: penetración del blindaje 179 mm, velocidad 858 m/s, caída -1,7 m.
 1000 m: penetración del blindaje 159 mm, velocidad 791 m/s, caída -6,6 m.
-2000 m: penetración del blindaje 126 mm, velocidad 670 m/s, caída -29,1 m.﻿
-
+2000 m: penetración del blindaje 126 mm, velocidad 670 m/s, caída -29,1 m.
 ### Lanzagranadas de humo
 
 Instalación de 6 morteros externos lanzagranadas de humo de un único proyectil.

@@ -1,4 +1,4 @@
-﻿# Yak-1 sér.69
+# Yak-1 sér.69
 
 ![yak1s69](../images/yak1s69.png)
 
@@ -92,9 +92,7 @@ Caractéristiques
 
 ## Modifications
 
-
-
-### 2 bombes FAB-100M 
+&name=2 bombes FAB-100M 
 
 2 bombes d’emploi général FAB-100M de 104 kg
 Masse supplémentaire : 228 kg
@@ -102,23 +100,18 @@ Masse des munitions : 208 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h
 Perte estimée de vitesse après le largage : 12 km/h
-
-
-### 2 bombes FAB-50sv
+&name=2 bombes FAB-50sv
 
 2 bombes d’emploi général FAB-50sv de 50 kg
 Masse supplémentaire : 120 kg
 Masse des munitions : 100 kg
 Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 20 km/h
-Perte estimée de vitesse après le largage : 12 km/h﻿
-
+Perte estimée de vitesse après le largage : 12 km/h
 ### Female Pilot
 
 Lydia (Lilya) Vladimirovna Litvyak (18 August 1921 - 1 August 1943) - a Soviet fighter pilot, flight commander, Guards Junior Lieutenant, most successful female pilot of World War 2, Hero of the Soviet Union. Later research confirms 4 individual and 3 shared victories in aerial combat, as well as 1 aerostat shot down. Killed in action at the age of less than 22 years in a battle over the Mius Front.﻿
-
-
-### 2 roquettes ROS-82
+&name=2 roquettes ROS-82
 
 2 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm
 Masse supplémentaire : 60 kg
@@ -126,9 +119,7 @@ Masse des munitions : 42 kg
 Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 8 km/h
 Perte estimée de vitesse après le lancement : 6 km/h﻿
-
-
-### 6 roquettes ROS-82
+&name=6 roquettes ROS-82
 
 6 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm
 Masse supplémentaire : 60 kg
@@ -136,9 +127,7 @@ Masse des munitions : 42 kg
 Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 23 km/h
 Perte estimée de vitesse après le lancement : 17 km/h﻿
-
-
-### RPK-10
+&name=RPK-10
 
 Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg

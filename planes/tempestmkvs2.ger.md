@@ -1,4 +1,4 @@
-﻿# Tempest Mk.V ser.2
+# Tempest Mk.V ser.2
 
 ![tempestmkvs2](../images/tempestmkvs2.png)
 
@@ -88,7 +88,6 @@ Operation features:
 - Das Reflexvisier kann auf eine bestimmte Zielgröße und Entfernung eingestellt werden.
 
 ## Änderungen
-﻿
 
 ### 2 x Bomben, Typ 1000 lb M.C.
 
@@ -97,13 +96,11 @@ Zusätzliches Gewicht: 969 kg
 Gewicht der Munition: 949 kg
 Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 57 km/h
-Geschwindigkeitsverlust nach Abwurf: 12 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 12 km/h
 ### Sabre IIA Motor mit +11 lb Ladedruck
 
 Sabre IIA Motor mit +11 lb Ladedruck
-Geschwindigkeitsgewinn in Bodennähe: 23 km/h﻿
-
+Geschwindigkeitsgewinn in Bodennähe: 23 km/h
 ### 2 x Bomben, Typ 500 lb M.C.
 
 2 x 232-kg-Splitterbomben 500 lb M.C.

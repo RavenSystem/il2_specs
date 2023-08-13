@@ -1,4 +1,4 @@
-﻿# KV-1s ChTZ (1943)
+# KV-1s ChTZ (1943)
 
 ![_kv1s](../images/_kv1s.png)
 
@@ -95,7 +95,6 @@ VHF 9-RM transceiver.
 
 
 ## Änderungen
-﻿
 
 ### Panzerbrechende Granaten
 
@@ -110,8 +109,7 @@ Mündungsgeschwindigkeit: 660 m/s
 Durchschlagsleistung aus kürzester Entfernung: 87 mm
 500 m: Durchschlagsleistung 73 mm, Geschwindigkeit 585 m/s, Fall -3,2 m
 1000 m: Durchschlagsleistung 62 mm, Geschwindigkeit 524 m/s, Fall -13,6 m
-2000 m: Durchschlagsleistung 47 mm, Geschwindigkeit 429 m/s, Fall -63,5 m﻿
-
+2000 m: Durchschlagsleistung 47 mm, Geschwindigkeit 429 m/s, Fall -63,5 m
 ### Panzersprenggranaten
 
 BR-350B
@@ -127,12 +125,10 @@ Mündungsgeschwindigkeit: 660 m/s
 Durchschlagsleistung aus kürzester Entfernung: 86 mm
 500 m: Durchschlagsleistung 72 mm, Geschwindigkeit 584 m/s, Fall -3,2 m
 1000 m: Durchschlagsleistung 61 mm, Geschwindigkeit 522 m/s, Fall -13,6 m
-2000 m: Durchschlagsleistung 46 mm, Geschwindigkeit 427 m/s, Fall -64,0 m﻿
-
+2000 m: Durchschlagsleistung 46 mm, Geschwindigkeit 427 m/s, Fall -64,0 m
 ### Removed Fuel Tank
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.
-﻿
 
 ### Sprenggranaten
 
@@ -148,8 +144,7 @@ Abgefeuert aus einer F-34 / ZiS-5 Kanone:
 Mündungsgeschwindigkeit: 680 m/s
 500 m: Geschwindigkeit 616 m/s, Geschossabfall -3,0 m
 1000 m: Geschwindigkeit 558 m/s, Geschossabfall -12,5 m
-2000 m: Geschwindigkeit 468 m/s, Geschossabfall -56,7 m﻿
-
+2000 m: Geschwindigkeit 468 m/s, Geschossabfall -56,7 m
 ### Hartkerngranaten
 
 BR-354P

@@ -1,4 +1,4 @@
-﻿# Bf 109 G-6 Late
+# Bf 109 G-6 Late
 
 ![bf109g6late](../images/bf109g6late.png)
 
@@ -104,7 +104,6 @@ Caractéristiques
 - Le viseur a un filtre solaire coulissant.
 
 ## Modifications
-﻿
 
 ### 21 cm BR
 
@@ -114,8 +113,7 @@ Masse des munitions : 224 kg
 Masse des pylones : 34 kg
 Perte estimée de vitesse avant le lancement : 51 km/h
 Perte estimée de vitesse après le lancement : 11 km/h
-Perte estimée de vitesse après le largage : 2 km/h﻿
-
+Perte estimée de vitesse après le largage : 2 km/h
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -123,41 +121,33 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/h﻿
-
+Estimated speed loss after drop: 10 km/h
 ### Erla Haube
 
 Erla Haube canopy retrofit modification
 Removed mass: 9 kg
 Estimated speed loss: 0 km/h﻿
-
-
-### 2 canons MG 151/20 de 20 mm en nacelles
+&name=2 canons MG 151/20 de 20 mm en nacelles
 
 2 canons MG 151/20 de 20 mm montés dans des nacelles sous les ailes avec 135 obus chaque
 Masse supplémentaire : 212 kg
 Masse des munitions : 55 kg
 Masse des canons : 157 kg
 Perte estimée de vitesse : 13 km/h﻿
-
-
-### Canon MK 108 de 30 mm
+&name=Canon MK 108 de 30 mm
 
 Canon MK 108 de 30 mm monté dans le nez avec 65 obus
 Masse supplémentaire: 4 kg
 Masse des munitions : 38 kg
 Masse des canons : 58 kg
-Perte estimée de vitesse : 0 km/h﻿
-
+Perte estimée de vitesse : 0 km/h
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
 Estimated speed increase at sea level: 45 km/h﻿
-
-
-### 1 bombe SC 250
+&name=1 bombe SC 250
 
 Bombe d’emploi général SC 250 de 249 kg
 Masse supplémentaire : 279 kg
@@ -165,9 +155,7 @@ Masse des munitions : 249 kg
 Masse des pylones : 30 kg
 Perte estimée de vitesse avant le largage : 33 km/h
 Perte estimée de vitesse après le largage : 11 km/h﻿
-
-
-### 4 bombes SD 70
+&name=4 bombes SD 70
 
 4 bombes d’emploi général SD 70 de 66 kg
 Masse supplémentaire : 304 kg

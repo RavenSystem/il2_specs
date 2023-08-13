@@ -1,4 +1,4 @@
-﻿# Sopwith Triplane
+# Sopwith Triplane
 
 ![soptriplane](../images/soptriplane.png)
 
@@ -56,19 +56,16 @@
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## Модификации
-﻿
 
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа
 Дополнительная масса: 2 кг
-﻿
 
 ### Освещение кабины
 
 Лампа ночного освещения кабины самолёта
 Дополнительная масса: 1 кг
-﻿
 
 ### Второй пулемёт Виккерс
 

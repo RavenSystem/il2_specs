@@ -1,4 +1,4 @@
-﻿# Nieuport 28.C1
+# Nieuport 28.C1
 
 ![nieuport28](../images/nieuport28.png)
 
@@ -54,19 +54,16 @@ Referenzen
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Höhenmesser
 
 Peltret and Lafage Höhenmesser (0..5000m)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Ballon Maschinengewehre
 
@@ -78,37 +75,31 @@ Gewicht der Waffe: 26 kg
 Gewicht der Munition: 24 kg
 Feuerrate: 600 Schuss/min
 Zusätzliches Gewicht: 50 kg
-﻿
 
 ### Uhr
 
 Taschenuhr
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kompass
 
 L.Maxant Kompass
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Schiebefluganzeige
 
 Schiebefluganzeiger (mit Kugel)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Anemometer
 

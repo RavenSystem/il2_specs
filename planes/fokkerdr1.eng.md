@@ -1,4 +1,4 @@
-﻿# Fokker Dr.I
+# Fokker Dr.I
 
 ![fokkerdr1](../images/fokkerdr1.png)
 
@@ -71,39 +71,27 @@ References
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
 ## Modifications
-
-
-### Bullet Counters
+&name=Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns
 Additional mass: 1 kg
-
-
-### Inclinometer
+&name=Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-
-
-### Cockpit light
+&name=Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-
-
-### Gunsight
+&name=Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-
-
-### Collimator Day
+&name=Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-
-
-### Collimator Night
+&name=Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg

@@ -1,4 +1,4 @@
-# Handley Page O/400
+&name=Handley Page O/400
 
 ![handleypage400](../images/handleypage400.png)
 
@@ -65,17 +65,14 @@ Références
 
 ## Modifications
 ﻿
-
-
-### Bombe lourde 1650 lb SN
+&name=Bombe lourde 1650 lb SN
 
 Bombe d’emploi général 1650 lb SN (748 kg)
 Masse supplémentaire : 778 kg
 Masse des munitions : 748 kg
 Masse des pylones : 30 kg
 Perte estimée de vitesse avant le largage : 5 km/h
-Perte estimée de vitesse après le largage : 0 km/h﻿
-
+Perte estimée de vitesse après le largage : 0 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -88,8 +85,7 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -102,13 +98,11 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### Jauge d\essence,
 
 Jauge de niveau de carburant à aiguille (0-300 Gallons)
 Masse supplémentaire : 1 kg
-﻿
 
 ### Twin Lewis MG turret
 

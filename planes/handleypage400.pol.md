@@ -1,4 +1,4 @@
-﻿# Handley Page O/400
+# Handley Page O/400
 
 ![handleypage400](../images/handleypage400.png)
 
@@ -65,17 +65,14 @@ References
 
 ## Modyfikacje
 ﻿
-
-
-### Ciężka bomba 1650 lb SN
+&name=Ciężka bomba 1650 lb SN
 
 Bomba ogólnego przeznaczenia 1650 lb (748 kg)
 Additional mass: 778 kg
 Ammunition mass: 748 kg
 Racks mass: 30 kg
 Estimated speed loss before drop: 5 km/h
-Estimated speed loss after drop: 0 km/h﻿
-
+Estimated speed loss after drop: 0 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -88,8 +85,7 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -102,13 +98,11 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### Fuel Gauge
 
 Needle Scale fuel level Gauge (0-300 Gallons)
-Additional mass: 1 kg﻿
-
+Additional mass: 1 kg
 ### Twin Lewis MG turret
 
 Scarff ring turret with twin Lewis MG

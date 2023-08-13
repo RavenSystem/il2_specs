@@ -1,4 +1,4 @@
-﻿# SPAD 13.C1
+# SPAD 13.C1
 
 ![spad13](../images/spad13.png)
 
@@ -60,13 +60,11 @@ Referenzen
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
 ## Änderungen
-﻿
 
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)
 Zusätzliches Gewicht: 2 kg
-﻿
 
 ### Ballon Maschinengewehre
 
@@ -78,7 +76,6 @@ Gewicht der Waffe: 26 kg
 Gewicht der Munition: 32 kg
 Feuerrate: 600 Schuss/min
 Zusätzliches Gewicht: 58 kg
-﻿
 
 ### Cooper Bomben
 
@@ -88,19 +85,16 @@ Gewicht der Munition: 22 kg
 Gewicht der Abwurfwaffenroste: 0 kg
 Geschwindigkeitsverlust vor Abwurf: 0 km/h
 Geschwindigkeitsverlust nach Abwurf: 0 km/h
-﻿
 
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Le-Chretien
 
 Le-Chretien Teleskopvisier
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Kamera
 

@@ -1,4 +1,4 @@
-﻿# Sopwith Snipe
+# Sopwith Snipe
 
 ![sopsnipe](../images/sopsnipe.png)
 
@@ -60,13 +60,11 @@ References:
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis
 Masse supplémentaire : 2 kg
-﻿
 
 ### H.E.R.L. bomb
 
@@ -75,8 +73,7 @@ Additional mass: 57 kg
 Ammunition mass: 51 kg
 Rack mass: 6 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 1 km/h﻿
-
+Estimated speed loss after drop: 1 km/h
 ### Cooper bombes
 
 4 x bombes d’emploi général 24 lb Cooper (11 kg)
@@ -85,12 +82,10 @@ Masse des munitions : 44 kg
 Masse des pylones : 12 kg
 Perte estimée de vitesse avant le largage : 2 km/h
 Perte estimée de vitesse après le largage : 1 km/h
-﻿
 
 ### Enlarged cockpit cutouts
 
-Enlarged cockpit cutouts for improved field of view ("Barker mod")﻿
-
+Enlarged cockpit cutouts for improved field of view ("Barker mod")
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit

@@ -1,4 +1,4 @@
-﻿# La-5 ser.8
+# La-5 ser.8
 
 ![la5s8](../images/la5s8.png)
 
@@ -91,12 +91,9 @@ Características operativas:
 - El sistema de control del anclaje de las bombas solo permite el lanzamiento una a una.
 
 ## Modificaciones
+&name=Munición especial
 
-
-### Munición especial
-
-Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE)
-
+Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE
 ### 2 bombas FAB-100M
 
 2 bombas de propósito general de 104 kg FAB-100M
@@ -104,8 +101,7 @@ Peso adicional: 228 kg
 Peso de munición: 208 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 27 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h
-
+Pérdida de velocidad estimada tras soltar: 12 km/
 ### 2 bombas FAB-50sv
 
 2 bombas de propósito general de 50 kg FAB-50sv
@@ -113,20 +109,17 @@ Peso adicional: 120 kg
 Peso de munición: 100 kg
 Peso de los soportes: 20 kg
 Pérdida de velocidad estimada antes de soltar: 20 km/h
-Pérdida de velocidad estimada tras soltar: 12 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 12 km/h
 ### Motor M-82F
 
 Nuevo motor M-82F con duración ilimitada del modo impulso. 
 Peso adicional: 0 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### RPK-10
 
 Radiogoniómetro para navegación con radiobalizas
 Peso adicional: 10 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### Parabrisas plano
 
 Sección frontal plana para una mejor visibilidad

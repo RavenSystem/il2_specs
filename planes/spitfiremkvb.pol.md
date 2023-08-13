@@ -1,4 +1,4 @@
-﻿# Spitfire Mk.VB
+# Spitfire Mk.VB
 
 ![spitfiremkvb](../images/spitfiremkvb.png)
 
@@ -115,14 +115,12 @@ Operation features:
 - The gunsight has a sliding sun-filter.
 
 ## Modyfikacje
-﻿
 
 ### Merlin 45 engine
 
 Merlin 45 engine. 
 Additional mass: 0 kg
-Estimated speed loss: 0 km/h﻿
-
+Estimated speed loss: 0 km/h
 ### Lustro
 
 Lustro do tyłu do półkuli

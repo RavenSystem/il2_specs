@@ -1,4 +1,4 @@
-﻿# Bf 109 G-6 Late
+# Bf 109 G-6 Late
 
 ![bf109g6late](../images/bf109g6late.png)
 
@@ -104,7 +104,6 @@ Eigenschaften:
 - Das Visier ist mit einen Sonnenfilter ausgestattet.
 
 ## Änderungen
-﻿
 
 ### 21 cm BR
 
@@ -114,8 +113,7 @@ Gewicht der Munition: 224 kg
 Gewicht der Abwurfwaffenroste: 34 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 51 km/h
 Geschwindigkeitsverlust nach dem Abfeuern: 11 km/h
-Geschwindigkeitsverlust nach Abwurf: 2 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 2 km/h
 ### 300-liter Drop Tank
 
 300-liter jettisonable fuel tank
@@ -123,37 +121,32 @@ Empty mass: 15 kg
 Full mass: 237 kg
 Fuel capacity: 300 l
 Estimated speed loss before drop: 30 km/h
-Estimated speed loss after drop: 10 km/h﻿
-
+Estimated speed loss after drop: 10 km/h
 ### Erla Haube
 
 Erla Haube canopy retrofit modification
 Removed mass: 9 kg
-Geschwindigkeitsverlust: 0 km/h﻿
-
+Geschwindigkeitsverlust: 0 km/h
 ### 2 x 20 mm MG 151/20 in Waffengondeln
 
 20 mm Maschinenkanonen MG 151/20 in flügelmontierten Waffengondeln mit je 135 Schuss
 Zusätzliches Gewicht: 212 kg
 Gewicht der Munition: 55 kg
 Gewicht der Schusswaffen: 157 kg
-Geschwindigkeitsverlust: 13 km/h﻿
-
+Geschwindigkeitsverlust: 13 km/h
 ### 30 mm MK 108
 
 30mm Maschinenkanone MK 108 mit 65 Schuss
 Zusätzliches Gewicht: 4 kg
 Gewicht der Munition: 38 kg
 Gewicht der Schusswaffen: 58 kg
-Geschwindigkeitsverlust: 0 km/h﻿
-
+Geschwindigkeitsverlust: 0 km/h
 ### MW-50 System
 
 MW-50 water-methanol mixture injection system 
 Additional mass: 84 kg
 Water-methanol mixture mass: 63 kg
-Estimated speed increase at sea level: 45 km/h﻿
-
+Estimated speed increase at sea level: 45 km/h
 ### 1 x Bombe, Typ SC 250
 
 249-kg-Splitterbombe SC 250
@@ -161,8 +154,7 @@ Zusätzliches Gewicht: 279 kg
 Gewicht der Munition: 249 kg
 Gewicht der Abwurfwaffenroste: 30 kg
 Geschwindigkeitsverlust vor Abwurf: 33 km/h
-Geschwindigkeitsverlust nach Abwurf: 11 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 11 km/h
 ### 4 x Bomben, Typ SD 70
 
 4 x 66-kg-Splitterbomben SD 70

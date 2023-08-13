@@ -1,4 +1,4 @@
-﻿# Handley Page O/400
+# Handley Page O/400
 
 ![handleypage400](../images/handleypage400.png)
 
@@ -65,17 +65,14 @@ Literaturangaben
 
 ## Änderungen
 ﻿
-
-
-### 1650 lb SN Schwere Bombe
+&name=1650 lb SN Schwere Bombe
 
 1650 lb (748 kg)-Splitterbombe
 Zusätzliches Gewicht: 778 kg
 Gewicht der Munition: 748 kg
 Gewicht der Abwurfwaffenroste: 30 kg
 Geschwindigkeitsverlust vor Abwurf: 5 km/h
-Geschwindigkeitsverlust nach Abwurf: 0 km/h﻿
-
+Geschwindigkeitsverlust nach Abwurf: 0 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -88,8 +85,7 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### 57mm Davis gun
 
 Nose mount with 57mm Davis manually-operated recoilless gun
@@ -102,13 +98,11 @@ Gun weight: 50 kg
 Mount weight: 15 kg
 Ammunition total weight: 119 kg
 Total weight: 210 kg
-Estimated speed loss: 0,5 km/h﻿
-
+Estimated speed loss: 0,5 km/h
 ### Benzinuhr
 
 Anzeige mit Nadel für die Treibstoffmenge (0-300 Gallons)
 Zusätzliches Gewicht: 1 kg
-﻿
 
 ### Twin Lewis MG turret
 

@@ -1,4 +1,4 @@
-﻿# Spitfire Mk.XIVe
+# Spitfire Mk.XIVe
 
 ![spitfiremkxive](../images/spitfiremkxive.png)
 
@@ -96,24 +96,20 @@ Operation features:
 - Both gunsights have sliding sun-filters.
 
 ## Modyfikacje
-﻿
 
 ### 150 grade fuel
 
 Allows +21 lb boost
 Supercharger gear shift automat is disabled. Stages should be manually switched at 11000ft altitude.
 Estimated speed increase at sea level: 20 km/h﻿
-
-
-### 2 x bomba 250 lb G.P.
+&name=2 x bomba 250 lb G.P.
 
 2 x bomba ogólnego przeznaczenia 250 lb G.P. – 113 kg
 Additional mass: 247 kg
 Ammunition mass: 227 kg
 Racks mass: 20 kg
 Estimated speed loss before drop: 22 km/h
-Estimated speed loss after drop: 11 km/h﻿
-
+Estimated speed loss after drop: 11 km/h
 ### Bomba 500 lb G.P.
 
 Bomba ogólnego przeznaczenia 500 lb G.P. – 227 kg
@@ -121,30 +117,25 @@ Additional mass: 237 kg
 Ammunition mass: 227 kg
 Racks mass: 10 kg
 Estimated speed loss before drop: 12 km/h
-Estimated speed loss after drop: 6 km/h﻿
-
+Estimated speed loss after drop: 6 km/h
 ### Recon camera
 
 F.24 camera installation behind the cockpit (clipped wing only)
 Additional mass: 28 kg
 Estimated speed loss: 0 km/h
-﻿
 
 ### Rounded exhaust pipes
 
 Rounded exhaust pipes
-﻿
 
 ### Lustro
 
 Lustro do tyłu do półkuli
 Additional mass: 1 kg
-Estimated speed loss: 1 km/h﻿
-
+Estimated speed loss: 1 km/h
 ### Reflector Gunsight
 
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
-﻿
 
 ### Clipped Wing
 

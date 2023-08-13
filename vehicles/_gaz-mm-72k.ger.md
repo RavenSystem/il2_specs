@@ -1,4 +1,4 @@
-﻿# GAZ-MM 72-K
+# GAZ-MM 72-K
 
 ![_gaz-mm-72k](../images/_gaz-mm-72k.png)
 
@@ -67,7 +67,6 @@ Reserve iron sights.
 
 
 ## Änderungen
-﻿
 
 ### Panzerbrechende Granaten
 
@@ -83,24 +82,20 @@ Durchschlagsleistung aus kürzester Entfernung: 44 mm
 500 m: Durchschlagsleistung 33 mm, Geschwindigkeit 806 m/s, Fall -1,8 m
 1000 m: Durchschlagsleistung 25 mm, Geschwindigkeit 528 m/s, Fall -8,3 m
 2000 m: Durchschlagsleistung 13 mm, Geschwindigkeit 380 m/s, Fall -46,4 m
-﻿
 
 ### Gun shield (early)
 
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The early variant had a simple rectangular form.
 The shield has an additional window that should be opened when firing at low angles.
-﻿
 
 ### Gun shield
 
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The late variant had a complex form.
 The shield has an additional window that should be opened when firing at low angles.
-﻿
 
 ### Remove gunsight cover
 
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.
-﻿
 
 ### Sprenggranaten
 

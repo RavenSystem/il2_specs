@@ -1,4 +1,4 @@
-﻿# B-25D
+# B-25D
 
 ![b25draf](../images/b25draf.png)
 

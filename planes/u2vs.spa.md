@@ -1,4 +1,4 @@
-﻿# U-2VS
+# U-2VS
 
 ![u2vs](../images/u2vs.png)
 
@@ -101,7 +101,6 @@ Características operativas:
 - Es importante tener en cuenta que con todas las modificaciones posibles instaladas y el depósito de combustible completamente lleno, el peso total del avión es de 1390 kg, superior al peso máximo al despegue.
 
 ## Modificaciones
-﻿
 
 ### Carga de bombas
 
@@ -140,35 +139,29 @@ Peso adicional: 316 kg
 Peso de munición: 308 kg
 Peso de los soportes: 8 kg
 Pérdida de velocidad estimada antes de soltar: 13 km/h
-Pérdida de velocidad estimada tras soltar: 2 km/h﻿
-
+Pérdida de velocidad estimada tras soltar: 2 km/h
 ### Tripulación femenina
 
-Las «Brujas de la noche» (alemán: die Nachthexen; ruso: Ночные ведьмы, Nochnyye vedmy) fue el apodo que los alemanes pusieron durante la Segunda Guerra Mundial al grupo de mujeres aviadoras militares del 46.º Regimiento aéreo de bombarderos nocturnos de la Guardia, «Tamánski», con Orden de Suvórov y de la Bandera Roja (46.º GNBAP; hasta el 8 de febrero de 1943, 588.º Regimiento de bombarderos ligeros nocturnos), perteneciente a la Fuerza Aérea soviética.﻿
-
+Las «Brujas de la noche» (alemán: die Nachthexen; ruso: Ночные ведьмы, Nochnyye vedmy) fue el apodo que los alemanes pusieron durante la Segunda Guerra Mundial al grupo de mujeres aviadoras militares del 46.º Regimiento aéreo de bombarderos nocturnos de la Guardia, «Tamánski», con Orden de Suvórov y de la Bandera Roja (46.º GNBAP; hasta el 8 de febrero de 1943, 588.º Regimiento de bombarderos ligeros nocturnos), perteneciente a la Fuerza Aérea soviética.
 ### Horizonte artificial
 
 Horizonte artificial AGP-2
 Peso adicional: 2 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### Luz de aterrizaje
 
 Luz de aterrizaje para los vuelos nocturnos
 Peso adicional: 2 kg
-Pérdida de velocidad estimada: 1 km/h﻿
-
+Pérdida de velocidad estimada: 1 km/h
 ### Luces de navegación
 
 Luces de navegación
-Peso adicional: 4 kg﻿
-
+Peso adicional: 4 kg
 ### Radiotransmisor
 
 Radiotransmisor RSI-4
 Peso adicional: 12,6 kg
-Pérdida de velocidad estimada: 0 km/h﻿
-
+Pérdida de velocidad estimada: 0 km/h
 ### Cohetes
 
 Cohetes no guiados explosivos (HE) de 82 mm ROS-82 o cohetes no guiados perforantes (AP) de 82 mm RBS-82 o cohetes no guiados explosivos (HE) de 132 mm ROS-132
@@ -206,14 +199,12 @@ Peso adicional: 224 kg
 Peso de munición: 184 kg
 Peso de los soportes: 40 kg
 Pérdida de velocidad estimada antes de lanzarlos: 8 km/h
-Pérdida de velocidad estimada tras lanzarlos: 4 km/h﻿
-
+Pérdida de velocidad estimada tras lanzarlos: 4 km/h
 ### Ametralladora trasera
 
 1 ametralladora ShKAS de 7,62 mm con 400 balas, instalada en puesto de navegante y encarada hacia atrás
 Peso adicional: 34 kg
-Pérdida de velocidad estimada: 2 km/h﻿
-
+Pérdida de velocidad estimada: 2 km/h
 ### Ametralladora delantera
 
 1 ametralladora ShKAS de 7,62 mm montada en el ala con 500 balas

@@ -1,4 +1,4 @@
-﻿# Ju 52/3m g4e
+# Ju 52/3m g4e
 
 ![ju523mg4e](../images/ju523mg4e.png)
 
@@ -88,31 +88,25 @@ Operation features:
 - The left passenger door must be removed before flight for dropping paratroopers or cargo containers. Use the bomb drop button ("B" by default) to drop them.
 
 ## Modifications
-
-
-### 2300 kg of cargo
+&name=2300 kg of cargo
 
 2300 kg of military cargo payload
 Additional mass: 2300 kg
 Estimated speed loss: 2 km/h
-
-
-### 10 x MAB 250 containers
+&name=10 x MAB 250 containers
 
 10 x 250 kg drop transport container with parachute MAB 250
 Additional mass: 2550 kg
 Containers mass: 2500 kg
 Racks mass: 50 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 0 km/h
-
+Estimated speed loss after drop: 0 km/
 ### 12 paratroopers
 
 12 paratroopers with ammunition
 Additional mass: 1200 kg
 Estimated speed loss before drop: 2 km/h
-Estimated speed loss after drop: 0 km/h
-
+Estimated speed loss after drop: 0 km/
 ### Rear turret
 
 Rear turret with MG 15 7.92mm machinegun with 1125 rounds

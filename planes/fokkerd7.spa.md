@@ -1,4 +1,4 @@
-﻿# Fokker D.VII
+# Fokker D.VII
 
 ![fokkerd7](../images/fokkerd7.png)
 
@@ -60,48 +60,40 @@ Referencias:
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## Modificaciones
-﻿
 
 ### Altímetro de alta cota
 
 Altímetro de D.R.P (0-8000 m)
-﻿
 
 ### Contador de Balas
 
 Contador de balas digital para dos ametralladoras de Wilhelm Morell
 Peso adicional: 1 kg
-﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-﻿
 
 ### Punto de mira
 
 Mira adicional con monturas de mira frontal y mira trasera
 Peso adicional: 1 kg
-﻿
 
 ### Colimador diurno
 
 Colimador reflectante Oigee (con filtro solar instalado)
 Peso adicional: 2 kg
-﻿
 
 ### Colimador nocturno
 
 Colimador reflectante Oigee (sin filtro solar instalado)
 Peso adicional: 2 kg
-﻿
 
 ### Anemómetro
 
 Anemómetro Wilhelm Morell (45-250 km/h)
 Peso adicional: 1 kg
-﻿
 
 ### Termómetro
 

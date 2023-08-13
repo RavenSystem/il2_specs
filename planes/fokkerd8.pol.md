@@ -1,4 +1,4 @@
-﻿# Fokker D.VIII
+# Fokker D.VIII
 
 ![fokkerd8](../images/fokkerd8.png)
 
@@ -59,37 +59,31 @@ References
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
 ## Modyfikacje
-﻿
 
 ### Inclinometer
 
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)
 Additional mass: 1 kg
-﻿
 
 ### Cockpit light
 
 Cockpit illumination lamp for night sorties
 Additional mass: 1 kg
-﻿
 
 ### Gunsight
 
 Additional sight with front sight and rear sight mountings
 Additional mass: 1 kg
-﻿
 
 ### Collimator Day
 
 Oigee Reflector-type Collimator sight (daytime dimmer installed)
 Additional mass: 2 kg
-﻿
 
 ### Collimator Night
 
 Oigee Reflector-type Collimator sight (daytime dimmer removed)
 Additional mass: 2 kg
-﻿
 
 ### Anemometer
 

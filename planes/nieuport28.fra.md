@@ -1,4 +1,4 @@
-﻿# Nieuport 28.C1
+# Nieuport 28.C1
 
 ![nieuport28](../images/nieuport28.png)
 
@@ -54,19 +54,16 @@ References
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## Modifications
-﻿
 
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)
 Masse supplémentaire : 2 kg
-﻿
 
 ### Altimetre
 
 Altimetre Peltret and Lafage (0..5000m)
 Masse supplémentaire : 1 kg
-﻿
 
 ### Balloon guns
 
@@ -78,37 +75,31 @@ Guns weight: 26 kg
 Ammo weight: 24 kg
 Rate of fire: 600 rpm
 Total additional weight of weapon modification: 50 kg
-﻿
 
 ### Montre de bord
 
 Montre mécanique
 Masse supplémentaire : 1 kg
-﻿
 
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit
 Masse supplémentaire : 1 kg
-﻿
 
 ### Compas
 
 Compas L.Maxant
 Masse supplémentaire : 1 kg
-﻿
 
 ### Le-Chretien
 
 Collimateur à réfraction Le-Chrétien
 Masse supplémentaire : 1 kg
-﻿
 
 ### Indicateur de virage
 
 Indicateur de virage (à balle)
 Masse supplémentaire : 1 kg
-﻿
 
 ### Anemometre
 

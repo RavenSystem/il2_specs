@@ -1,4 +1,4 @@
-﻿# Sopwith Triplane
+# Sopwith Triplane
 
 ![soptriplane](../images/soptriplane.png)
 
@@ -60,19 +60,16 @@ Referencias:
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## Modificaciones
-﻿
 
 ### Aldis
 
 Colimador reflectante Aldis
 Peso adicional: 2 kg
-﻿
 
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas
 Peso adicional: 1 kg
-﻿
 
 ### Doble Vickers frontal
 
