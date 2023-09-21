@@ -6,8 +6,8 @@
 # Use "unGTP-IL2.exe" to extract files over a copy from "swf.gtp" file.
 # Copy and exec this script into "worldobjects" directory.
 
-TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2 BoS/il2_specs"
-IL2_VERSION="5.104 (28/06/2023)"
+TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik GB/il2_specs"
+IL2_VERSION="5.106 (21/09/2023)"
 
 
 mkdir -p "$TARGET_DIR/images"

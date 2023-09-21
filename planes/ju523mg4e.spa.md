@@ -106,9 +106,9 @@ Peso de los soportes: 50 kg
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  ﻿
   
-### 12 paracaidístas  
+### 12 paracaidistas  
   
-12 paracaidístas armados  
+12 paracaidistas armados  
 Peso adicional: 1200 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  

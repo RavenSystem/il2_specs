@@ -101,4 +101,4 @@ Eigenschaften:
 - Der Motor hat einen Zweiganglader, welcher manuell auf 3350 m (11000 ft) Höhe umgeschaltet werden muss.  
 - Das Bugfahrwerk steuert von alleine, hat keine Bremsen und kann nicht kontrolliert werden.  
 - Es gibt weiße und rote Signallampen im Heck: die weiße leuchtet, wenn die Türen des Bombenschachts offen sind, und die rote leuchtet für 5 Sekunden, wenn die Bomben ausgelöst werden.  
-- Airplane is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.  
+- The aircraft is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.  

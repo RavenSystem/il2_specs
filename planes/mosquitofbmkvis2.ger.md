@@ -100,7 +100,7 @@ Eigenschaften:
 - Das Flugzeug hat differentielle pneumatische Bremsen, die mit einem gemeinsamen Bremshebel betätigt werden. Wenn der Bremshebel gezogen und das Ruderpedal betätigt wird, wird die gegenüberliegende Bremse gelöst und das Flugzeug dreht sich zu der einen oder der anderen Seite.  
 - Das Flugzeug ist mit einer Sirene ausgestattet, die den Piloten warnt, wenn der Schubhebel auf niedrige Stellung gebracht wird und gleichzeitig das Fahrgestell eingefahren ist.  
 - Aufgrund der Stauluft ist es unmöglich, die Haube bei hohen Geschwindigkeiten zu öffnen, aber es gibt einen Griff zum Notabwurf, um abspringen zu können.  
-- Airplane is equipped with head, bottom formation lights and restricted intensity lights.  
+- The aircraft is equipped with head, bottom formation lights and restricted intensity lights.  
 - Die Visiereinrichtung ist einstellbar: Zielentfernung und Zielgröße können eingestellt werden.  
 - When rockets are installed there is Mk.IIL gunsight modification. To make it easier to aim rockets it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).  
 - Das Flugzeug ist mit einer Bombensteuerung ausgerüstet. Es gibt drei Abwurfarten: Einzelabwurf, zwei in einer Salve abwerfen oder alle Bomben in einer Salve abwerfen.  

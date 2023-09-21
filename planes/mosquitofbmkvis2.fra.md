@@ -101,7 +101,7 @@ Caractéristiques
 - L\avion a des freins pneumatiques différentiels de roue avec un levier de commande partagé. Cela signifie que si le levier de frein est maintenu, et que la pédale de gouvernail qui freine la roue opposé est progressivement libérée, cela fera tourner d\un côté ou de l\autre.  
 - L\avion est équipé d\une alarme sonore qui avertit le pilote si les gaz sont trop réduits alors que le train d\atterrissage est rentré.  
 - Il est impossible d\ouvrir la verrière à grande vitesse à cause de la forte pression du vent relatif mais il y a une poignée de largage d\urgence pour l\évacuation.  
-- Airplane is equipped with head, bottom formation lights and restricted intensity lights.  
+- The aircraft is equipped with head, bottom formation lights and restricted intensity lights.  
 - Le collimateur est réglable : la distance cible et l\envergure de la cible peuvent être réglées.  
 - When rockets are installed there is Mk.IIL gunsight modification. To make it easier to aim rockets it is possible to shift the target line up to 5 degrees downward (key combinations Right Shift + Semicolon / Right Shift + Period by default).  
 - L\avion est équipé d\un contrôleur de salve pour les bombes, il a trois modes de libération : unitaire, par deux dans une salve ou toutes les bombes en une salve.  

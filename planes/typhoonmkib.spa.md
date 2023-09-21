@@ -83,6 +83,7 @@ Características operativas:
 - El motor está equipado con un sistema de control automático de la mezcla que la mantiene en su grado óptimo cuando la palanca de control de la mezcla está en la posición «NORMAL» (posición central). Para arrancar el motor debe ponerse en la posición «START» (palanca completamente hacia delante, el movimiento de la palanca de potencia estará limitado a 1/10) y en la posición «CUT-OUT» (palanca completamente hacia atrás), para apagarlo.  
 - El motor tiene un regulador automático de las rpm que controla el paso de la hélice para mantener las rpm requeridas.  
 - Las temperaturas del agua y aceite se controlan manualmente ajustando las persianas de los radiadores.  
+- El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en el depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
 - El avión cuenta con compensadores para los controles de vuelo de cabeceo y guiñada.  
 - Los flaps tienen un accionador hidraúlico y pueden bajarse gradualmente hasta formar un ángulo de 80°. La velocidad con los flaps bajados está limitada a 160 mph.  
 - La rueda de cola del avión girar libremente y no se puede bloquear.  

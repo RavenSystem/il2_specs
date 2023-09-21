@@ -101,6 +101,7 @@ Eigenschaften:
 - Der Motor ist mit einer automatischen Gemischregelung ausgestattet, die das optimale Gemisch beibehält, wenn sich der Gemischhebel in der hinteren Position befindet. Um die automatische Abmagerung des Gemisches zur Reduzierung des Spritverbrauchs während des Flugs zu verwenden, wird der Gemischhebel in die vordere Position gebracht.   
 - Die Drehzahl des Motors hat einen automatischen Regler, der die Einstellung des Propellers kontrolliert, um die geforderte Drehzahl einzuhalten.  
 - Der Wasserkühler wird manuell verstellt, der Ölkühler ist nicht verstellbar.  
+- To use the fuel gauge, press and hold the corresponding button (RShift+I by default).  
 - Das Flugzeug hat eine neutrale Stabilität. Die Effektivität des Höhenruders ist hoch, so dass das Flugzeug vorsichtig gesteuert werden sollte, ohne zu starke Steuereingaben vorzunehmen.  
 - Das Flugzeug wird bei ausgefahrenen Landeklappen instabil.  
 - Das Flugzeug ist mit Höhen- und Seitenrudertrimmung ausgestattet.  

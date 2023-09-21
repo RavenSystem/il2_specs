@@ -46,11 +46,11 @@ Potencia nominal (combate) — 1 h 10 min
 Consumo mínimo (crucero) — 1 h 10 min  
   
 Armamento:  
-Disparo frontal: 2 Vickers Mk.I 7,69 mm, 250 balas por arma  
+Disparo frontal: 2 Vickers Mk.I de 7,69 mm, 250 balas por arma  
   
 Referencias:  
 1) The Nieuport 28 America\s first fighter. Theodore Hamady.  
-2) The Nieuport 28 C.1. Profile Publications número 79.  
+2) The Nieuport 28 C.1. Profile Publications n.º 79.  
 3) Nieuport 28 por J Guttman. Windsock Datafile 36.  
   
 ## Modificaciones  

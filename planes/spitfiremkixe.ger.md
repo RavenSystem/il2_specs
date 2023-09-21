@@ -113,6 +113,7 @@ Eigenschaften:
 - Die Gemischregelung erfolgt automatisch.  
 - Die Drehzahl des Motors hat einen automatischen Regler, der die Einstellung des Propellers kontrolliert, um die geforderte Drehzahl einzuhalten.  
 - Wasser und Ölkühler werden automatisch betätigt. Es gibt aber einen speziellen manuellen Modus, der die komplette Öffnung der Kühlklappen erzwingt.  
+- To use the fuel gauge, press and hold the corresponding button (RShift+I by default).  
 - Das Flugzeug hat eine neutrale Stabilität. Die Effektivität des Höhenruders ist hoch, so dass das Flugzeug vorsichtig gesteuert werden sollte, ohne zu starke Steuereingaben vorzunehmen.  
 - Das Flugzeug wird bei ausgefahrenen Landeklappen instabil.  
 - Das Flugzeug ist mit Höhen- und Seitenrudertrimmung ausgestattet.  

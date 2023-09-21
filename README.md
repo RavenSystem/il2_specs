@@ -1,7 +1,7 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.104 (28/06/2023)
+Version: 5.106 (21/09/2023)
 
 [ GitHub ](https://github.com/RavenSystem/il2_specs)
 
@@ -16,6 +16,11 @@ Version: 5.104 (28/06/2023)
 
 [ [chs](planes/aircodh4.chs.md) ] [ [eng](planes/aircodh4.eng.md) ] [ [fra](planes/aircodh4.fra.md) ] [ [ger](planes/aircodh4.ger.md) ] [ [rus](planes/aircodh4.rus.md) ] [ [spa](planes/aircodh4.spa.md) ] 
 ![aircodh4](images/aircodh4.png)
+
+### Albatros D.II  
+
+[ [chs](planes/albatrosd2.chs.md) ] [ [eng](planes/albatrosd2.eng.md) ] [ [fra](planes/albatrosd2.fra.md) ] [ [ger](planes/albatrosd2.ger.md) ] [ [rus](planes/albatrosd2.rus.md) ] [ [spa](planes/albatrosd2.spa.md) ] 
+![albatrosd2](images/albatrosd2.png)
 
 ### Albatros D.Va  
 
@@ -267,6 +272,11 @@ Version: 5.104 (28/06/2023)
 [ [chs](planes/lagg3s29.chs.md) ] [ [eng](planes/lagg3s29.eng.md) ] [ [fra](planes/lagg3s29.fra.md) ] [ [ger](planes/lagg3s29.ger.md) ] [ [rus](planes/lagg3s29.rus.md) ] [ [spa](planes/lagg3s29.spa.md) ] 
 ![lagg3s29](images/lagg3s29.png)
 
+### Li-2  
+
+[ [chs](planes/li2.chs.md) ] [ [eng](planes/li2.eng.md) ] [ [fra](planes/li2.fra.md) ] [ [ger](planes/li2.ger.md) ] [ [rus](planes/li2.rus.md) ] [ [spa](planes/li2.spa.md) ] 
+![li2](images/li2.png)
+
 ### MC.202 ser.VIII  
 
 [ [chs](planes/mc202s8.chs.md) ] [ [eng](planes/mc202s8.eng.md) ] [ [fra](planes/mc202s8.fra.md) ] [ [ger](planes/mc202s8.ger.md) ] [ [rus](planes/mc202s8.rus.md) ] [ [spa](planes/mc202s8.spa.md) ] 
@@ -296,6 +306,11 @@ Version: 5.104 (28/06/2023)
 
 [ [chs](planes/nieuport11.chs.md) ] [ [eng](planes/nieuport11.eng.md) ] [ [fra](planes/nieuport11.fra.md) ] [ [ger](planes/nieuport11.ger.md) ] [ [rus](planes/nieuport11.rus.md) ] [ [spa](planes/nieuport11.spa.md) ] 
 ![nieuport11](images/nieuport11.png)
+
+### Nieuport 17.C1  
+
+[ [chs](planes/nieuport17.chs.md) ] [ [eng](planes/nieuport17.eng.md) ] [ [fra](planes/nieuport17.fra.md) ] [ [ger](planes/nieuport17.ger.md) ] [ [rus](planes/nieuport17.rus.md) ] [ [spa](planes/nieuport17.spa.md) ] 
+![nieuport17](images/nieuport17.png)
 
 ### Nieuport 28.C1  
 

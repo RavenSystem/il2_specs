@@ -4,17 +4,17 @@
   
 ## Descripción  
   
-El Nieuport 11 «Bébé»  (bebé) fue un desarrollo avanzado de los conceptos propuestos por Gustave Delage, diseñador del Nieuport 10. En términos generales, el Bébé fue diseñado como un caza monoplaza sesquiplano. El ala inferior, con un solo larguero de refuerzo y con una superficie de ala menor que el plano superior, estaba sujeto al mismo mediante refuerzos entre planos en forma de V. Una desventaja de este diseño era la baja resistencia estructural que tenía el plano inferior, que tendía a flexar y doblarse cuando se sometía a fuertes cargas alares. Problemas similares fueron comunes a otros sesquiplanos, incluyendo la familia entera de Nieuports desde el  10 al 23, el Albatros D.III y D.V, etc.  
+El Nieuport 11 <i>Bébé</i> (bebé, en francés) fue un desarrollo avanzado de los conceptos propuestos por Gustave Delage, diseñador del Nieuport 10. En términos generales, el <i>Bébé</i> fue diseñado como un caza monoplaza sesquiplano. El ala inferior, con un solo larguero de refuerzo y con una superficie de ala menor que el plano superior, estaba sujeto al mismo mediante refuerzos entre planos en forma de V. Una desventaja de este diseño era la baja resistencia estructural que tenía el plano inferior, que tendía a flexar y doblarse cuando se sometía a fuertes cargas alares. Problemas similares fueron comunes a otros sesquiplanos, incluyendo la familia entera de Nieuport desde el 10 al 23, el Albatros D.III y D.V, etc.  
   
-Los primeros Nieuport 11 llegaron al frente francés en enero de 1916. El Bébé pronto se convirtió en un formidable adversario para el monoplano Fokker Eindecker, al que superaba en casi todas las características. La presencia de alerones y el uso de elevadores vinculados a un plano de cola convencional, con estabilizador vertical y timón deflector, mejoró de forma importante la maniobrabilidad y la precisión de los controles en comparación con aviones de modelos más antiguos, equipados con controles de alabeo por flexión del ala y elevadores equilibrados del tipo Morane.  
+Los primeros Nieuport 11 llegaron al frente francés en enero de 1916. El <i>Bébé</i> pronto se convirtió en un formidable adversario para el monoplano Fokker Eindecker, al que superaba en casi todas las características. La presencia de alerones y el uso de elevadores vinculados a un plano de cola convencional, con estabilizador vertical y timón deflector, mejoró de forma importante la maniobrabilidad y la precisión de los controles en comparación con aviones de modelos más antiguos, equipados con controles de alabeo por flexión del ala y elevadores equilibrados del tipo Morane.  
   
-La llegada del Nieuport 11 al frente puso fin a la devastadora superioridad de los Fokker monoplanos, que llegó a ser conocida como «El azote de los Fokker».  Durante la bBatalla de Verdún en febrero de 1916, los Nieuport 11 causaron un gran daño a las fuerzas aéreas enemigas y forzaron a Alto Mando alemán a revisar las tácticas de combate aéreo. Muchos famosos Ases de la Primera Guerra Mundial, incluido Georges Guynemer, obtuvieron sus primeros éxitos pilotando el Bébé  
+La llegada del Nieuport 11 al frente puso fin a la devastadora superioridad de los Fokker monoplanos, que llegó a ser conocida como «El azote de los Fokker». Durante la batalla de Verdún en febrero de 1916, los Nieuport 11 causaron un gran daño a las fuerzas aéreas enemigas y forzaron a Alto Mando alemán a revisar las tácticas de combate aéreo. Muchos famosos Ases de la Primera Guerra Mundial, incluido Georges Guynemer, obtuvieron sus primeros éxitos pilotando el <i>Bébé</i>.  
   
-Algunos Nieuport 11 fueron equipados con guías especiales montadas en los travesaños de las alas para disparar cohetes Le Prieur contra aeronaves enemigas y globos de observación. El Bébé permaneció en servicio militar activo hasta el verano de 1917, en que fue substituido por cazas más modernos. Algunos ejemplares fueron transferidos a las escuelas de vuelo como aviones de entrenamiento. Famoso entre los de su época, sus excelentes cualidades y gran rendimiento le valieron la gran popularidad que obtuvo. El Nieuport 11 estuvo en servicio en las Fuerza Aéreas de varios países, incluyendo Bélgica, Rusia y Gran Bretaña. Varios centenares de ejemplares se fabricaron bajo licencia en Italia y Rusia.  
+Algunos Nieuport 11 fueron equipados con guías especiales montadas en los travesaños de las alas para disparar cohetes Le Prieur contra aeronaves enemigas y globos de observación. El <i>Bébé</i> permaneció en servicio militar activo hasta el verano de 1917, en que fue substituido por cazas más modernos. Algunos ejemplares fueron transferidos a las escuelas de vuelo como aviones de entrenamiento. Famoso entre los de su época, sus excelentes cualidades y gran rendimiento le valieron la gran popularidad que obtuvo. El Nieuport 11 estuvo en servicio en las Fuerza Aéreas de varios países, incluyendo Bélgica, Rusia y Gran Bretaña. Varios centenares de ejemplares se fabricaron bajo licencia en Italia y Rusia.  
   
   
 Motor:  
-9 cil. rotativo Le Rhone 9C, 80 CV  
+Le Rhone 9C, 9 cil. rotativo, 80 CV  
   
 Dimensiones:  
 Altura: 2400 mm  
@@ -48,12 +48,12 @@ potencia nominal (combate) — 2 h
 consumo mínimo (crucero) — 3 h  
   
 Armamento:  
-Disparo frontal: 1 Lewis Mk.I 7,69mm,  388 balas por barril  
+Disparo frontal: 1 Lewis Mk.I de 7,69 mm, 388 balas  
   
 Referencias  
-1) Nieuport Fighters in action. Aircraft número 167.  
-2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 y vol.2.  
-3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces número 33.  
+1) Nieuport Fighters in action. Aircraft n.º 167.  
+2) Nieuport Fighters. JM Bruce Windsock Datafile, vol. 1 y vol. 2.  
+3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces n.º 33.  
   
 ## Modificaciones  
   ﻿

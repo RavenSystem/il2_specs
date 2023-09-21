@@ -59,7 +59,7 @@ Referencias:
 1) Albatros D.V  Windsock Datafile 3  
 2) Profile Publications The Albatros D V. Número 9  
 3) NASM Albatros D Va  
-4) Albatros Aces of World War I por Norman Franks, Osprey №32  
+4) Albatros Aces of World War I por Norman Franks, Osprey n.º 32  
 5) Albatros fighters in action por John F Connors.  
   
 ## Modificaciones  

@@ -111,6 +111,7 @@ Características operativas:
 - El motor cuenta con un control automático de la mezcla de combustible que la mantiene en el punto óptimo.  
 - La velocidad de rotación del motor (rpm) se establece por medio de un regulador automático que controla el paso de la hélice para mantener las rpm al régimen necesario.  
 - Las persianas de los radiadores de agua y aceite se gestionan automáticamente, aunque hay un modo manual especial que fuerza a las persianas de los radiadores a abrirse completamente.  
+- Para conocer el nivel de combustible restante usando el indicador, es necesario mantener presionado el botón correspondiente («Mayús_Dcha + I», por defecto).  
 - El avión tiene una estabilidad estática neutra. La efectividad del timón de profundidad o elevadores es alta, por lo que el avión debe ser manejado con cuidado, sin mover demasiado la palanca de vuelo.  
 - El avión se vuelve inestable con los flaps bajados.  
 - El avión cuenta con compensadores para el timón de cola y el timón de profundidad (elevadores).  

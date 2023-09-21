@@ -82,6 +82,7 @@ Operation features:
 - Die Steuerung des Motorgemischs erfolgt automatisch, wenn sich der Gemischhebel in der Position NORMAL (1/2) befindet. Er sollte beim Starten des Motors auf die Position START (vorwärts, die Bewegung des Triebwerksteuerung wird um 1/10 begrenzt) und beim Stoppen auf die Position CUT-OUT (rückwärts) eingestellt werden.  
 - Der Motor verfügt über einen automatischen Drehzahlregler, der die Propellereinstellung steuert, um die erforderliche Drehzahl einzuhalten.  
 - Die Wasser- und Öltemperaturen werden manuell durch Verstellen der Kühlerverschlüsse gesteuert.  
+- Das Flugzeug hat eine Anzeige, welche den Treibstoffstand des Tanks je nach Position des Treibstoffstandschalters anzeigt. In der Simulation wechselt der Schalter selbständig alle 10 Sekunden. Im Simulator ändert sich der Schalter durch Drücken von (Shift+I).  
 - Das Flugzeug verfügt nur über eine Höhenund Seitenrudertrimmung.  
 - Die Landeklappen verfügen über hydraulische Regler und können in jedem Winkel bis zu 80° ausgefahren werden. Die Geschwindigkeit mit ausgefahrenen Klappen ist auf 160 mph begrenzt.  
 - Das Flugzeug hat ein frei bewegliches und nicht verriegelbares Spornrad.  
