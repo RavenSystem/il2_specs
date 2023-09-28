@@ -55,7 +55,7 @@ Température maximale d\huile en sortie du moteur : 120 °C
 Altitude de changement d\étage du compresseur : étage simple  
   
 Masse à vide : 2650 kg  
-Masse minimale (sans munitions, 10%25 de carburant) : 2831 kg  
+Masse minimale (sans munitions, 10% de carburant) : 2831 kg  
 Masse standard : 3244 kg  
 Masse maximale au décollage : 3476 kg  
 Masse de carburant : 352 kg / 480 l  
@@ -84,13 +84,13 @@ Premier engagement : juillet 1941
 Caractéristiques  
 - Le moteur possède un mode de surpuissance (boost) qui est activé lorsque le levier de commande du mélange est placé en position maximale.  
 - Le moteur est pourvu d\un compresseur mécanique à un étage qui ne nécessite pas de commande manuelle.  
-- Le mélange en carburant est automatique lorsque la manette est placée dans une position intermédiaire (50%25) Il est possible d\agir manuellement lorsque la manette est positionnée sur une graduation inférieure à 50%25. Il permet aussi de réduire la consommation durant le vol.  
+- Le mélange en carburant est automatique lorsque la manette est placée dans une position intermédiaire (50%) Il est possible d\agir manuellement lorsque la manette est positionnée sur une graduation inférieure à 50%. Il permet aussi de réduire la consommation durant le vol.  
 - Il y a un régulateur de tours moteur, les RPM sont ainsi maintenus à la bonne valeur en fonction de la position du levier du régulateur. Le régulateur contrôle automatiquement le pas d\hélice afin de maintenir les RPM demandés.  
 - Les volets de radiateurs d\eau et d\huile sont commandés manuellement.  
 - L\avion n\a q\un trim de tangage et de lacet.  
 - L\appareil possède des becs d\aile automatiques. Ils se déploient lorsque le fort angle d\attaque augmente risquant de déclencher une perte de vitesse   
 - Les volets d\atterrissage ont un limiteur pour l\angle maximal. Les volets ont une plage de sortie de 0 ° à 50 °. Les volets d\atterrissage ont un actionneur pneumatique. Les volets ne peuvent sortir qu\à l\angle fixé par le limiteur et instantanément, la sortie progressive est impossible. En raison de la faible force de l\actionneur, les volets d\atterrissage sortis peuvent se rétracter vers le haut à cause du flux d\air lorsque la vitesse est supérieure à 220 km/h. Pour cette raison, il est nécessaire de se rappeler que les volets ne sortent pas complètement en cas de vitesse élevée. Dans le cas d\un atterrissage à grande vitesse, les volets peuvent sortir juste un peu avant d\atterrir.  
-- L\avion a un système de contrôle de la roulette de queue qui est déverrouillé et rendu utilisable par le gouvernail de direction si la pédale de gouvernail est pressée au dela de 40%25 de sa course. La roulette de queue est verrouillée tant que le palonnier est utilisé à moins de 40%25 de sa course. De ce fait, il est nécessaire d\éviter de donner des grands coups de palonnier lorsque vous vous déplacez à grande vitesse, ou être prêt à commander l\avion avec une roue arrière déverrouillée.  
+- L\avion a un système de contrôle de la roulette de queue qui est déverrouillé et rendu utilisable par le gouvernail de direction si la pédale de gouvernail est pressée au dela de 40% de sa course. La roulette de queue est verrouillée tant que le palonnier est utilisé à moins de 40% de sa course. De ce fait, il est nécessaire d\éviter de donner des grands coups de palonnier lorsque vous vous déplacez à grande vitesse, ou être prêt à commander l\avion avec une roue arrière déverrouillée.  
 - L\avion a des freins pneumatiques différentiels de roue avec un levier de commande partagé. Cela signifie que si le levier de frein est maintenu, et que la pédale de gouvernail qui freine la roue opposé est progressivement libérée, cela fera tourner d\un côté ou de l\autre.  
 - L\avion a une jauge de carburant qui indique le carburant restant.  
 - Il est impossible d\ouvrir ou de fermer la verrière à grande vitesse en raison d\un fort flux d\air La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.  

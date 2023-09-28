@@ -53,7 +53,7 @@ Oil maximum temperature in engine output: 115 °C
 Supercharger gear shift altitude: 2300 m  
   
 Empty weight: 2365 kg  
-Minimum weight (no ammo, 10%25 fuel): 2583 kg  
+Minimum weight (no ammo, 10% fuel): 2583 kg  
 Standard weight: 2932 kg  
 Maximum takeoff weight: 3170 kg  
 Fuel load: 304 kg / 408 l  

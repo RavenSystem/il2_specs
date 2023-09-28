@@ -80,7 +80,7 @@ Schmierstoffeintrittstemperatur (höchstens): 105 °C
 Laderumschalthöhe: Einganglader  
   
 Leergewicht: 2415 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 2732 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 2732 kg  
 Normalgewicht: 2979 kg  
 Kraftstoffmenge: 274 kg / 386 l / 85 Gallone  
 Nutzlast: 564 kg  

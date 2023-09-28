@@ -82,7 +82,7 @@ Temperatura máxima del aceite en la admisión del motor: 85 °C
 Altitud de cambio de etapa del compresor: acoplamiento hidraúlico  
   
 Peso vacío: 2540 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2855 kg  
+Peso mínimo (sin munición, 10% de combustible): 2855 kg  
 Peso estándar: 3222 kg  
 Peso máximo al despegue: 3585 kg  
 Carga de combustible: 304 kg / 400 l  

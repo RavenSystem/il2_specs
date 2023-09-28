@@ -55,7 +55,7 @@ Température maximale des têtes de cylindre : 250 °C
 Altitude de changement d\étage du compresseur : 3500 m  
   
 Masse à vide : 2655 kg  
-Masse minimale (sans munitions, 10%25 de carburant) : 2929 kg  
+Masse minimale (sans munitions, 10% de carburant) : 2929 kg  
 Masse standard : 3305 kg  
 Masse maximale au décollage : 3544 kg  
 Masse de carburant : 334 kg / 464 l  

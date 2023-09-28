@@ -75,9 +75,9 @@ Flügelfläche: 91,7 m²
 Erster Fronteinsatz: Herbst 1942  
   
 Eigenschaften:  
-- WICHTIG: Nehmen Sie bei der Ladung bis zu 50%25 Treibstoff mit, um das maximale Startgewicht nicht zu überschreiten.  
+- WICHTIG: Nehmen Sie bei der Ladung bis zu 50% Treibstoff mit, um das maximale Startgewicht nicht zu überschreiten.  
 - Der Motor hat keine automatische Regelung des Ladedrucks. Deshalb ist der Ladedruck nicht nur von der Stellung des Schubhebels, sondern auch von der Drehzahl und der Flughöhe abhängig. Dies erfordert eine zusätzliche Kontrolle der Ladedruckanzeige, um einen Motorschaden zu verhindern.  
-- Der Motor ist mit einer automatischen Gemischregelung ausgestattet, welche das optimale Gemisch beibehält, wenn sich der Hebel in der "Auto Rich" (66%25) Position befindet. Für ein automatisch geregeltes abgemagertes Gemisch zur Reduzierung des Treibstoffverbrauchs, muss der Hebel auf die "Auto Lean" (33%25) verstellt werden. Im Falle eines Ausfalls der automatischen Regelung sollte der Hebel auf "Emergency" (100%25) verstellt werden. Um den Motor abzustellen sollte der Gemischhebel auf "Idle Cut Off" (0%25) verstellt werden.  
+- Der Motor ist mit einer automatischen Gemischregelung ausgestattet, welche das optimale Gemisch beibehält, wenn sich der Hebel in der "Auto Rich" (66%) Position befindet. Für ein automatisch geregeltes abgemagertes Gemisch zur Reduzierung des Treibstoffverbrauchs, muss der Hebel auf die "Auto Lean" (33%) verstellt werden. Im Falle eines Ausfalls der automatischen Regelung sollte der Hebel auf "Emergency" (100%) verstellt werden. Um den Motor abzustellen sollte der Gemischhebel auf "Idle Cut Off" (0%) verstellt werden.  
 - Der Motor besitzt eine automatische Drehzahlregelung, welche die Motordrehzahl je nach Hebelstellung festlegt. Der Regler verstellt automatisch den Anstellwinkel des Propellers um die erforderliche Drehzahl einzuhalten.  
 - Ölkühlerklappen und Auslass-Kühlklappen werden manuell bedient.  
 - Das Flugzeug verfügt über Höhen-, Seiten- und Querrudertrimmung.  

@@ -54,7 +54,7 @@ Schmierstoffeintrittstemperatur (höchstens): 95 °C
 Laderumschalthöhe: 2900 m  
   
 Leergewicht: 4354 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 4585 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 4585 kg  
 Normalgewicht: 5221 kg  
 Höchstabfluggewicht: 6190 kg  
 Kraftstoffmenge: 516 kg / 718 l  

@@ -42,8 +42,8 @@ Rückwärtsgang: 4,1 km/h.
 <b><u>Betriebsstoffe:</u></b>  
 Interne Tankkapazität: 720 l.  
 Motorölmenge: 42 l.  
-Sommer-Kühlmittel: 120 l 40%25 Glysantin  
-Winter-Kühlmittel: 120 l 60%25 Glysantin.  
+Sommer-Kühlmittel: 120 l 40% Glysantin  
+Winter-Kühlmittel: 120 l 60% Glysantin.  
 Reichweite: 205 km.  
 Maximaler Ölverbrauch: 3,8 l/h.  
   

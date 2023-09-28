@@ -37,7 +37,7 @@ Sinkflugpfad: 4.5 °
   
 Anmerkung 1: Die Werte gelten für Normatmosphäre (ISA).  
 Anmerkung 2: Flugleistungen varrieren je nach Abfluggewicht.  
-Anmerkung 3: Höchstgeschwindigkeiten, Steiggeschwindigkeiten und Abbiegezeiten sind für Flugzeugmassen mit 8 G.P.B. 500 bombs und 58%25 Kraftstoff.  
+Anmerkung 3: Höchstgeschwindigkeiten, Steiggeschwindigkeiten und Abbiegezeiten sind für Flugzeugmassen mit 8 G.P.B. 500 bombs und 58% Kraftstoff.  
 Anmerkung 4: Steigraten und Wendegeschwindigkeiten gelten für Nennleistung.  
   
 Triebwerk:  
@@ -65,7 +65,7 @@ Zylinderkopftemperatur (höchstens): 260 °C
 Laderumschalthöhe: 3350 m (11000 ft)  
   
 Leergewicht: 8379 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 8829 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 8829 kg  
 Normalgewicht: 11544 kg  
 Höchstabfluggewicht: 15422 kg  
 Kraftstoffmenge: 2618 kg / 3688 l / 974 gal  
@@ -91,7 +91,7 @@ Erster Fronteinsatz: Frühling 1942
   
 Eigenschaften:  
 - Der Motor hat keine automatische Regelung des Ladedrucks. Deshalb ist der Ladedruck nicht nur von der Stellung des Schubhebels, sondern auch von der Drehzahl und der Flughöhe abhängig. Dies erfordert eine zusätzliche Kontrolle der Ladedruckanzeige, um einen Motorschaden zu verhindern.  
-- Der Motor ist mit einer automatischen Gemischregelung ausgestattet, welche das optimale Gemisch beibehält, wenn sich der Hebel in der "Full Rich" (100%25) Position befindet. Für ein automatisch geregeltes abgemagertes Gemisch zur Reduzierung des Treibstoffverbrauchs, muss der Hebel auf die "Cruising Lean" (50%25) verstellt werden. Um den Motor abzustellen sollte der Gemischhebel auf "Cut Off" (0%25) verstellt werden.  
+- Der Motor ist mit einer automatischen Gemischregelung ausgestattet, welche das optimale Gemisch beibehält, wenn sich der Hebel in der "Full Rich" (100%) Position befindet. Für ein automatisch geregeltes abgemagertes Gemisch zur Reduzierung des Treibstoffverbrauchs, muss der Hebel auf die "Cruising Lean" (50%) verstellt werden. Um den Motor abzustellen sollte der Gemischhebel auf "Cut Off" (0%) verstellt werden.  
 - Der Motor besitzt eine automatische Drehzahlregelung, welche die Motordrehzahl je nach Hebelstellung festlegt. Der Regler verstellt automatisch den Anstellwinkel des Propellers um die erforderliche Drehzahl einzuhalten.  
 - Die Verstellung der Auslass-Kühlklappen und Ölkühlerklappen erfolgt manuell.  
 - Das Flugzeug verfügt über Höhen-, Seiten- und Querrudertrimmung.  

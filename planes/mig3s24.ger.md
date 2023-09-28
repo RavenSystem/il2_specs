@@ -55,7 +55,7 @@ Schmierstoffaustrittstemperatur (höchstens): 120 °C
 Laderumschalthöhe: Einganglader  
   
 Leergewicht: 2650 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 2831 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 2831 kg  
 Normalgewicht: 3244 kg  
 Höchstabfluggewicht: 3476 kg  
 Kraftstoffmenge: 352 kg / 480 l  
@@ -84,13 +84,13 @@ Erster Fronteinsatz: Juli 1941
 Eigenschaften:  
 - Der Motor hat eine verstärkte Zusatzleistung, welche eingeschaltet wird, indem der Hebel für die Gemischregelung in die Maximalposition geschoben wird.  
 - Der Motor hat einen Einganglader, welcher nicht umgeschaltet werden muss.  
-- Die Gemischverstellung erfolgt automatisch, wenn sich der Gemischhebel in der mittleren Position (50%25) befindet. Es ist möglich das Gemisch abzumagern, indem der Hebel in eine Stellung unter 50%25 bewegt wird. Dies reduziert den Treibstoffverbrauch während des Fluges.  
+- Die Gemischverstellung erfolgt automatisch, wenn sich der Gemischhebel in der mittleren Position (50%) befindet. Es ist möglich das Gemisch abzumagern, indem der Hebel in eine Stellung unter 50% bewegt wird. Dies reduziert den Treibstoffverbrauch während des Fluges.  
 - Der Motor besitzt eine automatische Drehzahlregelung, welche die Motordrehzahl je nach Hebelstellung festlegt. Der Regler verstellt automatisch den Anstellwinkel des Propellers um die erforderliche Drehzahl einzuhalten.  
 - Die Verstellung der Wasserkühler- und Ölkühlerklappen erfolgt manuell.  
 - Das Flugzeug verfügt nur über eine Höhen- und Seitenrudertrimmung.  
 - Das Flugzeug hat automatische Vorflügel. Diese fahren bei einem hohen Anstellwinkel selbständig aus und sorgen für ein weicheres Flugverhalten kurz vor dem Strömungsabriss.  
 - Die Landeklappen haben einen Begrenzer für den maximalen Ausstellwinkel. Die Klappen können von 0° bis zu 50° ausgefahren werden. Die Landeklappen haben einen pneumatischen Antrieb. Die Klappen werden sofort auf den durch den Begrenzer festgelegten Winkel ausgefahren werden, ein stufenweises Ausfahren ist nicht möglich. Aufgrund des schwachen Klappenantriebs werden de Landeklappen bei einer Geschwindigkeit über 220 km/h durch den Luftwiderstand eingefahren. Beachte, dass die Landeklappen bei einer hohen Geschwindigkeit nicht voll ausgefahren werden. Bei einer hohen Geschwindigkeit beim Landeanflug ist es möglich, dass die Klappen direkt vor der Landung noch etwas weiter ausfahren.  
-- Das Flugzeug hat ein Spornrad, welches vom Ruder entriegelt wird, wenn das Ruderpedal mehr als 40%25 des maximalen Ausschlags betätigt wird. Das Spornrad bleibt verriegelt, wenn das Ruderpedal weniger als 40%25 betätigt wird. Deshalb ist es erforderlich, größere Ruderausschläge bei hohen Geschwindigkeiten zu vermeiden oder darauf zu achten, dass bei starken Ruderausschlägen das Spornrad entriegelt wird.  
+- Das Flugzeug hat ein Spornrad, welches vom Ruder entriegelt wird, wenn das Ruderpedal mehr als 40% des maximalen Ausschlags betätigt wird. Das Spornrad bleibt verriegelt, wenn das Ruderpedal weniger als 40% betätigt wird. Deshalb ist es erforderlich, größere Ruderausschläge bei hohen Geschwindigkeiten zu vermeiden oder darauf zu achten, dass bei starken Ruderausschlägen das Spornrad entriegelt wird.  
 - Das Flugzeug hat differentielle pneumatische Bremsen, die mit einem gemeinsamen Bremshebel betätigt werden. Wenn der Bremshebel gezogen und das Ruderpedal betätigt wird, wird die gegenüberliegende Bremse gelöst und das Flugzeug dreht sich zu der einen oder der anderen Seite.  
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  

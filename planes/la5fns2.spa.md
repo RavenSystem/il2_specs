@@ -55,7 +55,7 @@ Temperatura máxima en la culata: 250 °C
 Altitud conexión compresor: 3500 m  
   
 Peso vacío: 2655 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2929 kg  
+Peso mínimo (sin munición, 10% de combustible): 2929 kg  
 Peso estándar: 3305 kg  
 Peso máximo al despegue: 3544 kg  
 Carga de combustible: 334 kg / 464 l  

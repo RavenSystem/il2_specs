@@ -36,7 +36,7 @@ Velocidad de aterrizaje: 176..192 km/h (110..120 mph)
   
 Nota 1: los datos están basados en la atmósfera estándar internacional (ISA).  
 Nota 2: diferentes rendimientos de vuelo dados para los diferentes pesos posibles del avión.  
-Nota 3: velocidades máximas, tasas de ascenso y tiempos de giro dados para el peso del avión cargado con 8 bombas G.P.B. 500 y 58%25 de combustible.  
+Nota 3: velocidades máximas, tasas de ascenso y tiempos de giro dados para el peso del avión cargado con 8 bombas G.P.B. 500 y 58% de combustible.  
 Nota 4: tasas de ascenso y tiempos de giro dados para la potencia nominal en modo Continuo.  
   
 Motor:  
@@ -64,7 +64,7 @@ Temperatura máxima en la culata: 260 °C
 Altitud conexión compresor: 3350 m (11000 ft)  
   
 Peso vacío: 8379 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 8829 kg  
+Peso mínimo (sin munición, 10% de combustible): 8829 kg  
 Peso estándar: 11544 kg  
 Peso máximo al despegue: 15422 kg  
 Carga de combustible: 2618 kg / 3688 l / 974 gal  
@@ -90,7 +90,7 @@ Debut en combate: primavera 1942
   
 Características operativas:  
 - El motor no tiene regulador automático de la presión en el colector. Esta presión no depende solo de la posición de la palanca de potencia, sino también de las rpm y la altitud. Por ello, es necesario revisar a menudo la presión en el colector para no dañar el motor.  
-- El motor está equipado con un sistema de control automático de la mezcla que la mantiene en su grado óptimo cuando la palanca de control de la mezcla está en la posición «Full Rich» (100%25). Para usar el empobrecimiento automático de la mezcla y reducir el consumo de combustible durante el vuelo es necesario fijar la palanca en la posición «Cruising Lean» (50%25). Para apagar el motor la palanca debe situarse en la posición «Cut Off» (0%25).  
+- El motor está equipado con un sistema de control automático de la mezcla que la mantiene en su grado óptimo cuando la palanca de control de la mezcla está en la posición «Full Rich» (100%). Para usar el empobrecimiento automático de la mezcla y reducir el consumo de combustible durante el vuelo es necesario fijar la palanca en la posición «Cruising Lean» (50%). Para apagar el motor la palanca debe situarse en la posición «Cut Off» (0%).  
 - El motor tiene un regulador automático de las rpm que las mantiene al valor correspondiente a la posición de la palanca de control del regulador. Este regulador controla automáticamente el paso de la hélice para mantener las rpm requeridas.  
 - Las persianas de los radiadores de aceite y persianas de salida del carenado del motor se controlan manualmente.  
 - El avión tiene compensadores para todos los controles de vuelo: cabeceo, alabeo y guiñada.  

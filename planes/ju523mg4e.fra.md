@@ -53,7 +53,7 @@ Température de fonctionnement d\huile en sortie du moteur : 80 °C
 Température maximale d\huile en sortie du moteur : 100 °C  
   
 Masse à vide : 6305 kg  
-Masse minimale (sans munitions, 10%25 de carburant) : 7017 kg  
+Masse minimale (sans munitions, 10% de carburant) : 7017 kg  
 Masse standard : 10003 kg  
 Masse maximale au décollage : 11333 kg  
 Masse de carburant : 1824 kg / 2400 l  
@@ -72,7 +72,7 @@ Premier engagement : 1936
 Caractèristiques:  
 - Le moteur est pourvu d\un compresseur mécanique à un étage qui ne nécessite pas de commande manuelle.  
 - La commande du mélange de carburant moteur est manuelle. Il est nécessaire d\activer le mélange lorsque l\altitude est supérieure à 1 km afin d\obtenir un rendement optimal. En outre, pendant le vol, le mélange peermet une réduction de la consommation de carburant  
-- Les trois hélices sont à pas fixe, de sorte que la poussée ne peut être contrôlée qu\en ajustant les gaz du moteur (au ralenti à 25%25 à la puissance maximale à 100%25). 0 - 20%25 de gaz est utilisée pour freiner les roues du train d\atterrissage. Les modes d\utilisation des moteurs ne peuvent être déterminés qu\en regardant les jauges de régime du moteur.  
+- Les trois hélices sont à pas fixe, de sorte que la poussée ne peut être contrôlée qu\en ajustant les gaz du moteur (au ralenti à 25% à la puissance maximale à 100%). 0 - 20% de gaz est utilisée pour freiner les roues du train d\atterrissage. Les modes d\utilisation des moteurs ne peuvent être déterminés qu\en regardant les jauges de régime du moteur.  
 - La vanne de dérivation du radiateur et les capots du moteur sont commandés manuellement.  
 - Les pédales de la cabine sont équipées d\un mécanisme de réglage de la charge réglable pour réduire la charge de travail des pilotes.  
 - L\avion a un stabilisateur controlé manuellement. Il doit être réglé sur 0° avant le décollage, à +2° durant le vol, et à -1.5° pour l\aterrissage. Il peut aussi être utilisé comme trim durant le vol.  
@@ -81,7 +81,7 @@ Caractèristiques:
 - Après le décollage, réglez le stabilisateur en position de vol +2° (les volets devront être complètement rentrés) et déliés les controles.  
 - Avant d\atterrir, réglez le stabilisateur en position de vol +2°, utilisez le sélecteur de lien, et réglez le stabilisateur en position atterrissage -1.5° - Les volets seront complètement déployés à 40°  
 - La roulette de queue de l\avion tourne librement et n\est pas verouillable. Pour cette raison, il est nécessaire d\utiliser le palonnier avec confiance et précision pendant le décollage et l\atterrissage.  
-- L\avion a des freins pneumatiques séparés pour les roues. Pour freiner les roues gauches ou droites, déplacez la manette des gaz gauche ou droite correspondante à 20%25 ou moins. Le réglage de la manette de gaz du moteur central à 20%25 ou moins freinera les deux roues. L\efficacité de freinage maximale peut être atteinte en déplaçant la manette des gaz tout en bas. Dans la simulation, vous pouvez également utiliser les boutons de frein pour déplacer les accélérateurs de moteur gauche et droit sur la position de freinage.  
+- L\avion a des freins pneumatiques séparés pour les roues. Pour freiner les roues gauches ou droites, déplacez la manette des gaz gauche ou droite correspondante à 20% ou moins. Le réglage de la manette de gaz du moteur central à 20% ou moins freinera les deux roues. L\efficacité de freinage maximale peut être atteinte en déplaçant la manette des gaz tout en bas. Dans la simulation, vous pouvez également utiliser les boutons de frein pour déplacer les accélérateurs de moteur gauche et droit sur la position de freinage.  
 - L\avion est équipé d\un système hydraulique de frein de stationnement pour la roulette de queue.  
 - L\avion est équipé de deux jauges de niveau de carburant à flotteur pour les groupes de réservoirs de carburant gauche et droit, situés sur les nacelles gauche et droite du moteur à l\extérieur de la cabine.  
 - L\avion a trois jauges de niveau d\huile à flotteur mécanique sur chacune des trois nacelles de moteur à l\extérieur de la cabine.  

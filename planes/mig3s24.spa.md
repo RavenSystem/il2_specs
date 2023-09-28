@@ -55,7 +55,7 @@ Temperatura máxima del aceite a la salida del motor: 120 °C
 Altitud de cambio de etapa del compresor: una sola etapa  
   
 Peso vacío: 2650 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2831 kg  
+Peso mínimo (sin munición, 10% de combustible): 2831 kg  
 Peso estándar: 3244 kg  
 Peso máximo al despegue: 3476 kg  
 Carga de combustible: 352 kg / 480 l  
@@ -84,13 +84,13 @@ Debut en combate: julio de 1941
 Características operativas:  
 - El motor tiene un modo de impulso que se activa situando la palanca del control de la mezcla en su posición de máximo.  
 - El motor tiene un compresor mecánico de una sola etapa, por lo que no necesita control manual.  
-- El control de la mezcla del motor es automático cuando la palanca de control de la mezcla está en posición intermedia (50%25). Es posible empobrecer la mezcla manualmente moviendo la palanca por debajo del 50%25. Esto también reduce el consumo de combustible durante el vuelo.  
+- El control de la mezcla del motor es automático cuando la palanca de control de la mezcla está en posición intermedia (50%). Es posible empobrecer la mezcla manualmente moviendo la palanca por debajo del 50%. Esto también reduce el consumo de combustible durante el vuelo.  
 - El motor tiene un regulador automático de las rpm que las mantiene al valor correspondiente a la posición de la palanca de control del regulador. Este regulador controla automáticamente el paso de la hélice para mantener las rpm requeridas.  
 - Las persianas de los radiadores de agua y aceite se controlan manualmente.  
 - El avión cuenta únicamente con compensadores de control en vuelo para el cabeceo y la guiñada.  
 - El avión tiene slats automáticos en las alas. Se despliega cuando se incrementa un ángulo de ataque muy elevado, haciendo que la entrada en pérdida sea más suave.  
 - Los flaps tienen un limitador de ángulo máximo, con rango entre 0º y 50º, y son movidos mediante un accionador neumático. Solo pueden bajarse hasta al ángulo fijado por el limitador; no es posible bajarlos gradualmente. Debido a la pequeña fuerza que ejerce el accionador sobre ellos, los flaps pueden ser empujados hacia arriba por el flujo de aire si la velocidad es superior a 220 km/h. Es importante recordar que los flaps no bajarán completamente en caso de altas velocidades. En caso de una aproximación de aterrizaje a alta velocidad, los flaps pueden bajarse unos grados más justo antes del aterrizaje.  
-- El avión cuenta con un sistema de bloqueo de la rueda cola de tal forma que se desbloquea y controla mediante el timón cuando el pedal del control del timón se mueve más de un 40%25 de su rango. La rueda permanece bloqueada si los pedales se mueven menos de este 40%25. A causa de ésto, es necesario evitar grandes movimientos de los pedales del timón a altas velocidades o estar preparado para controlar el avión con la rueda de cola desbloqueada.  
+- El avión cuenta con un sistema de bloqueo de la rueda cola de tal forma que se desbloquea y controla mediante el timón cuando el pedal del control del timón se mueve más de un 40% de su rango. La rueda permanece bloqueada si los pedales se mueven menos de este 40%. A causa de ésto, es necesario evitar grandes movimientos de los pedales del timón a altas velocidades o estar preparado para controlar el avión con la rueda de cola desbloqueada.  
 - El avión posee frenos neumáticos diferenciales en la ruedas compartidos por una palanca de freno. Cuando se tira de la palanca del freno y se pisa un pedal del control del timón el freno opuesto se libera y el avión comienza a girar en un sentido u otro.  
 - El avión cuenta con un indicador de combustible que muestra el nivel de combustible remanente.  
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  

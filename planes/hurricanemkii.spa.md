@@ -59,7 +59,7 @@ Temperatura máxima del aceite en la admisión del motor: 105 °C
 Altitud de cambio de etapa del compresor: 3960 m (13000 ft)  
   
 Peso vacío: 2567 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2859 kg  
+Peso mínimo (sin munición, 10% de combustible): 2859 kg  
 Peso estándar: 3225 kg  
 Peso máximo al despegue: 3894 kg  
 Carga de combustible: 317 kg / 441,5 l / 97,1 galones  

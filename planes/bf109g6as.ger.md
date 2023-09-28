@@ -82,7 +82,7 @@ Schmierstoffeintrittstemperatur (höchstens): 85 °C
 Laderumschalthöhe: Stufenlose hydraulische Kupplung   
   
 Leergewicht: 2540 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 2855 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 2855 kg  
 Normalgewicht: 3222 kg  
 Höchstabfluggewicht: 3585 kg  
 Kraftstoffmenge: 304 kg / 400 l  

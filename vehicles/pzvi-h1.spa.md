@@ -46,8 +46,8 @@ Cambio de 8 marchas
 <b><u>Líquidos:</u></b>  
 Capacidad depósitos de combustible internos: 530 l  
 Capacidad aceite lubricante del motor: 30 l  
-Refrigerante del motor en verano: 120 l de 40%25 glysantin  
-Refrigerante del motor en invierno: 120 l de 60%25 glysantin  
+Refrigerante del motor en verano: 120 l de 40% glysantin  
+Refrigerante del motor en invierno: 120 l de 60% glysantin  
 Autonomía: 140 km  
 Consumo de aceite máximo: 4 l/h  
   

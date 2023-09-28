@@ -55,7 +55,7 @@ Cylinder head maximum temperature: 250 °C
 Supercharger gear shift altitude: 3500 m  
   
 Empty weight: 2655 kg  
-Minimum weight (no ammo, 10%25 fuel): 2929 kg  
+Minimum weight (no ammo, 10% fuel): 2929 kg  
 Standard weight: 3305 kg  
 Maximum takeoff weight: 3544 kg  
 Fuel load: 334 kg / 464 l  

@@ -23,7 +23,7 @@ Tasa de ascenso a 3000 m: 2,5 m/s
   
 Viraje de máximo rendimiento al nivel del mar: 25,5 s, a 220 km/h velocidad indicada (IAS).  
   
-Autonomía de vuelo a 4000 m: 9 h, a 2000 rpm y 640 mmHg (motor al 70%25).  
+Autonomía de vuelo a 4000 m: 9 h, a 2000 rpm y 640 mmHg (motor al 70%).  
   
 Velocidad de despegue: 120..130 km/h  
 Velocidad senda de planeo: 150..165 km/h  
@@ -75,7 +75,7 @@ Superficie de ala: 91,7 m²
 Debut en combate: otoño de 1942  
   
 Características operativas:  
-- IMPORTANTE: se recomienda no llevar más del 50%25 de combustible cuando se lleve cargamento, para no exceder el peso máximo al despegue.  
+- IMPORTANTE: se recomienda no llevar más del 50% de combustible cuando se lleve cargamento, para no exceder el peso máximo al despegue.  
 - El motor no tiene regulador automático de la presión en el colector. Esta presión no depende solo de la posición de la palanca de potencia, sino también de las rpm y la altitud. Por ello, es necesario revisar a menudo la presión en el colector para no dañar el motor.  
 - El avión está equipado con un corrector manual de altitud. Para reducir el consumo de combustible en ruta, es posible empobrecer la mezcla moviendo las palancas de control de la mezcla. En este caso, es necesario controlar la composición de la mezcla mediante las lecturas del «alfámetro» y vigilar la temperatura de la culata del motor. El enriquecimiento máximo de la mezcla se realiza colocando las palancas en la posición «hacia el piloto» y se utiliza al arrancar los motores.  
 - El motor tiene un regulador automático de las rpm que las mantiene al valor correspondiente a la posición de la palanca de control del regulador. Este regulador controla automáticamente el paso de la hélice para mantener las rpm requeridas.  

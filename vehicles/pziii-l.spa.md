@@ -33,8 +33,8 @@ Marcha atrás: 5,9 km/h
 <b><u>Líquidos:</u></b>  
 Capacidad depósitos de combustible internos: 320 l  
 Capacidad aceite lubricante del motor: 25 l  
-Refrigerante del motor en verano: 100 l de 40%25 glysantin  
-Refrigerante del motor en invierno: 100 l de 60%25 glysantin  
+Refrigerante del motor en verano: 100 l de 40% glysantin  
+Refrigerante del motor en invierno: 100 l de 60% glysantin  
 Autonomía: 155 km  
 Consumo de aceite máximo: 2 l/h  
   

@@ -34,8 +34,8 @@ Das Triebwerk hat 3 Leistungsmodi:
 <b><u>Betriebsstoffe:</u></b>  
 Interne Tankkapazität: 950 l.  
 Motorölmenge: 50 l.  
-Sommer-Kühlmittel: 200 l 40%25 Glysantin  
-Winter-Kühlmittel: 200 l 60%25 Glysantin.  
+Sommer-Kühlmittel: 200 l 40% Glysantin  
+Winter-Kühlmittel: 200 l 60% Glysantin.  
 Maximaler Ölverbrauch: 22 l/h.  
   
 <b><u>Panzerung der Wanne:</u></b>  

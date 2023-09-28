@@ -75,7 +75,7 @@ Wing surface: 91,7 m²
 Combat debut: Autumn 1942  
   
 Operation features:  
-- IMPORTANT: take up to 50%25 fuel in cargo loadout to not exceed the maximum takeoff weight.  
+- IMPORTANT: take up to 50% fuel in cargo loadout to not exceed the maximum takeoff weight.  
 - The engine has no manifold pressure automatic governor. For this reason, manifold pressure not only depends on throttle position, but also from RPM and altitude. This requires additional checking of manifold pressure to not cause engine damage.  
 - Engine mixture control is automatic when the mixture lever is set to maximum. It is possible to manually lean the mixture by moving the mixture control to less than maximum. This also reduces fuel consumption during flight.  
 - Engine RPM has an automatic governor and it is maintained at the required RPM corresponding to the governor control lever position. The governor automatically controls the propeller pitch to maintain the required RPM.  

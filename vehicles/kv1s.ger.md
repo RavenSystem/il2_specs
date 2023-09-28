@@ -41,7 +41,7 @@ Rückwärtsgang hoch: 17,9 km/h
 Interne Tankkapazität: 600 l  
 Motorölmenge: 100 l  
 Sommer-Kühlmittel: 150 l Wasser  
-Winter-Kühlmittel: 150 l 67%25 Ethylenglycol  
+Winter-Kühlmittel: 150 l 67% Ethylenglycol  
 Reichweite: 200 km  
 Maximaler Ölverbrauch: 11 l/h  
   

@@ -82,7 +82,7 @@ Température maximale d\huile à l\admission du moteur : 85 °C
 Altitude de changement d\étage du compresseur : coupleur hydraulique  
   
 Masse à vide : 2540 kg  
-Masse minimale (sans munitions, 10%25 de carburant) : 2855 kg  
+Masse minimale (sans munitions, 10% de carburant) : 2855 kg  
 Masse standard : 3222 kg  
 Masse maximale au décollage : 3585 kg  
 Masse de carburant : 304 kg / 400 l  

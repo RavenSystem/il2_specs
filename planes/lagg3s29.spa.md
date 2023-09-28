@@ -52,7 +52,7 @@ Temperatura máxima del aceite a la salida del motor: 115 °C
 Altitud conexión compresor: 2500 m  
   
 Peso vacío: 2620 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2773 kg  
+Peso mínimo (sin munición, 10% de combustible): 2773 kg  
 Peso estándar: 3157 kg  
 Peso máximo al despegue: 3701 kg  
 Carga de combustible: 348 kg / 467 l  

@@ -53,7 +53,7 @@ Schmierstoffaustrittstemperatur (normal): 80 °C
 Schmierstoffaustrittstemperatur (höchstens): 100 °C  
   
 Leergewicht: 6305 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 7017 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 7017 kg  
 Normalgewicht: 10003 kg  
 Höchstabfluggewicht: 11333 kg  
 Kraftstoffmenge: 1824 kg / 2400 l  
@@ -71,7 +71,7 @@ Erster Fronteinsatz: Juni 1936
 Eigenschaften:  
 - Der Motor hat einen Einganglader, welcher nicht umgeschaltet werden muss.  
 - Die Gemischregelung erfolgt manuell. Es ist erforderlich das Gemisch ab einer Höhe von 1 km abzumagern. Das Abmagern des Gemisches reduziert auch den Treibstoffverbrauch während des Fluges.  
-- Alle drei Propeller sind starr montiert, so dass der Schub nur über die Schubhebel gesteuert werden kann (von Leerlauf 25%25 bis Maximalschub bei 100%25). Der Bereich von 0 - 20%25 dient dem Abbremsen der Räder. Die Leistungsstufen des Motors können nur über die Drehzahlmesser bestimmt werden.  
+- Alle drei Propeller sind starr montiert, so dass der Schub nur über die Schubhebel gesteuert werden kann (von Leerlauf 25% bis Maximalschub bei 100%). Der Bereich von 0 - 20% dient dem Abbremsen der Räder. Die Leistungsstufen des Motors können nur über die Drehzahlmesser bestimmt werden.  
 - Kühler-Bypassventil und Kühlerklappen werden manuell gesteuert.  
 - Die Pedale im Cockpit sind mit einstellbaren Widerständen ausgestattet, um die Arbeit des Piloten zu erleichtern.  
 - Das Flugzeug hat ein manuell verstellbares Höhenleitwerk. Es sollte auf 0° vor dem Start, +2° während des Fluges und -1.5° für die Landung gestellt werden. Es kann auch zur Trimmung des Steuerknüppels während des Fluges verwendet werden.  
@@ -80,7 +80,7 @@ Eigenschaften:
 - In der Luft das Höhenleitwerk zurück in Flugposition +2º bringen (die Landeklappen sollten voll einfahren) und die beiden Systeme trennen.  
 - Vor der Landung das Höhenleitwerk auf Flugposition +2º stellen, die Verbindung der Systeme herstellen und dann das Höhenleitwerk auf Landeposition -1.5º stellen - die Landeklappen werden voll auf 40º ausgefahren.  
 - Das Flugzeug hat ein frei bewegliches und nicht verriegelbares Spornrad. Aus diesem Grund ist es erforderlich die Ruderpedale bei Start und Landung sicher und genau zu bedienen.  
-- Das Flugzeug hat getrennte pneumatische Bremsen. Um das linke oder rechte Rad abzubremsen, wird der entsprechende linke oder rechte Schubhebel auf 20%25 oder weniger gestellt. Durch das Einstellen des mittleren Schubhebels auf 20%25 oder weniger werden beide Räder abgebremst. Die maximale Bremswirkung kann erzielt werden, wenn man den Schubhebel ganz nach unten bewegt. In der Simulation kann man auch die Bremstasten verwenden, um den linken und rechten Schubhebel in die Bremsposition zu bringen.  
+- Das Flugzeug hat getrennte pneumatische Bremsen. Um das linke oder rechte Rad abzubremsen, wird der entsprechende linke oder rechte Schubhebel auf 20% oder weniger gestellt. Durch das Einstellen des mittleren Schubhebels auf 20% oder weniger werden beide Räder abgebremst. Die maximale Bremswirkung kann erzielt werden, wenn man den Schubhebel ganz nach unten bewegt. In der Simulation kann man auch die Bremstasten verwenden, um den linken und rechten Schubhebel in die Bremsposition zu bringen.  
 - Das Flugzeug ist mit zwei mechanischen Kraftstoffstandsanzeigen für die linken und rechten Tankgruppen ausgestattet. Diese befinden sich auf der linken und rechten Triebwerkgondel außerhalb der Kabine.  
 - Das Flugzeug hat drei mechanische Ölstandsanzeigen auf jeder der drei Triebwerksgondeln außerhalb der Kabine.  
 - Die Frachttüren können nur am Boden geöffnet werden.  

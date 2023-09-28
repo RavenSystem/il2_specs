@@ -57,7 +57,7 @@ Oil maximum temperature in engine intake: 105 °C
 Supercharger gear shift altitude: automatic with possibility of manual switch to low gear  
   
 Empty weight: 3322 kg  
-Minimum weight (no ammo, 10%25 fuel): 3444.2 kg  
+Minimum weight (no ammo, 10% fuel): 3444.2 kg  
 Standard weight: 3906.9 kg  
 Fuel load: 363.3 kg / 504.6 l / 111 gallons  
 Maximum useful load: 1052 kg  

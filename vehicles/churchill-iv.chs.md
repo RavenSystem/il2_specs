@@ -42,7 +42,7 @@ The tank was also equipped with a 2-inch mortar fixed on the roof of the turret,
 内部油箱容量：682 L  
 机油系统容量：25 L  
 夏季发动机冷却液：100L水  
-冬季发动机冷却液：100L含43%25乙醇和15%25甘油  
+冬季发动机冷却液：100L含43%乙醇和15%甘油  
 续航范围：210 km  
 最大油耗：1.3 L/h  
   

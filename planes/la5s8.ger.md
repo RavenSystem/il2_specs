@@ -54,7 +54,7 @@ Zylinderkopftemperatur (höchstens): 215 °C
 Laderumschalthöhe: 3500 m  
   
 Leergewicht: 2648 kg  
-Minimalgewicht (keine Munition, 10%25 Treibstoff): 2928 kg  
+Minimalgewicht (keine Munition, 10% Treibstoff): 2928 kg  
 Normalgewicht: 3353 kg  
 Höchstabfluggewicht: 3593 kg  
 Kraftstoffmenge: 370 kg / 521 l  

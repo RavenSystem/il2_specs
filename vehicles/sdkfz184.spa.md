@@ -34,8 +34,8 @@ El sistema de transmisión de tracción tiene 3 modos de potencia:
 <b><u>Líquidos:</u></b>  
 Capacidad depósitos de combustible internos: 950 l  
 Capacidad sistema lubricante del motor: 50 l  
-Refrigerante del motor en verano: 200 l de 40%25 etilenglicol  
-Refrigerante del motor en invierno: 200 l de 65%25 etilenglicol  
+Refrigerante del motor en verano: 200 l de 40% etilenglicol  
+Refrigerante del motor en invierno: 200 l de 65% etilenglicol  
 Consumo de aceite máximo: 22 l/h  
   
 <b><u>Blindaje:</u></b>  

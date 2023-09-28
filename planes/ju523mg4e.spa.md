@@ -53,7 +53,7 @@ Temperatura nominal del aceite a la salida del motor: 80 °C
 Temperatura máxima del aceite a la salida del motor: 100 °C  
   
 Peso vacío: 6305 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 7017 kg  
+Peso mínimo (sin munición, 10% de combustible): 7017 kg  
 Peso estándar: 10003 kg  
 Peso máximo al despegue: 11333 kg  
 Carga de combustible: 1824 kg / 2400 l  
@@ -71,7 +71,7 @@ Debut en combate: 1936
 Características operativas:  
 - El motor tiene un compresor mecánico de una sola etapa, por lo que no necesita control manual.  
 - El control de la mezcla del motor es manual; es necesario empobrecer la mezcla si la altitud es mayor de 1 km para un funcionamiento óptimo del motor. Además, al empobrecer la mezcla se reduce el consumo de combustible durante el vuelo.  
-- Las tres hélices tienen un paso fijo, por lo que el empuje solo puede ser controlado ajustando la potencia de los motores (desde ralentí al 25%25 a la máxima potencia al 100%25). El rango 0-20%25 de la palanca se emplea para el frenado del tren de aterrizaje. Los modos de operación de los motores solo pueden determinarse mediante los indicadores  
+- Las tres hélices tienen un paso fijo, por lo que el empuje solo puede ser controlado ajustando la potencia de los motores (desde ralentí al 25% a la máxima potencia al 100%). El rango 0-20% de la palanca se emplea para el frenado del tren de aterrizaje. Los modos de operación de los motores solo pueden determinarse mediante los indicadores  
 - La válvula de bypass del radiador y las aletas en el carenado de los motores se controlan manualmente.  
 - Los pedales de la cabina están equipados con un mecanismo ajustable para reducir la carga de trabajo de los pilotos.  
 - El avión cuenta con un estabilizador horizontal controlado manualmente. Debe fijarse a 0º antes del despegue, a +2º durante el vuelo y a -1,5º para el aterrizaje. Además, puede ser empleado para compensar la palanca de control durante el vuelo.  
@@ -80,7 +80,7 @@ Características operativas:
 - Después de despegar, volver a poner el estabilizador en posición de vuelo, +2º (los flaps subirán completamente) y desvincular los sistemas.  
 - Antes de aterrizar, fijar el estabilizador a posición de vuelo, +2º, vincular los sistemas y mover el estabilizador a la posición de aterrizaje, -1,5º - los flaps bajarán completamente, a 40º.  
 - La rueda de cola del avión gira libremente sin posibilidad de bloqueo. Por ello, es necesario manejar los pedales del timón con seguridad y precisión durante el despegue y aterrizaje.  
-- El avión cuenta con frenos neumáticos independientes para cada rueda. Para frenar las rueda izquierda o derecha, es necesario fijar la potencia del motor correspondiente (izquierdo o derecho) al 20%25 o menos. Fijando la potencia del motor central al 20%25 o menos se consigue frenar ambas ruedas. La máxima eficiencia de frenado se consigue moviendo la palanca de potencia completamente hacia abajo. En el simulador, también pueden usarse los botones asignados a los frenos para fijar la palanca de potencia de los motores izquierdo y derecho en la posición de frenado.  
+- El avión cuenta con frenos neumáticos independientes para cada rueda. Para frenar las rueda izquierda o derecha, es necesario fijar la potencia del motor correspondiente (izquierdo o derecho) al 20% o menos. Fijando la potencia del motor central al 20% o menos se consigue frenar ambas ruedas. La máxima eficiencia de frenado se consigue moviendo la palanca de potencia completamente hacia abajo. En el simulador, también pueden usarse los botones asignados a los frenos para fijar la palanca de potencia de los motores izquierdo y derecho en la posición de frenado.  
 - El avión está equipado con un sistema de freno de estacionamiento hidráulico para la rueda de cola.  
 - El avión está equipado con dos indicadores mecánicos del nivel de combustible de los grupos de depósitos izquierdo y derecho. Están ubicados sobre el carenado de los motores izquierdo y derecho, fuera de la cabina.  
 - El avión cuenta con tres indicadores mecánicos del nivel de aceile ubicados sobre el carenado de cada uno de los tres motores, fuera de la cabina.  

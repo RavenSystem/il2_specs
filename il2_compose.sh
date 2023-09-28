@@ -90,6 +90,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             fi
 
             sed -i.bak -e "s/[^[:print:]]*$/  &/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e "s/\%25/\%/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             rm -f "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md.bak"
         done

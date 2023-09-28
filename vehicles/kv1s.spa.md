@@ -41,7 +41,7 @@ Marcha atrás alta: 17,9 km/h
 Capacidad depósitos de combustible internos: 600 l  
 Capacidad aceite lubricante del motor: 100 l  
 Refrigerante del motor en verano: 150 l de agua  
-Refrigerante del motor en invierno: 150 l, 67%25 etilenglicol  
+Refrigerante del motor en invierno: 150 l, 67% etilenglicol  
 Autonomía: 200 km  
 Consumo de aceite máximo: 11 l/h  
   

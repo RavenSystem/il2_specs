@@ -82,7 +82,7 @@ Temperatura máxima del aceite en la admisión del motor: 105 °C
 Altitud de cambio de etapa del compresor: automático con posibilidad de bajar la etapa manualmente  
   
 Peso vacío: 2530 kg  
-Peso mínimo (sin munición, 10%25 de combustible): 2977 kg  
+Peso mínimo (sin munición, 10% de combustible): 2977 kg  
 Peso estándar: 3359 kg  
 Carga de combustible: 274 kg / 386 l / 85 Gl  
 Carga útil: 1302 kg  
