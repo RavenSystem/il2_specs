@@ -22,7 +22,9 @@ Version: $IL2_VERSION
 
 Date: $GENERATION_DATE
 
-[ GitHub ](https://github.com/RavenSystem/il2_specs)
+[Sponsor this project](https://paypal.me/ravensystem)
+
+[GitHub](https://github.com/RavenSystem/il2_specs)
 
 " > "$TARGET_DIR/README.md"
 

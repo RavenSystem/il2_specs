@@ -5,7 +5,9 @@ Version: 5.106
 
 Date: 2023-09-28
 
-[ GitHub ](https://github.com/RavenSystem/il2_specs)
+[Sponsor this project](https://paypal.me/ravensystem)
+
+[GitHub](https://github.com/RavenSystem/il2_specs)
 
 ## Planes
 
