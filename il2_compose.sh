@@ -19,6 +19,7 @@ printf "
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
 Version: $IL2_VERSION
+
 Date: $GENERATION_DATE
 
 [ GitHub ](https://github.com/RavenSystem/il2_specs)

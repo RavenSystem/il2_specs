@@ -2,6 +2,7 @@
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
 Version: 5.106
+
 Date: 2023-09-28
 
 [ GitHub ](https://github.com/RavenSystem/il2_specs)
