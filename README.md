@@ -1,7 +1,8 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.106 (21/09/2023)
+Version: 5.106
+Date: 2023-09-28
 
 [ GitHub ](https://github.com/RavenSystem/il2_specs)
 
@@ -481,81 +482,81 @@ Version: 5.106 (21/09/2023)
 
 ### Churchill IV  
 
-[ [chs](vehicles/_churchill-iv.chs.md) ] [ [eng](vehicles/_churchill-iv.eng.md) ] [ [fra](vehicles/_churchill-iv.fra.md) ] [ [ger](vehicles/_churchill-iv.ger.md) ] [ [rus](vehicles/_churchill-iv.rus.md) ] [ [spa](vehicles/_churchill-iv.spa.md) ] 
-![_churchill-iv](images/_churchill-iv.png)
+[ [chs](vehicles/churchill-iv.chs.md) ] [ [eng](vehicles/churchill-iv.eng.md) ] [ [fra](vehicles/churchill-iv.fra.md) ] [ [ger](vehicles/churchill-iv.ger.md) ] [ [rus](vehicles/churchill-iv.rus.md) ] [ [spa](vehicles/churchill-iv.spa.md) ] 
+![churchill-iv](images/churchill-iv.png)
 
 ### GAZ-MM 72-K  
 
-[ [chs](vehicles/_gaz-mm-72k.chs.md) ] [ [eng](vehicles/_gaz-mm-72k.eng.md) ] [ [fra](vehicles/_gaz-mm-72k.fra.md) ] [ [ger](vehicles/_gaz-mm-72k.ger.md) ] [ [rus](vehicles/_gaz-mm-72k.rus.md) ] [ [spa](vehicles/_gaz-mm-72k.spa.md) ] 
-![_gaz-mm-72k](images/_gaz-mm-72k.png)
+[ [chs](vehicles/gaz-mm-72k.chs.md) ] [ [eng](vehicles/gaz-mm-72k.eng.md) ] [ [fra](vehicles/gaz-mm-72k.fra.md) ] [ [ger](vehicles/gaz-mm-72k.ger.md) ] [ [rus](vehicles/gaz-mm-72k.rus.md) ] [ [spa](vehicles/gaz-mm-72k.spa.md) ] 
+![gaz-mm-72k](images/gaz-mm-72k.png)
 
 ### KV-1s ChTZ (1943)  
 
-[ [chs](vehicles/_kv1s.chs.md) ] [ [eng](vehicles/_kv1s.eng.md) ] [ [fra](vehicles/_kv1s.fra.md) ] [ [ger](vehicles/_kv1s.ger.md) ] [ [rus](vehicles/_kv1s.rus.md) ] [ [spa](vehicles/_kv1s.spa.md) ] 
-![_kv1s](images/_kv1s.png)
+[ [chs](vehicles/kv1s.chs.md) ] [ [eng](vehicles/kv1s.eng.md) ] [ [fra](vehicles/kv1s.fra.md) ] [ [ger](vehicles/kv1s.ger.md) ] [ [rus](vehicles/kv1s.rus.md) ] [ [spa](vehicles/kv1s.spa.md) ] 
+![kv1s](images/kv1s.png)
 
 ### M4A2  
 
-[ [chs](vehicles/_m4a2.chs.md) ] [ [eng](vehicles/_m4a2.eng.md) ] [ [fra](vehicles/_m4a2.fra.md) ] [ [ger](vehicles/_m4a2.ger.md) ] [ [rus](vehicles/_m4a2.rus.md) ] [ [spa](vehicles/_m4a2.spa.md) ] 
-![_m4a2](images/_m4a2.png)
+[ [chs](vehicles/m4a2.chs.md) ] [ [eng](vehicles/m4a2.eng.md) ] [ [fra](vehicles/m4a2.fra.md) ] [ [ger](vehicles/m4a2.ger.md) ] [ [rus](vehicles/m4a2.rus.md) ] [ [spa](vehicles/m4a2.spa.md) ] 
+![m4a2](images/m4a2.png)
 
 ### Pz.Kpfw.III Ausf.L  
 
-[ [chs](vehicles/_pziii-l.chs.md) ] [ [eng](vehicles/_pziii-l.eng.md) ] [ [fra](vehicles/_pziii-l.fra.md) ] [ [ger](vehicles/_pziii-l.ger.md) ] [ [rus](vehicles/_pziii-l.rus.md) ] [ [spa](vehicles/_pziii-l.spa.md) ] 
-![_pziii-l](images/_pziii-l.png)
+[ [chs](vehicles/pziii-l.chs.md) ] [ [eng](vehicles/pziii-l.eng.md) ] [ [fra](vehicles/pziii-l.fra.md) ] [ [ger](vehicles/pziii-l.ger.md) ] [ [rus](vehicles/pziii-l.rus.md) ] [ [spa](vehicles/pziii-l.spa.md) ] 
+![pziii-l](images/pziii-l.png)
 
 ### Pz.Kpfw.III Ausf.M  
 
-[ [chs](vehicles/_pziii-m.chs.md) ] [ [eng](vehicles/_pziii-m.eng.md) ] [ [fra](vehicles/_pziii-m.fra.md) ] [ [ger](vehicles/_pziii-m.ger.md) ] [ [rus](vehicles/_pziii-m.rus.md) ] [ [spa](vehicles/_pziii-m.spa.md) ] 
-![_pziii-m](images/_pziii-m.png)
+[ [chs](vehicles/pziii-m.chs.md) ] [ [eng](vehicles/pziii-m.eng.md) ] [ [fra](vehicles/pziii-m.fra.md) ] [ [ger](vehicles/pziii-m.ger.md) ] [ [rus](vehicles/pziii-m.rus.md) ] [ [spa](vehicles/pziii-m.spa.md) ] 
+![pziii-m](images/pziii-m.png)
 
 ### Pz.Kpfw.IV Ausf.G  
 
-[ [chs](vehicles/_pziv-g.chs.md) ] [ [eng](vehicles/_pziv-g.eng.md) ] [ [fra](vehicles/_pziv-g.fra.md) ] [ [ger](vehicles/_pziv-g.ger.md) ] [ [rus](vehicles/_pziv-g.rus.md) ] [ [spa](vehicles/_pziv-g.spa.md) ] 
-![_pziv-g](images/_pziv-g.png)
+[ [chs](vehicles/pziv-g.chs.md) ] [ [eng](vehicles/pziv-g.eng.md) ] [ [fra](vehicles/pziv-g.fra.md) ] [ [ger](vehicles/pziv-g.ger.md) ] [ [rus](vehicles/pziv-g.rus.md) ] [ [spa](vehicles/pziv-g.spa.md) ] 
+![pziv-g](images/pziv-g.png)
 
 ### Pz.Kpfw.V Ausf.D  
 
-[ [chs](vehicles/_pzv-d.chs.md) ] [ [eng](vehicles/_pzv-d.eng.md) ] [ [fra](vehicles/_pzv-d.fra.md) ] [ [ger](vehicles/_pzv-d.ger.md) ] [ [rus](vehicles/_pzv-d.rus.md) ] [ [spa](vehicles/_pzv-d.spa.md) ] 
-![_pzv-d](images/_pzv-d.png)
+[ [chs](vehicles/pzv-d.chs.md) ] [ [eng](vehicles/pzv-d.eng.md) ] [ [fra](vehicles/pzv-d.fra.md) ] [ [ger](vehicles/pzv-d.ger.md) ] [ [rus](vehicles/pzv-d.rus.md) ] [ [spa](vehicles/pzv-d.spa.md) ] 
+![pzv-d](images/pzv-d.png)
 
 ### Pz.Kpfw.VI Ausf.H1  
 
-[ [chs](vehicles/_pzvi-h1.chs.md) ] [ [eng](vehicles/_pzvi-h1.eng.md) ] [ [fra](vehicles/_pzvi-h1.fra.md) ] [ [ger](vehicles/_pzvi-h1.ger.md) ] [ [rus](vehicles/_pzvi-h1.rus.md) ] [ [spa](vehicles/_pzvi-h1.spa.md) ] 
-![_pzvi-h1](images/_pzvi-h1.png)
+[ [chs](vehicles/pzvi-h1.chs.md) ] [ [eng](vehicles/pzvi-h1.eng.md) ] [ [fra](vehicles/pzvi-h1.fra.md) ] [ [ger](vehicles/pzvi-h1.ger.md) ] [ [rus](vehicles/pzvi-h1.rus.md) ] [ [spa](vehicles/pzvi-h1.spa.md) ] 
+![pzvi-h1](images/pzvi-h1.png)
 
 ### Sd.Kfz.10/5  
 
-[ [chs](vehicles/_sdkfz10-5.chs.md) ] [ [eng](vehicles/_sdkfz10-5.eng.md) ] [ [fra](vehicles/_sdkfz10-5.fra.md) ] [ [ger](vehicles/_sdkfz10-5.ger.md) ] [ [rus](vehicles/_sdkfz10-5.rus.md) ] [ [spa](vehicles/_sdkfz10-5.spa.md) ] 
-![_sdkfz10-5](images/_sdkfz10-5.png)
+[ [chs](vehicles/sdkfz10-5.chs.md) ] [ [eng](vehicles/sdkfz10-5.eng.md) ] [ [fra](vehicles/sdkfz10-5.fra.md) ] [ [ger](vehicles/sdkfz10-5.ger.md) ] [ [rus](vehicles/sdkfz10-5.rus.md) ] [ [spa](vehicles/sdkfz10-5.spa.md) ] 
+![sdkfz10-5](images/sdkfz10-5.png)
 
 ### Sd.Kfz.184  
 
-[ [chs](vehicles/_sdkfz184.chs.md) ] [ [eng](vehicles/_sdkfz184.eng.md) ] [ [fra](vehicles/_sdkfz184.fra.md) ] [ [ger](vehicles/_sdkfz184.ger.md) ] [ [rus](vehicles/_sdkfz184.rus.md) ] [ [spa](vehicles/_sdkfz184.spa.md) ] 
-![_sdkfz184](images/_sdkfz184.png)
+[ [chs](vehicles/sdkfz184.chs.md) ] [ [eng](vehicles/sdkfz184.eng.md) ] [ [fra](vehicles/sdkfz184.fra.md) ] [ [ger](vehicles/sdkfz184.ger.md) ] [ [rus](vehicles/sdkfz184.rus.md) ] [ [spa](vehicles/sdkfz184.spa.md) ] 
+![sdkfz184](images/sdkfz184.png)
 
 ### StuG III Ausf.G  
 
-[ [chs](vehicles/_stugiii-g.chs.md) ] [ [eng](vehicles/_stugiii-g.eng.md) ] [ [fra](vehicles/_stugiii-g.fra.md) ] [ [ger](vehicles/_stugiii-g.ger.md) ] [ [rus](vehicles/_stugiii-g.rus.md) ] [ [spa](vehicles/_stugiii-g.spa.md) ] 
-![_stugiii-g](images/_stugiii-g.png)
+[ [chs](vehicles/stugiii-g.chs.md) ] [ [eng](vehicles/stugiii-g.eng.md) ] [ [fra](vehicles/stugiii-g.fra.md) ] [ [ger](vehicles/stugiii-g.ger.md) ] [ [rus](vehicles/stugiii-g.rus.md) ] [ [spa](vehicles/stugiii-g.spa.md) ] 
+![stugiii-g](images/stugiii-g.png)
 
 ### SU-122 UZTM (1943)  
 
-[ [chs](vehicles/_su122.chs.md) ] [ [eng](vehicles/_su122.eng.md) ] [ [fra](vehicles/_su122.fra.md) ] [ [ger](vehicles/_su122.ger.md) ] [ [rus](vehicles/_su122.rus.md) ] [ [spa](vehicles/_su122.spa.md) ] 
-![_su122](images/_su122.png)
+[ [chs](vehicles/su122.chs.md) ] [ [eng](vehicles/su122.eng.md) ] [ [fra](vehicles/su122.fra.md) ] [ [ger](vehicles/su122.ger.md) ] [ [rus](vehicles/su122.rus.md) ] [ [spa](vehicles/su122.spa.md) ] 
+![su122](images/su122.png)
 
 ### SU-152 ChKZ (1943)  
 
-[ [chs](vehicles/_su152.chs.md) ] [ [eng](vehicles/_su152.eng.md) ] [ [fra](vehicles/_su152.fra.md) ] [ [ger](vehicles/_su152.ger.md) ] [ [rus](vehicles/_su152.rus.md) ] [ [spa](vehicles/_su152.spa.md) ] 
-![_su152](images/_su152.png)
+[ [chs](vehicles/su152.chs.md) ] [ [eng](vehicles/su152.eng.md) ] [ [fra](vehicles/su152.fra.md) ] [ [ger](vehicles/su152.ger.md) ] [ [rus](vehicles/su152.rus.md) ] [ [spa](vehicles/su152.spa.md) ] 
+![su152](images/su152.png)
 
 ### T-34/76 STZ (1942)  
 
-[ [chs](vehicles/_t34-76stz.chs.md) ] [ [eng](vehicles/_t34-76stz.eng.md) ] [ [fra](vehicles/_t34-76stz.fra.md) ] [ [ger](vehicles/_t34-76stz.ger.md) ] [ [rus](vehicles/_t34-76stz.rus.md) ] [ [spa](vehicles/_t34-76stz.spa.md) ] 
-![_t34-76stz](images/_t34-76stz.png)
+[ [chs](vehicles/t34-76stz.chs.md) ] [ [eng](vehicles/t34-76stz.eng.md) ] [ [fra](vehicles/t34-76stz.fra.md) ] [ [ger](vehicles/t34-76stz.ger.md) ] [ [rus](vehicles/t34-76stz.rus.md) ] [ [spa](vehicles/t34-76stz.spa.md) ] 
+![t34-76stz](images/t34-76stz.png)
 
 ### T-34/76 UTZ (1943)  
 
-[ [chs](vehicles/_t34-76uvz-43.chs.md) ] [ [eng](vehicles/_t34-76uvz-43.eng.md) ] [ [fra](vehicles/_t34-76uvz-43.fra.md) ] [ [ger](vehicles/_t34-76uvz-43.ger.md) ] [ [rus](vehicles/_t34-76uvz-43.rus.md) ] [ [spa](vehicles/_t34-76uvz-43.spa.md) ] 
-![_t34-76uvz-43](images/_t34-76uvz-43.png)
+[ [chs](vehicles/t34-76uvz-43.chs.md) ] [ [eng](vehicles/t34-76uvz-43.eng.md) ] [ [fra](vehicles/t34-76uvz-43.fra.md) ] [ [ger](vehicles/t34-76uvz-43.ger.md) ] [ [rus](vehicles/t34-76uvz-43.rus.md) ] [ [spa](vehicles/t34-76uvz-43.spa.md) ] 
+![t34-76uvz-43](images/t34-76uvz-43.png)
 
