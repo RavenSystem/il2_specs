@@ -11,17 +11,17 @@ Carga de rotura máxima (en fuerzas <i>g</i>): 10 <i>g</i>
 Ángulo de ataque crítico en configuración de vuelo: 22,7°  
 Ángulo de ataque crítico en configuración de aterrizaje: 15,1°  
   
-Velocidad respecto al suelo al nivel del mar, modo motor - Impulso: 544 km/h  
-Velocidad máxima respecto al suelo a 3000 m, modo motor - Continuo: 571 km/h  
-Velocidad máxima respecto al suelo a 6500 m, modo motor - Continuo: 603 km/h  
+Velocidad respecto al suelo al nivel del mar, modo motor - Impulso: 550 km/h  
+Velocidad máxima respecto al suelo a 3000 m, modo motor - Impulso: 575 km/h  
+Velocidad máxima respecto al suelo a 6200 m, modo motor - Continuo: 595 km/h  
   
-Techo de servicio: 9500 m  
-Tasa de ascenso al nivel del mar: 18 m/s  
-Tasa de ascenso a 3000 m: 13,3 m/s  
-Tasa de ascenso a 6000 m: 8,2 m/s  
+Techo de servicio: 9700 m  
+Tasa de ascenso al nivel del mar: 19 m/s  
+Tasa de ascenso a 3000 m: 14,0 m/s  
+Tasa de ascenso a 6000 m: 8,8 m/s  
   
-Viraje de máximo rendimiento al nivel del mar: 23,4 s, a 270 km/h velocidad indicada (IAS).  
-Viraje de máximo rendimiento a 3000 m: 35,3 s, a 270 km/h velocidad indicada (IAS).  
+Viraje de máximo rendimiento al nivel del mar: 21,7 s, a 290 km/h velocidad indicada (IAS).  
+Viraje de máximo rendimiento a 3000 m: 32,0 s, a 300 km/h velocidad indicada (IAS).  
   
 Autonomía de vuelo a 3000 m: 1,9 h, a 350 km/h velocidad indicada (IAS).  
   
@@ -49,7 +49,7 @@ Impulso (hasta 5 minutos): 2400 rpm, 1140 mmHg
 Temperatura nominal del aceite a la salida del motor: 55..90 °C  
 Temperatura máxima del aceite a la salida del motor: 125 °C  
 Temperatura nominal en la culata: 140..210 °C  
-Temperatura máxima en la culata: 215 °C  
+Temperatura máxima en la culata: 250 °C  
   
 Altitud conexión compresor: 3500 m  
   
@@ -88,7 +88,7 @@ Características operativas:
 - El avión posee frenos neumáticos diferenciales en la ruedas compartidos por una palanca de freno. Cuando se tira de la palanca del freno y se pisa un pedal del control del timón el freno opuesto se libera y el avión comienza a girar en un sentido u otro.  
 - El avión cuenta con un indicador de combustible que muestra el nivel de combustible remanente.  
 - La cubierta de la cabina cuenta con un inmovilizador bastante flojo para asegurar su posición cuando está abierta, por lo que puede llegar a cerrarse por sí sola en un picado muy profundo. Además, es imposible abrir o cierrar la cubierta a altas velocidades debido al intenso flujo de aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  
-- El sistema de control del anclaje de las bombas solo permite el lanzamiento una a una.  
+- El sistema de control del anclaje de las bombas solo permite el lanzamiento de las dos bombas a la vez.  
   
 ## Modificaciones  
   

@@ -11,17 +11,17 @@ Facteur de charge maximum : 10 g
 Angle d\attaque de décrochage en configuration de vol : 22,7 °  
 Angle d\attaque de décrochage indiquée en configuration d\atterrissage : 15,1 °  
   
-Vitesse sol au niveau de la mer, régime moteur - Surpuissance : 544 km/h  
-Vitesse sol maximale à 3000 m, régime moteur - Nominal : 571 km/h  
-Vitesse sol maximale à 6500 m, régime moteur - Nominal : 603 km/h  
+Vitesse sol au niveau de la mer, régime moteur - Surpuissance : 550 km/h  
+Vitesse sol maximale à 3000 m, régime moteur - Surpuissance : 575 km/h  
+Vitesse sol maximale à 6200 m, régime moteur - Nominal : 595 km/h  
   
-Plafond opérationnel : 9500 m  
-Taux de montée au niveau de la mer : 18 m/s  
-Taux de montée à 3000 m : 13,3 m/s  
-Taux de montée à 6000 m : 8,2 m/s  
+Plafond opérationnel : 9700 m  
+Taux de montée au niveau de la mer : 19 m/s  
+Taux de montée à 3000 m : 14,0 m/s  
+Taux de montée à 6000 m : 8,8 m/s  
   
-Virage à 360° au niveau de la mer en : 23,4 s, à 270 km/h vitesse indiquée (IAS).  
-Virage à 360° à 3000 m : 35,3 s, à 270 km/h vitesse indiquée (IAS).  
+Virage à 360° au niveau de la mer en : 21,7 s, à 290 km/h vitesse indiquée (IAS).  
+Virage à 360° à 3000 m : 32,0 s, à 300 km/h vitesse indiquée (IAS).  
   
 Endurance à 3000 m : 1,9 h, à 350 km/h vitesse indiquée (IAS).  
   
@@ -49,7 +49,7 @@ Surpuissance (jusqu\à 5 minutes) : 2400 tr/min, 1140 mmHg
 Température de fonctionnement d\huile en sortie du moteur : 55..90 °C  
 Température maximale d\huile en sortie du moteur : 125 °C  
 Température de fonctionnement des têtes de cylindre : 140..210 °C  
-Température maximale des têtes de cylindre : 215 °C  
+Température maximale des têtes de cylindre : 250 °C  
   
 Altitude de changement d\étage du compresseur : 3500 m  
   
@@ -88,7 +88,7 @@ Caractéristiques
 - L\avion a des freins pneumatiques différentiels de roue avec un levier de commande partagé. Cela signifie que si le levier de frein est maintenu, et que la pédale de gouvernail qui freine la roue opposé est progressivement libérée, cela fera tourner d\un côté ou de l\autre.  
 - L\avion a une jauge de carburant qui indique le carburant restant.  
 - La verrière de l\habitacle a un verrou faible en position ouverte, pour cette raison la verrière peut se fermer spontanément dans un piqué accentué.Also, it is impossible to open or close canopy at high speed due to strong airflow. La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.  
-- Le système de controle du ratelier à bombe ne permet de larguer les bombes que une par une.  
+- Le système de controle du ratelier à bombe ne permet de larguer les deux bombes que en même temps.  
   
 ## Modifications  
   

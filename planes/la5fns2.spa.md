@@ -87,7 +87,7 @@ Características operativas:
 - El avión posee frenos neumáticos diferenciales en la ruedas compartidos por una palanca de freno. Cuando se tira de la palanca del freno y se pisa un pedal del control del timón el freno opuesto se libera y el avión comienza a girar en un sentido u otro.  
 - El avión cuenta con un indicador de combustible que muestra el nivel de combustible remanente.  
 - Además, es imposible abrir o cierrar la cubierta a altas velocidades debido al intenso flujo de aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  
-- El sistema de control del anclaje de las bombas solo permite el lanzamiento una a una.  
+- El sistema de control del anclaje de las bombas solo permite el lanzamiento de las dos bombas a la vez.  
   
 ## Modificaciones  
   

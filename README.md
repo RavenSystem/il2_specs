@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.106
+Version: 5.107
 
-Date: 2023-09-28
+Date: 2023-10-25
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -201,6 +201,11 @@ Date: 2023-09-28
 [ [chs](planes/handleypage400.chs.md) ] [ [eng](planes/handleypage400.eng.md) ] [ [fra](planes/handleypage400.fra.md) ] [ [ger](planes/handleypage400.ger.md) ] [ [rus](planes/handleypage400.rus.md) ] [ [spa](planes/handleypage400.spa.md) ] 
 ![handleypage400](images/handleypage400.png)
 
+### Hanriot HD.1  
+
+[ [chs](planes/hanriothd1.chs.md) ] [ [eng](planes/hanriothd1.eng.md) ] [ [fra](planes/hanriothd1.fra.md) ] [ [ger](planes/hanriothd1.ger.md) ] [ [rus](planes/hanriothd1.rus.md) ] [ [spa](planes/hanriothd1.spa.md) ] 
+![hanriothd1](images/hanriothd1.png)
+
 ### He 111 H-16  
 
 [ [chs](planes/he111h16.chs.md) ] [ [eng](planes/he111h16.eng.md) ] [ [fra](planes/he111h16.fra.md) ] [ [ger](planes/he111h16.ger.md) ] [ [rus](planes/he111h16.rus.md) ] [ [spa](planes/he111h16.spa.md) ] 
@@ -266,6 +271,11 @@ Date: 2023-09-28
 [ [chs](planes/la5fns2.chs.md) ] [ [eng](planes/la5fns2.eng.md) ] [ [fra](planes/la5fns2.fra.md) ] [ [ger](planes/la5fns2.ger.md) ] [ [rus](planes/la5fns2.rus.md) ] [ [spa](planes/la5fns2.spa.md) ] 
 ![la5fns2](images/la5fns2.png)
 
+### La-5F ser.38  
+
+[ [chs](planes/la5s38.chs.md) ] [ [eng](planes/la5s38.eng.md) ] [ [fra](planes/la5s38.fra.md) ] [ [ger](planes/la5s38.ger.md) ] [ [rus](planes/la5s38.rus.md) ] [ [spa](planes/la5s38.spa.md) ] 
+![la5s38](images/la5s38.png)
+
 ### La-5 ser.8  
 
 [ [chs](planes/la5s8.chs.md) ] [ [eng](planes/la5s8.eng.md) ] [ [fra](planes/la5s8.fra.md) ] [ [ger](planes/la5s8.ger.md) ] [ [rus](planes/la5s8.rus.md) ] [ [spa](planes/la5s8.spa.md) ] 
@@ -315,6 +325,11 @@ Date: 2023-09-28
 
 [ [chs](planes/nieuport17.chs.md) ] [ [eng](planes/nieuport17.eng.md) ] [ [fra](planes/nieuport17.fra.md) ] [ [ger](planes/nieuport17.ger.md) ] [ [rus](planes/nieuport17.rus.md) ] [ [spa](planes/nieuport17.spa.md) ] 
 ![nieuport17](images/nieuport17.png)
+
+### Nieuport 17.C1 GBR  
+
+[ [chs](planes/nieuport17gbr.chs.md) ] [ [eng](planes/nieuport17gbr.eng.md) ] [ [fra](planes/nieuport17gbr.fra.md) ] [ [ger](planes/nieuport17gbr.ger.md) ] [ [rus](planes/nieuport17gbr.rus.md) ] [ [spa](planes/nieuport17gbr.spa.md) ] 
+![nieuport17gbr](images/nieuport17gbr.png)
 
 ### Nieuport 28.C1  
 

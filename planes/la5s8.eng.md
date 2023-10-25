@@ -11,17 +11,17 @@ Maximum load factor: 10 G
 Stall angle of attack in flight configuration: 22.7 °  
 Stall angle of attack in landing configuration: 15.1 °  
   
-Maximum true air speed at sea level, engine mode - Boosted: 544 km/h  
-Maximum true air speed at 3000 m, engine mode - Nominal: 571 km/h  
-Maximum true air speed at 6500 m, engine mode - Nominal: 603 km/h  
+Maximum true air speed at sea level, engine mode - Boosted: 550 km/h  
+Maximum true air speed at 3000 m, engine mode - Boosted: 575 km/h  
+Maximum true air speed at 6200 m, engine mode - Nominal: 595 km/h  
   
-Service ceiling: 9500 m  
-Climb rate at sea level: 18 m/s  
-Climb rate at 3000 m: 13.3 m/s  
-Climb rate at 6000 m: 8.2 m/s  
+Service ceiling: 9700 m  
+Climb rate at sea level: 19 m/s  
+Climb rate at 3000 m: 14.0 m/s  
+Climb rate at 6000 m: 8.8 m/s  
   
-Maximum performance turn at sea level: 23.4 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 35.3 s, at 270 km/h IAS.  
+Maximum performance turn at sea level: 21.7 s, at 290 km/h IAS.  
+Maximum performance turn at 3000 m: 32.0 s, at 300 km/h IAS.  
   
 Flight endurance at 3000 m: 1.9 h, at 350 km/h IAS.  
   
@@ -49,7 +49,7 @@ Boosted power (up to 5 minutes): 2400 RPM, 1140 mm Hg
 Oil rated temperature in engine output: 55..90 °C  
 Oil maximum temperature in engine output: 125 °C  
 Cylinder head rated temperature: 140..210 °C  
-Cylinder head maximum temperature: 215 °C  
+Cylinder head maximum temperature: 250 °C  
   
 Supercharger gear shift altitude: 3500 m  
   
@@ -88,7 +88,7 @@ Operation features:
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a fuel gauge which shows total remaining fuel.  
 - Cockpit canopy has a weak lock when in the opened position, for this reason the canopy may spontaneously close in a deep dive. Also, it is impossible to open or close canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop bombs one by one.  
+- The control system for the bomb rack only allows to drop the two bombs at the same time.  
   
 ## Modifications  
   

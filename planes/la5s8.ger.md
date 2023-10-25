@@ -11,17 +11,17 @@ Bruchlastvielfache: 10 G
 Kritischer Anstellwinkel in Flugkonfiguration: 22.7 °  
 Kritischer Anstellwinkel in Landekonfiguration: 15.1 °  
   
-Höchstgeschwindigkeit in Bodennähe, Startleistung: 544 km/h  
-Höchstgeschwindigkeit in 3000 m Höhe, Nennleistung: 571 km/h  
-Höchstgeschwindigkeit in 6500 m Höhe, Nennleistung: 603 km/h  
+Höchstgeschwindigkeit in Bodennähe, Startleistung: 550 km/h  
+Höchstgeschwindigkeit in 3000 m Höhe, Startleistung: 575 km/h  
+Höchstgeschwindigkeit in 6500 m Höhe, Nennleistung: 595 km/h  
   
-Dienstgipfelhöhe: 9500 m  
-Steigleistung in Bodennähe: 18 m/s  
-Steigleistung in 3000 m Höhe: 13.3 m/s  
-Steigleistung in 6000 m Höhe: 8.2 m/s  
+Dienstgipfelhöhe: 9700 m  
+Steigleistung in Bodennähe: 19 m/s  
+Steigleistung in 3000 m Höhe: 14.0 m/s  
+Steigleistung in 6000 m Höhe: 8.8 m/s  
   
-Maximale Wendegeschwindigkeit in Bodennähe: 23.4 s (270 km/h IAS).  
-Maximale Wendegeschwindigkeit in 3000 m Höhe: 35.3 s (270 km/h IAS).  
+Maximale Wendegeschwindigkeit in Bodennähe: 21.7 s (290 km/h IAS).  
+Maximale Wendegeschwindigkeit in 3000 m Höhe: 32.0 s (300 km/h IAS).  
   
 Reichweite in 5000 m: 1.9 h, bei 350 km/h IAS.  
   
@@ -49,7 +49,7 @@ Startleistung (bis zu 5 Minuten): 2400 U/min, 1140 mm Hg
 Schmierstoffaustrittstemperatur (normal): 55..90 °C  
 Schmierstoffaustrittstemperatur (höchstens): 125 °C  
 Zylinderkopftemperatur (normal): 140..210 °C  
-Zylinderkopftemperatur (höchstens): 215 °C  
+Zylinderkopftemperatur (höchstens): 250 °C  
   
 Laderumschalthöhe: 3500 m  
   
@@ -88,7 +88,7 @@ Eigenschaften:
 - Das Flugzeug hat differentielle pneumatische Bremsen, die mit einem gemeinsamen Bremshebel betätigt werden. Wenn der Bremshebel gezogen und das Ruderpedal betätigt wird, wird die gegenüberliegende Bremse gelöst und das Flugzeug dreht sich zu der einen oder der anderen Seite.  
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Die Cockpithaube hat eine schwache Verriegelung in geöffneter Position. Deshalb ist es möglich, dass sich die Haube selbständig bei einem längeren Sturzflug schließt.Also, it is impossible to open or close canopy at high speed due to strong airflow. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
-- Die Abwurfmechanik der Bomben erlaubt nur das einzelne Abwerfen der Bomben.  
+- Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
   
 ## Änderungen  
   

@@ -14,7 +14,7 @@ Algunos Nieuport 11 fueron equipados con guías especiales montadas en los trave
   
   
 Motor:  
-Le Rhone 9C, 9 cil. rotativo, 80 CV  
+Le Rhône 9C, 9 cil. rotativo, 80 CV  
   
 Dimensiones:  
 Altura: 2400 mm  
@@ -121,4 +121,4 @@ Peso de las armas: 16 kg (sin cargador)
 Peso de los soportes: 6 kg  
 Peso de la munición: 24 kg  
 Peso total: 46 kg  
-Pérdida de velocidad estimada: 5 km/h  
+Pérdida de velocidad estimada: 7-18 km/h  

@@ -101,7 +101,7 @@ Guns weight: 7.5 kg (w/o ammo drum)
 Mounts weight: 0.8 kg  
 Ammo weight: 12 kg  
 Total weight: 20.3 kg  
-Estimated speed loss: 7-18 km/h  ﻿
+Estimated speed loss: 5 km/h  ﻿
   
 ### Anémomètre, Altimètre, Montre  
   
@@ -126,4 +126,4 @@ Guns weight: 16 kg (w/o ammo drums)
 Mounts weight: 6 kg  
 Ammo weight: 24 kg  
 Total weight: 46 kg  
-Estimated speed loss: 5 km/h  
+Estimated speed loss: 7-18 km/h  

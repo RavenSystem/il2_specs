@@ -87,7 +87,7 @@ Características operativas:
 - El avión está equipado con un sistema de freno de estacionamiento.  
 - El avión está equipado con luces de aterrizaje y navegación.  
 - El motor tiene un compresor mecánico de una etapa.  
-- El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en el depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
+- El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en los depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
 - El avión cuenta con un control manual para bloquear la rueda de cola. Se debe bloquear la rueda cuando se vaya a rodar en línea recta durante un tramo largo y antes del despegue y aterrizaje.  
 - El avión está equipado con un sistema de piloto automático de tres canales (interruptor principal «Alt_Dcha + A»). El piloto tiene la capacidad de ajustar el rumbo (control guiñada con «Alt_Dcha + Flecha Izquierda/Derecha»), los ángulos del estabilizador (control cabeceo con «Alt_Dcha + Flecha Arriba/Abajo») y los ángulos del inclinación (control cabeceo con «Mayús_Dcha + Flecha Izquierda/Derecha»).  
 - La puertas de la zona de carga solo se pueden abrir en tierra.  

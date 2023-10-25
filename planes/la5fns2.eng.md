@@ -87,7 +87,7 @@ Operation features:
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - The aircraft has a fuel gauge which shows total remaining fuel.  
 - Also, it is impossible to open or close canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
-- The control system for the bomb rack only allows to drop bombs one by one.  
+- The control system for the bomb rack only allows to drop the two bombs at the same time.  
   
 ## Modifications  
   

@@ -87,7 +87,7 @@ Eigenschaften:
 - Das Flugzeug hat differentielle pneumatische Bremsen, die mit einem gemeinsamen Bremshebel betätigt werden. Wenn der Bremshebel gezogen und das Ruderpedal betätigt wird, wird die gegenüberliegende Bremse gelöst und das Flugzeug dreht sich zu der einen oder der anderen Seite.  
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Also, it is impossible to open or close canopy at high speed due to strong airflow. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
-- Die Abwurfmechanik der Bomben erlaubt nur das einzelne Abwerfen der Bomben.  
+- Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
   
 ## Änderungen  
   

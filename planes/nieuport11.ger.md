@@ -116,4 +116,4 @@ Gewicht der Waffe: 16 kg (ohne Munitionstrommel)
 Gewicht der Halterung: 6 kg  
 Gewicht der Munition: 24 kg  
 Gseamtgewicht: 46 kg  
-Geschätzter Geschwindigkeitsverlust: 5 km/h  
+Geschätzter Geschwindigkeitsverlust: 7-18 km/h  

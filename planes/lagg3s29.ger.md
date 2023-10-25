@@ -88,7 +88,7 @@ Eigenschaften:
 - Das Flugzeug hat differentielle pneumatische Bremsen, die mit einem gemeinsamen Bremshebel betätigt werden. Wenn der Bremshebel gezogen und das Ruderpedal betätigt wird, wird die gegenüberliegende Bremse gelöst und das Flugzeug dreht sich zu der einen oder der anderen Seite.  
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Die Cockpithaube hat eine schwache Verriegelung in geöffneter Position. Deshalb ist es möglich, dass sich die Haube selbständig bei einem längeren Sturzflug schließt. Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
-- Die Abwurfmechanik der Bomben erlaubt nur das einzelne Abwerfen der Bomben.  
+- Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
 - Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.   
   
 ## Änderungen  

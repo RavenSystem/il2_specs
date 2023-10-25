@@ -95,7 +95,7 @@ Características operativas:
 - El motor cuenta con un control automático de la mezcla de combustible que la mantiene en el punto óptimo.  
 - El motor tiene un regulador automático de las rpm que controla el paso de la hélice para mantener las rpm requeridas.  
 - Las temperaturas del agua y aceite se controlan manualmente ajustando las persianas de los radiadores.  
-- El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en el depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
+- El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en los depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
 - El avión cuenta con compensadores para los controles de vuelo de cabeceo y guiñada.  
 - Los flaps tienen un accionador hidraúlico y pueden bajarse gradualmente hasta formar un ángulo de 80°. La velocidad con los flaps bajados está limitada a 120 mph.  
 - La rueda de cola del avión gira libremente y no se puede bloquear.  

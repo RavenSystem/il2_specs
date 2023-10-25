@@ -87,7 +87,7 @@ Caractéristiques
 - L\avion a des freins pneumatiques différentiels de roue avec un levier de commande partagé. Cela signifie que si le levier de frein est maintenu, et que la pédale de gouvernail qui freine la roue opposé est progressivement libérée, cela fera tourner d\un côté ou de l\autre.  
 - L\avion a une jauge de carburant qui indique le carburant restant.  
 - Also, it is impossible to open or close canopy at high speed due to strong airflow. La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.  
-- Le système de controle du ratelier à bombe ne permet de larguer les bombes que une par une.  
+- Le système de controle du ratelier à bombe ne permet de larguer les deux bombes que en même temps.  
   
 ## Modifications  
   

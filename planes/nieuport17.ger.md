@@ -101,7 +101,7 @@ Gewicht der Waffe: 7.5 kg (ohne Munitionstrommel)
 Gewicht der Halterung: 0.8 kg  
 Gewicht der Munition: 12 kg  
 Gseamtgewicht: 20.3 kg  
-Geschätzter Geschwindigkeitsverlust: 7-18 km/h  
+Geschätzter Geschwindigkeitsverlust: 5 km/h  
   ﻿
   
 ### Anemometer, Höhenmesser, Uhr  
@@ -127,4 +127,4 @@ Gewicht der Waffe: 16 kg (ohne Munitionstrommel)
 Gewicht der Halterung: 6 kg  
 Gewicht der Munition: 24 kg  
 Gseamtgewicht: 46 kg  
-Geschätzter Geschwindigkeitsverlust: 5 km/h  
+Geschätzter Geschwindigkeitsverlust: 7-18 km/h  
