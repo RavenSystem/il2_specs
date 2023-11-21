@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.107
+Version: 5.108
 
-Date: 2023-10-25
+Date: 2023-11-21
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -130,6 +130,11 @@ Date: 2023-10-25
 
 [ [chs](planes/dfwc5.chs.md) ] [ [eng](planes/dfwc5.eng.md) ] [ [fra](planes/dfwc5.fra.md) ] [ [ger](planes/dfwc5.ger.md) ] [ [rus](planes/dfwc5.rus.md) ] [ [spa](planes/dfwc5.spa.md) ] 
 ![dfwc5](images/dfwc5.png)
+
+### F.E.2b  
+
+[ [chs](planes/fe2b.chs.md) ] [ [eng](planes/fe2b.eng.md) ] [ [fra](planes/fe2b.fra.md) ] [ [ger](planes/fe2b.ger.md) ] [ [rus](planes/fe2b.rus.md) ] [ [spa](planes/fe2b.spa.md) ] 
+![fe2b](images/fe2b.png)
 
 ### Fokker D.VII  
 
