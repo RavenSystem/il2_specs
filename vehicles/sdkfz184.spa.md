@@ -65,8 +65,55 @@ Pzgr. 39/43 de 8,8 cm perforante explosivo (APHE): 10,16 kg, 1000 m/s, 179 mm a 
 Pzgr. 40/43 de 8,8 cm perforante núcleo rígido (APCR): 7,3 kg, 1130 m/s, 266 mm a bocajarro  
 SprGr.Flak 41 de 8,8 cm explosivo (HE): 9,4 kg, 700 m/s, 1 kg de explosivo  
   
+<b><u>Ajustes de la mira para el Sprgr. Flak 41:</u></b>  
+(Distancia - número en escala superior):  
+0000 m - 000  
+0100 m - 001    4100 m - 060    8100 m - 182  
+0200 m - 002    4200 m - 062    8200 m - 186  
+0300 m - 003    4300 m - 064    8300 m - 190  
+0400 m - 004    4400 m - 066    8400 m - 195  
+0500 m - 005    4500 m - 068    8500 m - 200  
+0600 m - 006    4600 m - 070    8600 m - 205  
+0700 m - 008    4700 m - 072    8700 m - 210  
+0800 m - 009    4800 m - 075    8800 m - 215  
+0900 m - 010    4900 m - 077    8900 m - 220  
+1000 m - 011    5000 m - 080    9000 m - 225  
+  
+1100 m - 012    5100 m - 082    9100 m - 231  
+1200 m - 014    5200 m - 084    9200 m - 236  
+1300 m - 015    5300 m - 087    9300 m - 241  
+1400 m - 016    5400 m - 090    9400 m - 247  
+1500 m - 017    5500 m - 092    9500 m - 253  
+1600 m - 019    5600 m - 095    9600 m - 259  
+1700 m - 020    5700 m - 097    9700 m - 265  
+1800 m - 021    5800 m - 100    9800 m - 271  
+1900 m - 023    5900 m - 103    9900 m - 277  
+2000 m - 024    6000 m - 106   10000 m - 284  
+  
+2100 m - 025    6100 m - 109   10100 m - 290  
+2200 m - 027    6200 m - 112   10200 m - 297  
+2300 m - 028    6300 m - 115   10300 m - 303  
+2400 m - 030    6400 m - 118   10400 m - 311  
+2500 m - 031    6500 m - 121   10500 m - 318  
+2600 m - 033    6600 m - 124  
+2700 m - 034    6700 m - 127  
+2800 m - 036    6800 m - 131  
+2900 m - 038    6900 m - 134  
+3000 m - 039    7000 m - 138  
+  
+3100 m - 041    7100 m - 142  
+3200 m - 043    7200 m - 145  
+3300 m - 045    7300 m - 149  
+3400 m - 046    7400 m - 153  
+3500 m - 048    7500 m - 157  
+3600 m - 050    7600 m - 161  
+3700 m - 052    7700 m - 165  
+3800 m - 054    7800 m - 169  
+3900 m - 056    7900 m - 173  
+4000 m - 058    8000 m - 177  
+  
 <b><u>Miras para apuntado del armamento:</u></b>  
-Mira periscópica Sfl ZF 1a en artillerio, campo de visión de 8°  
+Mira periscópica Sfl ZF 1a en artillero, campo de visión de 8°  
   
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF Fu 5  

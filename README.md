@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.108
+Version: 5.201
 
-Date: 2023-11-21
+Date: 2023-12-19
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -126,6 +126,11 @@ Date: 2023-11-21
 [ [chs](planes/c47a.chs.md) ] [ [eng](planes/c47a.eng.md) ] [ [fra](planes/c47a.fra.md) ] [ [ger](planes/c47a.ger.md) ] [ [rus](planes/c47a.rus.md) ] [ [spa](planes/c47a.spa.md) ] 
 ![c47a](images/c47a.png)
 
+### CG-4A  
+
+[ [chs](planes/cg4a.chs.md) ] [ [eng](planes/cg4a.eng.md) ] [ [fra](planes/cg4a.fra.md) ] [ [ger](planes/cg4a.ger.md) ] [ [rus](planes/cg4a.rus.md) ] [ [spa](planes/cg4a.spa.md) ] 
+![cg4a](images/cg4a.png)
+
 ### DFW C.V  
 
 [ [chs](planes/dfwc5.chs.md) ] [ [eng](planes/dfwc5.eng.md) ] [ [fra](planes/dfwc5.fra.md) ] [ [ger](planes/dfwc5.ger.md) ] [ [rus](planes/dfwc5.rus.md) ] [ [spa](planes/dfwc5.spa.md) ] 
@@ -235,6 +240,11 @@ Date: 2023-11-21
 
 [ [chs](planes/i16t24.chs.md) ] [ [eng](planes/i16t24.eng.md) ] [ [fra](planes/i16t24.fra.md) ] [ [ger](planes/i16t24.ger.md) ] [ [rus](planes/i16t24.rus.md) ] [ [spa](planes/i16t24.spa.md) ] 
 ![i16t24](images/i16t24.png)
+
+### I.A.R. 80-A  
+
+[ [chs](planes/iar80a.chs.md) ] [ [eng](planes/iar80a.eng.md) ] [ [fra](planes/iar80a.fra.md) ] [ [ger](planes/iar80a.ger.md) ] [ [rus](planes/iar80a.rus.md) ] [ [spa](planes/iar80a.spa.md) ] 
+![iar80a](images/iar80a.png)
 
 ### Il-2 mod.1941  
 
@@ -395,6 +405,11 @@ Date: 2023-11-21
 
 [ [chs](planes/pfalzd3a.chs.md) ] [ [eng](planes/pfalzd3a.eng.md) ] [ [fra](planes/pfalzd3a.fra.md) ] [ [ger](planes/pfalzd3a.ger.md) ] [ [rus](planes/pfalzd3a.rus.md) ] [ [spa](planes/pfalzd3a.spa.md) ] 
 ![pfalzd3a](images/pfalzd3a.png)
+
+### R.E.8  
+
+[ [chs](planes/re8.chs.md) ] [ [eng](planes/re8.eng.md) ] [ [fra](planes/re8.fra.md) ] [ [ger](planes/re8.ger.md) ] [ [rus](planes/re8.rus.md) ] [ [spa](planes/re8.spa.md) ] 
+![re8](images/re8.png)
 
 ### SSW D.IV  
 
