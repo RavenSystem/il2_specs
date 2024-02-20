@@ -96,7 +96,7 @@ Características operativas:
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta tiene un sistema de desbloqueo de emergencia para facilitar el salto.  
 - El avión está equipado con dos luces de formación subalares.  
 - La mira regular es ajustable: tanto la distancia al objetivo como la envergadura del mismo son configurables.  
-- La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
+- La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia, primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
 - Ambas miras tienen filtros solares deslizantes.  
   
 ## Modificaciones  

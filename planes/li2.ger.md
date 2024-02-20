@@ -44,7 +44,7 @@ Maximale Leistung im Nennbetrieb bei 1.700 m Höhe: 840 PS.
   
 Leistungsstufen:  
 Start (bis zu 5 Minuten): 2200 U/min, 1050 Mmhg. kunst.  
-Nominal (bis zu 60 Minuten): 2100 U/min, 900 mmHg. kunst.  
+Nominal: 2100 U/min, 900 mmHg. kunst.  
   
 Empfohlene Ölaustrittstemperatur: 115 °C  
 Motoraustrittstemperatur maximal zulässig (maximal 10 min): 125 °C  

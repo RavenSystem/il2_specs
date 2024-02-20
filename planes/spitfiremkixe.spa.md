@@ -4,9 +4,9 @@
   
 ## Descripción  
   
-Velocidad indicada de pérdida en configuración de vuelo: 143...163 km/h  
-Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 135...154 km/h  
-Velocidad de picado límite: 725 km/h  
+Velocidad indicada de pérdida en configuración de vuelo: 143...163 km/h (89..101 mph)  
+Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 135...154 km/h (84..96 mph)  
+Velocidad de picado límite: 725 km/h (451 mph)  
 Carga de rotura máxima (en fuerzas <i>g</i>): 12.5 <i>g</i>  
 Ángulo de ataque crítico en configuración de vuelo: 18,8°  
 Ángulo de ataque crítico en configuración de aterrizaje: 16,0°  
@@ -14,39 +14,39 @@ Carga de rotura máxima (en fuerzas <i>g</i>): 12.5 <i>g</i>
   
 Motor Merlin 66:  
   
-Velocidad respecto al suelo al nivel del mar, 3000 rpm, impulso +18: 542 km/h  
-Velocidad máxima respecto al suelo a 3350 m, 3000 rpm, impulso +18: 610 km/h  
-Velocidad máxima respecto al suelo a 6850 m, 3000 rpm, impulso +18: 664 km/h  
+Velocidad respecto al suelo al nivel del mar, 3000 rpm, impulso +18: 542 km/h (337 mph)  
+Velocidad máxima respecto al suelo a 3350 m (10991 ft), 3000 rpm, impulso +18: 610 km/h (379 mph)  
+Velocidad máxima respecto al suelo a 6850 m (22474 ft), 3000 rpm, impulso +18: 664 km/h (413 mph)  
   
-Techo de servicio: 12500 m  
-Tasa de ascenso al nivel del mar: 21,5 m/s  
-Tasa de ascenso a 3000 m: 18,6 m/s  
-Tasa de ascenso a 6000 m: 15,5 m/s  
+Techo de servicio: 12500 m (41011 ft)  
+Tasa de ascenso al nivel del mar: 21,5 m/s (4232 ft/min)  
+Tasa de ascenso a 3000 m (9843 ft): 18,6 m/s (3661 ft/min)  
+Tasa de ascenso a 6000 m (19685 ft): 15,5 m/s (3051 ft/min)  
   
-Viraje de máximo rendimiento al nivel del mar: 17,7 s, a 270 km/h velocidad indicada (IAS).  
-Viraje de máximo rendimiento a 3000 m: 20,5 s, a 260 km/h velocidad indicada (IAS).  
+Viraje de máximo rendimiento al nivel del mar: 17,7 s, a 270 km/h (168 mph) velocidad indicada (IAS).  
+Viraje de máximo rendimiento a 3000 m (9843 ft): 20,5 s, a 260 km/h (162 mph) velocidad indicada (IAS).  
   
   
 Motor Merlin 70:  
   
-Velocidad respecto al suelo al nivel del mar, 3000 rpm, impulso +18: 532 km/h  
-Velocidad máxima respecto al suelo a 4900 m, 3000 rpm, impulso +18: 634 km/h  
-Velocidad máxima respecto al suelo a 8500 m, 3000 rpm, impulso +18: 677 km/h  
+Velocidad respecto al suelo al nivel del mar, 3000 rpm, impulso +18: 532 km/h (331 mph)  
+Velocidad máxima respecto al suelo a 4900 m (16076 ft), 3000 rpm, impulso +18: 634 km/h (394 mph)  
+Velocidad máxima respecto al suelo a 8500 m (27887 ft), 3000 rpm, impulso +18: 677 km/h (421 mph)  
   
-Techo de servicio: 13000 m  
-Tasa de ascenso al nivel del mar: 18,5 m/s  
-Tasa de ascenso a 3000 m: 17,5 m/s  
-Tasa de ascenso a 6000 m: 14,1 m/s  
+Techo de servicio: 13000 m (42651 ft)  
+Tasa de ascenso al nivel del mar: 18,5 m/s (3642 ft/min)  
+Tasa de ascenso a 3000 m (9843 ft): 17,5 m/s (3445 ft/min)  
+Tasa de ascenso a 6000 m (19685 ft): 14,1 m/s (2776 ft/min)  
   
-Viraje de máximo rendimiento al nivel del mar: 17,8 s, a 270 km/h velocidad indicada (IAS).  
-Viraje de máximo rendimiento a 3000 m: 20,7 s, a 260 km/h velocidad indicada (IAS).  
+Viraje de máximo rendimiento al nivel del mar: 17,8 s, a 270 km/h (168 mph) velocidad indicada (IAS).  
+Viraje de máximo rendimiento a 3000 m (9843 ft): 20,7 s, a 260 km/h (162 mph) velocidad indicada (IAS).  
   
   
-Autonomía de vuelo a 3000 m: 1 h 40 m, a 350 km/h velocidad indicada (IAS).  
+Autonomía de vuelo a 3000 m (9843 ft): 1 h 40 m, a 350 km/h (218 mph) velocidad indicada (IAS).  
   
-Velocidad de despegue: 185..195 km/h  
-Velocidad senda de planeo: 165..185 km/h  
-Velocidad de aterrizaje: 150..155 km/h  
+Velocidad de despegue: 185..195 km/h (115..121 mph)  
+Velocidad senda de planeo: 165..185 km/h (103..115 mph)  
+Velocidad de aterrizaje: 150..155 km/h (93..96 mph)  
 Ángulo de aterrizaje: 12,5°  
   
 Nota 1: los datos están basados en la atmósfera estándar internacional (ISA).  
@@ -81,11 +81,11 @@ Temperatura máxima del aceite en la admisión del motor: 105 °C
   
 Altitud de cambio de etapa del compresor: automático con posibilidad de bajar la etapa manualmente  
   
-Peso vacío: 2530 kg  
-Peso mínimo (sin munición, 10% de combustible): 2977 kg  
-Peso estándar: 3359 kg  
-Carga de combustible: 274 kg / 386 l / 85 Gl  
-Carga útil: 1302 kg  
+Peso vacío: 2530 kg (5578 lb)  
+Peso mínimo (sin munición, 10% de combustible): 2977 kg (6563 lb)  
+Peso estándar: 3359 kg (7405 lb)  
+Carga de combustible: 274 kg (604 lb) / 386 l (85 gallons)  
+Carga útil: 1302 kg (2870 lb)  
   
 Armamento delantero:  
 2 cañones de 20 mm «Hispano Mk.II», 140 balas, 650 balas por minuto, montadas en ala  
@@ -99,9 +99,9 @@ Cohetes:
 2 cohetes perforantes de 25 lb (11 kg) «RP-3 AP» (modificación)  
 2 cohetes semiperforantes con carga explosiva de 60 lb (27 kg) «RP-3 SAP/HE» (modificación)  
   
-Longitud: 9,65 m  
-Envergadura alar: 11,21 m  
-Superficie de ala: 22,48 m²  
+Longitud: 9,65 m (31 7-59/64 ft)  
+Envergadura alar: 11,21 m (36 11/32 ft)  
+Superficie de ala: 22,48 m² (242 ft²)  
   
 Debut en combate: junio de 1942  
   
@@ -122,7 +122,7 @@ Características operativas:
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta tiene un sistema de desbloqueo de emergencia para facilitar el salto.  
 - El avión está equipado con una luz inferior de formación.  
 - La mira regular es ajustable: tanto la distancia al objetivo como la envergadura del mismo son configurables.  
-- La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
+- La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia, primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
 - Ambas miras tienen filtros solares deslizantes.  
   
   

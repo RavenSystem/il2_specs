@@ -91,7 +91,7 @@ Características operativas:
 - La luz del indicador del tren de aterrizaje se enciende si la palanca de potencia está en una posición baja (menos de 1/3) y el tren está recogido.  
 - No es posible abrir la cubierta a altas velocidades debido a la presión del flujo de aire, pero cuenta con una palanca de ejección de emergencia para poder saltar.  
 - El avión está equipado con luces de formación inferiores.  
-- Se puede ajustar la retícula de la mira para un objetivo y rango determinados. Para facilitar la puntería de los cohetes, es posible desplazar la mira hasta 5 grados hacia abajo (por defecto, Mayús_Dcha + Ñ / Mayús_Dcha + Punto).  
+- Se puede ajustar la retícula de la mira para un objetivo y rango determinados. Para facilitar la puntería de los cohetes, es posible desplazar la mira hasta 5 grados hacia abajo (por defecto, «Mayús_Dcha + Ñ» / «Mayús_Dcha + Punto»).  
   
 ## Modificaciones  
   ﻿

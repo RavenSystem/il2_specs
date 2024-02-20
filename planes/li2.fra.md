@@ -44,7 +44,7 @@ Puissance maximale nominale à 1700 m: 840 ch
   
 Performance du moteur :  
 take-off (jusqu\à 5 minute) : 2200 tr/min, 1050 mm Hg art  
-Nominale (jusqu\à 60 minutes): 2100 tr / min, 900 mm Hg art.  
+Nominale: 2100 tr / min, 900 mm Hg art.  
   
 Température de fonctionnement d\huile en sortie du moteur : 115 °C  
 Température maximale d\huile en sortie du moteur : 125 °C  

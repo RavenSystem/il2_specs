@@ -4,10 +4,10 @@
   
 ## Description  
   
-Vitesse de décrochage indiquée en configuration de vol : 143...163 km/h  
-Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 135...154 km/h  
+Vitesse de décrochage indiquée en configuration de vol : 143...163 km/h (89..101 mph)  
+Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 135...154 km/h (84..96 mph)  
   
-Vitesse limite de piqué : 725 km/h  
+Vitesse limite de piqué : 725 km/h (451 mph)  
 Facteur de charge maximum : 12,5 g  
 Angle d\attaque de décrochage en configuration de vol : 18,8 °  
 Angle d\attaque de décrochage indiquée en configuration d\atterrissage : 16,0 °  
@@ -15,39 +15,39 @@ Angle d\attaque de décrochage indiquée en configuration d\atterrissage : 16,0 
   
 Merlin 66 moteur:  
   
-Vitesse sol au niveau de la mer, 3000 RPM, boosté +18 : 542 km/h  
-Vitesse sol maximale à 3350 m, 3000 RPM, boosté +18 : 610 km/h  
-Vitesse sol maximale à 6850 m, 3000 RPM, boosté +18 : 664 km/h  
+Vitesse sol au niveau de la mer, 3000 RPM, boosté +18 : 542 km/h (337 mph)  
+Vitesse sol maximale à 3350 m (10991 feet), 3000 RPM, boosté +18 : 610 km/h (379 mph)  
+Vitesse sol maximale à 6850 m (22474 feet), 3000 RPM, boosté +18 : 664 km/h (413 mph)  
   
-Plafond opérationnel : 12500 m  
-Taux de montée au niveau de la mer : 21,5 m/s  
-Taux de montée à 3000 m : 18,6 m/s  
-Taux de montée à 6000 m : 15,5 m/s  
+Plafond opérationnel : 12500 m (41011 feet)  
+Taux de montée au niveau de la mer : 21,5 m/s (4232 feet/min)  
+Taux de montée à 3000 m (9843 feet): 18,6 m/s (3661 feet/min)  
+Taux de montée à 6000 m (19685 feet): 15,5 m/s (3051 feet/min)  
   
-Virage à 360° au niveau de la mer en : 17,7 s, à 270 km/h vitesse indiquée (IAS).  
-Virage à 360° à 3000 m : 20,5 s, à 260 km/h vitesse indiquée (IAS).  
+Virage à 360° au niveau de la mer en : 17,7 s, à 270 km/h (168 mph) vitesse indiquée (IAS).  
+Virage à 360° à 3000 m (9843 feet) : 20,5 s, à 260 km/h (162 mph) vitesse indiquée (IAS).  
   
   
 Merlin 70 moteur:  
   
-Vitesse sol au niveau de la mer, 3000 RPM, boosté +18 : 532 km/h  
-Vitesse sol maximale à 4900 m, 3000 RPM, boosté +18 : 634 km/h  
-Vitesse sol maximale à 8500 m, 3000 RPM, boosté +18 : 677 km/h  
+Vitesse sol au niveau de la mer, 3000 RPM, boosté +18 : 532 km/h (331 mph)  
+Vitesse sol maximale à 4900 m (16076 feet), 3000 RPM, boosté +18 : 634 km/h  
+Vitesse sol maximale à 8500 m (27887 feet), 3000 RPM, boosté +18 : 677 km/h  
   
-Plafond opérationnel : 13000 m  
-Taux de montée au niveau de la mer : 18,5 m/s  
-Taux de montée à 3000 m : 17,5 m/s  
-Taux de montée à 6000 m : 14,1 m/s  
+Plafond opérationnel : 13000 m (42651 feet)  
+Taux de montée au niveau de la mer : 18,5 m/s (3642 feet/min)  
+Taux de montée à 3000 m (9843 feet): 17,5 m/s (3445 feet/min)  
+Taux de montée à 6000 m (19685 feet): 14,1 m/s (2776 feet/min)  
   
-Virage à 360° au niveau de la mer en : 17,8 s, à 270 km/h vitesse indiquée (IAS).  
-Virage à 360° à 3000 m : 20,7 s, à 260 km/h vitesse indiquée (IAS).  
+Virage à 360° au niveau de la mer en : 17,8 s, à 270 km/h (168 mph) vitesse indiquée (IAS).  
+Virage à 360° à 3000 m (9843 feet) : 20,7 s, à 260 km/h (162 mph) vitesse indiquée (IAS).  
   
   
-Endurance à 3000 m : 1 h 40 m, à 350 km/h vitesse indiquée (IAS).  
+Endurance à 3000 m (9843 feet): 1 h 40 m, à 350 km/h (218 mph) vitesse indiquée (IAS).  
   
-Vitesse de décollage : 185...195 km/h  
-Vitesse d\approche : 165...185 km/h  
-Vitesse d\atterrissage : 150...155 km/h  
+Vitesse de décollage : 185...195 km/h (115..121 mph)  
+Vitesse d\approche : 165...185 km/h (103..115 mph)  
+Vitesse d\atterrissage : 150...155 km/h (93..96 mph)  
 Angle d\atterrissage : 12,5 °  
   
 Note 1 : les données sont indiquées à l\atmosphère standard international (ISA).  
@@ -82,11 +82,11 @@ Température maximale d\huile à l\admission du moteur : 105 °C
   
 Altitude de changement d\étage du compresseur : automatic with possibility of manual switch to low gear  
   
-Masse à vide : 2530 kg  
-Masse minimale (sans munitions, 10% de carburant) : 2977 kg  
-Masse standard : 3359 kg  
-Masse de carburant : 274 kg / 386 l / 85 Gl  
-Charge utile : 1302 kg  
+Masse à vide : 2530 kg (5578 lb)  
+Masse minimale (sans munitions, 10% de carburant) : 2977 kg (6563 lb)  
+Masse standard : 3359 kg (7405 lb)  
+Masse de carburant : 274 kg (604 lb) / 386 l (85 gallons)  
+Charge utile : 1302 kg (2870 lb)  
   
 Armement offensif :  
 2 mitrailleuse Hispano Mk.II de 20 mm, 140 coups, 650 coups par minute, dans l\aile  
@@ -100,9 +100,9 @@ Roquettes :
 2 roquettes RP-3 A.P. 25 lb. mk.II de 11 kg, charge militaire AT  
 2 roquettes RP-3 A.P. 25 lb. mk.II de 27 kg, charge militaire HE  
   
-Longueur : 9,65 m  
-Envergure : 11,21 m  
-Surface alaire : 22,48 m²  
+Longueur : 9,65 m (31 7-59/64 feet)  
+Envergure : 11,21 m (36 11/32 feet)  
+Surface alaire : 22,48 m² (242 feet²)  
   
 Premier engagement : June 1942  
   

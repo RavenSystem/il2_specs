@@ -11,11 +11,11 @@ Bruchlastvielfache: 12 G
 Kritischer Anstellwinkel in Flugkonfiguration: 16,0°  
 Kritischer Anstellwinkel in Landekonfiguration: 13,8°  
   
-Höchstgeschwindigkeit in Bodennähe, Notleistung: 444 km/h  
-Höchstgeschwindigkeit in 3800 m Höhe, Notleistung: 511 km/h  
+Höchstgeschwindigkeit in Bodennähe, Notleistung: 450 km/h  
+Höchstgeschwindigkeit in 3800 m Höhe, Notleistung: 514 km/h  
   
-Höchstgeschwindigkeit in Bodennähe, Kampfleistung: 425 km/h  
-Höchstgeschwindigkeit in 4700 m Höhe, Kampfleistung: 505 km/h  
+Höchstgeschwindigkeit in Bodennähe, Kampfleistung: 433 km/h  
+Höchstgeschwindigkeit in 4700 m Höhe, Kampfleistung: 511 km/h  
   
 Dienstgipfelhöhe: 10500 m  
 Steigleistung in Bodennähe: 14,1 m/s  
@@ -68,11 +68,9 @@ or (modification):
 2 x "FN Browning 7.92 mod 1938", 1400 Schuss, 1500 Schuss pro Minute, flügelmontiert  
 2 x 20 mm MG 151/20, 350 Schuss, 700 Schuss pro Minute, flügelmontiert  
   
-  
 Abwurfwaffen (modification):  
 Bis zu 2 55 kg Splitterbomben SC 50  
 1 x 249 kg Mehrzweck-Sprengbomb SC 250  
-  
   
 Länge: 8,9 m  
 Spannweite: 10,5 m  

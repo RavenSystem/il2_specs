@@ -4,10 +4,10 @@
   
 ## Description  
   
-Indicated stall speed in flight configuration: 143...163 km/h  
-Indicated stall speed in takeoff/landing configuration: 135...154 km/h  
+Indicated stall speed in flight configuration: 143...163 km/h (89..101 mph)  
+Indicated stall speed in takeoff/landing configuration: 135...154 km/h (84..96 mph)  
   
-Dive speed limit: 725 km/h  
+Dive speed limit: 725 km/h (451 mph)  
 Maximum load factor: 12.5 G  
 Stall angle of attack in flight configuration: 18.8 °  
 Stall angle of attack in landing configuration: 16.0 °  
@@ -15,38 +15,38 @@ Stall angle of attack in landing configuration: 16.0 °
   
 Merlin 66 engine:  
   
-Maximum true air speed at sea level, 3000 RPM, boost +18: 542 km/h  
-Maximum true air speed at 3350 m, 3000 RPM, boost +18: 610 km/h  
-Maximum true air speed at 6850 m, 3000 RPM, boost +18: 664 km/h  
+Maximum true air speed at sea level, 3000 RPM, boost +18: 542 km/h (337 mph)  
+Maximum true air speed at 3350 m (10991 feet), 3000 RPM, boost +18: 610 km/h (379 mph)  
+Maximum true air speed at 6850 m (22474 feet), 3000 RPM, boost +18: 664 km/h (413 mph)  
   
-Service ceiling: 12500 m  
-Climb rate at sea level: 21.5 m/s  
-Climb rate at 3000 m: 18.6 m/s  
-Climb rate at 6000 m: 15.5 m/s  
+Service ceiling: 12500 m (41011 feet)  
+Climb rate at sea level: 21.5 m/s (4232 feet/min)  
+Climb rate at 3000 m (9843 feet): 18.6 m/s (3661 feet/min)  
+Climb rate at 6000 m (19685 feet): 15.5 m/s (3051 feet/min)  
   
-Maximum performance turn at sea level: 17.7 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 20.5 s, at 260 km/h IAS.  
+Maximum performance turn at sea level: 17.7 s, at 270 km/h (168 mph) IAS.  
+Maximum performance turn at 3000 m (9843 feet): 20.5 s, at 260 km/h (162 mph) IAS.  
   
   
 Merlin 70 engine:  
   
-Maximum true air speed at sea level, 3000 RPM, boost +18: 532 km/h  
-Maximum true air speed at 4900 m, 3000 RPM, boost +18: 634 km/h  
-Maximum true air speed at 8500 m, 3000 RPM, boost +18: 677 km/h  
+Maximum true air speed at sea level, 3000 RPM, boost +18: 532 km/h (331 mph)  
+Maximum true air speed at 4900 m (16076 feet), 3000 RPM, boost +18: 634 km/h (394 mph)  
+Maximum true air speed at 8500 m (27887 feet), 3000 RPM, boost +18: 677 km/h (421 mph)  
   
-Service ceiling: 13000 m  
-Climb rate at sea level: 18.5 m/s  
-Climb rate at 3000 m: 17.5 m/s  
-Climb rate at 6000 m: 14.1 m/s  
+Service ceiling: 13000 m (42651 feet)  
+Climb rate at sea level: 18.5 m/s (3642 feet/min)  
+Climb rate at 3000 m (9843 feet): 17.5 m/s (3445 feet/min)  
+Climb rate at 6000 m (19685 feet): 14.1 m/s (2776 feet/min)  
   
-Maximum performance turn at sea level: 17.8 s, at 270 km/h IAS.  
-Maximum performance turn at 3000 m: 20.7 s, at 260 km/h IAS.  
+Maximum performance turn at sea level: 17.8 s, at 270 km/h (168 mph) IAS.  
+Maximum performance turn at 3000 m (9843 feet): 20.7 s, at 260 km/h (162 mph) IAS.  
   
-Flight endurance at 3000 m: 1 h 40 m, at 350 km/h IAS.  
+Flight endurance at 3000 m (9843 feet): 1 h 40 m, at 350 km/h (218 mph) IAS.  
   
-Takeoff speed: 185..195 km/h  
-Glideslope speed: 165..185 km/h  
-Landing speed: 150..155 km/h  
+Takeoff speed: 185..195 km/h (115..121 mph)   
+Glideslope speed: 165..185 km/h (103..115 mph)  
+Landing speed: 150..155 km/h (93..96 mph)  
 Landing angle: 12.5 °  
   
 Note 1: the data provided is for international standard atmosphere (ISA).  
@@ -81,11 +81,11 @@ Oil maximum temperature in engine intake: 105 °C
   
 Supercharger gear shift altitude: automatic with possibility of manual switch to low gear  
   
-Empty weight: 2530 kg  
-Minimum weight (no ammo, 10% fuel): 2977 kg  
-Standard weight: 3359 kg  
-Fuel load: 274 kg / 386 l / 85 gallons  
-Maximum useful load: 1302 kg  
+Empty weight: 2530 kg (5578 lb)  
+Minimum weight (no ammo, 10% fuel): 2977 kg (6563 lb)  
+Standard weight: 3359 kg (7405 lb)  
+Fuel load: 274 kg (604 lb) / 386 l (85 gallons)  
+Maximum useful load: 1302 kg (2870 lb)  
   
 Forward-firing armament:  
 2 x 20mm gun "Hispano Mk.II", 140 rounds per gun, 650 rounds per minute, wing-mounted  
@@ -99,9 +99,9 @@ Rockets:
 2 x 25 lb armour-piercing rocket "RP-3 A.P. 25 lb. mk.II"  
 2 x 60 lb semi-armour-piercing rocket "RP-3 S.A.P. 60 lb. mk.II"  
   
-Length: 9.65 m  
-Wingspan: 11.21 m  
-Wing surface: 22.48 m²  
+Length: 9.65 m (31 7-59/64 feet)  
+Wingspan: 11.21 m (36 11/32 feet)  
+Wing surface: 22.48 m² (242 feet²)  
   
 Combat debut: June 1942  
   

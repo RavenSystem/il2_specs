@@ -4,10 +4,10 @@
   
 ## Beschreibung  
   
-Überziehgeschwindigkeit in Flugkonfiguration: 143...163 km/h  
-Überziehgeschwindigkeit in Landekonfiguration: 135...154 km/h  
+Überziehgeschwindigkeit in Flugkonfiguration: 143...163 km/h (89..101 mph)  
+Überziehgeschwindigkeit in Landekonfiguration: 135...154 km/h (84..96 mph)  
   
-Höchstzulässige Geschwindigkeit im Sturzflug: 725 km/h  
+Höchstzulässige Geschwindigkeit im Sturzflug: 725 km/h (451 mph)  
 Bruchlastvielfache: 12,5 G  
 Kritischer Anstellwinkel in Flugkonfiguration: 18,8 °  
 Kritischer Anstellwinkel in Landekonfiguration: 16,0 °  
@@ -15,40 +15,40 @@ Kritischer Anstellwinkel in Landekonfiguration: 16,0 °
   
 Merlin 66 Triebwerk:  
   
-Höchstgeschwindigkeit in Bodennähe, 3000 U/min, Ladedruck +18: 542 km/h  
-Höchstgeschwindigkeit in 3350 m Höhe, 3000 U/min, Ladedruck +18: 610 km/h  
-Höchstgeschwindigkeit in 6850 m Höhe, 3000 U/min, Ladedruck +18: 664 km/h  
+Höchstgeschwindigkeit in Bodennähe, 3000 U/min, Ladedruck +18: 542 km/h (337 mph)  
+Höchstgeschwindigkeit in 3350 m (10991 Fuß) Höhe, 3000 U/min, Ladedruck +18: 610 km/h (379 mph)  
+Höchstgeschwindigkeit in 6850 m (22474 Fuß) Höhe, 3000 U/min, Ladedruck +18: 664 km/h (413 mph)  
   
-Dienstgipfelhöhe: 12500 m  
+Dienstgipfelhöhe: 12500 m (41011 Fuß)  
   
-Steigleistung in Bodennähe: 21,5 m/s  
-Steigleistung in 3000 m Höhe: 18,6 m/s  
-Steigleistung in 6000 m Höhe: 15,5 m/s  
+Steigleistung in Bodennähe: 21,5 m/s (4232 Fuß/min)  
+Steigleistung in 3000 m (9843 Fuß) Höhe: 18,6 m/s (3661 Fuß/min)  
+Steigleistung in 6000 m (19685 Fuß) Höhe: 15,5 m/s (3051 Fuß/min)  
   
-Maximale Wendegeschwindigkeit in Bodennähe: 17,7 s (270 km/h IAS).  
-Maximale Wendegeschwindigkeit in 3000 m Höhe: 20,5 s (260 km/h IAS).  
+Maximale Wendegeschwindigkeit in Bodennähe: 17,7 s 270 km/h (168 mph) IAS .  
+Maximale Wendegeschwindigkeit in 3000 m (9843 Fuß) Höhe: 20,5 s 260 km/h (162 mph) IAS.  
   
   
 Merlin 70 Triebwerk:  
   
-Höchstgeschwindigkeit in Bodennähe, 3000 U/min, Ladedruck +18: 532 km/h  
-Höchstgeschwindigkeit in 4900 m Höhe, 3000 U/min, Ladedruck +18: 634 km/h  
-Höchstgeschwindigkeit in 8500 m Höhe, 3000 U/min, Ladedruck +18: 677 km/h  
+Höchstgeschwindigkeit in Bodennähe, 3000 U/min, Ladedruck +18: 532 km/h (331 mph)  
+Höchstgeschwindigkeit in 4900 m (16076 Fuß) Höhe, 3000 U/min, Ladedruck +18: 634 km/h (394 mph)  
+Höchstgeschwindigkeit in 8500 m (27887 Fuß) Höhe, 3000 U/min, Ladedruck +18: 677 km/h (421 mph)  
   
-Dienstgipfelhöhe: 13000 m  
+Dienstgipfelhöhe: 13000 m (42651 Fuß)  
   
-Steigleistung in Bodennähe: 18,5 m/s  
-Steigleistung in 3000 m Höhe: 17,5 m/s  
-Steigleistung in 6000 m Höhe: 14,1 m/s  
+Steigleistung in Bodennähe: 18,5 m/s (3642 Fuß/min)  
+Steigleistung in 3000 m (9843 Fuß) Höhe: 17,5 m/s (3445 Fuß/min)  
+Steigleistung in 6000 m (19685 Fuß) Höhe: 14,1 m/s (2776 Fuß/min)  
   
-Maximale Wendegeschwindigkeit in Bodennähe: 17,8 s (270 km/h IAS).  
-Maximale Wendegeschwindigkeit in 3000 m Höhe: 20,7 s (260 km/h IAS).  
+Maximale Wendegeschwindigkeit in Bodennähe: 17,8 s 270 km/h (168 mph) IAS.  
+Maximale Wendegeschwindigkeit in 3000 m (9843 Fuß) Höhe: 20,7 s 260 km/h (162 mph) IAS.  
   
-Reichweite in 3000 m: 1 h 40 m, bei 350 km/h IAS.  
+Reichweite in 3000 m (9843 Fuß): 1 h 40 m, bei 350 km/h (218 mph) IAS.  
   
-Startgeschwindigkeit: 185..195 km/h  
-Anfluggeschwindigkeit: 165..185 km/h  
-Landegeschwindigkeit: 150..155 km/h  
+Startgeschwindigkeit: 185..195 km/h (115..121 mph)   
+Anfluggeschwindigkeit: 165..185 km/h (103..115 mph)  
+Landegeschwindigkeit: 150..155 km/h (93..96 mph)  
 Sinkflugpfad: 12,5 °  
   
 Anmerkung 1: Die Werte gelten für Normatmosphäre (ISA).  
@@ -83,11 +83,11 @@ Schmierstoffeintrittstemperatur (höchstens): 105 °C
   
 Laderumschalthöhe: Automatisch, mit der Möglichkeit, manuell auf den ersten Ladergang umzuschalten.  
   
-Leergewicht: 2530 kg  
-Minimalgewicht (keine Munition, 10% Treibstoff): 2977 kg  
-Normalgewicht: 3359 kg  
-Kraftstoffmenge: 274 kg / 386 l / 85 Gallone  
-Nutzlast: 1302 kg  
+Leergewicht: 2530 kg (5578 lb)  
+Minimalgewicht (keine Munition, 10% Treibstoff): 2977 kg (6563 lb)  
+Normalgewicht: 3359 kg (7405 lb)  
+Kraftstoffmenge: 274 kg (604 lb) / 386 l (85 gallons)  
+Nutzlast: 1302 kg (2870 lb)  
   
 Starre Schusswaffenanlage:  
 2 x 20 mm Hispano Mk.II, 140 Schuss, 650 Schuss pro Minute, flügelmontiert  
@@ -101,9 +101,9 @@ Raketen:
 2 x 11 kg Raketen RP-3 A.P. 25 lb. mk.II, Panzerbrechend  
 2 x 27 kg Raketen RP-3 S.A.P. 60 lb. mk.II, Halb-panzerbrechend  
   
-Länge: 9,65 m  
-Spannweite: 11,21 m  
-Flügelfläche: 22,48 m²  
+Länge: 9,65 m (31 7-59/64 Fuß)  
+Spannweite: 11,21 m (36 11/32 Fuß)  
+Flügelfläche: 22,48 m² (242 Fuß²)  
   
 Erster Fronteinsatz: Juni 1942  
   

@@ -11,11 +11,11 @@ Facteur de charge maximum : 12 g
 Angle d\attaque de décrochage en configuration de vol : 16,0°  
 Angle d\attaque de décrochage indiquée en configuration d\atterrissage : 13,8°  
   
-Vitesse sol au niveau de la mer, régime moteur - Urgence : 444 km/h  
-Vitesse sol maximale à 3800 m, régime moteur - Urgence : 511 km/h  
+Vitesse sol au niveau de la mer, régime moteur - Urgence : 450 km/h  
+Vitesse sol maximale à 3800 m, régime moteur - Urgence : 514 km/h  
   
-Vitesse sol au niveau de la mer, régime moteur - Nominal : 425 km/h  
-Vitesse sol maximale à 4700 m, régime moteur - Nominal : 505 km/h  
+Vitesse sol au niveau de la mer, régime moteur - Nominal : 433 km/h  
+Vitesse sol maximale à 4700 m, régime moteur - Nominal : 511 km/h  
   
 Plafond opérationnel : 10500 m  
 Taux de montée au niveau de la mer : 14,1 m/s  

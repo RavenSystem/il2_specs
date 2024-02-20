@@ -11,10 +11,10 @@ Maximum load factor: 12 G
 Stall angle of attack in flight configuration: 16,0°  
 Stall angle of attack in landing configuration: 13,8°  
   
-Maximum true air speed at sea level, engine mode - nominal: 425 km/h  
-Maximum true air speed at sea level, engine mode - emergency: 444 km/h  
-Maximum true air speed at 4700, engine mode - nominal m: 505 km/h  
-Maximum true air speed at 3800 m, engine mode - emergency: 511 km/h  
+Maximum true air speed at sea level, engine mode - nominal: 433 km/h  
+Maximum true air speed at sea level, engine mode - emergency: 450 km/h  
+Maximum true air speed at 4700, engine mode - nominal m: 511 km/h  
+Maximum true air speed at 3800 m, engine mode - emergency: 514 km/h  
   
 Service ceiling: 10500 m  
 Climb rate at sea level: 14,1 m/s  

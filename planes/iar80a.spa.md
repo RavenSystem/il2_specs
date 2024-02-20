@@ -11,11 +11,11 @@ Carga de rotura máxima (en fuerzas <i>g</i>): 12 <i>g</i>
 Ángulo de ataque crítico en configuración de vuelo: 16,0°  
 Ángulo de ataque crítico en configuración de aterrizaje: 13,8°  
   
-Velocidad respecto al suelo al nivel del mar, modo motor - Emergencia: 444 km/h  
-Velocidad máxima respecto al suelo a 3800 m, modo motor - Emergencia: 511 km/h  
+Velocidad respecto al suelo al nivel del mar, modo motor - Emergencia: 450 km/h  
+Velocidad máxima respecto al suelo a 3800 m, modo motor - Emergencia: 514 km/h  
   
-Velocidad respecto al suelo al nivel del mar, modo motor - Continuo: 425 km/h  
-Velocidad máxima respecto al suelo a 4700 m, modo motor - Continuo: 505 km/h  
+Velocidad respecto al suelo al nivel del mar, modo motor - Continuo: 433 km/h  
+Velocidad máxima respecto al suelo a 4700 m, modo motor - Continuo: 511 km/h  
   
 Techo de servicio: 10500 m  
 Tasa de ascenso al nivel del mar: 14,1 m/s  
@@ -44,13 +44,13 @@ Potencia máxima en modo Continuo al nivel del mar: 930 CV
 Potencia máxima en modo Continuo a 3200 m: 1000 CV  
   
 Modos de funcionamiento motor:  
-Continuo (sin límite de tiempo): 2300 rpm, 850 mm Hg  
-Emergencia (hasta 3 minutos): 2300 rpm, 935 mm Hg  
+Continuo (sin límite de tiempo): 2300 rpm, 850 mmHg  
+Emergencia (hasta 3 minutos): 2300 rpm, 935 mmHg  
   
 Temperatura nominal del aceite a la salida del motor: 40..110 °C  
 Temperatura máxima del aceite a la salida del motor: 120 °C  
   
-Peso en vacío: 1980 kg  
+Peso vacío: 1980 kg  
 Peso mínimo (sin munición, 10% de combustible): 2293 kg  
 Peso estándar: 2650 kg  
 Peso máximo al despegue: 3030 kg  
@@ -58,14 +58,14 @@ Carga de combustible: 324 kg / 450 l
 Carga útil: 1050 kg  
   
 Armamento delantero:  
-6 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 2400 balas, 1500 balas por minuto, montados en ala  
+6 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 2400 balas, 1500 balas por minuto, montadas en ala  
   
 o (modificación):  
-4 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1600 balas, 1500 balas por minuto, montados en ala  
-2 ametralladoras de 13,2 mm «FN Browning 13.2", 300 balas, 1080 balas por minuto, montados en ala  
+4 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1600 balas, 1500 balas por minuto, montadas en ala  
+2 ametralladoras de 13,2 mm «FN Browning 13.2", 300 balas, 1080 balas por minuto, montadas en ala  
   
 o (modificación):  
-2 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1400 balas, 1500 balas por minuto, montados en ala  
+2 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1400 balas, 1500 balas por minuto, montadas en ala  
 2 cañones de 20 mm «MG 151/20», 350 balas, 700 balas por minuto, montados en ala  
   
   
@@ -99,19 +99,19 @@ Características operativas:
 ## Modificaciones  
   ﻿
   
-### I.A.R.80-B series 181-200  
+### I.A.R. 80-B series 181-200  
   
 La modificación incluye:  
-- 2 ametralladoras de 13,2 mm en sustitución de 2 ametralladoras de 7,92 mm  
+- 2 ametralladoras de 13,2 mm en sustitución de 2 de 7,92 mm  
 - nuevo tipo de reposacabezas  
 - flaps más robustos  
 Peso adicional: 14,7 kg  
 Pérdida de velocidad estimada: 1 km/h  ﻿
   
-### I.A.R.80-M  
+### I.A.R. 80-M  
   
 La modificación incluye:  
-- 2 cañones de 20 mm MG151/20 en sustitución de 4 ametralladores de 7,92 mm  
+- 2 cañones de 20 mm MG 151/20 en sustitución de 4 ametralladores de 7,92 mm  
 - puntales en estabilizador horizontal  
 - nuevo filtro de aire  
 - segundo radiador de aceite (regulable)  
@@ -120,7 +120,7 @@ La modificación incluye:
 Peso adicional: 62,2 kg  
 Pérdida de velocidad estimada: 9 km/h  ﻿
   
-### I.A.R.81 series 151-175  
+### I.A.R. 81 series 151-175  
   
 La modificación incluye:  
 - bombas en panza (1 SC 250 de 249 kg) y bajo alas (2 SC 50 de 55 kg)  

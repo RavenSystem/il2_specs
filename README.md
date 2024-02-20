@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.201
+Version: 5.202
 
-Date: 2023-12-19
+Date: 2024-02-20
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -246,6 +246,11 @@ Date: 2023-12-19
 [ [chs](planes/iar80a.chs.md) ] [ [eng](planes/iar80a.eng.md) ] [ [fra](planes/iar80a.fra.md) ] [ [ger](planes/iar80a.ger.md) ] [ [rus](planes/iar80a.rus.md) ] [ [spa](planes/iar80a.spa.md) ] 
 ![iar80a](images/iar80a.png)
 
+### I.A.R. 80-B  
+
+[ [chs](planes/iar80b.chs.md) ] [ [eng](planes/iar80b.eng.md) ] [ [fra](planes/iar80b.fra.md) ] [ [ger](planes/iar80b.ger.md) ] [ [rus](planes/iar80b.rus.md) ] [ [spa](planes/iar80b.spa.md) ] 
+![iar80b](images/iar80b.png)
+
 ### Il-2 mod.1941  
 
 [ [chs](planes/il2m41.chs.md) ] [ [eng](planes/il2m41.eng.md) ] [ [fra](planes/il2m41.fra.md) ] [ [ger](planes/il2m41.ger.md) ] [ [rus](planes/il2m41.rus.md) ] [ [spa](planes/il2m41.spa.md) ] 
@@ -455,6 +460,11 @@ Date: 2023-12-19
 
 [ [chs](planes/spad7late.chs.md) ] [ [eng](planes/spad7late.eng.md) ] [ [fra](planes/spad7late.fra.md) ] [ [ger](planes/spad7late.ger.md) ] [ [rus](planes/spad7late.rus.md) ] [ [spa](planes/spad7late.spa.md) ] 
 ![spad7late](images/spad7late.png)
+
+### Spitfire Mk.IXc  
+
+[ [chs](planes/spitfiremkixc.chs.md) ] [ [eng](planes/spitfiremkixc.eng.md) ] [ [fra](planes/spitfiremkixc.fra.md) ] [ [ger](planes/spitfiremkixc.ger.md) ] [ [rus](planes/spitfiremkixc.rus.md) ] [ [spa](planes/spitfiremkixc.spa.md) ] 
+![spitfiremkixc](images/spitfiremkixc.png)
 
 ### Spitfire Mk.IXe  
 
