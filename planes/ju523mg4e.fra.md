@@ -88,6 +88,34 @@ Caractèristiques:
 - La porte de déchargement de cargaison ne peut être ouverte qu\au sol.  
 - La porte passager gauche doit être enlevé avant un vol de lacher de parachutiste ou de conteneur. Utilisez la touche de largage de bombe ("B" par défaut) pour les lacher.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: fixed pitch  
+	- recommended position of the throttle lever: 35%  
+	- before taxiing, the parking brake must be released  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 75%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 80-90% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3. Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open  
+	- cruise flight: open 50%  
+	- combat: open 50%  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- cruise flight: open 50%  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.1 l/min  
+	- Combat engine mode: 10.6 l/min  
+  
 ## Modifications  
   ﻿
   

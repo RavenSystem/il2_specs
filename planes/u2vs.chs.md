@@ -103,6 +103,24 @@ U-2飞机是1923-1928年期间在尼古拉.波利卡波夫（N.N.Polikarpov）�
 —飞机在默认配置下没有发电机，所以电灯和空速管加温器（消耗高达226瓦）是从24伏电池（标准状态下10安时容量，1安培电流）取电的。为了给RSI-4无线电台供电，边上装了GS-10-350发电机。  
 —请注意对于所有改装，满油的飞机总重是1390kg，超过其最大起飞重量。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the radiator/cowl flap control handle: no radiator control  
+	- recommended position of the prop pitch control handle: no prop pitch control  
+	- recommended position of the throttle lever: 20%  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  no control of radiators/cowl flaps  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 0.6 l/min  
+	- Combat engine mode: 0.7 l/min  
+  
 ## 修改  
   
   

@@ -84,7 +84,7 @@ Peso adicional: 1 kg
   
 ### Cohetes Le Prieur  
   
-8 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la penetración de la envoltura del globo o una granada altamente explosiva.  
+8 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la perforación de la envoltura del globo o con una granada altamente explosiva.  
 Peso adicional: 36 kg  
 Peso de munición: 16 kg  
 Peso de los soportes: 20 kg  

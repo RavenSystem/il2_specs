@@ -107,6 +107,25 @@ Caractéristiques
 - L\avion est équipé d\un contrôleur de salve pour les bombes, il a trois modes de libération : unitaire, par deux dans une salve ou toutes les bombes en une salve.  
 - Quand des roquettes sont installées, il y a un sélecteur de mode tir, qui permet de choisir un tir par deux ou toutes les roquettes en une salve. However, when Mk.III Tiered Rails are installed and "two rockets in a salvo" mode is selected, four rockets are launched from four rails (lower placed rockets are fired first).  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture  
+	- recommended position of the radiator: close  
+	- recommended position of the prop pitch control handle: light (100%)  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 11.8 l/min  
+	- Combat engine mode: 21.6 l/min  
+  
 ## Modifications  
   
   

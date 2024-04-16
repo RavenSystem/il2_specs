@@ -86,6 +86,25 @@ Características operativas:
 - El avión está equipado con luces de formación inferiores.  
 - Se puede ajustar la retícula de la mira para un objetivo y rango determinados.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: Start  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: Normal (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 8.9 l/min  
+	- Combat engine mode: 14.2 l/min  
+  
 ## Modificaciones  
   ﻿
   

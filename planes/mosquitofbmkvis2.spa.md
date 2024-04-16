@@ -106,6 +106,25 @@ Características operativas:
 - El avion tiene varios interruptores para seleccionar las bombas que se lanzan, con tres posibles modos: lanzar una, lanzar dos al mismo tiempo o lanzar todas a la vez.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con dos modos disponibles: disparar dos al mismo tiempo o todos a la vez. Si los cohetes están apilados de dos en dos, montados sólamente sobre 4 lanzadores Mk.III, cuando el mando se ajusta a «RP PAIRS» (dos a la vez) se lanzarán dos cohetes de cada una de las alas (4 cohetes en total, en lugar de dos).  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture  
+	- recommended position of the radiator: close  
+	- recommended position of the prop pitch control handle: light (100%)  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 11.8 l/min  
+	- Combat engine mode: 21.6 l/min  
+  
 ## Modificaciones  
   
   

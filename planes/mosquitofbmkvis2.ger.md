@@ -106,6 +106,25 @@ Eigenschaften:
 - Das Flugzeug ist mit einer Bombensteuerung ausgerüstet. Es gibt drei Abwurfarten: Einzelabwurf, zwei in einer Salve abwerfen oder alle Bomben in einer Salve abwerfen.  
 - Das Flugzeug ist mit einer Raketensteuerung ausgerüstet. Es gibt zwei Abschussarten: zwei in einer Salve oder alle in einer Salve. However, when Mk.III Tiered Rails are installed and "two rockets in a salvo" mode is selected, four rockets are launched from four rails (lower placed rockets are fired first).  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture  
+	- recommended position of the radiator: close  
+	- recommended position of the prop pitch control handle: light (100%)  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 11.8 l/min  
+	- Combat engine mode: 21.6 l/min  
+  
 ## Änderungen  
   
   

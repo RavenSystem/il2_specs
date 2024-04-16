@@ -99,6 +99,21 @@ Eigenschaften:
 - Das Kreiselvisier berechnet automatisch die Winkelabweichung beim Feuern auf ein Ziel. Es hat 4 Modi: Feststehendes Fadenkreuz, kreiselstabilisiertes Fadenkreuz, feststehendes und kreiselstabilisiertes Fadenkreuz, kreiselstabilisiertes Fadenkreuz mit fester Zielentfernung von 150 Yards (Nachtmodus). Die Winkelabweichung wird nur korrekt berrechnet, wenn die Zielentfernung passend eingestellt ist. Um die Entfernung einzustellen, wird zuerst die Zielgröße über eigene Tastenbefehle eingestellt und dann die Entfernung über die Einstellung der Größe des Fadenkreuzes, bis dieses der Größe des Ziels entspricht.  
 - Beide Visiere haben schiebbare Sonnenfilter.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.4 l/min  
+	- Combat engine mode: 12.9 l/min  
+  
 ## Änderungen  
   ﻿
   

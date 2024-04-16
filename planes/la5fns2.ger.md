@@ -89,6 +89,37 @@ Eigenschaften:
 - Also, it is impossible to open or close canopy at high speed due to strong airflow. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
 - Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: no mixture control  
+	- recommended position of the cowl flap control handle: open  
+	- recommended position of the radiator/cowl flap control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 0%  
+  
+2. Recommended mixture control lever positions for various flight modes: no mixture control  
+  
+3.1 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: open (in winter conditions - close 50% if necessary)  
+	- combat: open  
+  
+3.2 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 60%  
+  
+3.3 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 50%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 3.6 l/min  
+	- Combat engine mode: 12.3 l/min  
+  
 ## Änderungen  
   
   

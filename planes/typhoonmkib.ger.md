@@ -92,6 +92,25 @@ Operation features:
 - Das Flugzeug ist mit unten angebrachten Formationslichtern ausgestattet.  
 - Das Reflexvisier kann auf eine bestimmte Zielgröße und Entfernung eingestellt werden. Um das Zielen von Raketen zu erleichtern, kann die Ziellinie um bis zu 5 Grad nach unten verschoben werden (Tastenkombinationen Rechtsverschiebung + Semikolon / Rechtsverschiebung + Periode standardmäßig).  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: Start  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: Normal (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.7 l/min  
+	- Combat engine mode: 12.3 l/min  
+  
 ## Änderungen  
   ﻿
   

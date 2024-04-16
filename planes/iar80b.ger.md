@@ -81,7 +81,7 @@ Erster Fronteinsatz: Autumn 1942
   
 Eigenschaften:  
 - The aircraft has no constant propeller governor. The propeller speed is controlled by manually changing the propeller pitch using a switch on the instrument board (default propeller pitch commands in the sim are [RShift + +/-]).  
-- Due to the absence of a constant propeller speed governor, it is necessary to carefully monitor the propeller RPM, especially in a dive - due to the spinning up of the propeller during acceleration, it is possible to exceed the maximum RPM and cause an engine failure.  	
+- Due to the absence of a constant propeller speed governor, it is necessary to carefully monitor the propeller RPM, especially in a dive - due to the spinning up of the propeller during acceleration, it is possible to exceed the maximum RPM and cause an engine failure.  
 - The aircraft has no cylinder head temperature gauge - only an oil temperature gauge.  
 - The oil radiator of the I.A.R. 80-B has no regulation (there is a second adjustable oil radiator on I.A.R. 80-C, I.A.R. 81-C modification).  
 - The aircraft is equipped with elevator trimmer.  
@@ -95,6 +95,25 @@ Eigenschaften:
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - In the dive bomber version, the tilt of the gunsight is adjustable [RAlt + F by default].  
 - The gunsight has a sliding sun-filter [LAlt + F by default].  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 50% auto mixture control  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the prop pitch control handle: heavy  
+	- recommended position of the throttle lever: 0%  
+  
+2. Recommended mixture control lever positions for various flight modes: 50% (auto mixture control)  
+  
+3. Recommended positions of the cowl flap control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.9 l/min  
+	- Combat engine mode: 7.7 l/min  
   
 ## Änderungen  
   ﻿

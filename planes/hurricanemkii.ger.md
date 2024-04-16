@@ -109,6 +109,25 @@ Operation features:
 - Wenn Bomben installiert sind, gibt es eine Steuerung für die Salven. Es gibt zwei Abwurfarten: einzeln oder zwei in einer Salve.   
 - Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the radiator control handle: open  
+	- recommended position of the prop pitch control handle: auto prop pitch control  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open 60%  
+	- climb: open 100%  
+	- cruise flight: open 40%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.0 l/min  
+	- Combat engine mode: 9.9 l/min  
+  
 ## Änderungen  
   ﻿
   

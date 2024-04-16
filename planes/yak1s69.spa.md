@@ -90,6 +90,34 @@ Características operativas:
 - El sistema de control del anclaje de las bombas montadas en las alas solo permite el lanzamiento de ambas bombas a la vez.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the radiators control handles: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 5%  
+	- before taxiing, you must unlock the tailwheel  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes. At 8-9 km altitude, the altitude corrector closes to 0%.  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50%  
+	- combat: open 100%  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 66%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.4 l/min  
+  
 ## Modificaciones  
   ﻿
   

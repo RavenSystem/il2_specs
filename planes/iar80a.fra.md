@@ -60,11 +60,11 @@ Charge utile : 1050 kg
 Armement offensif :  
 6 mitrailleuses "FN Browning 7.92 mod 1938", 2400 coups, 1500 coups par minute, dans l\aile  
   
-or (modification):  	
+or (modification):  
 4 mitrailleuses "FN Browning 7.92 mod 1938", 1600 coups, 1500 coups par minute, dans l\aile  
 2 mitrailleuses "FN Browning 13.2", 300 coups, 1080 coups par minute, dans l\aile  
   
-or (modification):  	
+or (modification):  
 2 mitrailleuses "FN Browning 7.92 mod 1938", 1400 coups, 1500 coups par minute, dans l\aile  
 2 canons MG 151/20 de 20 mm, 350 coups, 700 coups par minute, dans l\aile  
   
@@ -94,6 +94,25 @@ Caractéristiques
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - In the dive bomber version, the tilt of the gunsight is adjustable [RAlt + F by default].  
 - The gunsight has a sliding sun-filter [LAlt + F by default].  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 50% auto mixture control  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the prop pitch control handle: heavy  
+	- recommended position of the throttle lever: 0%  
+  
+2. Recommended mixture control lever positions for various flight modes: 50% (auto mixture control)  
+  
+3. Recommended positions of the cowl flap control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.9 l/min  
+	- Combat engine mode: 7.7 l/min  
   
 ## Modifications  
   ﻿

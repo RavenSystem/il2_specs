@@ -89,7 +89,35 @@ Eigenschaften:
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Die Cockpithaube hat eine schwache Verriegelung in geöffneter Position. Deshalb ist es möglich, dass sich die Haube selbständig bei einem längeren Sturzflug schließt. Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
 - Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
-- Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.   
+- Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the oil radiator control handle: open  
+	- recommended position of the water radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture knob should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture knob should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes. At 8-9 km altitude, the altitude corrector closes to 0%.  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 40%  
+	- combat: open 100%  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 2.7 l/min  
   
 ## Änderungen  
   ﻿

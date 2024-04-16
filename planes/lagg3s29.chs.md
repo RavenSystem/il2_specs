@@ -91,6 +91,34 @@
 —炸弹挂架的控制系统只允许单颗投放。  
 —当火箭弹被安装上后会有一个齐射控制功能，它有三种发射模式：单发，双发齐射，和四发齐射。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 100%  
+	- recommended position of the oil radiator control handle: open  
+	- recommended position of the water radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture knob should be in the position of about 50%.  
+	- When the engine is running at full throttle near the ground, the mixture knob should be in the 75-80% position.  
+	- As you gain altitude, the altitude corrector closes. At 8-9 km altitude, the altitude corrector closes to 0%.  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 40%  
+	- combat: open 100%  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 2.7 l/min  
+  
 ## 修改  
   
   

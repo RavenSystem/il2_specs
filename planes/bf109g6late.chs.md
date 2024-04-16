@@ -103,6 +103,22 @@
 ——炸弹挂架的控制系统只允许单颗投放。  
 ——射击瞄准具拥有一个滑动式的太阳滤光片。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil/water radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: auto prop pitch control  
+	- recommended position of the throttle lever: 10%  
+	- before taxiing, you must unlock the tailwheel  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 5.4 l/min  
+	- Combat engine mode: 8.6 l/min  
+  
 ## 修改  
   
   

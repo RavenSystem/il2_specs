@@ -114,6 +114,25 @@ Eigenschaften:
 - Die Visiereinrichtung ist einstellbar: Zielentfernung und Zielgröße können eingestellt werden.  
 - Das Visier ist mit einen Sonnenfilter ausgestattet.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: forward (auto mixture control)  
+	- recommended position of the water radiator control handle: open 60%  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: forward (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open 60%  
+	- climb: open 100%  
+	- cruise flight: open 60% (in winter conditions - close if necessary)  
+	- combat: open 60%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.2 l/min  
+	- Combat engine mode: 7.7 l/min  
+  
 ## Änderungen  
   ﻿
   

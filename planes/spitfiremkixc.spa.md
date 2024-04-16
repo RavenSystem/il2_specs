@@ -128,6 +128,20 @@ Características operativas:
 - La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia, primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
 - Ambas miras tienen filtros solares deslizantes.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil/water radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.3 l/min  
+	- Combat engine mode: 10.2 l/min  
   
 ## Modificaciones  
   ﻿

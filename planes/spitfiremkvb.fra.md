@@ -107,13 +107,32 @@ Caractéristiques
 - The aircraft becomes unstable with extended landing flaps.  
 - The aircraft is equipped with elevator and rudder trimmers.  
 - Landing flaps have a pneumatic actuator so they can be extended to maximum position only. Speed with extended landing flaps is limited to 150 mph.  
-- The aircraft tail wheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
+- The aircraft tailwheel rotates freely and does not have a lock. Since the landing gear wheels are relatively close to each other, it is necessary to confidently and accurately operate the rudder pedals during the takeoff and landing.  
 - L\avion a des freins pneumatiques différentiels de roue avec un levier de commande partagé. Cela signifie que si le levier de frein est maintenu, et que la pédale de gouvernail qui freine la roue opposé est progressivement libérée, cela fera tourner d\un côté ou de l\autre.  
 - The aircraft is equipped with a siren that warns a pilot if the throttle is set to low position with landing gear retracted.  
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has an emergency release system for bailouts.  
 - The aircraft is equipped with upper and bottom formation lights which can be turned on simultaneously or independently.  
 - The gunsight is adjustable: both the target distance and target base can be set.  
 - Le viseur a un filtre solaire coulissant.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: forward (auto mixture control)  
+	- recommended position of the water radiator control handle: open 60%  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: forward (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open 60%  
+	- climb: open 100%  
+	- cruise flight: open 60% (in winter conditions - close if necessary)  
+	- combat: open 60%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.2 l/min  
+	- Combat engine mode: 7.7 l/min  
   
 ## Modifications  
   ﻿

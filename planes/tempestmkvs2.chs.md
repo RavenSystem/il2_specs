@@ -87,6 +87,25 @@
 —该机型配备底部编队灯。  
 —瞄准具测距环可以调节给定目标的基线和距离。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: Start  
+	- recommended position of the radiator control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: Normal (auto mixture control)  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: close  
+	- combat: open  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 8.9 l/min  
+	- Combat engine mode: 14.2 l/min  
+  
 ## 修改  
   
   

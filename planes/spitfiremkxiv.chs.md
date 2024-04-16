@@ -99,6 +99,21 @@
 —陀螺瞄准具在对目标开火时自动计算需要的偏转角。它有4个模式：固定环、固定和陀螺活动环、陀螺活动环、目标距离固定在150码的陀螺活动环（夜间模式）。目标正确设置时才可获得正确的偏转角。要设置距离，首先使用独立的控制器调节目标基线（翼展），然后通过调节测距环的大小和目标大小一样来设定距离。  
 —两个射击瞄准具都有滑动式的太阳滤光片。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the oil radiator control handle: auto radiators control  
+	- recommended position of the prop pitch control handle: light  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.4 l/min  
+	- Combat engine mode: 12.9 l/min  
+  
 ## 修改  
   
   

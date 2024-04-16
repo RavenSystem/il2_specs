@@ -77,7 +77,7 @@ Eigenschaften:
 - Der Motor hat eine verstärkte Zusatzleistung. Um die Zusatzleistung zu verwenden, ist es erforderlich, den Zusatzleistung-Knopf einzudrücken und den Ladedruck auf 1140 mmHg zu erhöhen.  
 - The boost control is effectively a limiter. It limits the pressure to 950 mm Hg in normal mode and to 1140 mm Hg in the boost mode.  
 - Der Motor hat einen Zweiganglader, welcher manuell auf 3500 m Höhe umgeschaltet werden muss.  
-- Die Gemischregelung erfolgt automatisch, wenn sich der Hebel in der Maximalstellung befindet. Es ist möglich das Gemisch abzumagern, wenn der Hebel in eine niedrige Stellung bewegt wird. Dies reduziert den Treibstoffverbrauch während des Fluges.  
+- Die Gemischregelung erfolgt automatisch, wenn sich der Gemischhebel in der hinteren Position befindet. Es ist möglich, das Gemisch manuell abzusenken, indem der Hebel nach vorne bewegt wird, um den Kraftstoffverbrauch während des Fluges zu reduzieren.  
 - Der Motor besitzt eine automatische Drehzahlregelung, welche die Motordrehzahl je nach Hebelstellung festlegt. Der Regler verstellt automatisch den Anstellwinkel des Propellers um die erforderliche Drehzahl einzuhalten.  
 - Die Regelung der Ölkühlerklappen und die Ein- und Auslassklappe für die Luftkühlung erfolgt manuell.  
 - Die Einlassklappen für die Luftkühlung sollten immer geöffnet sein. Nur bei einer drohenden Unterkühlung des Motors, zum Beispiel während eines Sturzfluges im Leerlauf, sollten die Klappen geschlossen werden.  
@@ -89,6 +89,38 @@ Eigenschaften:
 - Das Flugzeug hat eine Tankanzeige, welche den gesamten Treibstoffstand anzeigt.  
 - Die Cockpithaube hat eine schwache Verriegelung in geöffneter Position. Deshalb ist es möglich, dass sich die Haube selbständig bei einem längeren Sturzflug schließt.Also, it is impossible to open or close canopy at high speed due to strong airflow. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
 - Die Abwurfmechanik der Bomben erlaubt nur den gleichzeitigen Abwerfen der Bomben.  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the cowls flap control handles: open  
+	- recommended position of the oil radiator flap control handle: close  
+	- recommended position of the prop pitch control handle: 100%  
+	- recommended position of the throttle lever: 5%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3.1 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open  
+	- climb: open  
+	- cruise flight: open (in winter conditions - close 50% if necessary)  
+	- combat: open  
+  
+3.2 Recommended positions of cowl flaps for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 60%  
+  
+3.3 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 50%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 9.7 l/min  
+	- Combat engine mode: 11.1 l/min  
   
 ## Änderungen  
   

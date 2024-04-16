@@ -53,14 +53,14 @@ Potencia nominal (combate) - 1 h 40 min
 Consumo mínimo (crucero) - 4 h 20 min  
   
 Armamento:  
-Disparo frontal: 2 LMG 08/15 Spandau de 7,92mm, 500 balas por arma  
+Disparo frontal: 2 LMG 08/15 Spandau de 7,92 mm, 500 balas por arma  
   
 Referencias:  
 1) Albatros D.V  Windsock Datafile 3  
 2) Profile Publications The Albatros D V. Número 9  
 3) NASM Albatros D Va  
-4) Albatros Aces of World War I por Norman Franks, Osprey n.º 32  
-5) Albatros fighters in action por John F Connors.  
+4) Albatros Aces of World War I, por Norman Franks, Osprey n.º 32  
+5) Albatros fighters in action, por John F Connors.  
   
 ## Modificaciones  
   ﻿

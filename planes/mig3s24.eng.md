@@ -97,6 +97,31 @@ Operation features:
 - When bombs are installed there is a salvo controller, it has two release modes: single drop or drop two in a salvo.  
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the radiator/cowl flap control handle: close  
+	- recommended position of the prop pitch control handle:auto prop pitch control  
+	- recommended position of the throttle lever: 10%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3.1 Recommended positions of the oil radiator control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100% (winter: 50%)  
+	- cruise flight: open 50% (winter: 20%)  
+	- combat: close  
+  
+3.2 Recommended positions of the water radiator control handle for various flight modes:  
+	- takeoff: open 100% (winter: 25%)  
+	- climb: open 100% (winter: 25%)  
+	- cruise flight: open 40% (winter: 20%)  
+	- combat: open 100%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.0 l/min  
+	- Combat engine mode: 7.2 l/min  
+  
 ## Modifications  
   
   

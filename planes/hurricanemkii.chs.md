@@ -109,6 +109,25 @@ Model： Merlin XX
 —当炸弹安装时会有一个齐投控制， 他有两种模式：单投和双弹齐投。  
 —当火箭弹被安装时候会有一个火箭弹选择器，它有三种选择模式：单发，双发齐射，和四发齐射。  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: auto mixture control  
+	- recommended position of the radiator control handle: open  
+	- recommended position of the prop pitch control handle: auto prop pitch control  
+	- recommended position of the throttle lever: 15%  
+  
+2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+  
+3. Recommended positions of the radiator control handle for various flight modes:  
+	- takeoff: open 60%  
+	- climb: open 100%  
+	- cruise flight: open 40%  
+	- combat: open 80%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.0 l/min  
+	- Combat engine mode: 9.9 l/min  
+  
 ## 修改  
   
   

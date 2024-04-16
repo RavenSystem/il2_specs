@@ -93,6 +93,37 @@ Características operativas:
 - La puertas de la zona de carga solo se pueden abrir en tierra.  
 - Para el lanzamiento de los paracaidistas o el cargamento almacenado en el interior, es necesario abrir previamente la puerta lateral (botón compuerta de bombas, «N» por defecto) y después pulsar el botón de arrojar bombas («B» por defecto) para ordenar el salto o lanzamiento.  
   
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: forward  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the radiator control handle: open 50%  
+	- recommended position of the prop pitch control handle: heavy  
+	- recommended position of the throttle lever: 15%  
+	- before taxiing, you must unlock the tailwheel  
+	- before taxiing, the parking brake must be released  
+  
+2. Recommended mixture control lever positions for various flight modes:  
+	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 60%.  
+	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 40-50% position.  
+	- As you gain altitude, the altitude corrector closes.  
+  
+3.1 Recommended positions of the radiator/cowl flap control handle for various flight modes: / no control of radiators/cowl flaps  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 50% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+3.2 Recommended positions of the radiator/cowl flap control handle for various flight modes: / no control of radiators/cowl flaps  
+	- takeoff: open 50%  
+	- climb: open 100%  
+	- cruise flight: open 40% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 7.7 l/min  
+	- Combat engine mode: 9.8 l/min  
+  
 ## Modificaciones  
   ﻿
   

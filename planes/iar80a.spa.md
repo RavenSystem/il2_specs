@@ -62,7 +62,7 @@ Armamento delantero:
   
 o (modificación):  
 4 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1600 balas, 1500 balas por minuto, montadas en ala  
-2 ametralladoras de 13,2 mm «FN Browning 13.2", 300 balas, 1080 balas por minuto, montadas en ala  
+2 ametralladoras de 13,2 mm «FN Browning 13.2», 300 balas, 1080 balas por minuto, montadas en ala  
   
 o (modificación):  
 2 ametralladoras de 7,92 mm «FN Browning 7.92 mod 1938», 1400 balas, 1500 balas por minuto, montadas en ala  
@@ -81,7 +81,7 @@ Debut en combate: verano-otoño de 1941
   
 Características operativas:  
 - El avión no tiene un regulador velocidad constante de la hélice. La velocidad de giro de la hélice se controla cambiando manualmente el paso de la hélice mediante un interruptor en el panel de instrumentos («Mayús_Dcha + Apóstrofe/¡» por defecto).  
-- Debido a la ausencia de un regulador de velocidad constante de la hélice, es necesario vigilar cuidadosamente las rpm de la hélice, especialmente en un picado, debido al incremento de la velocidad de giro de la hélice durante la aceleración, que podría exceder las rpm máximas y causar un fallo del motor.  	
+- Debido a la ausencia de un regulador de velocidad constante de la hélice, es necesario vigilar cuidadosamente las rpm de la hélice, especialmente en un picado, debido al incremento de la velocidad de giro de la hélice durante la aceleración, que podría exceder las rpm máximas y causar un fallo del motor.  
 - El avión no cuenta con un indicador de temperatura de la culata, solo con un indicador de temperatura del aceite.  
 - El radiador de aceite del I.A.R. 80-A no tiene regulación (hay un segundo radiador de aceite regulable en la modificación I.A.R. 80-M).  
 - El avión cuenta con un compensador para para el «trimado» del cabeceo.  
@@ -95,6 +95,25 @@ Características operativas:
 - La mira es ajustable: tanto la distancia como la envergadura del objetivo pueden modificarse.  
 - En la versión de bombardero en picado, la inclinación de la mira es ajustable («Alt_Dcha + F» por defecto).  
 - La mira tiene un filtro solar deslizante. («Alt_Izq + F» por defecto).  
+  
+Basic data and recommended positions of the aircraft controls:  
+1. Starting the engine:  
+	- recommended position of the mixture control lever: 50% auto mixture control  
+	- recommended position of the cowl flap control handle: close  
+	- recommended position of the prop pitch control handle: heavy  
+	- recommended position of the throttle lever: 0%  
+  
+2. Recommended mixture control lever positions for various flight modes: 50% (auto mixture control)  
+  
+3. Recommended positions of the cowl flap control handle for various flight modes:  
+	- takeoff: open 100%  
+	- climb: open 100%  
+	- cruise flight: open 20% (in winter conditions - close if necessary)  
+	- combat: open 50%  
+  
+4. Approximate fuel consumption at 2000 m altitude:  
+	- Cruise engine mode: 6.9 l/min  
+	- Combat engine mode: 7.7 l/min  
   
 ## Modificaciones  
   ﻿

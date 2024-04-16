@@ -94,7 +94,7 @@ Pérdida de velocidad estimada: 7-18 km/h  ﻿
   
 ### Cohetes Le Prieur  
   
-6 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la penetración de la envoltura del globo o una granada altamente explosiva.  
+6 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la perforación de la envoltura del globo o con una granada altamente explosiva.  
 Peso adicional: 36 kg  
 Peso de munición: 12 kg  
 Peso de los soportes: 24 kg  
