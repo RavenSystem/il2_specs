@@ -4,7 +4,6 @@
   
 ## Beschreibung  
   
-  
 Überziehgeschwindigkeit in Flugkonfiguration: 63..70 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 240 km/h  
 Bruchlastvielfache: 6.5 G  

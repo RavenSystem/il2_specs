@@ -87,33 +87,33 @@ Características operativas:
 - La puertas de la zona de carga solo se pueden abrir en tierra.  
 - La puerta izquierda de pasajeros debe ser retirada antes de iniciar el vuelo para permitir el salto de paracaidistas o el lanzamiento de contenedores de carga. Usa el botón de arrojar bombas («B» por defecto) para ordenar el salto o lanzamiento.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: 100%  
-	- recommended position of the cowl flap control handle: close  
-	- recommended position of the radiator control handle: close  
-	- recommended position of the prop pitch control handle: fixed pitch  
-	- recommended position of the throttle lever: 35%  
-	- before taxiing, the parking brake must be released  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque de los motores:  
+	- palancas de control de la mezcla: 100%  
+	- aletas/persianas del carenado: cerradas  
+	- radiadores de aceite: cerrados  
+	- palancas de control del paso de las hélices: paso fijo  
+	- palancas de potencia: 35%  
+	- antes de empezar a rodar, quitar el freno de estacionamiento  
   
-2. Recommended mixture control lever positions for various flight modes:  
-	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 75%.  
-	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 80-90% position.  
-	- As you gain altitude, the altitude corrector closes.  
+2. Posición de la palanca de control de mezcla según momento de vuelo:  
+	- Cuando el motor funciona a baja potencia cerca del suelo, las palancas de control de la mezcla deben estar sobre el 75%.  
+	- Cuando el motor funciona a máxima potencia cerca del suelo, las palancas de control de la mezcla deben estar entre el 80-90%.  
+	- A medida que se gana altura, se debe ir empobreciento la mezcla.  
   
-3. Recommended positions of cowl flaps for various flight modes:  
-	- takeoff: open  
-	- cruise flight: open 50%  
-	- combat: open 50%  
+3. Posición de las aletas/persianas carenados según momento de vuelo:  
+	- despegue: abiertas  
+	- crucero: abiertas 50%  
+	- combate: abiertas 50%  
   
-3. Recommended positions of the radiator control handle for various flight modes:  
-	- takeoff: open  
-	- cruise flight: open 50%  
-	- combat: open 50%  
+3. Posición de aleta/persiana radiadores según momento de vuelo:  
+	- despegue: abiertas  
+	- crucero: abiertas 50%  
+	- combate: abiertas 50%  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 7.1 l/min  
-	- Combat engine mode: 10.6 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 7.1 l/min  
+	- Modo motor - Combate: 10.6 l/min  
   
 ## Modificaciones  
   ﻿

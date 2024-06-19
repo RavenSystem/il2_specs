@@ -95,20 +95,20 @@ Características operativas:
 - La mira giroscópica calcula automáticamente el ángulo de deflexión necesario mientras se dispara al objetivo. Tiene 4 modos: retícula fija, retícula fija y giroscópica, retícula giroscópica y retícula giroscópica con distancia al objetivo fijada en 150 yardas (modo nocturno). El ángulo de deflexión solo se calculará correctamente si la distancia al objetivo está configurada de forma adecuada. Para configurar la distancia, primero es necesario ajustar la base del objetivo usando los controles separados y después establecer la distancia ajustando el tamaño de la retícula de telemetría al mismo tamaño que el del objetivo.  
 - Ambas miras tienen filtros solares deslizantes.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: auto mixture control  
-	- recommended position of the oil radiator control handle: auto radiators control  
-	- recommended position of the prop pitch control handle: forward (auto prop pitch control)  
-	- recommended position of the throttle lever: 5%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (control de mezcla automático)  
+	- posición de los radiadores de agua y de aceite: (control radiadores automático)  
+	- palanca de control rpm de la hélice: hacia atrás (control paso hélice automático))  
+	- palanca de potencia: 5%  
   
-2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (control de mezcla automático)  
   
-3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+3. Posición de las aletas/persianas de radiadores según momento de vuelo: (control radiadores automático)  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 7.4 l/min  
-	- Combat engine mode: 12.9 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 7,4 l/min  
+	- Modo motor - Combate: 12,9 l/min  
   
 ## Modificaciones  
   ﻿

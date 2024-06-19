@@ -106,24 +106,24 @@ Características operativas:
 - El avion tiene varios interruptores para seleccionar las bombas que se lanzan, con tres posibles modos: lanzar una, lanzar dos al mismo tiempo o lanzar todas a la vez.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con dos modos disponibles: disparar dos al mismo tiempo o todos a la vez. Si los cohetes están apilados de dos en dos, montados sólamente sobre 4 lanzadores Mk.III, cuando el mando se ajusta a «RP PAIRS» (dos a la vez) se lanzarán dos cohetes de cada una de las alas (4 cohetes en total, en lugar de dos).  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: auto mixture  
-	- recommended position of the radiator: close  
-	- recommended position of the prop pitch control handle: light (100%)  
-	- recommended position of the throttle lever: 15%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (control de mezcla automático)  
+	- radiadores de agua: cerrados  
+	- palancas de control rpm de las hélices: 0%  
+	- palanca de potencia: 15%  
   
-2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (control de mezcla automático)  
   
-3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  
-	- takeoff: open  
-	- climb: open  
-	- cruise flight: close  
-	- combat: open  
+3. Posición de las aletas/persianas de los radiadores de agua según momento de vuelo:  
+	- despegue: abiertas  
+	- ascenso: abiertas  
+	- crucero: cerradas  
+	- combate: abiertas  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 11.8 l/min  
-	- Combat engine mode: 21.6 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 11,8 l/min  
+	- Modo motor - Combate: 21,6 l/min  
   
 ## Modificaciones  
   

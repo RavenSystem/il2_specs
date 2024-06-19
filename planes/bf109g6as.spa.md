@@ -121,21 +121,21 @@ Características operativas:
 - El diseño de la cubierta de la cabina no permite su apertura durante el vuelo. La cubierta debe cerrarse antes del despegue para evitar dañarla. La cubierta tiene un sistema de desbloqueo de emergencia para facilitar el salto.  
 - La mira tiene un filtro solar deslizante.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: auto mixture control  
-	- recommended position of the oil/water radiator control handle: auto radiators control  
-	- recommended position of the prop pitch control handle: auto prop pitch control  
-	- recommended position of the throttle lever: 10%  
-	- before taxiing, you must unlock the tailwheel  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (control de mezcla automático)  
+	- posición del radiador de aceite/agua: (control radiadores automático)  
+	- palanca de control del paso de la hélice: (control paso hélice automático)  
+	- palanca de potencia: 10%  
+	- antes de empezar a rodar, desbloquear rueda de cola  
   
-2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (control de mezcla automático)  
   
-3. Recommended positions of the radiators control handle for various flight modes: auto radiators control  
+3. Posición de las aletas/persianas de radiadores según momento de vuelo: (control radiadores automático)  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 5.3 l/min  
-	- Combat engine mode: 8.2 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 5,3 l/min  
+	- Modo motor - Combate: 8,2 l/min  
   
 ## Modificaciones  
   ﻿

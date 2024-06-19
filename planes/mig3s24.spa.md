@@ -97,30 +97,30 @@ Características operativas:
 - Cuando hay bombas instaladas existe un mando para seleccionar el número de bombas que se lanzan con dos posibilidades: lanzar una o lanzar dos en ráfaga.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: auto mixture control  
-	- recommended position of the radiator/cowl flap control handle: close  
-	- recommended position of the prop pitch control handle:auto prop pitch control  
-	- recommended position of the throttle lever: 10%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (control de mezcla automático)  
+	- aletas/persianas de los radiadores de agua y aceite: cerrados  
+	- palanca de control del paso de la hélice:(control paso hélice automático)  
+	- palanca de potencia: 10%  
   
-2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (control de mezcla automático)  
   
-3.1 Recommended positions of the oil radiator control handle for various flight modes:  
-	- takeoff: open 100%  
-	- climb: open 100% (winter: 50%)  
-	- cruise flight: open 50% (winter: 20%)  
-	- combat: close  
+3.1 Posición aletas del radiador de aceite según momento de vuelo:  
+	- despegue: abiertas 100%  
+	- ascenso: abiertas 100% (winter: 50%)  
+	- crucero: abiertas 50% (winter: 20%)  
+	- combate: cerradas  
   
-3.2 Recommended positions of the water radiator control handle for various flight modes:  
-	- takeoff: open 100% (winter: 25%)  
-	- climb: open 100% (winter: 25%)  
-	- cruise flight: open 40% (winter: 20%)  
-	- combat: open 100%  
+3.2 Posición aleta/persiana del radiador de agua según momento de vuelo:  
+	- despegue: abierta 100% (en condiciones invernales - abierta 25%)  
+	- ascenso: abierta 100% (en condiciones invernales - abierta 25%)  
+	- crucero: abierta 40% (en condiciones invernales - abierta 20%)  
+	- combate: abierta 100%  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 6.0 l/min  
-	- Combat engine mode: 7.2 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 6,0 l/min  
+	- Modo motor - Combate: 7,2 l/min  
   
 ## Modificaciones  
   

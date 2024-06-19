@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.203
+Version: 5.204
 
-Date: 2024-04-16
+Date: 2024-06-19
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -485,6 +485,11 @@ Date: 2024-04-16
 
 [ [chs](planes/spitfiremkxive.chs.md) ] [ [eng](planes/spitfiremkxive.eng.md) ] [ [fra](planes/spitfiremkxive.fra.md) ] [ [ger](planes/spitfiremkxive.ger.md) ] [ [rus](planes/spitfiremkxive.rus.md) ] [ [spa](planes/spitfiremkxive.spa.md) ] 
 ![spitfiremkxive](images/spitfiremkxive.png)
+
+### Ta 152 H-1  
+
+[ [chs](planes/ta152h1.chs.md) ] [ [eng](planes/ta152h1.eng.md) ] [ [fra](planes/ta152h1.fra.md) ] [ [ger](planes/ta152h1.ger.md) ] [ [rus](planes/ta152h1.rus.md) ] [ [spa](planes/ta152h1.spa.md) ] 
+![ta152h1](images/ta152h1.png)
 
 ### Tempest Mk.V ser.2  
 

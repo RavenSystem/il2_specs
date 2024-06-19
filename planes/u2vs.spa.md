@@ -100,23 +100,23 @@ Características operativas:
 - No hay ningún generador de electricidad en la configuración estándar del avión, así que tanto las luces como la lámpara del piloto (que consume hasta 226 W) son alimentados desde una batería de 24 V (con una capacidad de 10Ah y 1 A de corriente en condiciones normales). Para alimentar el radiotransmisor RSI-4, se debe instalar también un generador eléctrico GS-10-350 junto a él.  
 - Es importante tener en cuenta que con todas las modificaciones posibles instaladas y el depósito de combustible completamente lleno, el peso total del avión es de 1390 kg, superior al peso máximo al despegue.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: 100%  
-	- recommended position of the radiator/cowl flap control handle: no radiator control  
-	- recommended position of the prop pitch control handle: no prop pitch control  
-	- recommended position of the throttle lever: 20%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: 100%  
+	- aletas/persianas del radiador/carenado: fijas  
+	- palanca de control del paso de la hélice: paso fijo  
+	- palanca de potencia: 20%  
   
-2. Recommended mixture control lever positions for various flight modes:  
-	- When running the engine at low throttle near the ground, the mixture control lever should be in the position of about 50%.  
-	- When the engine is running at full throttle near the ground, the mixture control lever should be in the 75-80% position.  
-	- As you gain altitude, the altitude corrector closes.  
+2. Posición de la palanca de control de mezcla según momento de vuelo:  
+	- Cuando el motor funciona a baja potencia cerca del suelo, la palanca de control de la mezcla debe estar sobre el 50%.  
+	- Cuando el motor funciona a máxima potencia cerca del suelo, la palanca de control de la mezcla debe estar entre el 75-80%.  
+	- A medida que se gana altura, se debe ir empobreciento la mezcla.  
   
-3. Recommended positions of the radiator/cowl flap control handle for various flight modes:  no control of radiators/cowl flaps  
+3. Posición de las aletas/persianas de carenado y/o radiador según momento de vuelo:  fijas  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 0.6 l/min  
-	- Combat engine mode: 0.7 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 0,6 l/min  
+	- Modo motor - Combate: 0,7 l/min  
   
 ## Modificaciones  
   ﻿

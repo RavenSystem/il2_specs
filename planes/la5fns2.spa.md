@@ -89,36 +89,37 @@ Características operativas:
 - Además, es imposible abrir o cierrar la cubierta a altas velocidades debido al intenso flujo de aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  
 - El sistema de control del anclaje de las bombas solo permite el lanzamiento de las dos bombas a la vez.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: no mixture control  
-	- recommended position of the cowl flap control handle: open  
-	- recommended position of the radiator/cowl flap control handle: close  
-	- recommended position of the prop pitch control handle: 100%  
-	- recommended position of the throttle lever: 0%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (sin control de mezcla)  
+	- aletas/persianas del carenado: abierto  
+	- aletas/persianas del radiador/carenado: cerrado  
+	- palanca de control rpm de la hélice: 100%  
+	- palanca de potencia: 0%  
   
-2. Recommended mixture control lever positions for various flight modes: no mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (sin control de mezcla)  
   
-3.1 Recommended positions of cowl flaps for various flight modes:  
-	- takeoff: open  
-	- climb: open  
-	- cruise flight: open (in winter conditions - close 50% if necessary)  
-	- combat: open  
+3.1 Posición de las aletas/persianas de admisión del carenado según momento de vuelo:  
+	- despegue: abiertas  
+	- ascenso: abiertas  
+	- crucero: abiertas (en condiciones invernales - situar al 50% si necesario)  
+	- combate: abiertas  
   
-3.2 Recommended positions of cowl flaps for various flight modes:  
-	- takeoff: open 100%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 60%  
+3.2 Posición de las aletas/persianas de salida del carenado según momento de vuelo:  
+	- despegue: abiertas 100%  
+	- ascenso: abiertas 100%  
+	- crucero: abiertas 20% (en condiciones invernales - cerrar si necesario)  
+	- combate: abiertas 60%  
   
-3.3 Recommended positions of the oil radiator control handle for various flight modes:  
-	- takeoff: open 50%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 50%  
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 3.6 l/min  
-	- Combat engine mode: 12.3 l/min  
+3.3 Posición del radiador de aceite según momento de vuelo:  
+	- despegue: abierto 50%  
+	- ascenso: abierto 100%  
+	- crucero: abierto 20% (en condiciones invernales - cerrar si necesario)  
+	- combate: abierto 50%  
+  	
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 3,6 l/min  
+	- Modo motor - Combate: 12,3 l/min  
   
 ## Modificaciones  
   

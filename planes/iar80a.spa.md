@@ -89,6 +89,7 @@ Características operativas:
 - Los flaps son hidráulicos y se pueden ajustar a cualquier ángulo hasta 60°. No hay indicador de posición de los flaps. En la versión de bombardero en picado (I.A.R. 81), los flaps completamente bajados se utilizan como aerofreno.  
 - El avión tiene frenos de rueda neumáticos diferenciales coompartidos con un botón en la palanca de control. Si se mantiene apretado el bótón de la palanca de control con el timón en posición neutral, la dos ruedas frenan. Si se mueve el del timón a la izquierda, el freno de la rueda derecha se libera gradualmente haciendo que el avión gire a la izquierda, y viceversa.  
 - El avión tiene un indicador de combustible hidrostático que muestra el combustible total restante sólo cuando la palanca de succión manual está presionada (mantener pulsado «Mayús_Dcha + I» por defecto).  
+- Es imposible abrir o cerrar la cubierta por encima de los 250 km/h a causa de la intensidad del flujo del aire. La versión I.A.R. 80-M cuenta con un sistema de apertura neumática de emergencia que permite abrir la cubierta a velocidades superiores.  
 - Para lanzar bombas, primero es necesario activar el sistema de lanzamiento de bombas («N» por defecto). Después de lanzar bombas, el sistema debe desactivarse manualmente.  
 - Cuando se conecta el sistema de lanzamiento de bombas, los flaps se bajan completamente de forma automática acutando de aerofreno y se suben automáticamente cuando se pulsa el botón de lanzamiento de bombas o cuando se desconecta el propio sistema.  
 - El sistema de lanzamiento de bombas puede lanzar solo la bomba central o las tres bombas a la vez.  
@@ -96,24 +97,24 @@ Características operativas:
 - En la versión de bombardero en picado, la inclinación de la mira es ajustable («Alt_Dcha + F» por defecto).  
 - La mira tiene un filtro solar deslizante. («Alt_Izq + F» por defecto).  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: 50% auto mixture control  
-	- recommended position of the cowl flap control handle: close  
-	- recommended position of the prop pitch control handle: heavy  
-	- recommended position of the throttle lever: 0%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: 50% (control de mezcla automático)  
+	- aletas/persianas del carenado: cerrado  
+	- palanca de control del paso de la hélice: corto (6%)  
+	- palanca de potencia: 0%  
   
-2. Recommended mixture control lever positions for various flight modes: 50% (auto mixture control)  
+2. Posición de la palanca de control de mezcla según momento de vuelo: 50% (control de mezcla automático)  
   
-3. Recommended positions of the cowl flap control handle for various flight modes:  
-	- takeoff: open 100%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 50%  
+3. Posición de las aletas/persianas de carenado según momento de vuelo:  
+	- despegue: abierto 100%  
+	- ascenso: abierto 100%  
+	- crucero: abierto 20% (en condiciones invernales - cerrar si necesario)  
+	- combate: abierto 50%  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 6.9 l/min  
-	- Combat engine mode: 7.7 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 6,9 l/min  
+	- Modo motor - Combate: 7,7 l/min  
   
 ## Modificaciones  
   ﻿

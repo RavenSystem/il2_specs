@@ -8,7 +8,7 @@
 
 ### Composer Configuration Data
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik GB/il2_specs"
-IL2_VERSION="5.203"
+IL2_VERSION="5.204"
 ###
 
 mkdir -p "$TARGET_DIR/images"

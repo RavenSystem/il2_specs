@@ -94,7 +94,7 @@ Características operativas:
 - El motor tiene un compresor mecánico de dos etapas que debe conmutarse a 3960 m (13000 ft) de altitud.  
 - El motor cuenta con un control automático de la mezcla de combustible que la mantiene en el punto óptimo.  
 - El motor tiene un regulador automático de las rpm que controla el paso de la hélice para mantener las rpm requeridas.  
-- Las temperaturas del agua y aceite se controlan manualmente ajustando las persianas de los radiadores.  
+- Las temperaturas del agua y aceite se controlan manualmente ajustando la aleta/persiana del radiador.  
 - El avión cuenta con un indicador de combustible que muestra la cantidad de combustible remanente en los depósitos dependiendo de la posición del selector. En la simulación el selector conmuta de posición entre depósitos presionando «Mayús_Dcha + I».  
 - El avión cuenta con compensadores para los controles de vuelo de cabeceo y guiñada.  
 - Los flaps tienen un accionador hidraúlico y pueden bajarse gradualmente hasta formar un ángulo de 80°. La velocidad con los flaps bajados está limitada a 120 mph.  
@@ -108,24 +108,24 @@ Características operativas:
 - Cuando hay bombas instaladas existe un mando para seleccionar el número de bombas que se lanzan con dos posibilidades: lanzar una o lanzar dos al mismo tiempo.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos al mismo tiempo o disparar cuatro a la vez.  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: auto mixture control  
-	- recommended position of the radiator control handle: open  
-	- recommended position of the prop pitch control handle: auto prop pitch control  
-	- recommended position of the throttle lever: 15%  
+Datos básicos y configuraciones recomendadas de los controles del avión:  
+1. Arranque del motor:  
+	- palanca de control de la mezcla: (control de mezcla automático)  
+	- aleta/persiana del radiador: abierta  
+	- palanca de control del paso de la hélice: (control paso hélice automático)  
+	- palanca de potencia: 15%  
   
-2. Recommended mixture control lever positions for various flight modes: auto mixture control  
+2. Posición de la palanca de control de mezcla según momento de vuelo: (control de mezcla automático)  
   
-3. Recommended positions of the radiator control handle for various flight modes:  
-	- takeoff: open 60%  
-	- climb: open 100%  
-	- cruise flight: open 40%  
-	- combat: open 80%  
+3. Posición de aleta/persiana radiador según momento de vuelo:  
+	- despegue: abierto 60%  
+	- ascenso: abierto 100%  
+	- crucero: abierto 40%  
+	- combate: abierto 80%  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 6.0 l/min  
-	- Combat engine mode: 9.9 l/min  
+4. Consumo aproximado de combustible a 2000 m de altitud:  
+	- Modo motor - Crucero: 6,0 l/min  
+	- Modo motor - Combate: 9,9 l/min  
   
 ## Modificaciones  
   ﻿

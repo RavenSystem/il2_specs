@@ -4,7 +4,6 @@
   
 ## Description  
   
-  
 Indicated stall speed in flight configuration: 63..70 km/h  
 Dive speed limit: 240 km/h  
 Maximum load factor: 6.5 G  
