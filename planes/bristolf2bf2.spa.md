@@ -66,8 +66,8 @@ Consumo mínimo — 4 h 50 min
   
 Armamento:  
 Disparo frontal: 1 Vickers Mk.I de 7,69 mm, 973 balas  
-Artillero de cola: 2 Lewis de 7,69 mm, 8 tambores con 97 balas cada uno  
-Total de 1749 balas de 7,69 mm  
+Artillero de cola: 1 Lewis de 7,69 mm, 7 tambores con 97 balas cada uno  
+Total de 1652 balas de 7,69 mm  
   
 Variaciones en la carga de bombas:  
 12 bombas de 24 lb (131 kg)  

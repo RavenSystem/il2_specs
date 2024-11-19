@@ -65,8 +65,8 @@ Minimaler Verbrauch     — 4 Std. 50 Min.
   
 Bewaffnung:  
 Starre Bewaffnung nach vorne: 1 x Vickers Mk.I 7,69 mm, 973 Schuss pro Magazin.  
-Heckschützenposition: 2 x Lewis 7,69 mm, 8 Trommeln mit jeweils 97 Schuss.  
-1749 Schuss 7,69 mm insgesammt.  
+Heckschützenposition: 1 x Lewis 7,69 mm, 7 Trommeln mit jeweils 97 Schuss.  
+1652 Schuss 7,69 mm insgesammt.  
   
 Bombenzuladungsmöglichkeiten:  
 12 x 24 lb (131 kg)  

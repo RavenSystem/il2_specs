@@ -68,8 +68,8 @@ consommation minimale — 5 h. 10 min.
   
 Armement:  
 Armes fixees: 1 x Vickers Mk.I 7,69 mm, 973 cartouches par baril.  
-Poste de tir arriere: 2 x Lewis 7,69 mm, 8 chargeurs de 97 coups  
-Soit un total de 1749 cartouches de 7,69 mm  
+Poste de tir arriere: 1 x Lewis 7,69 mm, 7 chargeurs de 97 coups  
+Soit un total de 1652 cartouches de 7,69 mm  
   
 Configurations possibles d\emport offensif:  
 12 x 24 lb (131 kg)  

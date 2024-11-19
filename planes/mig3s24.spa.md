@@ -45,6 +45,15 @@ Modos de funcionamiento motor:
 Continuo (sin límite de tiempo): 2050 rpm, 1040 mmHg  
 Impulso (hasta 10 minutos): 2050 rpm, 1240 mmHg  
   
+Modelo: AM-38  
+Potencia máxima en modo Impulso al nivel del mar: 1600 CV  
+Potencia máxima en modo Continuo al nivel del mar: 1500 CV  
+Potencia máxima en modo Continuo a 1650 m: 1500 CV  
+  
+Modos de funcionamiento motor:  
+Continuo (sin límite de tiempo): 2050 rpm, 1180 mmHg  
+Impulso (hasta 10 minutos): 2150 rpm, 1280 mmHg  
+  
 Temperatura nominal del agua en la salida del motor: 80..110 °C  
 Temperatura máxima del agua en la salida del motor: 120 °C  
 Temperatura nominal del aceite en la admisión del motor: 40..80 °C  
@@ -96,6 +105,7 @@ Características operativas:
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  
 - Cuando hay bombas instaladas existe un mando para seleccionar el número de bombas que se lanzan con dos posibilidades: lanzar una o lanzar dos en ráfaga.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.  
+- El motor A-38 (modificación) tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
   
 Datos básicos y configuraciones recomendadas de los controles del avión:  
 1. Arranque del motor:  
@@ -123,7 +133,13 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Combate: 7,2 l/min  
   
 ## Modificaciones  
+  ﻿
   
+### Motor AM-38  
+  
+El motor A-38 tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
+Ganancia de velocidad estimada: 60 km/h  
+Ganancia tasa de ascenso estimada: 3 m/s  
   
 ### 2 ametralladoras BK de 12,7 mm   
   

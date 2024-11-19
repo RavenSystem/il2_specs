@@ -45,6 +45,15 @@ Performance du moteur :
 Continu (durée illimitée) : 2050 tr/min, 1040 mmHg  
 Surpuissance (jusqu\à 10 minutes) : 2050 tr/min, 1240 mmHg  
   
+Modèle : AM-38  
+Puissance maximale en surpuissance au niveau de la mer : 1600 cv  
+Puissance maximale au régime continu au niveau de la mer : 1500 cv  
+Puissance maximale au régime continu à 1650 m : 1500 cv  
+  
+Performance du moteur :  
+Continu (durée illimitée) : 2050 tr/min, 1180 mmHg  
+Surpuissance (jusqu\à 10 minutes) : 2150 tr/min, 1280 mmHg  
+  
 Température de fonctionnement d\eau en sortie du moteur : 80..110 °C  
 Température maximale d\eau en sortie du moteur : 120 °C  
 Température de fonctionnement d\huile à l\admission du moteur : 40..80 °C  
@@ -96,6 +105,7 @@ Caractéristiques
 - Il est impossible d\ouvrir ou de fermer la verrière à grande vitesse en raison d\un fort flux d\air La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.  
 - Quand des bombes sont installées, il y a un sélecteur de mode largage, qui permet de choisir un largage unitaire ou par deux.  
 - Quand des roquettes sont installées, il y a un sélecteur de mode tir, qui permet de choisir un tir unitaire, par deux ou par quatre.  
+- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
@@ -124,6 +134,12 @@ Basic data and recommended positions of the aircraft controls:
   
 ## Modifications  
   ﻿
+  
+### AM-38 Engine  
+  
+The AM-38 engine modification provides more power than the AM-35A model below 4 km altitude, but exceeds the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+Estimated speed gain: 60 km/h.  
+Estimated climb rate gain: 3 m/s.  ﻿
   
   
 ### 2 BK de 12,7 mm en nacelles  

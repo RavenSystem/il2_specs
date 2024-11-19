@@ -62,7 +62,7 @@
 有效载荷：896 kg  
   
 前射武器：  
-2 x 20mm机炮"SsVAK"，170发，800发/分，同步  
+2 x 20mm机炮"施瓦克"，备弹每门170发，射速800发/分  
   
 炸弹：  
 2 x 50kg 通用炸弹"FAB-50sv"  
@@ -75,50 +75,50 @@
 首次投入战斗：1943年6月  
   
 操作特性：  
-—该发动机具有加力模式。要启用，增大进气压力到1180 mm Hg。加力仅在一级增压上有效。  
+—该发动机具有加力模式。启用加力需增大进气压力到1180 mm Hg。加力仅在一级增压上有效。  
 —发动机为二级机械增压，需3500m高度时手动切换。  
 —发动机转速有自动调节器，其根据调节器控制杆位置保持对应的需用转速。调节器自动控制螺旋桨桨距来保持需用转速。  
-—滑油散热器、风冷进气口和出气口叶片为手动控制。  
-—空气进气道风门应该时刻保持开放。除非发动机有可能发生过冷停车，比如在收油到慢车俯冲时，空气进气道风门才应关闭。  
+—滑油散热器、风冷散热器进气口和出气口为手动控制。  
+—散热器进气口应该时刻保持开放除非发动机有可能发生过冷停车，比如在收节流阀到慢车俯冲时，散热器进气口才应关闭。  
 —飞机装备有升降舵和方向舵配平。  
-—飞机有自动缝翼。当大迎角继续增大时会自动展开，使失速前状态更柔和。  
+—飞机有自动缝翼。当攻角持续增大时会自动展开，使失速前的操纵更柔和。  
 —着陆襟翼由液压机构控制，可展开至0-60°之间的任意角度。  
-—飞机尾轮自由旋转，没有锁。因此，在起飞和着陆时必须自信而准确地操作方向舵脚蹬。  
-—飞机有共用一个控制杆的差动气压机轮刹车。这意味着捏住刹车踩舵，反向一侧的机轮刹车会逐渐释放，导致飞机转向踩舵一侧。  
+—该机没有配备尾轮锁。因此在起飞和着陆时需注意操作方向舵控制偏航。  
+—飞机有共用一个控制杆的差动气压机轮刹车。捏住刹车踩舵，反向一侧的机轮刹车会逐渐释放，导致飞机转向踩舵一侧。  
 —飞机有油量表显示剩余的总油量。  
-—由于强气流，座舱盖也无法在高速时开闭。座舱盖只能应急抛弃，所以跳伞之前需先减速。  
+—座舱盖无法在高速时开闭。座舱盖只能应急抛弃，所以跳伞之前需先减速。  
 —炸弹挂架的控制系统只允许单颗投放。  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: no mixture control  
-	- recommended position of the cowl flap control handle: open  
-	- recommended position of the radiator/cowl flap control handle: close  
-	- recommended position of the prop pitch control handle: 100%  
-	- recommended position of the throttle lever: 0%  
+基本飞行参数和推荐:  
+1. 发动机启机:  
+	- 推荐油气混合比: 无混合比控制  
+	- 推荐散热器出风口龙鳞片位置: 开启  
+	- 推荐散热器位置: 关闭  
+	- 推荐发动机转速: 100%  
+	- 推荐节流阀位置: 0%  
   
-2. Recommended mixture control lever positions for various flight modes: no mixture control  
+2. 各种工况下的油气混合比推荐位置: 无混合比控制  
   
-3.1 Recommended positions of cowl flaps for various flight modes:  
-	- takeoff: open  
-	- climb: open  
-	- cruise flight: open (in winter conditions - close 50% if necessary)  
-	- combat: open  
+3.1 各种工况下的散热器出风口龙鳞片推荐位置:  
+	- 起飞: 开启  
+	- 爬升: 开启  
+	- 巡航: 开启(冬季时如有必要可调整至百分之50避免发动机过冷)  
+	- 战斗: 开启  
   
-3.2 Recommended positions of cowl flaps for various flight modes:  
-	- takeoff: open 100%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 60%  
+3.2 各种工况下的散热器出风口龙鳞片推荐位置:  
+	- 起飞: 开启 100%  
+	- 爬升: 开启 100%  
+	- 巡航: 开启 20%(冬季时如有必要可关闭)  
+	- 战斗: 开启 60%  
   
-3.3 Recommended positions of the oil radiator control handle for various flight modes:  
-	- takeoff: open 50%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 50%  
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 3.6 l/min  
-	- Combat engine mode: 12.3 l/min  
+3.3 各种工况下的滑油散热器推荐位置:  
+	- 起飞: 开启 50%  
+	- 爬升: 开启 100%  
+	- 巡航: 开启 20%(冬季时如有必要可关闭)  
+	- 战斗: 开启 50%  
+4.  海拔2000米飞行时的大致油耗:  
+	- 发动机巡航模式: 3.6 升/min  
+	- 发动机战斗模式: 12.3 升/min  
   
 ## 修改  
   
@@ -157,8 +157,8 @@ Basic data and recommended positions of the aircraft controls:
 增加质量：1 kg  
 预期速度损失：0 km/h  
   
-### RPK-10 无线电罗盘  
+### RPK-10 无线电归航指示仪  
   
-用于无线电信标导航的固定环形无线电罗盘  
+无线电归航指示仪  
 增加质量：10 kg  
 预期速度损失：0 km/h  

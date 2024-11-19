@@ -14,7 +14,7 @@
 着陆速度：81~106 km/h  
 着陆迎角：8.0°  
   
-Optimal descent speed on glideslope: 2 m/s  
+下滑道上的最佳下降速度：2 m/s  
   
 注1：所提供的数据适用于国际标准大气（ISA）。  
 注2：飞行性能范围基于可能的飞机质量范围。  
@@ -32,12 +32,12 @@ Optimal descent speed on glideslope: 2 m/s
 首次投入战斗：1943年7月  
   
 操作特性：  
-- The glider is equipped with a towing mechanism with a detachable cable. The cable could be released upon command from the glider pilot, or from the pilot of the towing aircraft (by default, LShift+D).  
-- The airframe has interceptor spoilers with a manual mechanical drive, which, when released (by default, RAlt+B), reduce the lift of the wing and increase the drag, thereby shortening the glide path.  
-- The front part of the glider is a crew cabin, which on the ground can be tilted upward for loading and unloading cargo or troops.  
-- The aircraft has independent left and right pneumatic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
-- The airplane tailwheel rotates freely and does not have a lock.  
-- To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).  
+- 滑翔机配备有可主动/被动释放的牵引绳，牵引绳可由滑翔机飞行员或牵引机飞行员操作释放。 (默认按键 LShift+D).  
+- 滑翔机带有手动机械操纵的减速板，当减速板升起时(默认按键RAlt+B)将降低滑翔机的升力并增加阻力从而缩短滑翔距离。  
+- 滑翔机的前部是载员舱，降落后机头可向上升起以卸下货物与人员。  
+- 滑翔机具有独立的左右气动刹车，可使用脚舵踏板独立操控。  
+- 滑翔机没有尾轮锁，尾轮可以自由旋转。  
+- 滑翔机可安装减速伞以缩短着陆滑行距离，减速伞开启的最大速度(LAlt + D)为225km/h，着陆后减速伞应被抛弃(LAlt + D)。  
   
 ## 修改  
   
@@ -61,7 +61,7 @@ Optimal descent speed on glideslope: 2 m/s
 增加质量：1415 kg  
   
   
-### Willys MB  
+### 威利斯MB吉普车  
   
-Willys MB 1⁄4 ton 4x4 utility truck  
+威利斯MB1⁄4吨4x4吉普车  
 Additional mass: 1630 kg  

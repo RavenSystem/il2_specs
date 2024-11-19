@@ -45,6 +45,15 @@
 标称（无时间限制）：2050 RPM，1040 mm Hg  
 加力动力（不超过10min）：2050 RPM，1240 mm Hg  
   
+型号：AM-38  
+海平面加力模式下的最大功率：1600 HP  
+海平面标称动力模式下的最大功率：1500 HP  
+标称模式下的最大功率，高度1650m：1500 HP  
+  
+发动机模式：  
+标称（无时间限制）：2050 RPM，1180 mm Hg  
+加力动力（不超过10min）：2150 RPM，1280 mm Hg  
+  
 发动机液冷出水口额定水温：80~110 °C  
 发动机液冷出水口最高水温：120 °C  
 发动机滑油进油口额定油温：40~80 °C  
@@ -96,6 +105,7 @@
 —由于强气流，高速时无法开闭座舱盖。座舱盖只能应急抛弃，所以跳伞之前需先减速。  
 —当炸弹被安装上后会有一个齐投控制功能，它有两种模式：单投和双弹齐投。  
 —当火箭弹被安装上后会有一个齐射控制功能，它有三种发射模式：单发，双发齐射，和四发齐射。  
+- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
@@ -124,6 +134,12 @@ Basic data and recommended positions of the aircraft controls:
   
 ## 修改  
   
+  
+### AM-38 Engine  
+  
+The AM-38 engine modification provides more power than the AM-35A model below 4 km altitude, but exceeds the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+Estimated speed gain: 60 km/h.  
+Estimated climb rate gain: 3 m/s.  
   
 ### 2 x 12.7mm BK机枪吊舱  
   

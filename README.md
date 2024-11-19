@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.204
+Version: 5.504
 
-Date: 2024-06-19
+Date: 2024-11-19
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -16,6 +16,11 @@ Date: 2024-06-19
 [ [chs](planes/a20b.chs.md) ] [ [eng](planes/a20b.eng.md) ] [ [fra](planes/a20b.fra.md) ] [ [ger](planes/a20b.ger.md) ] [ [rus](planes/a20b.rus.md) ] [ [spa](planes/a20b.spa.md) ] 
 ![a20b](images/a20b.png)
 
+### Airco D.H.2  
+
+[ [chs](planes/aircodh2.chs.md) ] [ [eng](planes/aircodh2.eng.md) ] [ [fra](planes/aircodh2.fra.md) ] [ [ger](planes/aircodh2.ger.md) ] [ [rus](planes/aircodh2.rus.md) ] [ [spa](planes/aircodh2.spa.md) ] 
+![aircodh2](images/aircodh2.png)
+
 ### Airco D.H.4  
 
 [ [chs](planes/aircodh4.chs.md) ] [ [eng](planes/aircodh4.eng.md) ] [ [fra](planes/aircodh4.fra.md) ] [ [ger](planes/aircodh4.ger.md) ] [ [rus](planes/aircodh4.rus.md) ] [ [spa](planes/aircodh4.spa.md) ] 
@@ -25,6 +30,11 @@ Date: 2024-06-19
 
 [ [chs](planes/albatrosd2.chs.md) ] [ [eng](planes/albatrosd2.eng.md) ] [ [fra](planes/albatrosd2.fra.md) ] [ [ger](planes/albatrosd2.ger.md) ] [ [rus](planes/albatrosd2.rus.md) ] [ [spa](planes/albatrosd2.spa.md) ] 
 ![albatrosd2](images/albatrosd2.png)
+
+### Albatros D.III  
+
+[ [chs](planes/albatrosd3.chs.md) ] [ [eng](planes/albatrosd3.eng.md) ] [ [fra](planes/albatrosd3.fra.md) ] [ [ger](planes/albatrosd3.ger.md) ] [ [rus](planes/albatrosd3.rus.md) ] [ [spa](planes/albatrosd3.spa.md) ] 
+![albatrosd3](images/albatrosd3.png)
 
 ### Albatros D.Va  
 
@@ -160,6 +170,11 @@ Date: 2024-06-19
 
 [ [chs](planes/fokkerdr1.chs.md) ] [ [eng](planes/fokkerdr1.eng.md) ] [ [fra](planes/fokkerdr1.fra.md) ] [ [ger](planes/fokkerdr1.ger.md) ] [ [rus](planes/fokkerdr1.rus.md) ] [ [spa](planes/fokkerdr1.spa.md) ] 
 ![fokkerdr1](images/fokkerdr1.png)
+
+### Fokker E.III  
+
+[ [chs](planes/fokkere3.chs.md) ] [ [eng](planes/fokkere3.eng.md) ] [ [fra](planes/fokkere3.fra.md) ] [ [ger](planes/fokkere3.ger.md) ] [ [rus](planes/fokkere3.rus.md) ] [ [spa](planes/fokkere3.spa.md) ] 
+![fokkere3](images/fokkere3.png)
 
 ### Fw 190 A-3  
 
@@ -416,6 +431,11 @@ Date: 2024-06-19
 [ [chs](planes/re8.chs.md) ] [ [eng](planes/re8.eng.md) ] [ [fra](planes/re8.fra.md) ] [ [ger](planes/re8.ger.md) ] [ [rus](planes/re8.rus.md) ] [ [spa](planes/re8.spa.md) ] 
 ![re8](images/re8.png)
 
+### Roland C.IIa  
+
+[ [chs](planes/rolandc2a.chs.md) ] [ [eng](planes/rolandc2a.eng.md) ] [ [fra](planes/rolandc2a.fra.md) ] [ [ger](planes/rolandc2a.ger.md) ] [ [rus](planes/rolandc2a.rus.md) ] [ [spa](planes/rolandc2a.spa.md) ] 
+![rolandc2a](images/rolandc2a.png)
+
 ### SSW D.IV  
 
 [ [chs](planes/schuckertdiv.chs.md) ] [ [eng](planes/schuckertdiv.eng.md) ] [ [fra](planes/schuckertdiv.fra.md) ] [ [ger](planes/schuckertdiv.ger.md) ] [ [rus](planes/schuckertdiv.rus.md) ] [ [spa](planes/schuckertdiv.spa.md) ] 
@@ -436,10 +456,25 @@ Date: 2024-06-19
 [ [chs](planes/sopdolphin.chs.md) ] [ [eng](planes/sopdolphin.eng.md) ] [ [fra](planes/sopdolphin.fra.md) ] [ [ger](planes/sopdolphin.ger.md) ] [ [rus](planes/sopdolphin.rus.md) ] [ [spa](planes/sopdolphin.spa.md) ] 
 ![sopdolphin](images/sopdolphin.png)
 
+### Sopwith Pup  
+
+[ [chs](planes/soppup.chs.md) ] [ [eng](planes/soppup.eng.md) ] [ [fra](planes/soppup.fra.md) ] [ [ger](planes/soppup.ger.md) ] [ [rus](planes/soppup.rus.md) ] [ [spa](planes/soppup.spa.md) ] 
+![soppup](images/soppup.png)
+
 ### Sopwith Snipe  
 
 [ [chs](planes/sopsnipe.chs.md) ] [ [eng](planes/sopsnipe.eng.md) ] [ [fra](planes/sopsnipe.fra.md) ] [ [ger](planes/sopsnipe.ger.md) ] [ [rus](planes/sopsnipe.rus.md) ] [ [spa](planes/sopsnipe.spa.md) ] 
 ![sopsnipe](images/sopsnipe.png)
+
+### Sopwith 1½ Strutter  
+
+[ [chs](planes/sopstrutter.chs.md) ] [ [eng](planes/sopstrutter.eng.md) ] [ [fra](planes/sopstrutter.fra.md) ] [ [ger](planes/sopstrutter.ger.md) ] [ [rus](planes/sopstrutter.rus.md) ] [ [spa](planes/sopstrutter.spa.md) ] 
+![sopstrutter](images/sopstrutter.png)
+
+### Sopwith 1½ Strutter B  
+
+[ [chs](planes/sopstrutterb.chs.md) ] [ [eng](planes/sopstrutterb.eng.md) ] [ [fra](planes/sopstrutterb.fra.md) ] [ [ger](planes/sopstrutterb.ger.md) ] [ [rus](planes/sopstrutterb.rus.md) ] [ [spa](planes/sopstrutterb.spa.md) ] 
+![sopstrutterb](images/sopstrutterb.png)
 
 ### Sopwith Triplane  
 

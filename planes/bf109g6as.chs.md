@@ -140,22 +140,22 @@ Basic data and recommended positions of the aircraft controls:
 ## 修改  
   
   
-### DB-605ASM engine  
+### DB-605ASM 发动机  
   
-DB-605ASM engine with C3 fuel and MW-50 System tank (empty)  
+换装DB-605ASM发动机并配备C3燃料和MW-50加力系统燃料箱  
 增加质量: 21 kg  
 预期海平面时速增加: 43 km/h  
   
   
-### MW-50 Mixture  
+### MW-50加力系统  
   
-MW-50 water-methanol mixture injection increases engine endurance at emergency power modes  
+配备MW-50甲醇-水混合加力系统，提升发动机在紧急模式下的动力  
 增加质量: 63 kg  
   
   
 ### 21cm火箭弹  
   
-两枚位于可抛弃发射管里的WGr.21火箭弹  
+装载两枚置于可抛弃发射管里的WGr.21火箭弹  
 增加质量：258 kg  
 弹药质量：224 kg  
 挂架质量：34 kg  
@@ -165,7 +165,7 @@ MW-50 water-methanol mixture injection increases engine endurance at emergency p
   
 ### 2 x 20mm MG 151/20机炮吊舱  
   
-机翼吊舱MG 151/20 20mm机炮，每门备弹135发  
+机翼挂载吊舱MG 151/20 20mm机炮，每门备弹135发  
 增加质量：212 kg  
 弹药质量：55 kg  
 枪炮质量：157 kg  
@@ -173,7 +173,7 @@ MW-50 water-methanol mixture injection increases engine endurance at emergency p
   
 ### 30mm MK 108机炮  
   
-MK 108 30mm头部机炮，备弹65发  
+机鼻换装MK 108 30mm机炮，备弹65发  
 增加质量：4 kg  
 弹药质量：38 kg  
 枪炮质量：58 kg  
@@ -181,7 +181,7 @@ MK 108 30mm头部机炮，备弹65发
   
 ### MW-50系统  
   
-MW-50水-甲醇混合物喷射系统  
+MW-50甲醇-水混合加力系统  
 增加质量: 84 kg  
 水-甲醇混合物质量: 63 kg  
 预期海平面时速增加: 45 km/h  
@@ -189,7 +189,7 @@ MW-50水-甲醇混合物喷射系统
   
 ### SC 250炸弹  
   
-249kg 通用炸弹SC 250  
+挂载249kg 通用炸弹SC 250  
 增加质量：279 kg  
 弹药质量：249 kg  
 挂架质量：30 kg  

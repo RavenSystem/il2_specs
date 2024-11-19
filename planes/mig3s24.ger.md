@@ -45,6 +45,15 @@ Leistungsstufen:
 Nennleistung (unbegrenzt): 2050 U/min, 1040 mm Hg  
 Startleistung (bis zu 10 Minuten): 2050 U/min, 1240 mm Hg  
   
+Baumuster: AM-38  
+Startleistung in Bodennähe: 1600 PS  
+Nennleistung in Bodennähe: 1500 PS  
+Nennleistung in 1650 m Höhe: 1500 PS  
+  
+Leistungsstufen:  
+Nennleistung (unbegrenzt): 2050 U/min, 1180 mm Hg  
+Startleistung (bis zu 10 Minuten): 2150 U/min, 1280 mm Hg  
+  
 Kühlstoffaustrittstemperatur (normal): 80..110 °C  
 Kühlstoffaustrittstemperatur (höchstens): 120 °C  
 Schmierstoffeintrittstemperatur (normal): 40..80 °C  
@@ -96,6 +105,7 @@ Eigenschaften:
 - Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
 - Wenn Bomben installiert sind, gibt es eine Steuerung für die Salven. Es gibt zwei Abwurfarten: einzeln oder zwei in einer Salve.   
 - Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.  
+- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
@@ -124,6 +134,12 @@ Basic data and recommended positions of the aircraft controls:
   
 ## Änderungen  
   ﻿
+  
+### AM-38 Engine  
+  
+The AM-38 engine modification provides more power than the AM-35A model below 4 km altitude, but exceeds the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+Estimated speed gain: 60 km/h.  
+Estimated climb rate gain: 3 m/s.  ﻿
   
   
 ### 2 x 12.7 mm BK in Geschützbehältern  

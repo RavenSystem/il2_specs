@@ -39,14 +39,14 @@
   
 发动机：  
 型号：I.A.R. 14 K. IV. C-32  
-Maximum power in Emergency mode at sea level: 1050 HP  
-Maximum power in Emergency mode at 2700 m: 1100 HP  
-Maximum power in Nominal mode at sea level: 930 HP  
-Maximum power in Nominal mode at 3200 m: 1000 HP  
+应急模式下的最大功率，高度海平面: 1050 HP  
+应急模式下的最大功率，高度2700米: 1100 HP  
+标称模式下的最大功率，高度海平面: 930 HP  
+标称模式下的最大功率，高度3200米: 1000 HP  
   
 发动机模式：  
-Nominal (unlimited time): 2300 RPM, 850 mm Hg  
-Emergency (up to 3 minutes): 2300 RPM, 935 mm Hg  
+标称（无时间限制）: 2300 RPM, 850 mm Hg  
+加力动力（不超过3min）: 2300 RPM, 935 mm Hg  
   
 发动机滑油出油口额定油温：40~110 °C  
 发动机滑油出油口最高油温：120 °C  
@@ -59,90 +59,86 @@ Emergency (up to 3 minutes): 2300 RPM, 935 mm Hg
 有效载荷：1050 kg  
   
 前射武器：  
-6 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 2400 rounds, 1500 rounds per minute, wing-mounted  
+6 x 7.92mm机枪"1938型FN勃朗宁7.92mm机枪"，备弹2400发，射速1500RPM，机翼挂载  
   
-or (modification):  
-4 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 1600 rounds, 1500 rounds per minute, wing-mounted  
-2 x 13.2mm machine gun "FN Browning 13.2", 300 rounds, 1080 rounds per minute, wing-mounted  	
-or (modification):  
+或 (改装件):  
+4 x 7.92mm机枪 "1938型FN勃朗宁7.92mm机枪", 备弹1600发, 射速1500RPM, 机翼挂载  
+2 x 13.2mm机枪 "FN勃朗宁13.2mm机枪", 备弹300发, 射速1080RPM,  机翼挂载  	
   
-2 x 7.92mm machine gun "FN Browning 7.92 mod 1938", 1400 rounds, 1500 rounds per minute, wing-mounted  
-2 x 20mm gun "MG 151/20", 350 rounds, 700 rounds per minute, wing-mounted  
+或 (改装件):  
+2 x 7.92mm机枪 "1938型FN勃朗宁7.92mm机枪", 备弹1400发, 射速1500RPM, 机翼挂载  
+2 x 20mm机炮"MG 151/20", 备弹350发, 射速700RPM, 机翼挂载  
   
-炸弹 (modification)：  
+炸弹 (改装件)：  
 最多2 x 55 kg杀伤炸弹"SC 50"  
 249kg 通用炸弹"SC 250"  
   
   
 火箭弹：  
-两枚位于可抛弃发射管里的WGr.21火箭弹  
+两枚置于可抛弃发射管里的WGr.21火箭弹  
 26 x R4M火箭弹  
   
 长度：8.9 m  
 翼展：10.5 m  
 机翼面积：16.1 m²  
   
-首次投入战斗：Summer-Autumn 1941  
+首次投入战斗：1941年夏季-秋季  
   
 操作特性：  
-- The aircraft has no constant propeller governor. The propeller speed is controlled by manually changing the propeller pitch using a switch on the instrument board (default propeller pitch commands in the sim are [RShift + +/-]).  
-- Due to the absence of a constant propeller speed governor, it is necessary to carefully monitor the propeller RPM, especially in a dive - due to the spinning up of the propeller during acceleration, it is possible to exceed the maximum RPM and cause an engine failure.  
-- The aircraft has no cylinder head temperature gauge - only an oil temperature gauge.  
-- The oil radiator of the I.A.R. 80-A has no regulation (there is a second adjustable oil radiator on I.A.R. 80-M modification).  
-- The aircraft is equipped with elevator trimmer.  
-- Mixture control is automated, the automatic regulator maintains the set mixture composition and automatically enriches the mixture at low and full throttle. The optimum mixture is set by the centre position of the control lever.  
-- The flaps are hydraulic and can be set to any angle up to 60°. In the dive bomber version, the fully released flaps are used as air brake. There is no flap position indicator.  
-- The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
-- The aircraft has a hydrostatic fuel gauge which shows total fuel remaining only when manual sucker lever is pushed in. In the sim, hold [RShift+I by default].  
-- It is impossible to open or close the canopy at high speed (more than 250 km/h) due to strong airflow. The I.A.R. 80-M series canopy has an emergency pneumatic opening system for bailouts.  
-- To drop bombs, you must switch on the bomb releasel system first [N key]. After dropping bombs, the system should be manually deactivated.  
-- When the bomb release system is switched on, the flaps are automatically fully released as an air brake and retract automatically either when the bomb release button is pressed or when the system is switched off.  
-- The bomb release system can either drop only the central bomb or all three bombs at once.  
-- The gunsight is adjustable: both the target distance and target base can be set.  
-- In the dive bomber version, the tilt of the gunsight is adjustable [RAlt + F by default].  
-- The gunsight has a sliding sun-filter [LAlt + F by default].  
+- 该飞机没有桨距自动控制器，需要手动改变螺旋桨桨距来获得所需的螺旋桨转速。（默认按键RShift + +/-）。  
+- 由于没有桨距自动控制器，该飞机需要时刻关注螺旋桨转速特别是在俯冲加速时螺旋桨转速可能超过最大转速导致发动机故障。  
+- 该飞机没有气缸盖温度计，只有油温计。  
+- I.A.R 80-A的滑油散热器无法调节开度。（I.A.R 80-M改装件安装后可调节）  
+- 该飞机配备有升降舵配平。  
+- 该飞机的油气混合比自动控制，并在低节流阀和全节流阀的情况下自动调节至富油。最佳油气混合比由控制杆的中心位置决定。  
+- 该机襟翼由液压控制，可以设置到从0°到60°的任意位置。该机作为俯冲轰炸机使用时襟翼被用作减速板。该机没有襟翼位置指示器。  
+- 该机配有差动气动轮制动器，由同一控制杆操控。握住刹车杆并踩下方向舵踏板，反向的机轮制动器会逐渐松开，导致飞机向一侧偏航。  
+- 该机配备一个液压油量表，在手动操控抽油杆时显示当前剩余的总燃油量。（默认按键RShift+I）  
+- 该机无法在250km/h以上开启或关闭座舱盖。I.A.R 80-M配备了座舱盖紧急抛离装置用于飞行员在紧急状态下逃生。  
+- 该机投掷炸弹前需启动炸弹投掷系统（N键），投掷炸弹后应手动关闭该系统。  
+- 炸弹投掷系统被启动时，襟翼自动完全伸出并在炸弹投下后或关闭炸弹投掷系统时自动收回。  
+- 炸弹投掷系统可以只投掷机腹挂载的炸弹也可以同时投掷挂载的3颗炸弹。  
+- 该机的瞄具可以调节目标距离和目标大小。  
+- 在用作俯冲轰炸机时该机的瞄具可进行倾斜度调节。（默认按键RAlt + F）  
+- 该机瞄具配备有滑动式滤光片（默认按键LAlt+F）。  
   
-Basic data and recommended positions of the aircraft controls:  
-1. Starting the engine:  
-	- recommended position of the mixture control lever: 50% auto mixture control  
-	- recommended position of the cowl flap control handle: close  
-	- recommended position of the prop pitch control handle: heavy  
-	- recommended position of the throttle lever: 0%  
+基本飞行参数和推荐:  
+1. 发动机启机:  
+	- 推荐油气混合比: 50% 自动混合比控制  
+	- 推荐散热器出风口龙鳞片位置: 关闭  
+	- 推荐桨距位置：重  
+	- 推荐节流阀位置：0%  
   
-2. Recommended mixture control lever positions for various flight modes: 50% (auto mixture control)  
+2. 各种工况下的油气混合比推荐位置: 50% (自动混合比控制)  
   
-3. Recommended positions of the cowl flap control handle for various flight modes:  
-	- takeoff: open 100%  
-	- climb: open 100%  
-	- cruise flight: open 20% (in winter conditions - close if necessary)  
-	- combat: open 50%  
+3. 各种工况下的散热器出风口龙鳞片推荐位置:  
+	- 起飞: 100%  
+	- 爬升: 100%  
+	- 巡航: 20% (如有需要可以关闭-取决于水温情况)  
+	- 战斗: 50%  
   
-4. Approximate fuel consumption at 2000 m altitude:  
-	- Cruise engine mode: 6.9 l/min  
-	- Combat engine mode: 7.7 l/min  
+4. 海拔2000米飞行时的大致油耗:  
+	- 发动机巡航模式: 6.9 升/min  
+	- 发动机战斗模式: 7.7 升/min  
   
 ## 修改  
   
   
-### I.A.R.80-B series 181-200  
+### I.A.R.80-B 181-200批次  
   
-Two 7.92mm MGs replaced by 13.2mm ones,  
-new headrest, sturdier flaps.  
+该批次将原有的机枪其中两挺7.92mm机枪被替换成13.2mm机枪，并更换了新型头枕和更坚固的襟翼。  
 增加质量： 14.7 kg  
 预期速度损失： 1 km/h  
   
 ### I.A.R.80-M  
   
-Armament changed to two 7.92mm MGs and two 20mm MG151/20 guns,  
-tail struts, new air filter, second oil radiator,  
-late type headrest, sturdier fuselage and flaps.  
+该改型的武装被更换成两挺7.92mm机枪和两门MG151/20机炮，并更换了新型尾撑，新的空气滤清器，新滑油散热器，新型头枕，且机身和襟翼被加固。  
 增加质量： 62.2 kg  
 预期速度损失： 9 km/h  
   
-### I.A.R.81 series 151-175  
+### I.A.R.81 151-175批次（俯冲轰炸型）  
   
-Centerline (249 kg SC 250) and underwing bombs (two 55 kg SC 50),  
-tail struts, sturdier flaps.  
+机腹可挂载一枚SC250通用炸弹，同时机翼下可挂载两枚SC50通用炸弹。更换了尾撑和更坚固的襟翼。  
 增加质量： 378.7 kg  
 弹药质量： 358.7 kg  
 挂架质量： 20.0 kg  
