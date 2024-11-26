@@ -21,6 +21,8 @@ Surface d\\aile: 18.2 sq.m
 Poids  
 Poids à vide weight: 406.9 kg  
 Poids au décollage weight: 612.1 kg  
+Capacité des réservoirs carburant: 104 l  
+Capacité du réservoir d\huile: 18 l  
   
 Tauc de montée  
 1000 m:  2 min. 39 sec.  

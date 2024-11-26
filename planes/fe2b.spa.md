@@ -28,6 +28,8 @@ WSuperficie de ala: 45,9 m²
 Peso:  
 Vacío: 936 kg  
 Al despegue: 1380 kg  
+Fuel capacity: 249 l  
+Oil capacity: 27 l  
   
 Velocidad (IAS), sin bombas:  
 Nivel del mar - 147 km/h  

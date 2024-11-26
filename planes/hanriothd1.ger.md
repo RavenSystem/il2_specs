@@ -21,6 +21,8 @@ Flügelfläche: 18.2 qm
 Gewicht  
 Leergewicht: 406.9 kg  
 Startgewicht: 612.1 kg  
+Treibstoffkapazität: 104 l  
+Ölkapazität: 18 l  
   
 Steigrate  
 1000 m:  2 min. 39 sec.  

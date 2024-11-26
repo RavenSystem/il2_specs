@@ -29,8 +29,7 @@ Capacidad de combustible: 105 l
 Capacidad de aceite: 11 l  
   
 Velocidad máxima (IAS):  
-Nivel del mar — 193 km/h  
-1000 m — 219 km/h  
+Nivel del mar — 219 km/h  
 1000 m — 206 km/h  
 2000 m — 191 km/h  
 3000 m — 177 km/h  

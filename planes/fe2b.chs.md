@@ -27,6 +27,8 @@ The performance of the F.E.2b with the 120 hp Beardmore engine was not outstandi
 重量：  
 空载重量：936 kg  
 组员重量：1380 kg  
+Fuel capacity: 249 l  
+Oil capacity: 27 l  
   
 速度（IAS），不挂炸弹：  
 海平面——147 km/h  

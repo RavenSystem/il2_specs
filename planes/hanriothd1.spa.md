@@ -29,6 +29,8 @@ Superficie de ala: 18,2 m²
 Pesos:  
 Vacío: 406,9 kg  
 Al despegue: 612,1 kg  
+Capacidad de combustible: 104 l  
+Capacidad de aceite: 18 l  
   
 Velocidad máxima (IAS):  
 Nivel del mar – 188 km/h  
