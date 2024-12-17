@@ -51,7 +51,7 @@ Puissance maximale au régime de combat à 5800 m : 1250 cv
 Performance du moteur :  
 Continu (durée illimitée) : 2300 tr/min, 1,15 ata  
 Combat (jusqu\à 30 minutes) : 2600 tr/min, 1,3 ata  
-Urgence (jusqu\à 1 minute) : 2800 tr/min, 1,42 ata  
+Urgence (jusqu\à 3 minutes) : 2800 tr/min, 1,42 ata  
 Urgence (jusqu\à 10 minute with MW-50) : 2800 tr/min, 1,7 ata (modification)  
   
 Température de fonctionnement d\eau en sortie du moteur : 100..102 °C  

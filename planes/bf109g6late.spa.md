@@ -51,7 +51,7 @@ Potencia máxima en modo Combate a 5800 m: 1250 CV
 Modos de funcionamiento motor:  
 Continuo (sin límite de tiempo): 2300 rpm, 1,15 ata  
 Combate (hasta 30 minutos): 2600 rpm, 1,3 ata  
-Emergencia (hasta 1 minuto): 2800 rpm, 1,42 ata  
+Emergencia (hasta 3 minutos): 2800 rpm, 1,42 ata  
 Emergencia (hasta 10 minutos con MW-50): 2800 rpm, 1,7 ata (modificación)  
   
 Temperatura nominal del agua en la salida del motor: 100..102 °C  

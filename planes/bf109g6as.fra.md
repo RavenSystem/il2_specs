@@ -59,7 +59,7 @@ Puissance maximale au régime de combat à 7800 m : 1150 cv
 Performance du moteur :  
 Continu (durée illimitée) : 2300 tr/min, 1,15 ata  
 Combat (jusqu\à 30 minutes) : 2600 tr/min, 1,3 ata  
-Urgence (jusqu\à 1 minute) : 2800 tr/min, 1,42 ata  
+Urgence (jusqu\à 3 minutes) : 2800 tr/min, 1,42 ata  
   
 Moteur :  
 Modèle : DB-605ASM  

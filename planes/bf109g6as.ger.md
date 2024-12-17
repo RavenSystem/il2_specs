@@ -59,7 +59,7 @@ Kampfleistung in 7800 m Höhe: 1150 PS
 Leistungsstufen:  
 Nennleistung (unbegrenzt): 2300 U/min, 1.15 ata  
 Kampfleistung (bis zu 30 Minuten): 2600 U/min, 1.3 ata  
-Notleistung (bis zu 1 Minute): 2800 U/min, 1.42 ata  
+Notleistung (bis zu 3 Minuten): 2800 U/min, 1.42 ata  
   
 Triebwerk:  
 Baumuster: DB-605ASM  

@@ -1,4 +1,4 @@
-# Sopwith 1½ Strutter  
+# Sopwith 1½ Strutter B  
   
 ![sopstrutterb](../images/sopstrutterb.png)  
   

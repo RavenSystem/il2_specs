@@ -59,7 +59,7 @@ Potencia máxima en modo Combate a 7800 m: 1150 CV
 Modos de funcionamiento motor:  
 Continuo (sin límite de tiempo): 2300 rpm, 1,15 ata  
 Combate (hasta 30 minutos): 2600 rpm, 1,3 ata  
-Emergencia (hasta 1 minuto): 2800 rpm, 1,42 ata  
+Emergencia (hasta 3 minutos): 2800 rpm, 1,42 ata  
   
 Motor:  
 Modelo: DB-605ASM  
