@@ -57,12 +57,12 @@ Maximale Kraftstoffreserve: 3110 L
 Maximale Nutzlast: 4074 kg  
   
 Starre Schusswaffenanlage:  
-7.62 mm "ShKAS" MG, 450 Schuss, 1800 Schuss pro Minute, montiert in Flugzeugnase  
+7.62 mm "SchKAS" MG, 450 Schuss, 1800 Schuss pro Minute, montiert in Flugzeugnase  
   
 Abwehrbewaffnung:  
 Oben: 12.7 mm machine gun "UBT" MG im UTK-1 Turm, 230 Schuss, 1000 Schuss pro Minute  
-Links: 7.62 mm "ShKAS" MG, 500 Schuss, 1800 Schuss pro Minute  
-Rechts: 7.62 mm "ShKAS" MG, 500 Schuss, 1800 Schuss pro Minute  
+Links: 7.62 mm "SchKAS" MG, 500 Schuss, 1800 Schuss pro Minute  
+Rechts: 7.62 mm "SchKAS" MG, 500 Schuss, 1800 Schuss pro Minute  
   
 Abwurfwaffen:  
 Bis zu 4 x 254 kg Mehrzweck-Sprengbomben "FAB-250sv"  

@@ -69,10 +69,10 @@ Kraftstoffmenge: 90 kg / 126 l
 Nutzlast: 350 kg  
   
 Starre Schusswaffenanlage:  
-1 x 7.62 mm ShKAS, 500 Schuss, 1800 Schuss pro Minute, flügelmontiert (Rüstsatz)  
+1 x 7.62 mm SchKAS, 500 Schuss, 1800 Schuss pro Minute, flügelmontiert (Rüstsatz)  
   
 Abwehrbewaffnung:  
-Rückwärts: 7.62 mm ShKAS, 400 Schuss, 1800 Schuss pro Minute (Rüstsatz)  
+Rückwärts: 7.62 mm SchKAS, 400 Schuss, 1800 Schuss pro Minute (Rüstsatz)  
   
 Abwurfwaffe:  
 2 x 50 kg Mehrzweck-Sprengbomben FAB-50sv  
@@ -230,12 +230,12 @@ Geschwindigkeitsverlust nach dem Abfeuern: 4 km/h  ﻿
   
 ### Heckgeschützturm  
   
-Rückwärtiges Geschütz mit 7,62-mm-ShKAS-Maschinengewehr mit 400 Schuss  
+Rückwärtiges Geschütz mit 7,62-mm-SchKAS-Maschinengewehr mit 400 Schuss  
 Zusätzliches Gewicht: 34 kg  
 Geschwindigkeitsverlust: 2 km/h  
   
 ### Bug-MG  
   
-Flügelmontiertes 7,62mm ShKAS Maschinengewehr mit 500 Schuss  
+Flügelmontiertes 7,62mm SchKAS Maschinengewehr mit 500 Schuss  
 Zusätzliches Gewicht: 27 kg  
 Geschätzter Geschwindigkeitsverlust: 3 km/h  

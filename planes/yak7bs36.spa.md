@@ -59,7 +59,7 @@ Carga de combustible: 305 kg / 420 l
 Carga útil: 927 kg  
   
 Armamento delantero:  
-1 cañón de 20 mm «SsVAK», 120 balas, 800 balas por minuto, en morro  
+1 cañón de 20 mm «ShVAK», 120 balas, 800 balas por minuto, en morro  
 2 ametralladoras de 12,7 mm «UBS», 400 balas, 900 balas por minuto, sincronizadas  
   
 Bombas:  

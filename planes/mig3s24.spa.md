@@ -75,7 +75,7 @@ Armamento delantero:
 1 ametralladora de 12,7 mm «UB», 300 balas, 1000 balas por minuto, sincronizada  
 2 ametralladoras de 12,7 mm «UB», 145 balas, 1000 balas por minuto, montadas en ala (modificación)  
 2 ametralladoras de 12,7 mm «UB», 350 balas, 1000 balas por minuto, sincronizadas (modificación)  
-2 cañones de 20 mm «SsVAK», 150 balas, 800 balas por minuto, sincronizados (modificación)  
+2 cañones de 20 mm «ShVAK», 150 balas, 800 balas por minuto, sincronizados (modificación)  
   
 Bombas:  
 2 bombas de propósito general de 50 kg «FAB-50sv»  
@@ -105,7 +105,7 @@ Características operativas:
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire. La cubierta no tiene desbloqueo de emergencia, así que para poder saltar es necesario reducir la velocidad.  
 - Cuando hay bombas instaladas existe un mando para seleccionar el número de bombas que se lanzan con dos posibilidades: lanzar una o lanzar dos en ráfaga.  
 - Cuando hay cohetes instalados existe un mando de lanzamiento con tres modos disponibles: disparar uno, disparar dos en ráfaga o disparar cuatro en ráfaga.  
-- El motor A-38 (modificación) tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
+- El motor AM-38 (modificación) tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
   
 Datos básicos y configuraciones recomendadas de los controles del avión:  
 1. Arranque del motor:  
@@ -137,7 +137,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
   
 ### Motor AM-38  
   
-El motor A-38 tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
+El motor AM-38 tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
 Ganancia de velocidad estimada: 60 km/h  
 Ganancia tasa de ascenso estimada: 3 m/s  
   

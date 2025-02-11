@@ -75,7 +75,7 @@ Forward-firing armament:
 12.7mm machine gun "UB", 300 rounds, 1000 rounds per minute, synchronized  
 2 x 12.7mm machine gun "UB", 145 rounds, 1000 rounds per minute, wing-mounted (modification)  
 2 x 12.7mm machine gun "UB", 350 rounds, 1000 rounds per minute, synchronized (modification)  
-2 x 20mm gun "SsVAK", 150 rounds, 800 rounds per minute, synchronized (modification)  
+2 x 20mm gun "ShVAK", 150 rounds, 800 rounds per minute, synchronized (modification)  
   
 Bombs:  
 2 x 50 kg general purpose bombs "FAB-50sv"  
@@ -105,7 +105,7 @@ Operation features:
 - It is impossible to open or close the canopy at high speed due to strong airflow. The canopy has no emergency release, so bail out requires the speed drop before it.  
 - When bombs are installed there is a salvo controller, it has two release modes: single drop or drop two in a salvo.  
 - When rockets are installed there is a salvo controller, it has three launch modes: single fire, fire two in a salvo or fire four in a salvo.  
-- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+- The AM-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  

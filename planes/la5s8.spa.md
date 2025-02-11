@@ -61,7 +61,7 @@ Carga de combustible: 370 kg / 521 l
 Carga útil: 945 kg  
   
 Armamento delantero:  
-2 cañones de 20 mm «SsVAK», 170 balas, 800 balas por minuto, sincronizados  
+2 cañones de 20 mm «ShVAK», 170 balas, 800 balas por minuto, sincronizados  
   
 Bombas:  
 2 bombas de propósito general de 50 kg «FAB-50sv»  

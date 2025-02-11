@@ -75,7 +75,7 @@ Starre Schusswaffenanlage:
 2 x 7,7 mm Browning .303, 650 Schuss, 1150 Schuss pro Minute, flügelmontiert (Rüstsatz)  
 2 x 40 mm Vickers Class S, 15 Schuss, 125 Schuss pro Minute, flügelmontiert (Rüstsatz)  
 2 x 12,7 mm UB, 100 Schuss, 1000 Schuss pro Minute, flügelmontiert (Rüstsatz)  
-2 x 20 mm ShVAK, 120 Schuss, 800 Schuss pro Minute, flügelmontiert (Rüstsatz)  
+2 x 20 mm SchWAK, 120 Schuss, 800 Schuss pro Minute, flügelmontiert (Rüstsatz)  
   
 Abwurfwaffen:  
 2 x 113 kg Mehrzweck-Sprengbomben 250 lb. G.P.  
@@ -164,9 +164,9 @@ Rückspiegel
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 2 km/h  ﻿
   
-### 2 x 12.7 mm BS und 2 x 20mm ShVAK  
+### 2 x 12.7 mm BS und 2 x 20mm SchWAK  
   
-Zwei BS 12.7 mm flügelmontierte Maschinengewehre mit jeweils 100 Schuss und zwei ShVAK 20mm flügelmontierte Kanonen mit jeweils 120 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre  
+Zwei BS 12.7 mm flügelmontierte Maschinengewehre mit jeweils 100 Schuss und zwei SchWAK 20mm flügelmontierte Kanonen mit jeweils 120 Schuss anstelle der Standard "Browning .303" flügelmontierten Maschinengewehre  
 Zusätzliches Gewicht: 59 kg  
 Gewicht der Munition: 87 kg  
 Gewicht der Schusswaffen: 124 kg  

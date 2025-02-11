@@ -75,7 +75,7 @@
 12.7mm机枪"UB"，300发，1000发/分，同步  
 2 x 12.7mm机枪"UB"，145发，1000发/分，机翼安装（改装）  
 2 x 12.7mm机枪"UB"，350发，1000发/分，同步（改装）  
-2 x 20mm机炮"SsVAK"，150发，800发/分，同步（改装）  
+2 x 20mm机炮"ShVAK"，150发，800发/分，同步（改装）  
   
 炸弹：  
 2 x 50kg 通用炸弹"FAB-50sv"  
@@ -105,7 +105,7 @@
 —由于强气流，高速时无法开闭座舱盖。座舱盖只能应急抛弃，所以跳伞之前需先减速。  
 —当炸弹被安装上后会有一个齐投控制功能，它有两种模式：单投和双弹齐投。  
 —当火箭弹被安装上后会有一个齐射控制功能，它有三种发射模式：单发，双发齐射，和四发齐射。  
-- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+- The AM-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  

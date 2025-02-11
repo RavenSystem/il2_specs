@@ -59,7 +59,7 @@ Kraftstoffmenge: 348 kg / 467 l
 Nutzlast: 1081 kg  
   
 Starre Schusswaffenanlage:  
-20 mm SsVAK, 160 Schuss, 800 Schuss pro Minute, montiert in Flugzeugnase  
+20 mm SchWAK, 160 Schuss, 800 Schuss pro Minute, montiert in Flugzeugnase  
 12.7 mm UB, 200 Schuss, 1000 Schuss pro Minute, gesteuert schießend  
 23 mm VYa-23, 90 Schuss, 600 Schuss pro Minute, montiert in Flugzeugnase (Rüstsatz)  
 37 mm Sh-37, 20 Schuss, 185 Schuss pro Minute, montiert in Flugzeugnase (Rüstsatz)  

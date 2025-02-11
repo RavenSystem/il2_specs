@@ -71,11 +71,11 @@ Kraftstoffmenge: 352 kg / 480 l
 Nutzlast: 826 kg  
   
 Starre Schusswaffenanlage:  
-2 x 7.62 mm ShKAS, 750 Schuss, 1800 Schuss pro Minute, gesteuert schießend  
+2 x 7.62 mm SchKAS, 750 Schuss, 1800 Schuss pro Minute, gesteuert schießend  
 12.7 mm UB, 300 Schuss, 1000 Schuss pro Minute, gesteuert schießend  
 2 x 12.7 mm UB, 145 Schuss, 1000 Schuss pro Minute, flügelmontiert (Rüstsatz)  
 2 x 12.7 mm UB, 350 Schuss, 1000 Schuss pro Minute, gesteuert schießend (Rüstsatz)  
-2 x 20 mm SsVAK, 150 Schuss, 800 Schuss pro Minute, gesteuert schießend (Rüstsatz)  
+2 x 20 mm SchWAK, 150 Schuss, 800 Schuss pro Minute, gesteuert schießend (Rüstsatz)  
   
 Abwurfwaffen:  
 2 x 50 kg Mehrzweck-Sprengbomben FAB-50sv  
@@ -105,7 +105,7 @@ Eigenschaften:
 - Aufgrund des starken Luftstroms ist es nicht möglich die Cockpithaube bei hoher Geschwindigkeit zu öffnen oder zu schließen. Die Cockpithaube hat keine Notfallauslösung, weshalb die Geschwindigkeit vor dem Notausstieg reduziert werden muss.  
 - Wenn Bomben installiert sind, gibt es eine Steuerung für die Salven. Es gibt zwei Abwurfarten: einzeln oder zwei in einer Salve.   
 - Wenn Raketen installiert sind, gibt es eine Steuerung für die Salven. Es gibt drei Abschussarten: einzeln, zwei in einer Salve oder vier in einer Salve.  
-- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+- The AM-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
@@ -153,7 +153,7 @@ Geschwindigkeitsverlust: 13 km/h  ﻿
   
 ### 2 x 12.7 mm BS mit 700 Schuss  
   
-BS 12.7mm rumpfmontierte Machinengewehre mit jeweils 350 Schuss anstelle der Standart ShKAS und BS rumpfmontierten Maschinengewehre  
+BS 12.7mm rumpfmontierte Machinengewehre mit jeweils 350 Schuss anstelle der Standart SchKAS und BS rumpfmontierten Maschinengewehre  
 Zusätzliches Gewicht: 34 kg  
 Gewicht der Munition: 131 kg  
 Gewicht der Schusswaffen: 62 kg  
@@ -189,9 +189,9 @@ Geschwindigkeitsverlust vor dem Abfeuern: 23 km/h
 Geschwindigkeitsverlust nach dem Abfeuern: 17 km/h  ﻿
   
   
-### 2 x 20 mm ShVAK mit 300 Schuss  
+### 2 x 20 mm SchWAK mit 300 Schuss  
   
-ShVAK 20mm rumpfmontierte Kanonen mit jeweils 150 Schuss anstelle der Standard ShKAS und BS rumpfmontierten Maschinengewehre  
+SchWAK 20mm rumpfmontierte Kanonen mit jeweils 150 Schuss anstelle der Standard SchKAS und BS rumpfmontierten Maschinengewehre  
 Zusätzliches Gewicht: 4 kg  
 Gewicht der Munition: 69 kg  
 Gewicht der Schusswaffen: 94 kg  

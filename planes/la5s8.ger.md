@@ -61,7 +61,7 @@ Kraftstoffmenge: 370 kg / 521 l
 Nutzlast: 945 kg  
   
 Starre Schusswaffenanlage:  
-2 x 20 mm SsVAK, 170 Schuss, 800 Schuss pro Minute, gesteuert schießend  
+2 x 20 mm SchWAK, 170 Schuss, 800 Schuss pro Minute, gesteuert schießend  
   
 Abwurfwaffen:  
 2 x 50 kg Mehrzweck-Sprengbomben FAB-50sv  

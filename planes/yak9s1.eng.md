@@ -61,7 +61,7 @@ Fuel load: 324 kg / 440 l
 Useful load: 604 kg  
   
 Forward-firing armament:  
-20mm gun "SsVAK", 120 rounds, 800 rounds per minute, nose-mounted  
+20mm gun "ShVAK", 120 rounds, 800 rounds per minute, nose-mounted  
 12.7mm machine gun "UB", 200 rounds, 1000 rounds per minute, synchronized  
   
 Length: 8.5 m  

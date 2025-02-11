@@ -105,7 +105,7 @@ Caractéristiques
 - Il est impossible d\ouvrir ou de fermer la verrière à grande vitesse en raison d\un fort flux d\air La verrière n\a pas de systême d\éjection d\urgence, il faut donc réduire la vitesse pour évacuer l\avion.  
 - Quand des bombes sont installées, il y a un sélecteur de mode largage, qui permet de choisir un largage unitaire ou par deux.  
 - Quand des roquettes sont installées, il y a un sélecteur de mode tir, qui permet de choisir un tir unitaire, par deux ou par quatre.  
-- The A-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
+- The AM-38 engine modification has the supercharger tuned for lower altitudes and provides more power than the AM-35A model below 4 km altitude. However, these settings exceed the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  
