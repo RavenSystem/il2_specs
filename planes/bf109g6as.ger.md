@@ -140,16 +140,18 @@ Basic data and recommended positions of the aircraft controls:
 ## Änderungen  
   ﻿
   
-### DB-605ASM engine  
+### DB-605ASM Motor  
   
-DB-605ASM engine with C3 fuel and MW-50 System tank (empty)  
-Additional mass: 21 kg  
-Estimated speed increase at sea level: 43 km/h  ﻿
+Höhenmotor mit 7,8 km Volldruckhöhe.  
+DB 605 AS: ein DB 605 A mit dem großen Lader des DB 603, 1435 PS Startleistung in 0 m  
+DB 605 ASM: wie 605 AS, aber mit MW-50-Anlage bis zu 1800 PS Sondernotleistung in 0 m  
+Zusätzliches Gewicht: 21 kg  
+Geschätzte Geschwindigkeitserhöhung auf Meereshöhe: 43 km/h  ﻿
   
-### MW-50 Mixture  
+### MW-50 Gemisch  
   
-MW-50 water-methanol mixture injection increases engine endurance at emergency power modes  
-Additional mass (mixture): 63 kg  ﻿
+Ein Methanol-Wasser-Gemisch mit einem Mischungsverhältnis von 50:50, das über ein Einspritzsystem in den Ladereintritt zugeführt wird um eine Leistungssteigerung des Motors zu erreichen.  
+Methanol-Wasser-Gemisch Gewicht: 63 kg  ﻿
   
 ### 21 cm BR  
   

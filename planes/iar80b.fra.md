@@ -50,7 +50,7 @@ Urgence (jusqu\à 3 minutes) : 2300 tr/min, 935 mm Hg
 Température de fonctionnement d\huile en sortie du moteur : 40..110 °C  
 Température maximale d\huile en sortie du moteur : 120 °C  
   
-Masse à vide : 20930 kg  
+Masse à vide : 2093 kg  
 Masse minimale (sans munitions, 10% de carburant) : 2522 kg  
 Masse standard : 2745 kg  
 Masse maximale au décollage : 3030 kg  

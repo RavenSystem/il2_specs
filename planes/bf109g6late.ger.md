@@ -143,8 +143,8 @@ Estimated speed loss after drop: 10 km/h  ﻿
   
 ### Erla Haube  
   
-Erla Haube canopy retrofit modification  
-Removed mass: 9 kg  
+Erla Haube ist eine dreiteilige Klarsichthaube, die eine verbesserte Sicht ermöglichte.  
+Gewichtsersparnis: 9 kg  
 Geschwindigkeitsverlust: 0 km/h  ﻿
   
 ### 2 x 20 mm MG 151/20 in Waffengondeln  
@@ -165,10 +165,10 @@ Geschwindigkeitsverlust: 0 km/h  ﻿
   
 ### MW-50 System  
   
-MW-50 water-methanol mixture injection system   
-Additional mass: 84 kg  
-Water-methanol mixture mass: 63 kg  
-Estimated speed increase at sea level: 45 km/h  ﻿
+Ein Methanol-Wasser-Gemisch mit einem Mischungsverhältnis von 50:50, das über ein Einspritzsystem in den Ladereintritt zugeführt wird.  
+Zusätzliches Gewicht: 84 kg  
+Methanol-Wasser-Gemisch Gewicht: 63 kg  
+Geschätzte Geschwindigkeitserhöhung auf Meereshöhe: 45 km/h  ﻿
   
 ### 1 x Bombe, Typ SC 250  
   

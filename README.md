@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 5.507
+Version: 6.001
 
-Date: 2025-04-24
+Date: 2025-05-27
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -251,6 +251,11 @@ Date: 2025-04-24
 [ [chs](planes/hurricanemkii.chs.md) ] [ [eng](planes/hurricanemkii.eng.md) ] [ [fra](planes/hurricanemkii.fra.md) ] [ [ger](planes/hurricanemkii.ger.md) ] [ [rus](planes/hurricanemkii.rus.md) ] [ [spa](planes/hurricanemkii.spa.md) ] 
 ![hurricanemkii](images/hurricanemkii.png)
 
+### I-153  
+
+[ [chs](planes/i153.chs.md) ] [ [eng](planes/i153.eng.md) ] [ [fra](planes/i153.fra.md) ] [ [ger](planes/i153.ger.md) ] [ [rus](planes/i153.rus.md) ] [ [spa](planes/i153.spa.md) ] 
+![i153](images/i153.png)
+
 ### I-16 type 24  
 
 [ [chs](planes/i16t24.chs.md) ] [ [eng](planes/i16t24.eng.md) ] [ [fra](planes/i16t24.fra.md) ] [ [ger](planes/i16t24.ger.md) ] [ [rus](planes/i16t24.rus.md) ] [ [spa](planes/i16t24.spa.md) ] 
@@ -320,6 +325,11 @@ Date: 2025-04-24
 
 [ [chs](planes/lagg3s29.chs.md) ] [ [eng](planes/lagg3s29.eng.md) ] [ [fra](planes/lagg3s29.fra.md) ] [ [ger](planes/lagg3s29.ger.md) ] [ [rus](planes/lagg3s29.rus.md) ] [ [spa](planes/lagg3s29.spa.md) ] 
 ![lagg3s29](images/lagg3s29.png)
+
+### LaGG-3 ser.4  
+
+[ [chs](planes/lagg3s4.chs.md) ] [ [eng](planes/lagg3s4.eng.md) ] [ [fra](planes/lagg3s4.fra.md) ] [ [ger](planes/lagg3s4.ger.md) ] [ [rus](planes/lagg3s4.rus.md) ] [ [spa](planes/lagg3s4.spa.md) ] 
+![lagg3s4](images/lagg3s4.png)
 
 ### Li-2  
 
