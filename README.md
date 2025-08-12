@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 6.001
+Version: 6.002
 
-Date: 2025-05-27
+Date: 2025-08-12
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -556,10 +556,20 @@ Date: 2025-05-27
 [ [chs](planes/yak1s127.chs.md) ] [ [eng](planes/yak1s127.eng.md) ] [ [fra](planes/yak1s127.fra.md) ] [ [ger](planes/yak1s127.ger.md) ] [ [rus](planes/yak1s127.rus.md) ] [ [spa](planes/yak1s127.spa.md) ] 
 ![yak1s127](images/yak1s127.png)
 
+### Yak-1 ser.23  
+
+[ [chs](planes/yak1s23.chs.md) ] [ [eng](planes/yak1s23.eng.md) ] [ [fra](planes/yak1s23.fra.md) ] [ [ger](planes/yak1s23.ger.md) ] [ [rus](planes/yak1s23.rus.md) ] [ [spa](planes/yak1s23.spa.md) ] 
+![yak1s23](images/yak1s23.png)
+
 ### Yak-1 ser.69  
 
 [ [chs](planes/yak1s69.chs.md) ] [ [eng](planes/yak1s69.eng.md) ] [ [fra](planes/yak1s69.fra.md) ] [ [ger](planes/yak1s69.ger.md) ] [ [rus](planes/yak1s69.rus.md) ] [ [spa](planes/yak1s69.spa.md) ] 
 ![yak1s69](images/yak1s69.png)
+
+### Yak-3 ser.9  
+
+[ [chs](planes/yak3s9.chs.md) ] [ [eng](planes/yak3s9.eng.md) ] [ [fra](planes/yak3s9.fra.md) ] [ [ger](planes/yak3s9.ger.md) ] [ [rus](planes/yak3s9.rus.md) ] [ [spa](planes/yak3s9.spa.md) ] 
+![yak3s9](images/yak3s9.png)
 
 ### Yak-7B series 36  
 

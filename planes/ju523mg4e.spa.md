@@ -99,7 +99,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 2. Posición de la palanca de control de mezcla según momento de vuelo:  
 	- Cuando el motor funciona a baja potencia cerca del suelo, las palancas de control de la mezcla deben estar sobre el 75%.  
 	- Cuando el motor funciona a máxima potencia cerca del suelo, las palancas de control de la mezcla deben estar entre el 80-90%.  
-	- A medida que se gana altura, se debe ir empobreciento la mezcla.  
+	- A medida que se gana altura, se debe ir empobreciendo la mezcla.  
   
 3. Posición de las aletas/persianas carenados según momento de vuelo:  
 	- despegue: abiertas  
