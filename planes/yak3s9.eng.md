@@ -79,7 +79,7 @@ Operation features:
 - The aircraft has differential pneumatic wheel brakes with shared control lever. This means that if the brake lever is held and the rudder pedal the opposite wheel brake is gradually released causing the plane to swing to one side or the other.  
 - Fuel gauges are installed on left and right wing fuel tanks, outside of the cockpit. The central feeder tank (20 litres) capacity is not measured.  
 - It is impossible to open the canopy at high speeds because of the ram air, but there is an emergency jettison handle for bailing out.  
-- The tailwheel rotates freely, but moving the control stick back locks it so it rotates by the pedals input.  
+- The tailwheel rotates freely, but moving the control stick back locks it in the central (“flight-oriented”) position.  
   
 Basic data and recommended positions of the aircraft controls:  
 1. Starting the engine:  

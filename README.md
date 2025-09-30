@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 6.002
+Version: 6.003
 
-Date: 2025-08-12
+Date: 2025-09-30
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
@@ -55,6 +55,11 @@ Date: 2025-08-12
 
 [ [chs](planes/b26b55.chs.md) ] [ [eng](planes/b26b55.eng.md) ] [ [fra](planes/b26b55.fra.md) ] [ [ger](planes/b26b55.ger.md) ] [ [rus](planes/b26b55.rus.md) ] [ [spa](planes/b26b55.spa.md) ] 
 ![b26b55](images/b26b55.png)
+
+### Bf 109 E-4  
+
+[ [chs](planes/bf109e4.chs.md) ] [ [eng](planes/bf109e4.eng.md) ] [ [fra](planes/bf109e4.fra.md) ] [ [ger](planes/bf109e4.ger.md) ] [ [rus](planes/bf109e4.rus.md) ] [ [spa](planes/bf109e4.spa.md) ] 
+![bf109e4](images/bf109e4.png)
 
 ### Bf 109 E-7  
 
@@ -295,6 +300,11 @@ Date: 2025-08-12
 
 [ [chs](planes/ju87d3.chs.md) ] [ [eng](planes/ju87d3.eng.md) ] [ [fra](planes/ju87d3.fra.md) ] [ [ger](planes/ju87d3.ger.md) ] [ [rus](planes/ju87d3.rus.md) ] [ [spa](planes/ju87d3.spa.md) ] 
 ![ju87d3](images/ju87d3.png)
+
+### Ju 87 D-5  
+
+[ [chs](planes/ju87d5.chs.md) ] [ [eng](planes/ju87d5.eng.md) ] [ [fra](planes/ju87d5.fra.md) ] [ [ger](planes/ju87d5.ger.md) ] [ [rus](planes/ju87d5.rus.md) ] [ [spa](planes/ju87d5.spa.md) ] 
+![ju87d5](images/ju87d5.png)
 
 ### Ju 88 A-4  
 

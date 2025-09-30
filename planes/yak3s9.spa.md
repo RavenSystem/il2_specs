@@ -79,7 +79,7 @@ Características operativas:
 - El avión posee frenos neumáticos diferenciales en la ruedas compartidos por una palanca de freno. Cuando se tira de la palanca del freno y se pisa un pedal del control del timón el freno opuesto se libera y el avión comienza a girar en un sentido u otro.  
 - Los indicadores del nivel de combustible están instalados en los depósitos de las alas, fuera de la cabina. No se mide el nivel del depósito alimentador central (con una capacidad de 20 litros).  
 - Es imposible abrir o cerrar la cubierta a altas velocidades debido a la intensidad del flujo del aire, pero la cubierta tiene un desbloqueo de emergencia para permitir el salto en paracaídas.  
-- La rueda de cola gira líbremente, pero moviendo la palanca de control hacia atrás se bloquea de tal manera que gira según se muevan los pedales.  
+- El avión cuenta con un sistema de bloqueo de la rueda de cola que la bloquea en la posición central cuando se tira de la palanca de control hacia atrás.  
   
 Datos básicos y configuraciones recomendadas de los controles del avión:  
 1. Arranque del motor:  
