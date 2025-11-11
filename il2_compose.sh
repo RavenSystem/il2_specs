@@ -7,8 +7,8 @@
 # Copy and run this script into "worldobjects" directory.
 
 ### Composer Configuration Data
-TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik GB/il2_specs"
-IL2_VERSION="6.003"
+TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
+IL2_VERSION="6.107"
 ###
 
 mkdir -p "$TARGET_DIR/images"
