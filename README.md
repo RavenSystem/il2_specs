@@ -1,9 +1,9 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 6.107
+Version: 6.107b
 
-Date: 2025-11-11
+Date: 2025-11-20
 
 [Sponsor this project](https://paypal.me/ravensystem)
 
