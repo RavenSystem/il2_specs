@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # IL2 Specifications Data Composer
-# (c) 2023 José A. Jiménez Campos @RavenSystem
+# (c) 2023-2025 José A. Jiménez Campos @RavenSystem
 #
 # Use "unGTP-IL2.exe" to extract files over a copy from "swf.gtp" file.
 # Copy and run this script into "worldobjects" directory.
@@ -18,15 +18,32 @@ GENERATION_DATE="`date +%Y-%m-%d`"
 printf "
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: $IL2_VERSION
+Version: $IL2_VERSION - Date: $GENERATION_DATE
 
-Date: $GENERATION_DATE
-
-[Sponsor this project](https://paypal.me/ravensystem)
-
-[GitHub](https://github.com/RavenSystem/il2_specs)
+[ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 " > "$TARGET_DIR/README.md"
+
+for VEHICLE_TYPE in "planes" "vehicles"; do
+    mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
+    
+    VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
+    printf "### $VEHICLE_TYPE_U\r\n\r\n" >> "$TARGET_DIR/README.md"
+    
+    ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
+        NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
+        
+        CLEAN_VEHICLE_NAME="`head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | tr -d '#\r\n' | sed 's/^.//g' | sed 's/  //g'`"
+        LINK_VEHICLE_NAME="`printf "$CLEAN_VEHICLE_NAME" |  tr -d '.' | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`"
+        
+        printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
+    done
+    
+    printf "\r\n\r\n" >> "$TARGET_DIR/README.md"
+    
+    rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
+done
+
 
 for VEHICLE_TYPE in "planes" "vehicles"; do
     mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
