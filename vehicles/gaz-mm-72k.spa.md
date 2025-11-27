@@ -1,9 +1,9 @@
 # GAZ-MM 72-K  
-  
+
 ![gaz-mm-72k](../images/gaz-mm-72k.png)  
-  
+
 ## Descripción  
-  
+
 Camión GAZ-MM fabricado en la Planta de Automóviles Molotov de Gorki (GAZ, <i>Gorkovsky Avtomobilny Zavod</i>) en 1943 con cañón automático antiaéreo de 25 mm modelo 72-K instalado en la plataforma especial de madera. Este camión era un modelo mejorado del GAZ-AA con un motor más potente, mejor sistema de dirección y suspensión reforzada.  
   
 El desarrollo del cañón automático antiaéreo de 25 mm para regimientos comenzó en la fábrica Kalinin de Leningrado en 1939. Fue aprobado para entrar en servicio en 1940 y su producción en masa comenzó en 1941. Sin embargo, la producción de remolques para estos cañones era problemática, por lo que estos 72-K se instalaban en plataformas  blindadas de trenes, camiones de tres ejes GAZ-AAA y posteriormente en los GAZ-MM de dos ejes.  
@@ -64,10 +64,10 @@ OZR-132 explosivo (HE): 288 g, 910 m/s, 13 g de explosivo
 <b><u>Miras para apuntado del armamento:</u></b>  
 Mira colimadora K8-T con sistema de corrección automática  
 Miras de hierro de respaldo.  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes sólidos (AP)  
-  
+
+## Modificaciones  ﻿
+### Proyectiles perforantes sólidos (AP)  
+
 BR-132  
   
 Proyectiles perforantes sólidos, sin carga explosiva en su interior.  
@@ -81,19 +81,23 @@ Velocidad de salida 900 m/s, penetración del blindaje a bocajarro 44 mm.
 500 m: penetración del blindaje 3 mm, velocidad 806 m/s, caída -1,8 m.  
 1000 m: penetración del blindaje 25 mm, velocidad 528 m/s, caída -8,3 m.  
 2000 m: penetración del blindaje 13 mm, velocidad 380 m/s, caída -46,4 m.  
-﻿### Escudo para el cañón (inicial)  
-  
+  ﻿
+### Escudo para el cañón (inicial)  
+
 Plancha blindada de 5 mm para proteger a la tripulación del cañón de los fragmentos de proyectiles y de las balas regulares (no AP). La primera variante tenía una forma rectangular simple.  
 El escudo tiene una ventana adicional que debe abrirse para disparar en ángulos bajos.  
-﻿### Escudo para el cañón  
-  
+  ﻿
+### Escudo para el cañón  
+
 Plancha blindada de 5 mm para proteger a la tripulación del cañón de los fragmentos de proyectiles y de las balas regulares (no AP). La variante posterior tenía una forma más compleja.  
 El escudo tiene una ventana adicional que debe abrirse para disparar en ángulos bajos.  
-﻿### Retirar cubierta de la mira  
-  
+  ﻿
+### Retirar cubierta de la mira  
+
 La retirada de la cubierta de protección de la mira colimadora K8-T proporciona al artillero un ligero aumento del campo de visión.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 OZR-132  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  

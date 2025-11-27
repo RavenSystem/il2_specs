@@ -1,9 +1,9 @@
 # Albatros D.II  
-  
+
 ![albatrosd2](../images/albatrosd2.png)  
-  
+
 ## Description  
-  
+
 First in the pantheon of the legendary Albatros fighter planes, the D.II became a symbol and icon of the fighter plane in the Great War. Under the guidance of engineer Robert Thelen, the plane incorporated new features in design and development. While retaining the clean aerodynamic shape of the D.I model’s fuselage, new central N-shaped struts were added to the wings. The upper wing was moved closer to the fuselage, and early models of the aircraft were fitted with Windhoff box-type radiators on both sides of the fuselage.  
 The Albatros Werke, Ostdeutsche Albatros Werke, and Luft-Verkehrs-Gesellschaft mbH factories manufactured the aircraft. In all, 768 Albatros D.IIs were produced.  
 In August 1916, the first detachment of Albatros D.I and D. II fighters arrived at the front. Starting with these two models of aircraft, two Spandau machine guns became standard equipment for all German fighters. In the hands of experienced pilots, who were already battle hardened and experienced in aerobatics, the D.II made for huge gains in air superiority. The rapid mass production of Albatros fighter planes allowed Germany to maintain air superiority all the way through April 1917. "Bloody April" has become synonymous with the great losses of British aircraft in 1917.  
@@ -51,17 +51,19 @@ References
 4) Albatros Aces of WWI by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros D.II, Flugzeugprofile №38.  
-  
+
 ## Modifications  
 ### Aldis (Trophy)  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### High Altimeter  
-  
+
 D.R.P Altimeter (0-8000 m)  
-﻿### 20mm Becker Cannon  
-  
+  ﻿
+### 20mm Becker Cannon  
+
 20mm Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -73,23 +75,28 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
+
 ### Clock  
-  
+
 Mechanical Clock  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Gunsight  
-  
+
 Additional sight with front sight and rear sight mountings  
 Additional mass: 1 kg  
+
 ### Anemometer  
-  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Additional mass: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)  
 Additional mass: 1 kg  

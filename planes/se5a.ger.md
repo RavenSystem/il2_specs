@@ -1,9 +1,9 @@
 # S.E.5a  
-  
+
 ![se5a](../images/se5a.png)  
-  
+
 ## Beschreibung  
-  
+
 Das Flugzeug wurde von der britischen Firma RAF (Royal Aircraft Factory) entworfen. Ziel war, ein Kampflugzeug um das Hispano—Suiza Triebwerk mit 200 PS zu bauen, um eine hohe Steiggeschwindigkeit und Top-Speed zu erhalten. Um dieses Ziel zu erreichen, mußten die Ingenieure einen Kompromiss eingehen. Sie machten das Flügelprofil dünner, gleichzeitig wurde die Flügelfläche vergrößert. Das Design beinhaltete Querruder in der oberen und unteren Tragfläche. Bis zum Kriegsende wurde 5.269 Flugzeuge gebaut.  
   
 Der erste Testflug fand im Januar 1917 statt. Im Juni 1917 flog die britische Squadron N56 die ersten Kampfeinsätze mit diesem Flugzeugtyp. Die S.E.5a wurde im Kampf gegen gegnerische Flugzeuge, Ballons, Bomber, als Eskorte aber nur selten zur Bombardierung von Zielen eingesetzt. Piloten lobten die Stabilität des Rahmens, die Manövrierfähigkeit, die Sturzflugfähigkeit und den Einsatz der beiden Maschinengewehre, die exzellente Steuerung und dessen Sensibilität bei niedrigen Geschwindigkeiten. Bei zu hohen Geschwindigkeiten konnte das Flugzeug jedoch nicht landen. Interessanterweise flogen die meisten britischen Asse diesen Flugzeugtyp. Dieses führte zum Spitznamen der S.E.5a: "Ace—Maker".  
@@ -56,25 +56,28 @@ Referenzen
 2) S.E.5a in action. Squadron/signal publications, Aircraft Number 69.  
 3) RAF S.E.5 and S.E.5a Specification.  
 4) Profile Publications, The S.E. 5A Number 1.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Cooper Bomben  
-  
+  ﻿
+### Cooper Bomben  
+
 Vier (Zwei) 24 lb Cooper Bomben (11kg)  
 Zusätzliches Gewicht: 56 kg  
 Gewicht der Munition: 44 kg  
 Gewicht der Abwurfwaffenroste: 12 kg  
 Geschwindigkeitsverlust vor Abwurf: 2 km/h  
 Geschwindigkeitsverlust nach Abwurf: 1 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Benzinuhr  
-  
+  ﻿
+### Benzinuhr  
+
 Anzeige mit Nadel für die Treibstoffmenge (0-30 Gallons)  
 Zusätzliches Gewicht: 1 kg  

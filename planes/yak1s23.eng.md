@@ -1,9 +1,9 @@
 # Yak-1 ser.23  
-  
+
 ![yak1s23](../images/yak1s23.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 156..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 134..147 km/h  
 Dive speed limit: 720 km/h  
@@ -115,19 +115,21 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- nominal mode of engine operation: 7.4 l/min  
-  
+
 ## Modifications  
 ### M-105PA Engine  
-  
+
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.  
 Additional mass: 30 kg  
+
 ### Radio transmitter  
-  
+
 Radio transmitter RSI-4  
 Additional mass: 12.6 kg  
 Estimated speed loss: 0 km/h  
-﻿### 6 x ROS-82 rockets  
-  
+  ﻿
+### 6 x ROS-82 rockets  
+
 6 x 82mm High Explosive unguided rockets ROS-82  
 Additional mass: 60 kg  
 Ammunition mass: 42 kg  

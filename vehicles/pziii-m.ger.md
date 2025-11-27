@@ -1,9 +1,9 @@
 # Pz.Kpfw.III Ausf.M  
-  
+
 ![pziii-m](../images/pziii-m.png)  
-  
+
 ## Beschreibung  
-  
+
 Der Pz.Kpfw. III Ausf.M war der vorherigen Modifikation Ausf.L ähnlich. Einige Innen-, Fahrwerks-, Motorraum- und andere Elemente wurden aufgrund der Wartungserfahrung geändert.  
   
 Der offensichtlichste optische Unterschied war das Hinzufügen von Seitenpanzerplatten, "Schürzen", die an der Wannen- und Turmseite angebracht wurden. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem Anti-Panzer-Gewehrfeuer zu schützen, was für die dünner gepanzerten Seiten gefährlich war. Da sie ein panzerbrechendes Geschoss nicht aufhalten konnte, destabilisierte diese zusätzliche Panzerung es oder verursachte seine Fragmentierung, bevor es auf den Hauptpanzer treffen konnte.  
@@ -98,10 +98,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 3 intercom terminals.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 5 cm Pzgr. 39  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -116,8 +117,9 @@ Durchschlagsleistung aus kürzester Entfernung: 87 mm
 500 m: Durchschlagsleistung 68 mm, Geschwindigkeit 702 m/s, Fall -1,5 m  
 1000 m: Durchschlagsleistung 53 mm, Geschwindigkeit 587 m/s, Fall -8,4 m  
 2000 m: Durchschlagsleistung 30 mm, Geschwindigkeit 394 m/s, Fall -76,7 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 5 cm Sprgr. 38  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -131,8 +133,9 @@ Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 444 m/s, Geschossabfall -4,9 m  
 1000 m: Geschwindigkeit 368 m/s, Geschossabfall -22,6 m  
 2000 m: Geschwindigkeit 285 m/s, Geschossabfall -118,5 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 5 cm Pzgr. 40  
   
 Granaten mit unterkalibrigen panzerbrechenden Projektilen.  
@@ -149,11 +152,13 @@ Durchschlagsleistung aus kürzester Entfernung: 175 mm.
 500 m: Durchschlagsleistung 82 mm, Geschwindigkeit 696 m/s, Fall -2,1 m  
 1000 m: Durchschlagsleistung 43 mm, Geschwindigkeit 443 m/s, Fall -9,2 m  
 2000 m: Durchschlagsleistung 16 mm, Geschwindigkeit 223 m/s, Fall -49,0 m  
-﻿### Zusätzliche Panzerschürzen  
-  
+  ﻿
+### Zusätzliche Panzerschürzen  
+
 Zusätzlicher Schutz 5mm. Zum Schutz vor Panzerbüchsen, welche die dünnere Seitenpanzerung durschlagen konnten. Obwohl die Schürzen ein panzerbrechendes Geschoss nicht aufhalten können, kann diese Zusatzpanzerung dafür sorgen, das Geschoss zum Trudeln zu bringen oder zu zersplittern, bevor es auf die Hauptpanzerung trifft.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

@@ -1,9 +1,9 @@
 # Spitfire Mk.IXc  
-  
+
 ![spitfiremkixc](../images/spitfiremkixc.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 143...163 km/h (89..101 mph)  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 135...154 km/h (84..96 mph)  
 Velocidad de picado límite: 725 km/h (451 mph)  
@@ -142,53 +142,60 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 6,3 l/min  
 	- Modo motor - Combate: 10,2 l/min  
-  
-## Modificaciones  
-﻿### Combustible de 150 octanos  
-  
+
+## Modificaciones  ﻿
+### Combustible de 150 octanos  
+
 Permite un impulso de +25 lb  
 El cambio de etapa automático del compresor se deshabilita. El cambio de etapa debe realizarse de forma manual a 9000 ft de altitud.  
 Incremento estimado de velocidad a nivel del mar: 29 km/h  
-﻿### 2 bombas G.P. de 250 lb  
-  
+  ﻿
+### 2 bombas G.P. de 250 lb  
+
 2 bombas de propósito general (G.P., General Purpose) de 250 lb  
 Peso adicional: 247 kg  
 Peso de munición: 227 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 24 km/h  
 Pérdida de velocidad estimada tras soltar: 8 km/h  
-﻿### 1 bomba G.P. de 500 lb  
-  
+  ﻿
+### 1 bomba G.P. de 500 lb  
+
 1 bomba de propósito general (G.P., General Purpose) de 500 lb  
 Peso adicional: 237 kg  
 Peso de munición: 227 kg  
 Peso de los soportes: 10 kg  
 Pérdida de velocidad estimada antes de soltar: 13 km/h  
 Pérdida de velocidad estimada tras soltar: 7 km/h  
-﻿### Ala tipo E  
-  
+  ﻿
+### Ala tipo E  
+
 Instalación de 2 ametralladoras de 12,7 mm «Browning .50» en lugar de 4 ametralladoras de 7,7 mm «Browning .303»  
 Peso adicional: 48 kg  
 Peso de munición: 70 kg  
 Peso del armamento: 72 kg  
 Ganancia de velocidad estimada: 5 km/h  
-﻿### Mira giroscópica  
-  
+  ﻿
+### Mira giroscópica  
+
 Instalación de una mira giroscópica Mk.II, en lugar de la mira refectora fija  
 Peso adicional: 5,2 kg (11,5 lb)  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Motor Merlin 70  
-  
+  ﻿
+### Motor Merlin 70  
+
 Nuevo motor Merlin 70   
 Peso adicional: 0 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Espejo  
-  
+  ﻿
+### Espejo  
+
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 1 km/h  
-﻿### 2 cohetes RP-3 en lanzadores Mk.I  
-  
+  ﻿
+### 2 cohetes RP-3 en lanzadores Mk.I  
+
 2 cohetes no guiados de 3 pulgadas (76 mm) RP-3 semiperforante con carga explosiva (SAP/HE) o perforante (AP en carriles de lanzamiento Mk.I  
   
 2 cohetes RP-3 SAP/HE:  
@@ -204,8 +211,9 @@ Peso de munición: 55 kg (121 lb)
 Peso de los soportes: 20 kg (44 lb)  
 Pérdida de velocidad estimada antes de lanzarlos: 21 km/h (46,3 mph)  
 Pérdida de velocidad estimada tras lanzarlos: 17 km/h (37,5 mph)  
-﻿### Alas recortadas  
-  
+  ﻿
+### Alas recortadas  
+
 Alas recortadas  
 Peso retirado: 4 kg  
 Pérdida de velocidad estimada: 0 km/h  

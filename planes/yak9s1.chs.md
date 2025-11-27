@@ -1,9 +1,9 @@
 # Yak-9 ser.1  
-  
+
 ![yak9s1](../images/yak9s1.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：152~160 km/h  
 起降构型的失速指示空速：136~141 km/h  
 俯冲极速：750 km/h  
@@ -108,25 +108,28 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
+
 ## 修改  
 ### 着陆灯  
-  
+
 夜间飞行用的着陆灯  
 增加质量：2 kg  
 预期速度损失：0 km/h  
+
 ### 后视镜  
-  
+
 后视镜  
 增加质量：1 kg  
 预期速度损失：0 km/h  
+
 ### 反射式射击瞄准具  
-  
+
 PBP-1A反射式射击瞄准具  
 增加质量：0.5 kg  
 预期速度损失：0 km/h  
+
 ### RPK-10 无线电罗盘  
-  
+
 用于无线电信标导航的固定环形无线电罗盘  
 增加质量：10 kg  
 预期速度损失：0 km/h  

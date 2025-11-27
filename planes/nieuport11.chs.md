@@ -1,9 +1,9 @@
 # Nieuport 11.C1  
-  
+
 ![nieuport11](../images/nieuport11.png)  
-  
+
 ## 描述  
-  
+
 The Nieuport 11 "Bebe" ("Baby") was a further development of the concepts proposed by Gustav Delage, who was the designer of the Nieuport 10. In general, the Bebe was designed as a single-seat sesquiplane fighter. Its lower wing consisted of one spar and had a much narrower chord than the upper wing, and it was fastened to the upper wing with Vee-shaped interplane struts. A drawback of this design was the weakly built construction of the lower wing, thus making it prone to twisting and bending when under high G loads. Similar problems were common to other sesquiplanes, including the whole family of Nieuports from the "10" to the "23," the Albatros D.III and D.V, etc.  
 The first Nieuport 11s arrived at the French front in January 1916. The Bebe quickly became a formidable adversary for the monoplane Fokker Eindecker, surpassing it in almost every way. In addition to ailerons, elevators were now attached to a conventional tailplane with a vertical stabiliser and a deflecting rudder. These upgrades greatly improved manoeuvrability and precise control of the aircraft, compared with older types equipped with wing warping and balanced \Morane\ type elevators. The emergence of the Nieuport 11 at the front finally put an end to the devastating superiority of the Fokker monoplanes, which for a time had become known as the "Fokker Scourge." During the Battle of Verdun in February 1916, Nieuport 11s inflicted heavy damage on the enemy\s air forces, which forced the German High Command to review the tactics of combat aircraft. Many famous aces of WWI (including Georges Guynemer) had their first major successes flying the Bebe.  
   
@@ -50,46 +50,54 @@ References
 1) Nieuport Fighters in action. Aircraft Number 167.  
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.  
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Alidas）瞄准具  
-  
+
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)  
 增加质量：2 kg  
+
 ### 高度计  
-  
+
 佩尔特雷拉菲切型高度计(0至5000m)  
 增加质量：1 kg  
+
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 罗盘  
-  
+
 L.麦克森型罗盘  
 增加质量：1 kg  
+
 ### 勒克雷蒂安（LeChretien）瞄准具  
-  
+
 勒克雷蒂安（LeChretien）折射型直筒瞄准具  
 增加质量：1 kg  
+
 ### LePrieur rockets  
-  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 增加质量：36 kg  
 弹药质量：16 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：8 km/h  
 投弹后预期速度损失：6 km/h  
+
 ### 风速计  
-  
+
 E.巴丁型风速计(2000m时70至200km/h，4000m时80至220km/h)  
 增加质量：1 kg  
-﻿### 机翼上加装两挺刘易斯机枪  
-  
+  ﻿
+### 机翼上加装两挺刘易斯机枪  
+
 机翼上额外加装两挺刘易斯机枪。  
 弹药：582发7.69mm弹药（6个弹鼓，每个97发）  
 弹丸重量：11 g  

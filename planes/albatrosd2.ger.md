@@ -1,9 +1,9 @@
 # Albatros D.II  
-  
+
 ![albatrosd2](../images/albatrosd2.png)  
-  
+
 ## Beschreibung  
-  
+
 Als erstgeborenes Mitglied der Ruhmeshalle der Albatros Jagdflugzeuge wurde der Name Symbol und Sinnbild für Jagdeinsitzer des ersten Weltkrieges. Das Flugzeug stellte die nächste Evolutionsstufe im Flugzeugbau dar und wurde unter der Leitung von Robert Thelen entwickelt. Zusätzlich zu der vorhandenen klaren aerodynamischen Form wurde das neue Model zusätzlich mit mittigen N-förmigen Streben ausgerüstet. Die obere Tragfläche wurde näher zum Rumpf installiert, auf Augenhöhe des Piloten. Fruhe Versionen dieses Typs waren mit kastenformigen Windhoff-Kuhlern ausgestattet, auf beiden Seiten des Rumpfes.  
 Das Flugzeug wurde von Fabriken der folgenden Herstellern produziert: Albatros Werke , Ostdeutsche Albatros Werke , Luft-Verkehrs-Gesellschaft mbH. Insgesammt wurden 768 Albatros D.II gebaut.  
 Im August 1916 erreichten die ersten Chargen von Albatros D.I und D.II Jagdeinsitzern die Front. Zwei Spandau Mgs wurden zur Standardbewaffnung für alle nachfolgenden Deutschen Jagdflugzeuge. Als Piloten mit Luftkampf- und Kunstflugerfahrung diese Maschinen in die Hände bekamen, errang die D.II große Erfolge in der Lufthoheit. Die rapide Massenproduktion der Albatros Jagdeinsitzer ermöglichte die Überlegenheit der Deutschen Luftstreitkräfte die bis zum April 1917 andauerte. "Bloody April" wurde zum Synonym für die schweren Britischen Verluste an Piloten und Flugzeugen im Jahr 1917.  
@@ -51,17 +51,19 @@ Referenzen
 4) Albatros Aces of WWI by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros D.II, Flugzeugprofile №38.  
-  
-## Änderungen  
-﻿### Aldis (Trophäe)  
-  
+
+## Änderungen  ﻿
+### Aldis (Trophäe)  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Kompensierter Höhenmesser,  
-  
+  ﻿
+### Kompensierter Höhenmesser,  
+
 D.R.P kompensierter Höhenmesser (0-8000 m)  
-﻿### 20mm Becker Cannon  
-  
+  ﻿
+### 20mm Becker Cannon  
+
 20mm Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -73,23 +75,28 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
-﻿### Uhr  
-  
+  ﻿
+### Uhr  
+
 Taschenuhr  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
 Zusätzliches Gewicht: 1 kg  

@@ -1,9 +1,9 @@
 # Yak-1 ser.23  
-  
+
 ![yak1s23](../images/yak1s23.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 156..172 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 134..147 km/h  
 Velocidad de picado límite: 720 km/h  
@@ -115,19 +115,21 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
   
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7,4 l/min  
-  
-## Modificaciones  
-﻿### Motor M-105PA  
-  
+
+## Modificaciones  ﻿
+### Motor M-105PA  
+
 Instalación de un motor M-105PA, que cuenta con un refuerzo estructural del cárter y de las bielas. Añadido control de potenciación del motor.  
 Peso adicional: 30 kg  
-﻿### Radiotransmisor  
-  
+  ﻿
+### Radiotransmisor  
+
 Radiotransmisor RSI-4  
 Peso adicional: 12,6 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### 6 cohetes ROS-82  
-  
+  ﻿
+### 6 cohetes ROS-82  
+
 6 cohetes no guiados explosivos (HE) de 82 mm ROS-82  
 Peso adicional: 60 kg  
 Peso de munición: 42 kg  

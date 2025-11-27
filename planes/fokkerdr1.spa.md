@@ -1,9 +1,9 @@
 # Fokker Dr.I  
-  
+
 ![fokkerdr1](../images/fokkerdr1.png)  
-  
+
 ## Descripción  
-  
+
 En la primavera de 1917, durante una visita al Jasta 11, Anthony Fokker inspeccionó la construcción de un avión británico capturado, el Sopwith Triplane. Manfred von Richthofen explicó los detalles de su pelea con este nuevo aeroplano al constructor. Concluyeron que el Barón Rojo salió invicto solo gracias su gran experiencia en combate.  
   
 El prototipo del triplano F.I (el nombre por entonces del Dr.I) estuvo listo en agosto de 1917. Los detalles más reseñables de este avión fueron: estructura del fuselaje en tubos de acero así como láminas metálicas para la cola y estabilizadores; ausencia de cables de refuerzo; y la ubicación de los alerones en el ala superior. El avión era más compacto y robusto que el Sopwith Triplane británico. En total, 320 Dr.I fueron construidos.  
@@ -72,29 +72,34 @@ Referencias:
 7) Fokker Dr.I in action, por H J Nowarra, Aircraft Number 68.  
 8) The Fokker Dr.I, Profile publications, número 55.  
 9) The Fokker Triplane, Magazine «FLIGHT» 14 de marzo de 1918.  
-  
-## Modificaciones  
-﻿### Contador de Balas  
-  
+
+## Modificaciones  ﻿
+### Contador de Balas  
+
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras  
 Peso adicional: 1 kg  
-﻿### Inclinómetro  
-  
+  ﻿
+### Inclinómetro  
+
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Colimador diurno  
-  
+  ﻿
+### Colimador diurno  
+
 Colimador reflectante Oigee (con filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Colimador nocturno  
-  
+  ﻿
+### Colimador nocturno  
+
 Colimador reflectante Oigee (sin filtro solar instalado)  
 Peso adicional: 2 kg  

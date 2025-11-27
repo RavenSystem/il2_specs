@@ -1,9 +1,9 @@
 # Pfalz D.IIIa  
-  
+
 ![pfalzd3a](../images/pfalzd3a.png)  
-  
+
 ## Description  
-  
+
 L\avion a été conçu par Pfalz Flugzeugwerke. Les ingénieurs allemands été impressionnés par le célèbre chasseur français Neuport conçu comme un avion et demi. Leur conception était basée sur les réalisations des ingénieurs français. Le premier vol d\essai a été effectué en mai 1917. Le design comportait des mitrailleuses montées sur les cotés du moteur, le cable de controle d\aileron a été placé dans l\aile inférieure. Une moitié d\année après le Pfalz D IIIa a été fait avec a un moteur plus puissant, une queue plus fine, la forme de l\aile inférieure modifiée et les mitrailleuses dans la ligne de l\oeil du pilote. 1010 Pfalz D.III et D.IIIa ont été construits au total.  
   
 En juin 1917 les premiers chasseurs sont entrés en service dans des escadrons de combat. Le Pfalz a été utilisé pour l\escorte de bombardiers et aussi engagés contre les chasseurs ennemis et les ballons. Les pilotes ont noté une visibilité du cockpit exceptionnelle, une bonne maniabilité, stabilité lors de tirs, la vitesse et le taux de montée ont été décrits comme bons. Certains pilotes ont affirmé que la sensibilité des contrôles était encore meilleure alors avec l\Albatros D.V. lors de fortes plongées en combat et les atterrissages ont prouvé sa résistance . Les pilotes anglais et français disent que vous pouvez l\abattre seulement quand le pilote est sérieusement blessé ou tué. L\installation plus tard d\un moteur Mercedes d. IIIA, a légèrement augmenté les caractéristiques de vol. L\avion a participé à des batailles sur les fronts occidentaux et turques.  
@@ -56,41 +56,49 @@ References
 3) Pfalz scout Aces of World War I.  Greg Van Wyngarden, Osprey № 71.  
 4) Flight magazine, Aprel 1918.  
 5) The Pfalz D.III , Profile Publications Number 43.  
-  
-## Modifications  
-﻿### Haut Altimètre  
-  
+
+## Modifications  ﻿
+### Haut Altimètre  
+
 D.R.P Altimètre (0-8000 m)  
 Masse supplémentaire : 1 kg  
-﻿### Compteur de balles  
-  
+  ﻿
+### Compteur de balles  
+
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses  
 Masse supplémentaire : 1 kg  
-﻿### Inclinometre  
-  
+  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
+
 ### Thermometre  
-  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

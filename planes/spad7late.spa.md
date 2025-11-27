@@ -1,9 +1,9 @@
 # SPAD 7.C1 180 CV  
-  
+
 ![spad7late](../images/spad7late.png)  
-  
+
 ## Descripción  
-  
+
 El SPAD S.VII fue un caza monoplaza desarrollado por Louis Bechereau de la Société Pour L\Aviation et ses Dérivés a principios de 1916. Buena parte de su diseño fue tomado del desarrollo del SPAD de motor rotativo, el SPAD tipo A. El motor inicial para equipar el SPAD S.VII, el Hispano-Suiza 8A de 150 CV, fue desarrollado inicialmente por el ingeniero suizo Marc Birkigt en febrero de 1915.  
   
 El prototipo de avión, que fue llamado SPAD V, voló por primera vez en abril de 1916. Este avión tenía inicialmente un rotor cónico con una apertura central que estaba combinada con una cubierta y radiador circulares. Aunque finalmente el rotor cónico fue eliminado, el radiador circular así como la cubierta quedaron como características que definían este modelo. Los test de vuelo mostraron que el avión poseía una excelente velocidad máxima y tasa de ascenso. Además, la sólida construcción del fuselaje dotaba al avión con un rendimiento de picado mayor que los Nieuport, de construcción más ligera, conocidos por su tendencia a perder el ala inferior en fuertes picados. Con estas prometedoras características en mente, el avión fue enviado a producción como el SPAD S.VII el 10 de mayo de 1916.  
@@ -54,22 +54,25 @@ Referencias:
 2) Windsock Datafile 008 - Spad 7.C1  
 3) SPAD 150 CV armamento, dic.1917  
 4) French «Hispano Suiza» engines tech data.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis (importado de Gran Bretaña)  
 Peso adicional: 2 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Colimador reflectante Le-Chretien  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora adicional Lewis de posición variable montada sobre al ala superior.  
 Munición: 291 balas de 7,69 mm (3 tambores con 97 balas cada uno)  
 Posición hacia delante: 25º  
@@ -82,15 +85,17 @@ Peso del soporte: 0,8 kg
 Peso de la munición: 12 kg  
 Peso total: 20,3 kg  
 Pérdida de velocidad estimada: 7-18 km/h  
-﻿### Cohetes Le Prieur  
-  
+  ﻿
+### Cohetes Le Prieur  
+
 6 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la perforación de la envoltura del globo o con una granada altamente explosiva.  
 Peso adicional: 36 kg  
 Peso de munición: 12 kg  
 Peso de los soportes: 24 kg  
 Pérdida de velocidad estimada antes de soltar: 8 km/h  
 Pérdida de velocidad estimada tras soltar: 6 km/h  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro E. Badin (0..230 km/h a 0 m y 0..240 km/h a 2000 m)  
 Peso adicional: 1 kg  

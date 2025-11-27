@@ -1,9 +1,9 @@
 # Bf 109 G-6 spät  
-  
+
 ![bf109g6late](../images/bf109g6late.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 161..179 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 153..170 km/h  
 Velocidad de picado límite: 850 km/h  
@@ -118,10 +118,10 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 5,4 l/min  
 	- Modo motor - Combate: 8,6 l/min  
-  
-## Modificaciones  
-﻿### 2 cohetes WGr.21  
-  
+
+## Modificaciones  ﻿
+### 2 cohetes WGr.21  
+
 2 cohetes WGr.21 en lanzadores desechables BR 21  
 Peso adicional: 258 kg  
 Peso de munición: 224 kg  
@@ -129,49 +129,56 @@ Peso de los soportes: 34 kg
 Pérdida de velocidad estimada antes de lanzar: 51 km/h  
 Pérdida de velocidad estimada tras lanzar: 11 km/h  
 Pérdida de velocidad estimada tras soltar lanzadores: 2 km/h  
-﻿### Depósito de combustible de 300 litros  
-  
+  ﻿
+### Depósito de combustible de 300 litros  
+
 Depósito de combustible suspendido desechable con capacidad para 300 litros  
 Peso vacío: 15 kg  
 Peso adicional: 237 kg  
 Capacidad de combustible: 300 l  
 Pérdida de velocidad estimada antes de soltar: 30 km/h  
 Pérdida de velocidad estimada tras soltar: 10 km/h  
-﻿### Erla haube  
-  
+  ﻿
+### Erla haube  
+
 Sustitución de la cubierta estándar de dos piezas por una Erla haube (cubierta Erla, en alemán)  
 Peso retirado: 9 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### 2 cañones de 20 mm MG 151/20  
-  
+  ﻿
+### 2 cañones de 20 mm MG 151/20  
+
 2 cañones de 20 mm MG 151/20 montados en carcasas exteriores subalares con 135 balas cada uno  
 Peso adicional: 212 kg  
 Peso de munición: 55 kg  
 Peso del armamento: 157 kg  
 Pérdida de velocidad estimada: 13 km/h  
-﻿### 1 cañón de 30 mm MK 108  
-  
+  ﻿
+### 1 cañón de 30 mm MK 108  
+
 1 cañón de 30 mm MK 108 montado en el morro con 65 balas  
 Peso adicional: 4 kg  
 Peso de munición: 38 kg  
 Peso de cañón: 58 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Sistema MW-50  
-  
+  ﻿
+### Sistema MW-50  
+
 Sistema de inyección de mezcla de agua y metanol MW-50   
 Peso adicional: 84 kg  
 Peso de la mezcla de agua y metanol: 63 kg  
 Aumento de velocidad estimado a nivel del mar: 45 km/h  
-﻿### 1 bomba SC 250  
-  
+  ﻿
+### 1 bomba SC 250  
+
 1 bomba de propósito general de 249 kg SC 250  
 Peso adicional: 279 kg  
 Peso de munición: 249 kg  
 Peso de los soportes: 30 kg  
 Pérdida de velocidad estimada antes de soltar: 33 km/h  
 Pérdida de velocidad estimada tras soltar: 11 km/h  
-﻿### 4 bombas SD 70  
-  
+  ﻿
+### 4 bombas SD 70  
+
 4 bombas de fragmentación de 66 kg SD 70  
 Peso adicional: 304 kg  
 Peso de munición: 264 kg  

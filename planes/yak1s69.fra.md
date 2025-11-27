@@ -1,9 +1,9 @@
 # Yak-1 sér.69  
-  
+
 ![yak1s69](../images/yak1s69.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 155..171 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 133..146 km/h  
 Vitesse limite de piqué : 720 km/h  
@@ -117,11 +117,11 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
-  
+
 ## Modifications  
-  
+
 ### 2 bombes FAB-100M   
-  
+
 2 bombes d’emploi général FAB-100M de 104 kg  
 Masse supplémentaire : 228 kg  
 Masse des munitions : 208 kg  
@@ -129,20 +129,23 @@ Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
   
+
 ### 2 bombes FAB-50sv  
-  
+
 2 bombes d’emploi général FAB-50sv de 50 kg  
 Masse supplémentaire : 120 kg  
 Masse des munitions : 100 kg  
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 20 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
-﻿### Female Pilot  
-  
+  ﻿
+### Female Pilot  
+
 Lydia (Lilya) Vladimirovna Litvyak (18 August 1921 - 1 August 1943) - a Soviet fighter pilot, flight commander, Guards Junior Lieutenant, most successful female pilot of World War 2, Hero of the Soviet Union. Later research confirms 4 individual and 3 shared victories in aerial combat, as well as 1 aerostat shot down. Killed in action at the age of less than 22 years in a battle over the Mius Front.  
   ﻿
+
 ### 2 roquettes ROS-82  
-  
+
 2 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm  
 Masse supplémentaire : 60 kg  
 Masse des munitions : 42 kg  
@@ -150,8 +153,9 @@ Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 8 km/h  
 Perte estimée de vitesse après le lancement : 6 km/h  
   ﻿
+
 ### 6 roquettes ROS-82  
-  
+
 6 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm  
 Masse supplémentaire : 60 kg  
 Masse des munitions : 42 kg  
@@ -159,8 +163,9 @@ Masse des rails : 18 kg
 Perte estimée de vitesse avant le lancement : 23 km/h  
 Perte estimée de vitesse après le lancement : 17 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  

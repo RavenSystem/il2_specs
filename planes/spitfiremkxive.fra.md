@@ -1,9 +1,9 @@
 # Spitfire Mk.XIVe  
-  
+
 ![spitfiremkxive](../images/spitfiremkxive.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 153..173 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 145..164 km/h  
   
@@ -109,47 +109,54 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
 	- Combat engine mode: 12.9 l/min  
-  
-## Modifications  
-﻿### 150 grade fuel  
-  
+
+## Modifications  ﻿
+### 150 grade fuel  
+
 Allows +21 lb boost  
 Supercharger gear shift automat is disabled. Stages should be manually switched at 11000ft altitude.  
 Estimated speed increase at sea level: 20 km/h  
-﻿### 2 bombes 250 lb G.P.  
-  
+  ﻿
+### 2 bombes 250 lb G.P.  
+
 2 bombes d’emploi général 250 lb G.P.  
 Masse supplémentaire : 247 kg  
 Masse des munitions : 227 kg  
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 22 km/h  
 Perte estimée de vitesse après le largage : 11 km/h  
-﻿### 500 lb G.P.  
-  
+  ﻿
+### 500 lb G.P.  
+
 Le bombe d’emploi général 500 lb G.P.  
 Masse supplémentaire : 237 kg  
 Masse des munitions : 227 kg  
 Masse des pylones : 10 kg  
 Perte estimée de vitesse avant le largage : 12 km/h  
 Perte estimée de vitesse après le largage : 6 km/h  
-﻿### Recon camera  
-  
+  ﻿
+### Recon camera  
+
 F.24 camera installation behind the cockpit (clipped wing only)  
 Additional mass: 28 kg  
 Estimated speed loss: 0 km/h  
-﻿### Rounded exhaust pipes  
-  
+  ﻿
+### Rounded exhaust pipes  
+
 Rounded exhaust pipes  
-﻿### Miroir  
-  
+  ﻿
+### Miroir  
+
 Miroir pour voir lhémisphère arrière  
 Additional mass: 1 kg  
 Estimated speed loss: 1 km/h  
-﻿### Reflector Gunsight  
-  
+  ﻿
+### Reflector Gunsight  
+
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight  
-﻿### Clipped Wing  
-  
+  ﻿
+### Clipped Wing  
+
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h  

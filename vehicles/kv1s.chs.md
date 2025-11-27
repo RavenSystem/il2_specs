@@ -1,9 +1,9 @@
 # KV-1S ChTZ（1943型）  
-  
+
 ![kv1s](../images/kv1s.png)  
-  
+
 ## 描述  
-  
+
 该型坦克由车里雅宾斯克坦克厂设计局在1942年夏季设计。1942年末在顿河和沃罗涅日方面军中首次参加战斗。  
   
 该坦克设计基于其前身KV-1重型坦克。由于KV-1较低的机动性和可靠性，KV-1s（“s”的意思是“skorostnoy”-快速）被设计以减少的装甲防护为代价换取更好的可靠性和机动性。  
@@ -92,10 +92,11 @@ PT4-7 gunner panoramic periscopic sight, field of view 26°.
 <b><u>Radio equipment:</u></b>  
 VHF 9-RM transceiver.  
 4 intercom terminals.  
-  
+
+
 ## 修改  
 ### 穿甲弹  
-  
+
 BR-350BSP  
   
 没有炸药装填的实心穿甲弹  
@@ -108,8 +109,9 @@ BR-350BSP
 500m时：装甲穿深 73mm，速度 585 m/s，下坠高度 3.2m  
 1000m时：装甲穿深 62mm，速度 524 m/s，下坠高度 13.6m  
 2000m时：装甲穿深 47mm，速度 429 m/s，下坠高度 63.5m  
+
 ### 穿甲榴弹  
-  
+
 BR-350B  
   
 炮弹上装有爆炸弹头。  
@@ -122,11 +124,13 @@ BR-350B
 500m时：装甲穿深 72mm，速度 584 m/s，下坠高度 3.2m  
 1000m时：装甲穿深 61mm，速度 522 m/s，下坠高度 13.6m  
 2000m时：装甲穿深 46mm，速度 427 m/s，下坠高度 64m  
+
 ### Removed Fuel Tank  
-  
+
 The external rear-mounted fuel tank was commonly removed on the Eastern front.  
-﻿### 榴弹  
-  
+  ﻿
+### 榴弹  
+
 OF-350  
   
 对抗软目标、无装甲和轻装甲目标效果好。  
@@ -139,8 +143,9 @@ OF-350
 500m时：速度 ：616 m/s，下坠高度 3.0m  
 1000m时：速度 ：558 m/s，下坠高度 12.5m  
 2000m时：速度 ：468 m/s，下坠高度 56.7m  
-﻿### 次口径穿甲弹  
-  
+  ﻿
+### 次口径穿甲弹  
+
 BR-354P  
   
 装有次口径穿甲弹芯的炮弹  

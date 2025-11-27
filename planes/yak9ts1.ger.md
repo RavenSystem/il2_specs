@@ -1,9 +1,9 @@
 # Yak-9T Brh.1  
-  
+
 ![yak9ts1](../images/yak9ts1.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 157..165 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 139..145 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 750 km/h  
@@ -109,31 +109,35 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
-## Änderungen  
-﻿### Munitionszähler  
-  
+
+## Änderungen  ﻿
+### Munitionszähler  
+
 NS-37 Kanone Munitionszähler  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Scheinwerfer  
-  
+  ﻿
+### Scheinwerfer  
+
 Landescheinwerfer für Nachtflüge  
 Zusätzliches Gewicht: 2 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Rückspiegel  
-  
+  ﻿
+### Rückspiegel  
+
 Rückspiegel  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### PBP-1A Reflexvisier  
-  
+  ﻿
+### PBP-1A Reflexvisier  
+
 PBP-1A Reflexvisier  
 Zusätzliches Gewicht: 0.5 kg  
 Geschwindigkeitsverlust: 0 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen  
 Zusätzliches Gewicht: 10 kg  
 Geschwindigkeitsverlust: 0 km/h  

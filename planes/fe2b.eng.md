@@ -1,9 +1,9 @@
 # F.E.2b  
-  
+
 ![fe2b](../images/fe2b.png)  
-  
+
 ## Description  
-  
+
 The F.E.2 was a biplane with a pusher propeller and a sprung landing gear with a front support wheel to minimize the risk of overturning during a bad landing. The entire trailing edge of the upper center section was hinged along the rear spar and could be lowered to act as a flap-type air brake. The forward cockpit was occupied by the observer gunner, with the pilot sitting behind him at a higher level. The engine was almost completely cowled and drove a two-blade pusher propeller.  
   
 Interestingly, in February 1915, this type of plane was tested with a brake parachute. This was probably the first time in history that a braking parachute was used on an airplane. A newly designed air brake that had been used on the first F.E.2a was also tested, but the air brake was eventually abandoned.  
@@ -57,10 +57,10 @@ References
 1) Windsock Datafile 18 RAF FE 2b, by J.M. Bruce.  
 2) Windsock Datafile 147 RAF FE 2b at War, by Paul R Hare.  
 2) WWI Aeroplanes by J.M. Bruce.  
-  
+
 ## Modifications  
 ### Cooper / H.E.R.L. / H.E.R.F.C. bombs  
-  
+
 Up to 12 x 11 kg (24 lb) General Purpose Bombs  
 Additional mass: 167 kg  
 Ammunition mass: 131 kg  
@@ -81,28 +81,34 @@ Ammunition mass: 104 kg
 Racks mass: 16 kg  
 Estimated speed loss before drop: 5 km/h  
 Estimated speed loss after drop: 3 km/h  
+
 ### Clock  
-  
+
 Mechanical Clock  
 Additional mass: 1 kg  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Fuel Gauge  
-  
+  ﻿
+### Fuel Gauge  
+
 Needle Scale fuel level Gauge  
 Additional mass: 1 kg  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

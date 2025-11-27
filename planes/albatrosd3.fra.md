@@ -1,9 +1,9 @@
 # Albatros D.III  
-  
+
 ![albatrosd3](../images/albatrosd3.png)  
-  
+
 ## Description  
-  
+
 Après avoir enquêtés sur la construction du chasseur Nieuport, les ingénieurs allemands ont conçu une aile inférieure de leur nouvel avion plus étroite et plus courteque celle de dessus. Les bouts d\ailes sont devenus balayés, ce qui a aidé à éviter les vibrations des ailes.  Parmi les autres solutions remarquables de conception, celles-ci peuvent être mentionnées: les barres de commande d\aileron ont été établies grâce à l\aile inférieure, le radiateur a été déplace de du coté du fuselage vers le milieu de l\aile supérieure, et les ailes sont supportées par des pièces en V. La réduction du poids était l\une des tâches principales pour ce moment.   
   
 Les vols test ont débuté en Août — Septembre 1916, et en Decembre 1916 l\avion a été livré aux escadrons de chasse. De sérieux mois de combats ont révélé que l\avion perd son aile inférieure lors de plongées et de virages accentués. L\au du radiateur, placé sur l\aile supérieure, se répandait sur la mitrailleuse rendait le tir impossible. Après cela, le radiateur a été placé sur le coté droit du pilote. Depuis Juin 1917 les ingénieurs ont commencé à utiliser le nouveau radiateur cellulaire Daimler qui aida à résoudre le problème avec la surchauffe du moteur.  
@@ -57,33 +57,39 @@ References
 4) Albatros Aces of World War I by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros fighters, Windsock Datafile Special.  
-  
-## Modifications  
-﻿### Aldis (Trophée)  
-  
+
+## Modifications  ﻿
+### Aldis (Trophée)  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Compteur de balles  
-  
+  ﻿
+### Compteur de balles  
+
  Compteur digital Wilhelm Morell pour mitrailleuse gauche  
 Masse supplémentaire : 0.5 kg  
-﻿### Haut Altimètre  
-  
+  ﻿
+### Haut Altimètre  
+
 D.R.P Altimètre (0-8000 m)  
-﻿### Montre de bord  
-  
+  ﻿
+### Montre de bord  
+
 Montre mécanique  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Cockpit mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 8°  
@@ -96,11 +102,13 @@ Mount weight: 4 kg
 Ammo weight: 12 kg  
 Total weight: 23 kg  
 Estimated speed loss: 2-6 km/h  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
-﻿### Thermometre  
-  
+  ﻿
+### Thermometre  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

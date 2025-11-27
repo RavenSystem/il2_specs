@@ -1,9 +1,9 @@
 # LaGG-3 sér.4  
-  
+
 ![lagg3s4](../images/lagg3s4.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 167..193 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 142..170 km/h  
 Vitesse limite de piqué : 750 km/h  
@@ -108,17 +108,18 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
-## Modifications  
-  ﻿
+
+## Modifications  ﻿
+
 ### RPK-10  
-  
+
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
   ﻿
+
 ### 8 roquettes ROS-82   
-  
+
 8 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm  
 Masse supplémentaire : 80 kg  
 Masse des munitions : 56 kg  

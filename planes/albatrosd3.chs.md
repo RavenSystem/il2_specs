@@ -1,9 +1,9 @@
 # Albatros D.III  
-  
+
 ![albatrosd3](../images/albatrosd3.png)  
-  
+
 ## 描述  
-  
+
 Having investigated the construction of captured Nieuport fighter aircraft, German engineers designed the lower wing of their new plane to be narrower and shorter than the upper one. The wing tips were swept in an effort to eliminate wing vibration. Among other remarkable design solutions, the following can be mentioned: the aileron control rods were drawn through the lower wing, the radiator was moved from the side of the fuselage to the middle of the upper wing, and the wings were now supported by V-shaped struts. Weight reduction was one of the primary tasks for this particular aircraft.  
   
 Test flights began in late August or early September 1916 and in December the plane was first delivered to fighter squadrons. Several months of combat action revealed that the plane had a tendency to lose its lower wing in a steep dive or in a sharp turn. Water from the radiator, which was fitted on the upper wing, would spill onto the machine guns, thus making firing impossible. The radiator was relocated to the right side of the pilot in order to correct this problem. From June 1917, engineers began using Daimler’s new cellular radiator, which helped to solve problems with the engine overheating.  
@@ -57,33 +57,39 @@ minimal consumption (cruise) - 3 h. 10 min.
 4) Albatros Aces of World War I by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros fighters, Windsock Datafile Special.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具（战利品）  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### 弹药计数器  
-  
+
 威廉·莫雷尔(Wilhelm Morell)双机枪数字子弹计数器  
 增加质量：1 kg  
+
 ### 高空高度计  
-  
+
 德意志帝国（D.R.P.）高度表（0-8000m）  
+
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
-﻿### 刘易斯（Lewis）翼上机枪  
-  
+  ﻿
+### 刘易斯（Lewis）翼上机枪  
+
 安装在驾驶舱里可移动的附加刘易斯（Lewis）机枪  
 弹药：291发7.69mm弹药（3个弹鼓，每个97发）  
 前方位置：8°  
@@ -96,11 +102,13 @@ minimal consumption (cruise) - 3 h. 10 min.
 弹药重量：12 kg  
 总重：23 kg  
 预期速度损失：2-6 km/h  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  
-﻿### 温度计  
-  
+  ﻿
+### 温度计  
+
 A·施莱格米尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
 增加质量：1 kg  

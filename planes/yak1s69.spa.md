@@ -1,9 +1,9 @@
 # Yak-1 ser.69  
-  
+
 ![yak1s69](../images/yak1s69.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 155..171 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 133..146 km/h  
 Velocidad de picado límite: 720 km/h  
@@ -117,45 +117,50 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
   
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7,4 l/min  
-  
-## Modificaciones  
-﻿### 2 bombas FAB-100M  
-  
+
+## Modificaciones  ﻿
+### 2 bombas FAB-100M  
+
 2 bombas de propósito general de 104 kg FAB-100M  
 Peso adicional: 228 kg  
 Peso de munición: 208 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 27 km/h  
 Pérdida de velocidad estimada tras soltar: 12 km/h  
-﻿### 2 bombas FAB-50sv  
-  
+  ﻿
+### 2 bombas FAB-50sv  
+
 2 bombas de propósito general de 50 kg FAB-50sv  
 Peso adicional: 120 kg  
 Peso de munición: 100 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 20 km/h  
 Pérdida de velocidad estimada tras soltar: 12 km/h  
-﻿### Piloto femenino  
-  
+  ﻿
+### Piloto femenino  
+
 Lydia (Lilya) Vladimirovna Litvyak (18 de agosto de 1921 - 1 de agosto de 1943): piloto de caza soviético, comandante de vuelo, subteniente de la guardia (gvardii mladshiy leytenant), la mujer piloto con más exitos de la Segunda Guerra Mundial, Héroe de la Unión Soviética. Investigaciones posteriores confirman 4 victorias individuales y 3 compartidas en combates aéreos, así como el derribo de 1 aerostato. Murió en combate con menos de 22 años de edad en una batalla sobre el frente de Mius.  
-﻿### 2 cohetes ROS-82  
-  
+  ﻿
+### 2 cohetes ROS-82  
+
 2 cohetes no guiados explosivos (HE) de 82 mm ROS-82  
 Peso adicional: 60 kg  
 Peso de munición: 42 kg  
 Peso de los soportes: 18 kg  
 Pérdida de velocidad estimada antes de lanzarlos: 8 km/h  
 Pérdida de velocidad estimada tras lanzarlos: 6 km/h  
-﻿### 6 cohetes ROS-82  
-  
+  ﻿
+### 6 cohetes ROS-82  
+
 6 cohetes no guiados explosivos (HE) de 82 mm ROS-82  
 Peso adicional: 60 kg  
 Peso de munición: 42 kg  
 Peso de los soportes: 18 kg  
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h  
 Pérdida de velocidad estimada tras lanzarlos: 17 km/h  
-﻿### RPK-10  
-  
+  ﻿
+### RPK-10  
+
 Radiogoniómetro para navegación con radiobalizas  
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  

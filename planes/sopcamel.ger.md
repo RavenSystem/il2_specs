@@ -1,9 +1,9 @@
 # Sopwith Camel  
-  
+
 ![sopcamel](../images/sopcamel.png)  
-  
+
 ## Beschreibung  
-  
+
 Die Sopwith Camel basierte auf der Konstruktion des Vorgängers der Sopwith Pup. Unter der Vorgabe, dass eine neues und auch schwereres Triebwerk eingebaut werden sollte, nahm Chefdesigner Herbert Smith einige Änderungen an dem Design vor. Veränderungen wurden am Fahrwerk, an den Tragflächen, am Stabilisator und auch am Rumpf mit dem sogenannten Kamelhöcker vorgenommen. Dieser gab dem Flugzeug dann auch seinen Namen — Sopwith Camel. Ein bemerkenswertes Merkmal war die Kompaktheit: Pilotensitz, Tanks, Maschinengewehre und Triebwerk waren alle kompakt untergebracht. Neben dem Hauptwerk, wurde das Flugzeug gleichzeitig in weiteren Werken gebaut, Ruston Proctor Co, Portholme Aerodrome Ltd, Boulton & Paul Ltd, British Caudron Co. Ltd, Clayton & Shuttleworth Ltd, Hooper & Co. Ltd und anderen. Insgesamt wurden 5.490 Flugzeuge gebaut.  
   
 Erste Tests wurden von der British Squadron N60 im März 1917 durchgeführt. Anschließend flossen kleine Veränderungen in die Fertigung der Sopwith Camel ein. Die Sopwith Camel wurde im Mai 1917 an die Schwadrone ausgeliefert. Sie wurde im Kampf gegen feindliche Flugzeuge und Ballons eingesetzt; ab und zu auch in Einsätzen gegen Bodenziele.  Englische Journalisten nannten dieses Flugzeug auch "das kleine und agile Biest".  
@@ -61,25 +61,28 @@ Referenzen:
 5) Flying the Camel in 1918. FLIGHT International, 2 May 1968.  
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.  
 7) Sopwith Camel Specification.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Cooper Bomben  
-  
+  ﻿
+### Cooper Bomben  
+
 Vier (Zwei) 24 lb Cooper Bomben (11kg)  
 Zusätzliches Gewicht: 56 kg  
 Gewicht der Munition: 44 kg  
 Gewicht der Abwurfwaffenroste: 12 kg  
 Geschwindigkeitsverlust vor Abwurf: 2 km/h  
 Geschwindigkeitsverlust nach Abwurf: 1 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Vergrößertes Fenster  
-  
+  ﻿
+### Vergrößertes Fenster  
+
 Vergrößerter Ausschnitt im oberen Flügel für ein verbessertes Sichtfeld.   
 Geschätzter Geschwindigkeitsverlust: 2 km/h  

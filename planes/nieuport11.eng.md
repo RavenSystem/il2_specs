@@ -1,9 +1,9 @@
 # Nieuport 11.C1  
-  
+
 ![nieuport11](../images/nieuport11.png)  
-  
+
 ## Description  
-  
+
 The Nieuport 11 "Bebe" ("Baby") was a further development of the concepts proposed by Gustav Delage, who was the designer of the Nieuport 10. In general, the Bebe was designed as a single-seat sesquiplane fighter. Its lower wing consisted of one spar and had a much narrower chord than the upper wing, and it was fastened to the upper wing with Vee-shaped interplane struts. A drawback of this design was the weakly built construction of the lower wing, thus making it prone to twisting and bending when under high G loads. Similar problems were common to other sesquiplanes, including the whole family of Nieuports from the "10" to the "23," the Albatros D.III and D.V, etc.  
 The first Nieuport 11s arrived at the French front in January 1916. The Bebe quickly became a formidable adversary for the monoplane Fokker Eindecker, surpassing it in almost every way. In addition to ailerons, elevators were now attached to a conventional tailplane with a vertical stabiliser and a deflecting rudder. These upgrades greatly improved manoeuvrability and precise control of the aircraft, compared with older types equipped with wing warping and balanced \Morane\ type elevators. The emergence of the Nieuport 11 at the front finally put an end to the devastating superiority of the Fokker monoplanes, which for a time had become known as the "Fokker Scourge." During the Battle of Verdun in February 1916, Nieuport 11s inflicted heavy damage on the enemy\s air forces, which forced the German High Command to review the tactics of combat aircraft. Many famous aces of WWI (including Georges Guynemer) had their first major successes flying the Bebe.  
   
@@ -50,46 +50,54 @@ References
 1) Nieuport Fighters in action. Aircraft Number 167.  
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.  
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight (imported from Britain)  
 Additional mass: 2 kg  
+
 ### Altimeter  
-  
+
 Peltret and Lafage Altimeter (0..5000m)  
 Additional mass: 1 kg  
+
 ### Clock  
-  
+
 Mechanical Clock  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Compass  
-  
+
 L.Maxant Compass  
 Additional mass: 1 kg  
+
 ### Le-Chretien  
-  
+
 Le-Chretien Refractor-type Collimator Sight  
 Additional mass: 1 kg  
+
 ### LePrieur rockets  
-  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Additional mass: 36 kg  
 Ammunition mass: 16 kg  
 Racks mass: 20 kg  
 Estimated speed loss before launch: 8 km/h  
 Estimated speed loss after launch: 6 km/h  
+
 ### Anemometer  
-  
+
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)  
 Additional mass: 1 kg  
-﻿### Twin Lewis Overwing  
-  
+  ﻿
+### Twin Lewis Overwing  
+
 Two overwing mounted additional fixed Lewis machineguns.  
 Ammo: 582 of 7.69mm rounds (6 drums with 97 rounds in each)  
 Projectile weight: 11 g  

@@ -1,9 +1,9 @@
 # Spitfire Mk.XIV  
-  
+
 ![spitfiremkxiv](../images/spitfiremkxiv.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 152..172 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 145..163 km/h  
   
@@ -113,56 +113,63 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
 	- Combat engine mode: 12.9 l/min  
-  
-## Änderungen  
-﻿### 150-Oktan-Kraftstoff  
-  
+
+## Änderungen  ﻿
+### 150-Oktan-Kraftstoff  
+
 150-Oktan-Kraftstoff, der einen erhöhten Ladedruck bis +21 erlaubt.  
 Die Ladergänge müssen manuell bei einer Höhe von 3353 m /11000 ft gewechselt werden.  
 Geschwindigkeitsgewinn in Bodennähe: 20 km/h  
   ﻿
+
 ### 2 x Bomben, Typ 250 lb G.P.  
-  
+
 2 x 113-kg-Splitterbomben 250 lb G.P.  
 Zusätzliches Gewicht: 247 kg  
 Gewicht der Munition: 227 kg  
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 22 km/h  
 Geschwindigkeitsverlust nach Abwurf: 11 km/h  
-﻿### Bombe, Typ 500 lb G.P.  
-  
+  ﻿
+### Bombe, Typ 500 lb G.P.  
+
 227-kg-Splitterbombe 500 lb G.P.  
 Zusätzliches Gewicht: 237 kg  
 Gewicht der Munition: 227 kg  
 Gewicht der Abwurfwaffenroste: 10 kg  
 Geschwindigkeitsverlust vor Abwurf: 12 km/h  
 Geschwindigkeitsverlust nach Abwurf: 6 km/h  
-﻿### "E"-Typ Flügel  
-  
+  ﻿
+### "E"-Typ Flügel  
+
 Installation von 2 x 12,7 mm Browning .50 Maschinengewehren anstelle von 4 x 7,7 mm Browning .50 Maschinengewehren  
 Zusätzliches Gewicht: 48 kg  
 Gewicht der Munition: 70 kg  
 Gewicht der Schusswaffen: 72 kg  
 Geschwindigkeitsgewinn: 5 km/h  
-﻿### MkII Kreiselvisier  
-  
+  ﻿
+### MkII Kreiselvisier  
+
 MkII kreiselstabilisiertes Visier  
 Zusätzliches Gewicht: 5,2 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Rückspiegel  
-  
+  ﻿
+### Rückspiegel  
+
 Rückspiegel  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 1 km/h  
-﻿### Maschinengewehre entfernt  
-  
+  ﻿
+### Maschinengewehre entfernt  
+
 Ausbau von flügelmontierten Maschinengewehren zur Reduzierung des Gesamtgewichts.  
 Gewichtseinsparung: 95 kg  
 Entferntes Gewicht der Munition: 42 kg  
 Entferntes Gewicht der Schusswaffen: 53 kg  
 Geschwindigkeitsgewinn: 8 km/h  
-﻿### Gekappter Flügel  
-  
+  ﻿
+### Gekappter Flügel  
+
 Gekappter Flügel  
 Reduziertes Gewicht: 4 kg  
 Geschwindigkeitsverlust: 0 km/h  

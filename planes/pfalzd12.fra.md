@@ -1,9 +1,9 @@
 # Pfalz D.XII  
-  
+
 ![pfalzd12](../images/pfalzd12.png)  
-  
+
 ## Description  
-  
+
 Les ingénieurs de la compagnie ont décidé d\utiliser une aile de section mince semblale au SPAD VII lors de la conception de la modification du chasseur. Cette aile a satisfait les besoins des tactiques de combat utilisées par les pilots allemands: plongée, tirs contre l\ennemi et remontée. La conception avait également le fait d\acoir des surfaces d\aile supérieure et inférieure égales. Initialement, le radiateur a été monté à l\avant du moteur comme sur le Fokker D.VII. Les délais ne permettant pas de concevoir de nouveaux radiateurs les ingénieurs ont donc utilisé un vieux radiateur de la structure en tube qui était inférieure à la cellule du radiateur. 800 avions ont été construits au total.  
   
 Le premier vol a été effectué à la fin février 1918 à Adlershof. En juin 1918 lors des copétitions de chasseurs d\Adlershof l\avion équipé d\un moteur BMW IIIa a été classé deuxième en vitesse de montée: 5 kms eb 17.6 minutes! Après cela il est passé au front pour des test de combat. Les pilotes ont noté une bonne visibilité du cockpit, en particulier en descente, en plongée l\avion était plus rapide que le Fokker D.II, mais moins maniable, ses contrôles étaient un peu lourds. Le 30 juin 1918, l\avion est entré en service avec des escadrons de combat. Il est souvent utilisé en combinaison avec le Fokker D.VII, avec le quel il volait généralement plus bas. Il a surtout été attribué aux pilotes recrue et aux escadrons de soutien.  
@@ -53,41 +53,49 @@ References
 1) Pfalz D.XII by P M Grosz. Windsock Datafile 41.  
 2) The Pfalz D.XII, Profile Publications Number 199.  
 3) WW I Aero №124, May 1989.  
-  
-## Modifications  
-﻿### Compteur de balles  
-  
+
+## Modifications  ﻿
+### Compteur de balles  
+
  Compteur digital Wilhelm Morell pour 2 mitrailleuses  
 Masse supplémentaire : 1 kg  
-﻿### Inclinometre  
-  
+  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Montre de bord  
-  
+  ﻿
+### Montre de bord  
+
 Montre mécanique  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Compas  
-  
+  ﻿
+### Compas  
+
 Compas L.Maxant  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
-﻿### Thermometre  
-  
+  ﻿
+### Thermometre  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

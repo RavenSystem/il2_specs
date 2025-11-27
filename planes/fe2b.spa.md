@@ -1,9 +1,9 @@
 # F.E.2b  
-  
+
 ![fe2b](../images/fe2b.png)  
-  
+
 ## Descripción  
-  
+
 El F.E.2 era un biplano con una hélice de empuje y un tren de aterrizaje amortiguado con una rueda de apoyo delantera para minimizar el riesgo de vuelco durante un mal aterrizaje. En su modelo F.E.2a, toda la parte posterior de la sección superior central estaba articulada a lo largo del larguero trasero y podía ser bajada para actuar como una especie de aerofreno tipo flaps. El artillero observador ocupaba la cabina delantera, mientras que el piloto se situaba detrás de él en una posición más elevada. El motor poseía una cubierta que lo ocultaba casi en su totalidad y accionaba a una hélice de empuje de dos palas.  
   
 En los primeros vuelos del F.E.2a, resultó palpable la ineficacia del diseño del aerofreno tipo flap para reducir la distancia de aterrizaje. Se probaron nuevos diseños de aerofreno como alternativa a este ineficaz sistema, sin resultados positivos. Como dato curioso, en febrero de 1915, se probó un F.E.2a con un pequeño paracaídas en la cola. Fue quizás el primer paracaídas de frenado usado en un aeroplano de la historia. La idea del aerofreno quedaría finalmente desechada en posteriores versiones.  
@@ -57,10 +57,10 @@ Referencias:
 1) Windsock Datafile 18 RAF FE 2b, por J.M. Bruce.  
 2) Windsock Datafile 147 RAF FE 2b at War, por Paul R Hare.  
 2) WWI Aeroplanes por J.M. Bruce.  
-  
-## Modificaciones  
-﻿### Bombas Cooper / H.E.R.L. / H.E.R.F.C.  
-  
+
+## Modificaciones  ﻿
+### Bombas Cooper / H.E.R.L. / H.E.R.F.C.  
+
 Hasta 12 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 167 kg  
 Peso de munición: 131 kg  
@@ -81,28 +81,34 @@ Peso de munición: 104 kg
 Peso de los soportes: 16 kg  
 Pérdida de velocidad estimada antes de soltar: 5 km/h  
 Pérdida de velocidad estimada tras soltar: 3 km/h  
-﻿### Reloj  
-  
+  ﻿
+### Reloj  
+
 Reloj Mecánico  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Indicador nivel de combustible  
-  
+  ﻿
+### Indicador nivel de combustible  
+
 Indicador analógico del nivel de combustible  
 Peso adicional: 1 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Lewis en artillero  
-  
+  ﻿
+### Doble Lewis en artillero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  

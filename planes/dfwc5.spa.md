@@ -1,9 +1,9 @@
 # DFW C.V  
-  
+
 ![dfwc5](../images/dfwc5.png)  
-  
+
 ## Descripción  
-  
+
 El DFW C.V fue un biplano biplaza diseñado y producido en la <i>Deutsche Flugzeug Werke</i> (DFW) cerca de Leipzig. Para diseñar el avión, los ingenieros se propusieron crear un avión ligero, pero con un fuselaje duradero. Sus características estructurales incluían un recubrimiento metálico para las riostras de la sección de cola, una cubierta metálica protegiendo el motor, dos travesaños huecos en las alas y nervios flotantes. El radiador estaba montado encima del motor.  
   
 Su primer vuelo aconteció el 11 de julio de 1916. Después de las pruebas oficiales, el avión fue enviado al frente, donde recibió muy buenas opiniones. A partir de ese momento la aeronave fue producida masivamente en otras fábricas, incluyendo Aviatik, LVG y Halberstadt. Al final de guerra, se habían construido 3955 unidades. El C.V se convirtió en el avión alemán más numeroso en su clase durante la Primera Guerra Mundial.  
@@ -61,14 +61,15 @@ Peso máximo en bombas: 200 kg
 Referencias:  
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.  
 2) Windsock Datafile 53 DFW C.V, por P.M. Grosz.  
-  
-## Modificaciones  
-﻿### Aldis (Trofeo)  
-  
+
+## Modificaciones  ﻿
+### Aldis (Trofeo)  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Cañón Becker de 20 mm en artillero  
-  
+  ﻿
+### Cañón Becker de 20 mm en artillero  
+
 Cañón automático Becker de 20 mm montado sobre anillo en posición de artillero.  
 Munición: 60 balas de 20 mm (4 cargadores con 15 balas cada uno)  
 Tipo de munición: HE/AP (balas explosivas y perforantes)  
@@ -80,8 +81,9 @@ Peso del soporte: 10 kg
 Peso de la munición: 25 kg  
 Peso total: 65 kg  
 Pérdida de velocidad estimada: 6 km/h  
-﻿### Bombas P.u.W.  
-  
+  ﻿
+### Bombas P.u.W.  
+
 Hasta 12 bombas de propósito general de 12,5 kg P.u.W (Prünfanstalt und der Werft Fliegertruppe)  
 Peso adicional: 186 kg  
 Peso de munición: 150 kg  
@@ -95,31 +97,37 @@ Peso de munición: 150 kg
 Peso de los soportes: 36 kg  
 Pérdida de velocidad estimada antes de soltar: 4 km/h  
 Pérdida de velocidad estimada tras soltar: 2 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Instrumentación adicional  
-  
+  ﻿
+### Instrumentación adicional  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
   
 Reloj mecánico  
   
 Peso adicional: 0,5 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Parabellum en artillero  
-  
+  ﻿
+### Doble Parabellum en artillero  
+
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero.  
 Munición: 1500 balas de 7,92 mm (6 tambores con 250 balas cada uno)  
 Peso del proyectil: 10 g  

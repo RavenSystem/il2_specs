@@ -1,9 +1,9 @@
 # Fokker D.VIIF  
-  
+
 ![fokkerd7f](../images/fokkerd7f.png)  
-  
+
 ## 描述  
-  
+
 福克（Fokker）D.VII是由福克飞机制造公司（Fokker-Flugzeugwerke）的雷因霍尔德·普拉茨（Reinhold Platz）设计的。他的任务是制造一款能够击败法国SPAD XIII和英国S.E.5a战斗机的战斗机。该机型的一些显著设计特点包括金属机身结构、厚截面机翼和缺乏支撑线。   
   
 1918年1月21日至2月12日，各种新型战斗机在阿德勒斯霍夫（Adlershof）举行了一场比赛，在比赛中，D.VII原型机被证明是速度最快、最耐用、爬升性能最好的飞机。安东尼·福克（Anthony Fokker）的密友曼弗雷德·冯·里希特霍芬（Manfred von Richthofen）也对原型机进行了评估，并指出了一些小瑕疵。他特别指出，飞机在长时间俯冲中表现出不稳定，后来得到了修正。设计的成功导致它在许多工厂生产，包括福克飞机制造公司、信天翁工厂和东德意志信天翁工厂。到战争结束时，即使不是终极战斗机，福克D.VII也将成为最好的战斗机之一。到1918年底，总共生产了2029架飞机并派往前线。   
@@ -75,33 +75,39 @@ D.VIIF主要提供给最好和最可靠的前线中队。因此，最优秀的�
 8) Technical description and operation manual for Bavarian engine type BMW IIIa 185hp. Bayerische Motoren Werke A.-G.，München 1918.  
 9) NACA REPORT No.135. Performance of B.M.W. 185-horsepower airplane engine. By S.W.Sparrow. Bureau of Standards. 1919.  
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry，Directorate of Research. May，1919.  
-  
+
 ## 修改  
 ### 高空高度计  
-  
+
 德意志帝国（D.R.P.）高度表（0-8000m）  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
+
 ### 瞄准具（昼）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）  
 增加质量：2 kg  
+
 ### 瞄准具（夜）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）  
 增加质量：2 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  
-﻿### 温度计  
-  
+  ﻿
+### 温度计  
+
 A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
 增加质量：1 kg  

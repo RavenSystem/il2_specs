@@ -1,9 +1,9 @@
 # Spitfire Mk.VB  
-  
+
 ![spitfiremkvb](../images/spitfiremkvb.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：137~144 km/h  
 起降构型的失速指示空速：129~135 km/h  
   
@@ -133,15 +133,16 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.2 l/min  
 	- Combat engine mode: 7.7 l/min  
-  
+
 ## 修改  
 ### 梅林45发动机  
-  
+
 梅林45发动机.   
 增加质量：0 kg  
 预期速度损失：0 km/h  
+
 ### 后视镜  
-  
+
 后视镜  
 增加质量：1 kg  
 预期速度损失：0 km/h  

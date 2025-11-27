@@ -1,9 +1,9 @@
 # Sopwith Dolphin  
-  
+
 ![sopdolphin](../images/sopdolphin.png)  
-  
+
 ## Descripción  
-  
+
 El Sopwith Dolphin fue diseñado por la British Sopwith Aviation Co. Para el diseño del avión se tuvieron en cuenta los defectos del Sopwith Camel, entre los que se incluían una mala visibilidad hacia adelante y hacia arriba y las dificultades de manejar un avión con motor rotativo. Para solventar este último problema, los ingenieros decidieron construir el nuevo avión con un motor lineal. El diseño incluyó una disposición compacta de la cabina, tanques de combustible, ametralladoras y motor. En consecuencia, la cabeza del piloto se situó al nivel de la abertura del ala superior y los radiadores se movieron a los lados del fuselaje, por detrás de la cabina. Los primeros vuelos de prueba se hicieron en mayo de 1917. Además de la Sopwith Aviation Company, otras empresas fabricaron el avión: Darracq, Hooper y SACA. Al final de la guerra, un total de 1532 aeroplanos de este tipo habían sido construidos.  
   
 La evaluación del comportamiento del Dolphin comenzó con el escuadrón británico n.º 56 el 13 de junio de 1917, a la que seguirían varias mejoras en el diseño. En enero de 1918, el escuadrón n.º 19 se convirtió en la primera unidad operativa en recibir los modelos de producción del Dolphin. Fue utilizado contra cazas y globos enemigos, especialmente a gran altura, donde era superior al Sopwith Camel. También fue utilizado en el ataque a objetivos en tierra.  
@@ -60,26 +60,29 @@ Referencias:
 2) Sopwith Dolphin. J M Bruce Windsock Datafile 054.  
 3) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey n.º48.  
 4) Sopwith Dolphin Specification.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper  
-  
+  ﻿
+### Bombas Cooper  
+
 Hasta 4 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 56 kg  
 Peso de munición: 44 kg  
 Peso de los soportes: 12 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Doble Lewis sobre ala superior  
-  
+  ﻿
+### Doble Lewis sobre ala superior  
+
 Dos ametralladoras Lewis sincronizadas adicionales de posición variable montadas sobre al ala superior.  
 Munición: 388 balas de 7,69 mm (4 tambores con 97 balas cada uno)  
 Posición hacia delante: 25º  
@@ -92,8 +95,9 @@ Peso de los soportes: 2 kg
 Peso de la munición: 16 kg  
 Peso total: 33 kg  
 Pérdida de velocidad estimada: 7-18 km/h  
-﻿### Dos Lewis sobre alas inferiores  
-  
+  ﻿
+### Dos Lewis sobre alas inferiores  
+
 Dos ametralladoras Lewis sincronizadas adicionales de posición fija montadas sobre las alas inferiores.  
 Munición: 194 balas de 7,69 mm (2 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  
@@ -104,7 +108,8 @@ Peso de los soportes: 2 kg
 Peso de la munición: 8 kg  
 Peso total: 25 kg  
 Pérdida de velocidad estimada: 3 km/h  
-﻿### Termómetro  
-  
+  ﻿
+### Termómetro  
+
 Indicador de temperatura del refrigerante del motor O.S.I.C (30..100 °C)  
 Peso adicional: 1 kg  

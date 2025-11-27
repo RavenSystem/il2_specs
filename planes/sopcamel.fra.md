@@ -1,9 +1,9 @@
 # Sopwith Camel  
-  
+
 ![sopcamel](../images/sopcamel.png)  
-  
+
 ## Description  
-  
+
 La construction du Sopwith Camel était basée sura construction de son prédécesseur — e Sopwith Pup. Prenant en compte qu\un moteur plus gros et plusourd devait être installé,e chef designer Herbert Smith décida d\effectuer des changements dansa conception. Quelques changements furent effectués sures jambes de train,a surface des ailes ete stabilisateur furent accrus,e fuselage profita d\une extension ressemblant à une bosse de chameau. Ce genre de choses donne son nom à un avion — Sopwith Camel (chameau).  
   
 Un détail remarquable dea construction de cet avion résidait danse fait qu\il était très compact :e siège du pilote,es réservoirs de carburant,es mitrailleuses etes moteurs étaient tous placés de façon compacte. En parallèle de\usine principale,\avion fut assemblé par un certain nombre de compagnies telles que Ruston Proctor Co, Portholme Aerodrome Ltd,   
@@ -64,25 +64,28 @@ References:
 5) Flying the Camel in 1918. FLIGHT International, 2 May 1968.  
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.  
 7) Sopwith Camel Specification.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Cooper bombes  
-  
+  ﻿
+### Cooper bombes  
+
 4 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 56 kg  
 Masse des munitions : 44 kg  
 Masse des pylones : 12 kg  
 Perte estimée de vitesse avant le largage : 2 km/h  
 Perte estimée de vitesse après le largage : 1 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Enlarged window  
-  
+  ﻿
+### Enlarged window  
+
 Enlarged cutout in the upper wing for improved field of view.  
 Estimated speed loss: 2 km/h  

@@ -1,9 +1,9 @@
 # Breguet 14.B2  
-  
+
 ![breguet14](../images/breguet14.png)  
-  
+
 ## Beschreibung  
-  
+
 Ein zweisitziger Doppeldecker entwickelt von der gleichnamigen Firma. Der Prototyp flog erstmals im April 1917. Die Rumpfstruktur war teils aus Duralumin teils aus Stahl, damit wurde eine  enorme Festigkeit erreicht. Mehrere Fabriken bauten dieses Flugzeug: Michelin, Bellanger, Renault, Farman, Schmitt, Darracq, wobei auch verschiedene Triebwerke verbaut wurden. Zuerst gab es Triebwerke von Renault, dann Fiat und später Liberty-Triebwerke. Diese zuverlässigen Triebwerke machten die Breguet 14 zum schnellsten zweisitzigen Bomber des 1. Weltkrieges.  
   
 Die erste Serie des Flugzeugs wurde dem französischen Army Corps im Mai 1917 zur Verfügung gestellt. Im Vergleich mit der Sopwith-Strutter war die Breguet 14.B2 schneller, konnte schneller steigen, mehr Bomben tragen und hatte eine bessere Struktur. Im April 1918 taten 225 Flugzeuge dieses Typs ihren Dienst in 50 französischen und in einer amerikanischen Squadron.  
@@ -59,14 +59,15 @@ Referenzen
 1) S.T.Ae. Service des Essais. AVION Breguet 717.  
 2) Windsock Datafile Special Breguet 14, by Alan D. Toelle.  
 3) Profile Publications The Breguet 14, Number 157.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿###  8kg, 20 kg, 40 kg Bomben  
-  
+  ﻿
+###  8kg, 20 kg, 40 kg Bomben  
+
 8 x 40 kg Bomben  
 Zusätzliches Gewicht: 320 kg  
 Gewicht der Munition: 320 kg  
@@ -87,16 +88,19 @@ Gewicht der Munition: 256 kg
 Gewicht der Abwurfwaffenroste: 0 kg  
 Geschwindigkeitsverlust vor Abwurf: 6.3 km/h  
 Geschwindigkeitsverlust nach Abwurf: 0 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Le-Chretien Teleskopvisier  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Maschinengewehr  
+
 Zusätzliche Lewis-Maschinengewehre mit wechselbarer Position.  
 Munition: 485 7,69 mm Patronen (5 Trommeln mit jeweils 97 Schuss)  
 Vordere Position: 5°  
@@ -109,15 +113,18 @@ Gewicht der Halterung: 2 kg
 Gewicht der Munition: 20 kg  
 Gseamtgewicht: 29.5 kg  
 Geschätzter Geschwindigkeitsverlust: 3 km/h  
-﻿### Kamera  
-  
+  ﻿
+### Kamera  
+
 Kamera zum Aufnehmen von Luftbildern  
 Zusätzliches Gewicht: 10 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät  
 Zusätzliches Gewicht: 10 kg  
-﻿### Schiebefluganzeige  
-  
+  ﻿
+### Schiebefluganzeige  
+
 Schiebefluganzeiger (mit Kugel)  
 Zusätzliches Gewicht: 1 kg  

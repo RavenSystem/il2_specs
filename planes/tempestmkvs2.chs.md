@@ -1,9 +1,9 @@
 # Tempest Mk.V ser.2  
-  
+
 ![tempestmkvs2](../images/tempestmkvs2.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：150~174 km/h  
 起降构型的失速指示空速：128~149 km/h  
   
@@ -105,22 +105,24 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 8.9 l/min  
 	- Combat engine mode: 14.2 l/min  
-  
+
 ## 修改  
 ### 2 x 1000 lb 通用炸弹  
-  
+
 2 x 1000 lb 通用炸弹  
 增加质量：969 kg  
 弹药质量：949 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：57 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### 军刀IIA发动机（+11 lb型）  
-  
+
 军刀IIA发动机（+11 lb型）  
 预期海平面增速：23 km/h  
+
 ### 2 x 500 lb 通用炸弹  
-  
+
 2 x 500 lb 通用炸弹  
 增加质量：484 kg  
 弹药质量：464 kg  

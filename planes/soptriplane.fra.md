@@ -1,9 +1,9 @@
 # Sopwith Triplane  
-  
+
 ![soptriplane](../images/soptriplane.png)  
-  
+
 ## Description  
-  
+
 Constatant le manque de manœuvrabilité et de vision dans le cockpit des précédents avions, l\ingénieur Herbert Smith décida d\adopter la formule triplan pour y remédier. Un profil d\aile fin permettait une grande vitesse de pointe et une bonne visibilité depuis le cockpit tandis que les trois ailes assuraient un taux de montée impressionnant pour l\époque. Une autre particularité de la formule était le placement compact du pilote, des réservoirs, de l\armement et du moteur.  
   
 Le premier vol eut lieu le 26 mai 1916. En plus de Sopwith, les avions furent aussi construits par Clayton & Shuttleworth Ltd ainsi que Lincoln Oakley Ltd.Un traité avec la france concernant la fourniture de Spad VII pour les escadrons anglais couvrant les besoins en nouveaux chasseurs eut pour conséquence seulement 180 Sopwith Triplane construits.  
@@ -55,18 +55,20 @@ References:
 1) Sopwith Triplane. Windsock Datafile 22.  
 2) The Sopwith Triplane. Profile publications Number 73  
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Twin forward Vickers  
-  
+  ﻿
+### Twin forward Vickers  
+
 Twin fixed forward firing Vickers guns.  
 Ammo: 1000 of 7.69mm rounds (500 rounds for each gun)  
 Projectile weight: 11 g  

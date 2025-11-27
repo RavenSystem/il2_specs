@@ -1,9 +1,9 @@
 # Spitfire Mk.VB  
-  
+
 ![spitfiremkvb](../images/spitfiremkvb.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 137..144 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 129..135 km/h  
   
@@ -133,15 +133,16 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.2 l/min  
 	- Combat engine mode: 7.7 l/min  
-  
-## Modifications  
-﻿### Merlin 45 engine  
-  
+
+## Modifications  ﻿
+### Merlin 45 engine  
+
 Merlin 45 engine.   
 Masse supplémentaire : 0 kg  
 Perte estimée de vitesse : 0 km/h  
-﻿### Miroir  
-  
+  ﻿
+### Miroir  
+
 Miroir pour voir lhémisphère arrière  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  

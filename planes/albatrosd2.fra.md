@@ -1,9 +1,9 @@
 # Albatros D.II  
-  
+
 ![albatrosd2](../images/albatrosd2.png)  
-  
+
 ## Description  
-  
+
 Né sous le nom des légendaires chasseurs Albatros, le DII est rapidement devenu une icône de la grande guerre. Lingénieur Robert Thelen donna au DII toutes les dernières technologies pour en faire la nouvelle référence des chasseurs. Gardant la ligne profilée de lAlbatros D.I le DII fut équipé de montant centraux en N. Laile supérieure fut descendue plus près du fuselage au niveau de vue du pilote. Les premières versions furent équipées de radiateurs Windhoff de chaque côté du fuselage.  
 Lavion était construit dans les usines de Albatros Werke, Ostdeutsche Albatros Werke, Luft-Verkehrs-Gesellschaft mbH.768 Albatros D.II furent construits.  
 En aout 1916, le premier détachement dAlbatros DI et D. II fut déployé. Lavion était équipé la plus souvent de deux mitraillettes Spandau comme la plupart des autres chasseurs Allemands. Entre les mains de pilotes aguerris et rompus à la voltige, le DII devint rapidement une référence en combat aérien. La production massive des chasseurs Albatros facilita la supériorité dont jouissaient les Allemands en Avril 1917, période surnommée "Avril sanglant" par les Anglais perdant un grand nombre de chasseurs.  
@@ -51,17 +51,19 @@ References
 4) Albatros Aces of WWI by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros D.II, Flugzeugprofile №38.  
-  
-## Modifications  
-﻿### Aldis (Trophée)  
-  
+
+## Modifications  ﻿
+### Aldis (Trophée)  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Haut Altimètre  
-  
+  ﻿
+### Haut Altimètre  
+
 D.R.P Altimètre (0-8000 m)  
-﻿### 20mm Becker Cannon  
-  
+  ﻿
+### 20mm Becker Cannon  
+
 20mm Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -73,23 +75,28 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
-﻿### Montre de bord  
-  
+  ﻿
+### Montre de bord  
+
 Montre mécanique  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
-﻿### Thermometre  
-  
+  ﻿
+### Thermometre  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

@@ -1,9 +1,9 @@
 # Churchill IV  
-  
+
 ![churchill-iv](../images/churchill-iv.png)  
-  
+
 ## Description  
-  
+
 The Churchill tank belonged to the class of infantry tanks developed by the British Army. According to this classification, the Churchill had low mobility and hardly the most powerful weaponry, but it was protected with powerful armor, and thus belonged to the class of heavy tanks. The tank was produced in England throughout the war years and was one of the most numerous armored vehicles in His Majesty’s armed forces. The model featured in the game was produced by the Leyland factory.  
   
 The first batch of early modification Churchill tanks under the Lend-Lease program was delivered to the USSR by the infamous Arctic convoy PQ-17. In total, 301 Churchill tanks were sent to the USSR during the war years, of which a little less than 50 vehicles were lost during transportation and 253 tanks were delivered to the Red Army during 1942 and 1943. The Churchill was the only heavy tank model supplied to the USSR by the Allies.  
@@ -90,10 +90,10 @@ No.39 Mk IIs machinegunner telescopic sight, field of view 21°.
 <b><u>Radio equipment:</u></b>  
 Wireless Set No. 19. HF/VHF transceiver.  
 5 intercom terminals.  
-  
-## Modifications  
-﻿### HE Mortar Rounds  
-  
+
+## Modifications  ﻿
+### HE Mortar Rounds  
+
 O-822Sh  
   
 Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. On the Eastern Front, Churchill tank crews fired 50 mm Soviet-made mortar rounds from a 2-inch mortar installed in the turret to lay smoke screens.  
@@ -101,8 +101,9 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
 Mass 850 g, explosives mass 90 g.  
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.  
 Range 410m.  
-﻿### Armour Piercing Shells  
-  
+  ﻿
+### Armour Piercing Shells  
+
 6pdr APT  
   
 Solid armour piercing shells without explosive filling. Good against spaced armour plates, but cause less damage inside a target than more advanced APHE.  
@@ -114,12 +115,15 @@ Muzzle velocity 890 m/s, armour penetration at point blank range 136 mm.
 500 m: armour penetration 104 mm, velocity 738 m/s, drop -1.8 m.  
 1000 m: armour penetration 78 mm, velocity 602 m/s, drop -8.4 m.  
 2000 m: armour penetration 41 mm, velocity 387 m/s, drop -45.7 m.  
-﻿### Removed Bow Fenders  
-  
+  ﻿
+### Removed Bow Fenders  
+
 The track bow fenders of Churchill tanks on the Eastern front were often removed.  
-﻿### Removed Mid Fenders  
-  
+  ﻿
+### Removed Mid Fenders  
+
 Rare variant with mid sections of caterpillar fenders removed.  
-﻿### Removed Fuel Tank  
-  
+  ﻿
+### Removed Fuel Tank  
+
 The external rear-mounted fuel tank was commonly removed on the Eastern front.  

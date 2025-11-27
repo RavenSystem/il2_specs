@@ -1,9 +1,9 @@
 # Handley Page O/400  
-  
+
 ![handleypage400](../images/handleypage400.png)  
-  
+
 ## Description  
-  
+
 Cet avion était l\étape suivante dans l\amélioration de la conception du HP 0/100. Deux réservoirs de carburant ont été transférés des nacelles moteur dans le fuselage, le réservoir de carburant moyen a été monté dans la partie supérieure du fuselage au dessus d\eux. Des longerons invisibles ont été utilisés dans les ailes, les trains sont équipés de pattes de remorquage, les volets du radiateur sont montés en usine. Des plaques d\armure recouvrent le moteur. La poussée différentielle des moteurs de gauche et de droite a été compensée par une nageoire centrale. Les moteurs New Eagle VIII rendaient possible l\augmentation de la charge de bombes. En dehors de la compagnie, ce bombardier a été fabriqué par: Royal Aircraft Factory, Boulton and Paul, Metropolitan Carriage Wagon, Birmingham Carriage Co. A la fin de la guerre, 554 avions ont été construits en Angleterre.  
 La première apparition de cet appareil sur le front est datée de septembre 1917. Ces avions ont été utilisés pour bombarder les gares, les dépôts d\approvisionnement, les usines et les ports la nuit. Les pilotes ont indiqué que l\avion se pilotait bien, était facile au décollage, les contrôles un peu raides et un peu de retard dans le ressenti.  
 Les avions de ce type ont participé aux combats sur les fronts occidentaux et palestiniens.  
@@ -62,19 +62,20 @@ Références
 2) Handley Page O/400, CA Owers, vol. 1 and 2.  
 3) Handley Page O/400 Specification.  
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.  
-  
-## Modifications  
-  ﻿
+
+## Modifications  ﻿
+
 ### Bombe lourde 1650 lb SN  
-  
+
 Bombe d’emploi général 1650 lb SN (748 kg)  
 Masse supplémentaire : 778 kg  
 Masse des munitions : 748 kg  
 Masse des pylones : 30 kg  
 Perte estimée de vitesse avant le largage : 5 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### 57mm Davis gun  
-  
+  ﻿
+### 57mm Davis gun  
+
 Nose mount with 57mm Davis manually-operated recoilless gun  
 Ammo: 17 of 57mm shells  
 Ammo type: HE (High Explosive rounds)  
@@ -86,8 +87,9 @@ Mount weight: 15 kg
 Ammunition total weight: 119 kg  
 Total weight: 210 kg  
 Estimated speed loss: 0,5 km/h  
-﻿### 57mm Davis gun  
-  
+  ﻿
+### 57mm Davis gun  
+
 Nose mount with 57mm Davis manually-operated recoilless gun  
 Ammo: 17 of 57mm shells  
 Ammo type: HE (High Explosive rounds)  
@@ -99,12 +101,14 @@ Mount weight: 15 kg
 Ammunition total weight: 119 kg  
 Total weight: 210 kg  
 Estimated speed loss: 0,5 km/h  
-﻿### Jauge d\essence,  
-  
+  ﻿
+### Jauge d\essence,  
+
 Jauge de niveau de carburant à aiguille (0-300 Gallons)  
 Masse supplémentaire : 1 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

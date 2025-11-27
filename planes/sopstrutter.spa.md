@@ -1,9 +1,9 @@
 # Sopwith 1½ Strutter  
-  
+
 ![sopstrutter](../images/sopstrutter.png)  
-  
+
 ## Descripción  
-  
+
 Diseñado y construido por el Almirantazgo británico, el Sopwith 1½ Strutter (tomó su nombre de la sujección de la sección central del ala superior: parejas de arriostramientos largos y cortos, «uno y medio», que soportaban el ala superior) fue el primer caza biplaza en entrar en servicio y, de hecho, el primer aeroplano británico armado con una ametralladora sincronizada. Propulsado por un motor rotativo Clerget de 110 o 130 CV, el avión estaba equipado con una ametralladora fija Vickers de .303 pulgadas (7,69 mm) de disparo frontal sincronizado y una ametralladora simple (algunas veces doble) Lewis de .303 pulgadas en el puesto del artillero. El 1½ Strutter estuvo en servicio tanto con el <i>Royal Naval Air Service</i> (RNAS) como con el <i>Royal Flying Corps</i> (RFC).  
   
 El prototipo biplaza voló en diciembre de 1915. La llegada del Strutter a las unidades del frente comenzó en torno a mayo de 1916, pero las primeras entregas carecían de la ametralladora delantera fija. Al parecer, estos aviones se entregaron sin el arma debido a la escasez de Vickers de .303 a causa de las demandas de armamento del ejército. Algunos aviones de la producción inicial tenían la ametralladora Lewis de .303 del artillero montada sobre una columna giratoria, reemplazada en los modelos posteriores por un soporte Eteve y finalmente por el soporte estandar de anillo Scarff n.º 2.  
@@ -59,14 +59,15 @@ Peso máximo en bombas: 160 lb / 72 kg
 Referencias:  
 1) Windsock Datafile 34 - Sopwith Strutter, por J.M. Bruce.  
 2) WWI Aeroplanes por J.M. Bruce.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper / H.E.R.L.  
-  
+  ﻿
+### Bombas Cooper / H.E.R.L.  
+
 Hasta 8 bombas de propósito general de 20 lb (9 kg) Cooper  
 Peso adicional: 96 kg  
 Peso de munición: 72 kg  
@@ -80,20 +81,24 @@ Peso de munición: 58 kg
 Peso de los soportes: 24 kg  
 Pérdida de velocidad estimada antes de soltar: 8 km/h  
 Pérdida de velocidad estimada tras soltar: 4 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Lewis en artillero  
-  
+  ﻿
+### Doble Lewis en artillero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  
@@ -104,6 +109,7 @@ Peso de los soportes: 12 kg
 Peso de la munición: 32 kg  
 Peso total: 59 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Abertura más ancha en el ala superior  
-  
+  ﻿
+### Abertura más ancha en el ala superior  
+
 Recorte ampliado en el ala superior para mejorar la visibilidad.  

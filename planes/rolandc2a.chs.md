@@ -1,9 +1,9 @@
 # Roland C.IIa  
-  
+
 ![rolandc2a](../images/rolandc2a.png)  
-  
+
 ## 描述  
-  
+
 One of the most original trends of thought in aircraft design during 1915 was seen in the L.F.G. Roland C.II, which had been evolved by Dipl. Ing. Tantzen, who had recently joined Luftfahrzeug Gesellschaft as a design engineer. Tantzens ambition was to present a drastically cleaned-up airframe, eliminating as much as possible of the "built-in" drag of interplane, center section strut arrangements and attendant bracing. Streamlined design of fuselage, thin wings profile resulted in great performance for its time: it was one of the fastest airplanes at front able to outrun any enemy fighter plane.  
   
 Upper wing was placed on the top edge of fuselage providing great forward and up view for the pilot. But due to its wide oval fuselage and pilot position towards the back, it was a very unforgiving airplane to land: very few pilots which flew this airplane did not crash or damage it during landing. In time, some minor modifications where added, such as forward firing gun for the pilot, internal wings structire change and ailerons controls moved into upper wing with addition of a control rod instead of cables in the lower wing on early machines. Also wing trailing edge wire was replaced with wooden stringer. New version became Roland C.IIa: first prototype powered by Mercedes D.III engine flew October 25-26 of 1915, and on December 23, 1915 the first production order for 50 machines was placed.  
@@ -58,14 +58,15 @@ Bomb load variations:
 References  
 1) Schlachtflieger  by Rick Duiven, Dan-San Abbott.  
 2) Windsock Datafile 49 LFG Roland C.II by P.M. Grosz.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具（战利品）  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具  
 增加质量：2 kg  
-﻿### 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -77,8 +78,9 @@ References
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：6 km/h  
+
 ### P.u.W. 炸弹  
-  
+
 最多4 x 12.5 kg P.u.W. 通用炸弹  
 增加质量：62 kg  
 弹药质量：50 kg  
@@ -92,16 +94,19 @@ References
 挂架质量：12 kg  
 投弹前预期速度损失：4 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
-﻿### 驾驶舱照明  
-  
+  ﻿
+### 驾驶舱照明  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 附加仪表  
-  
+  ﻿
+### 附加仪表  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
   
 威廉·莫雷尔(Wilhelm Morell)高度表（0-5000m）  
@@ -109,16 +114,19 @@ References
 A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
   
 增加质量：3 kg  
+
 ### 相机  
-  
+
 可拍摄航空照片的相机  
 增加质量：10 kg  
+
 ### 无线电  
-  
+
 无线电发射机  
 增加质量：10 kg  
-﻿### 双帕拉贝伦（Parabellum）机枪炮塔  
-  
+  ﻿
+### 双帕拉贝伦（Parabellum）机枪炮塔  
+
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。  
 弹药：2000发7.92mm弹药（8个弹鼓，每个250发）  
 弹丸重量：10 g  

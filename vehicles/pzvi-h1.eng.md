@@ -1,9 +1,9 @@
 # Pz.Kpfw.VI Ausf.H1  
-  
+
 ![pzvi-h1](../images/pzvi-h1.png)  
-  
+
 ## Description  
-  
+
 Developed by Henschel company in 1942, first combat action took place on Leningrad front in August 1942.  
   
 The tank was famous for its powerful armour and square look. Its wheels are placed in a checkered pattern to optimize ground pressure and provide additional protection for the hull sides, but this made the chassis repair complicated and often lead to a loss of a damaged tank.  
@@ -102,10 +102,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
+
+
 ## Modifications  
 ### Armour Piercing High Explosive Shells  
-  
+
 8,8 cm Pzgr. 39  
   
 Shells armed with bursting charge warhead.  
@@ -119,8 +120,9 @@ Muzzle velocity 800 m/s, armour penetration at point blank range 140 mm.
 500 m: armour penetration 129 mm, velocity 756 m/s, drop -2.2 m.  
 1000 m: armour penetration 119 mm, velocity 713 m/s, drop -8.6 m.  
 2000 m: armour penetration 100 mm, velocity 631 m/s, drop -36.3 m.  
+
 ### High-Explosive Shells  
-  
+
 8,8 cm Sprgr L/4,5  
   
 Good against soft, unarmored or lightly armored targets.  
@@ -134,8 +136,9 @@ Muzzle velocity 820 m/s.
 500 m: velocity 771 m/s, drop -2.0 m.  
 1000 m: velocity 723 m/s, drop -8.1 m.  
 2000 m: velocity 629 m/s, drop -35.5 m.  
+
 ### High Explosive Anti-Tank Shells  
-  
+
 8,8 cm Gr. 39 HL  
   
 HEAT shells armed with high-explosive shaped charge warhead.  
@@ -149,8 +152,9 @@ Muzzle velocity: 600 m/s.
 500 m: velocity 476 m/s, drop -4.1 m.  
 1000 m: velocity 369 m/s, drop -19.4 m.  
 2000 m: velocity 273 m/s, drop -114.6 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 8,8 cm Pzgr. 40  
   
 Shells armed with sub-caliber armour-piercing projectile. Good against heavily armoured targets at short ranges.  
@@ -164,8 +168,9 @@ Muzzle velocity 930 m/s, armour penetration at point blank range 201 mm.
 500 m: armour penetration 179 mm, velocity 858 m/s, drop -1.7 m.  
 1000 m: armour penetration 159 mm, velocity: 791 m/s, drop -6.6 m.  
 2000 m: armour penetration 126 mm, velocity: 670 m/s, drop -29.1 m.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

@@ -1,9 +1,9 @@
 # Sd.Kfz.10/5  
-  
+
 ![sdkfz10-5](../images/sdkfz10-5.png)  
-  
+
 ## Descripción  
-  
+
 Modificación del semioruga Sd.Kfz.10, una de las  muchas fabricadas por la compañía Demag, como plataforma móvil del cañón antiaéreo Flak 38 desde 1939.  
   
 Este semioruga de carrocería monocasco totalmente metálica estaba equipado con un sistema de propulsión de orugas de doble diferencial con frenos (las ruedas delanteras carecían de ellos) y tenía una plataforma metálica a medida donde se instalaba el cañón.  
@@ -60,10 +60,11 @@ Movimiento cañón: mecánico, 6 segundos por vuelta
 Mira antiaérea mecánica Schwebekreis Visier 38.  
 Mira telescópica ZF 3x8 para objetivos en tierra.  
 Miras de hierro de respaldo.  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes sólidos (AP)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes sólidos (AP)  
+
 2 cm Pzgr. Lspur  
   
 Proyectiles perforantes sólidos, sin carga explosiva en su interior.  
@@ -77,8 +78,9 @@ Velocidad de salida 780 m/s, penetración del blindaje a bocajarro 25 mm.
 500 m: penetración del blindaje 16 mm, velocidad 561 m/s, caída -2,7 m.  
 1000 m: penetración del blindaje 9 mm, velocidad 393 m/s, caída -13,6 m.  
 2000 m: penetración del blindaje 5 mm, velocidad 264 m/s, caída -96,1 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 2 cm Spgr.Patr.  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -94,9 +96,11 @@ Velocidad de salida 880 m/s.
 500 m: velocidad 634 m/s, caída -2,1 m.  
 1000 m: velocidad 373 m/s, caída -11,0 m.  
 2000 m: velocidad 245 m/s, caída -95,8 m.  
-﻿### Desinstalar escudos del cañón  
-  
+  ﻿
+### Desinstalar escudos del cañón  
+
 Desinstalación de los escudos blindados del cañón para mejorar el campo de visión.  
-﻿### Desinstalar escudo de la mira  
-  
+  ﻿
+### Desinstalar escudo de la mira  
+
 Desinstalación del escudo blindado de la mira para proporcionar al artillero un campo de visión ligeramente más amplio.  

@@ -1,9 +1,9 @@
 # 豹式坦克D型（Pz.Kpfw.V Ausf.D）  
-  
+
 ![pzv-d](../images/pzv-d.png)  
-  
+
 ## 描述  
-  
+
 其于1942年由MAN公司开发，1943年首次出现在库尔斯克战役中。坦克拥有强大的主炮、厚实的正面装甲和良好的机动性，但要牺牲其他方向的防护性能作为代价。  
   
 为了更好地分配重量并保护侧面，其车轮按棋盘格形式布置，这使得行走机构的维修非常困难-在战斗条件下，其损坏通常会导致坦克的损失。悬架的压缩行程非常大，而且悬挂比其他坦克的要软得多，从而带来行驶的舒适性。一个悬挂装置包括两个扭力杆（总共32个）。这些坦克的可靠性极为糟糕，特别是在生产之初——到1943年4月，174台中只有4台被送到前线部队，其余的被送回原厂返工。  
@@ -91,10 +91,11 @@ Tzf 12 gunner binocular scope-sight, field of view 29°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
+
+
 ## 修改  
 ### 穿甲榴弹  
-  
+
 7，5 cm Pzgr.39/42  
   
 炮弹上装有爆炸弹头。  
@@ -108,8 +109,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 140mm，速度 825 m/s，下坠高度 1.6m  
 1000m时：装甲穿深 125mm，速度 785 m/s，下坠高度 6.6m  
 2000m时：装甲穿深 99mm，速度 667 m/s，下坠高度 29.6m  
+
 ### 榴弹  
-  
+
 7，5 cm SprGr.42  
   
 对抗软目标、无装甲和轻装甲目标效果好。  
@@ -123,8 +125,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：速度 648 m/s，下坠高度 2.8m  
 1000m时：速度 601 m/s，下坠高度 11.5m  
 2000m时：速度 518 m/s，下坠高度 49.9m  
-﻿### 次口径穿甲弹  
-  
+  ﻿
+### 次口径穿甲弹  
+
 7，5 cm Pzgr.40/42  
   
 装有次口径穿甲弹芯的炮弹。在近距离对抗重装甲目标效果好。  
@@ -138,13 +141,15 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 179mm，速度 1054 m/s，下坠高度 1.0m  
 1000m时：装甲穿深 154mm，速度 949 m/s，下坠高度 4.3m  
 2000m时：装甲穿深 111mm，速度 756 m/s，下坠高度 19.7m  
-﻿### 移除附加装甲板  
-  
+  ﻿
+### 移除附加装甲板  
+
 移除附在车体上的5mm装甲侧裙板（Schürzen）  
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。  
 虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。  
+
 ### Smoke Mortars  
-  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

@@ -1,9 +1,9 @@
 # Airco D.H.4  
-  
+
 ![aircodh4](../images/aircodh4.png)  
-  
+
 ## Descripción  
-  
+
 El D.H.4 fue diseñado por Geoffrey de Havilland para ser un bombardero ligero biplaza propulsado por un motor BHP. El primer prototipo voló en agosto de 1916, pero se comprobó que el motor BHP no era fiable,  requiriendo un importante rediseño para ser adaptado al motor Rolls Royce Eagle. El primer pedido de 50 aviones equipados con el motor Eagle III (250 CV) fue realizado al final de 1916.  
   
 Este biplano, construido en su práctica totalidad con madera y con un motor tractor, a diferencia de sus antecesores, de impulsión, equipa una ametralladora sincronizada Vickers de disparo frontal y una o dos ametralladoras Lewis montadas sobre un afuste articulado anular, más conocido como «anillo Scarff», en el puesto del observador. Podía cargar hasta 460 lb en bombas en dos anclajes bajo las alas y otros dos en la panza.  
@@ -68,14 +68,15 @@ Referencias:
 4) Rolls Royce engine charts, 1917.  
 5) WWI Aeroplanes data, by J.M. Bruce.  
 6) Various NACA reports.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper / H.E.R.L. / H.E.R.F.C.  
-  
+  ﻿
+### Bombas Cooper / H.E.R.L. / H.E.R.F.C.  
+
 Hasta 12 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 167 kg  
 Peso de munición: 131 kg  
@@ -96,24 +97,29 @@ Peso de munición: 208 kg
 Peso de los soportes: 16 kg  
 Pérdida de velocidad estimada antes de soltar: 5 km/h  
 Pérdida de velocidad estimada tras soltar: 3 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Indicador nivel de combustible  
-  
+  ﻿
+### Indicador nivel de combustible  
+
 Indicador analógico del nivel de combustible (0-30 Galones)  
 Peso adicional: 1 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Lewis sobre ala superior  
-  
+  ﻿
+### Doble Lewis sobre ala superior  
+
 Dos ametralladoras Lewis sincronizadas adicionales de posición fija montadas sobre el ala superior.  
 Munición: 194 balas de 7,69 mm (2 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  
@@ -124,8 +130,9 @@ Peso de los soportes: 6 kg
 Peso de la munición: 10 kg  
 Peso total: 31 kg  
 Pérdida de velocidad estimada: 5 km/h  
-﻿### Doble Lewis en artillero  
-  
+  ﻿
+### Doble Lewis en artillero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  
@@ -136,8 +143,9 @@ Peso de los soportes: 12 kg
 Peso de la munición: 32 kg  
 Peso total: 59 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Doble Vickers frontal  
-  
+  ﻿
+### Doble Vickers frontal  
+
 Dos ametralladoras Vickers de posición fija apuntando hacia delante.  
 Munición: 1000 balas de 7,69 mm (500 balas por arma)  
 Peso del proyectil: 11 g  

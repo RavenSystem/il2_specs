@@ -1,9 +1,9 @@
 # KV-1s ChTZ (1943)  
-  
+
 ![kv1s](../images/kv1s.png)  
-  
+
 ## Descripción  
-  
+
 El carro de combate fue creado por la oficina de diseño de la <i>Chelyabinskogo Traktornogo Zavoda</i> (ChTZ) durante el verano de 1942. Entró por primera vez en combate a finales de 1942 en el Frente del Don y Voronezh.  
   
 El carro se basaba en el diseño de su predecesor, el pesado KV-1. Debido a la baja fiabilidad y movilidad del KV-1, el KV-1s —«s» de <i>skorostnoy</i>, veloz— fue diseñado con un menor espesor de blindaje y mejores componentes para ser más fiable y móvil.  
@@ -92,10 +92,11 @@ Mira periscópica y panorámica PT4-7 en artillero, campo de visión de 26°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF 9-RM  
 4 intercomunicadores  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes sólidos (AP)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes sólidos (AP)  
+
 BR-350BSP  
   
 Proyectiles perforantes sólidos, sin carga explosiva en su interior.  
@@ -109,8 +110,9 @@ Velocidad de salida 660 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 73 mm, velocidad 585 m/s, caída -3,2 m.  
 1000 m: penetración del blindaje 62 mm, velocidad 524 m/s, caída -13,6 m.  
 2000 m: penetración del blindaje 47 mm, velocidad 429 m/s, caída -63,5 m.  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 BR-350B  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -124,11 +126,13 @@ Velocidad de salida 660 m/s, penetración del blindaje a bocajarro 86 mm.
 500 m: penetración del blindaje 72 mm, velocidad 584 m/s, caída -3,2 m.  
 1000 m: penetración del blindaje 61 mm, velocidad 522 m/s, caída -13,6 m.  
 2000 m: penetración del blindaje 46 mm, velocidad 427 m/s, caída -64,0 m.  
-﻿### Retirada de depósitos externos  
-  
+  ﻿
+### Retirada de depósitos externos  
+
 En el Frente Oriental, los depósitos de combustible externos instalados en los laterales del carro se retiraban con bastante frecuencia.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 OF-350  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -143,8 +147,9 @@ Velocidad de salida 680 m/s.
 500 m: velocidad 616 m/s, caída -3,0 m.  
 1000 m: velocidad 558 m/s, caída -12,5 m.  
 2000 m: velocidad 468 m/s, caída -56,7 m.  
-﻿### Proyectiles perforantes de núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes de núcleo rígido (APCR)  
+
 BR-354P  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso.  

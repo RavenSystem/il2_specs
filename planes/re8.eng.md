@@ -1,9 +1,9 @@
 # R.E.8  
-  
+
 ![re8](../images/re8.png)  
-  
+
 ## Description  
-  
+
 The R.E.8 was designed as a replacement for the obsolete B.E.2. Armament consisted of one synchronized machine gun facing forward and a rear gunner position aft of the pilot. This was a departure from the B.E.2 design which had the gunner in front of the pilot. This caused some awkward and dangerous firing positions, especially to the rear.  
 The R.E.8 was equipped with V-shaped 12-cylinder air- cooled engine the RAF4a. The aircraft was designed to carry a radio and photographic equipment for recon and artillery spotting duty. It could also carry a small bombload on underwing racks.  
 A very versatile aircraft for its time. The first versions of this aircraft began to arrive at the front in late 1916, but it did not arouse much enthusiasm among its pilots. The aircraft was difficult to fly and it was not very forgiving. Piloting mistakes could lead to a deadly tailspin. The first front-line squadrons to receive the R.E.8 reverted back to the old, but combat proven B.E.2. Eventually the R.E.8 did see combat and its debut was not very encouraging.  
@@ -55,14 +55,15 @@ References
 1) Windsock Datafile RAF RE8 by J.M. Bruce.  
 2) WWI Aeroplanes by J.M. Bruce.  
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Cooper / H.E.R.L. bombs  
-  
+
 Up to 12 x 11 kg (24 lb) General Purpose Bombs  
 Additional mass: 167 kg  
 Ammunition mass: 131 kg  
@@ -76,12 +77,14 @@ Ammunition mass: 102 kg
 Racks mass: 24 kg  
 Estimated speed loss before drop: 8 km/h  
 Estimated speed loss after drop: 4 km/h  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Overwing mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 25°  
@@ -94,16 +97,19 @@ Mounts weight: 0.8 kg
 Ammo weight: 12 kg  
 Total weight: 20.3 kg  
 Estimated speed loss: 5 km/h  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

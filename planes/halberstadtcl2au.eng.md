@@ -1,9 +1,9 @@
 # Halberstadt CL.II 200hp  
-  
+
 ![halberstadtcl2au](../images/halberstadtcl2au.png)  
-  
+
 ## Description  
-  
+
 Halberstadt CL.II design was a response to an Idflieg (Inspectorate of Aviation Troops) specification issued in august of 1916 for a new "light C-type" with 160-180 engine.  
   
 The purpose was to create a two-seat escort fighter to protect heavier observation aircraft from attacks of allied fighters. In November of 1916 Idflieg ordered three prototypes of the Halberstadt CL.II with Mercedes D.III engine, with the first ready airplane was rolled out in April of 1917. After a few wing design changes the type was undergoing final tests in Adlesdorf during 2-7 May 1917.  
@@ -73,14 +73,15 @@ References
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.  
 2) Report on the Halberstadt Fighter, October 1918, Flight.  
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.  
-  
+
 ## Modifications  
 ### Aldis (Trophy)  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
-﻿### 20mm Becker Turret  
-  
+  ﻿
+### 20mm Becker Turret  
+
 Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -92,8 +93,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
+
 ### P.u.W. Bombs  
-  
+
 Up to 12 x 12.5 kg P.u.W. General Purpose Bombs  
 Additional mass: 186 kg  
 Ammunition mass: 150 kg  
@@ -107,12 +109,14 @@ Ammunition mass: 150 kg
 Racks mass: 36 kg  
 Estimated speed loss before drop: 4 km/h  
 Estimated speed loss after drop: 2 km/h  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Additional Gauges  
-  
+  ﻿
+### Additional Gauges  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
   
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)  
@@ -122,16 +126,19 @@ A.Schlegelmilch engine coolant temperature indicator (0-100 °C)
 Mechanical Clock  
   
 Additional mass: 3 kg  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Parabellum MG Turret  
-  
+  ﻿
+### Twin Parabellum MG Turret  
+
 Ring turret with twin Parabellum machine guns.  
 Ammo: 1500 of 7.92mm rounds (6 drums with 250 rounds in each)  
 Projectile weight: 10 g  
@@ -142,8 +149,9 @@ Mount weight: 5 kg
 Ammo weight: 30 kg  
 Total weight: 54 kg  
 Estimated speed loss: 8 km/h  
-﻿### Twin Spandau MG  
-  
+  ﻿
+### Twin Spandau MG  
+
 Twin fixed forward firing LMG 08/15 guns.  
 Ammo: 1000 of 7.92mm rounds (500 rounds for each gun)  
 Projectile weight: 10 g  

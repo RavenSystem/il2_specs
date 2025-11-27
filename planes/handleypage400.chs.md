@@ -1,9 +1,9 @@
 # Handley Page O/400  
-  
+
 ![handleypage400](../images/handleypage400.png)  
-  
+
 ## 描述  
-  
+
 This aircraft was the next step in improving of HP O/100 design. Two fuel tanks were moved from engine nacelles into the fuselage and the alternate tank was mounted in the upper section above them. Hollow spars were used in wings, gears were fitted with towing lugs and radiator shutters were fitted in the factory. The engines were covered by armor plates. Differential thrust of the engines was compensated by central tail fin. New Eagle VIII engines allowed an increased bomb load. Besides the head company, this bomber was manufactured by: Royal Aircraft Factory, Boulton and Paul, Metropolitan Carriage Wagon, Birmingham Carriage Co. 554 planes were built in GB by the end of the war.  
 This aircraft appeared on the frontline in September 1917. These planes were used to bomb railway stations, supply depots, factories and ports during night. Pilots mentioned that the plane handled nicely, was easy on takeoff, controls were a little stiff and felt a little delayed.  
 Aircraft of this type participated in combat on Western and Palestinian fronts.  
@@ -62,18 +62,19 @@ References
 2) Handley Page O/400, CA Owers, vol. 1 and 2.  
 3) Handley Page O/400 Specification.  
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.  
-  
+
 ## 修改  
 ### 1650 lb SN重型炸弹  
-  
+
 1650 lb (748 kg) 通用炸弹  
 增加质量：778 kg  
 弹药质量：748 kg  
 挂架质量：30 kg  
 投弹前预期速度损失：5 km/h  
 投弹后预期速度损失：0 km/h  
-﻿### 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -85,8 +86,9 @@ References
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：6 km/h  
-﻿### 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -98,12 +100,14 @@ References
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：6 km/h  
-﻿### 油量表  
-  
+  ﻿
+### 油量表  
+
 指针式油量表（0-300 gal）  
 增加质量：1 kg  
-﻿### 双刘易斯（Lewis）机枪炮塔  
-  
+  ﻿
+### 双刘易斯（Lewis）机枪炮塔  
+
 双刘易斯（Lewis）机枪的斯卡夫（Scarff）旋转炮塔  
 弹药：776发7.69mm弹药（8个弹鼓，每个97发）  
 弹丸重量：11 g  

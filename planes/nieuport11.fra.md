@@ -1,9 +1,9 @@
 # Nieuport 11.C1  
-  
+
 ![nieuport11](../images/nieuport11.png)  
-  
+
 ## Description  
-  
+
 Le Nieuport 11"Bébé" est un développement du Nieuport 10 proposé par Gustave Delage.Le "Bébé" fut conçu comme un sesquiplan. L\aile mono-longeron inférieure disposait d\une corde beaucoup moins importante que l\aile supérieure et était reliée à celle ci via des montants en V. Un des défauts principaux de cette formule était la faible rigidité structurelle de l\aile inférieure qui se déformait en torsion et flexion durant les manoeuvres sous facteur de charge. Ces problèmes se retrouvaient sur la plupart des autres sesquiplans - La famille des Nieuport 10 à 23, Albatros D. III, Albatros DV, etc.  
 Les premiers Nieuport 11 arrivèrent sur le front en Janvier 1916. Le "Bébé" devint rapidement un formidable adversaire pour le monoplan Fokker Eindecker, étant supérieur dans presque tous les domaines. La présence d\ailerons, d\élevons attachés à la queue de l\avion avec un gouverne de dérive permit au Nieuport II d\obtenir une bien meilleure maneuvrabilité par rapport au système de contrôle par flexion des ailes et au élevons type "Morane" rencontrés sur ces adversaires. La présence du N11 mit finalement fin à la domination des Fokker monoplans connue sous le nom du "Fléau Fokker". During Durant la bataille de Verdun en février 1916, le N11 infligea d\énormes pertes aux avions Allemands forçant l\Etat Major à revoir ces tactiques d\emploi de ses avions. De nombreux As comme Georges Guynemer obtinrent leur premier succès sur le "Bébé".  
   
@@ -49,46 +49,54 @@ References
 1) Nieuport Fighters in action. Aircraft Number 167.  
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.  
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis (importé dAngleterre)  
 Masse supplémentaire : 2 kg  
-﻿### Altimetre  
-  
+  ﻿
+### Altimetre  
+
 Altimetre Peltret and Lafage (0..5000m)  
 Masse supplémentaire : 1 kg  
-﻿### Montre de bord  
-  
+  ﻿
+### Montre de bord  
+
 Montre mécanique  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Compas  
-  
+  ﻿
+### Compas  
+
 Compas L.Maxant  
 Masse supplémentaire : 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Collimateur à réfraction Le-Chrétien  
 Masse supplémentaire : 1 kg  
-﻿### LePrieur rockets  
-  
+  ﻿
+### LePrieur rockets  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Masse supplémentaire : 36 kg  
 Masse des munitions : 16 kg  
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 8 km/h  
 Perte estimée de vitesse après le largage : 6 km/h  
-﻿### Anemometre  
-  
+  ﻿
+### Anemometre  
+
 Anemometre E.Badin (70..200 km/h à 2000 m et 80..220 km/h à 4000 m)  
 Masse supplémentaire : 1 kg  
-﻿### Twin Lewis Overwing  
-  
+  ﻿
+### Twin Lewis Overwing  
+
 Two overwing mounted additional fixed Lewis machineguns.  
 Ammo: 582 of 7.69mm rounds (6 drums with 97 rounds in each)  
 Projectile weight: 11 g  

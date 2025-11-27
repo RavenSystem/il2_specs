@@ -1,9 +1,9 @@
 # Spitfire Mk.XIVe  
-  
+
 ![spitfiremkxive](../images/spitfiremkxive.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 153..173 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 145..164 km/h  
   
@@ -109,48 +109,55 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7,4 l/min  
 	- Modo motor - Combate: 12,9 l/min  
-  
-## Modificaciones  
-﻿### Combustible de 150 octanos  
-  
+
+## Modificaciones  ﻿
+### Combustible de 150 octanos  
+
 Permite un impulso de +21 lb  
 El cambio de etapa automático del compresor se deshabilita. El cambio de etapa debe realizarse de forma manual a 11000 ft de altitud.  
 Incremento estimado de velocidad a nivel del mar: 20 km/h  
-﻿### 2 bombas G.P. de 250 lb  
-  
+  ﻿
+### 2 bombas G.P. de 250 lb  
+
 2 bombas de propósito general (G.P., General Purpose) de 250 lb  
 Peso adicional: 247 kg  
 Peso de munición: 227 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 22 km/h  
 Pérdida de velocidad estimada tras soltar: 11 km/h  
-﻿### 1 bomba G.P. de 500 lb  
-  
+  ﻿
+### 1 bomba G.P. de 500 lb  
+
 1 bomba de propósito general (G.P., General Purpose) de 500 lb  
 Peso adicional: 237 kg  
 Peso de munición: 227 kg  
 Peso de los soportes: 10 kg  
 Pérdida de velocidad estimada antes de soltar: 12 km/h  
 Pérdida de velocidad estimada tras soltar: 6 km/h  
-﻿### Cámara de reconocimento  
-  
+  ﻿
+### Cámara de reconocimento  
+
 Instalación de una cámara F.24 tras la cabina del piloto  
 (esta modificación requiere también la de las alas recortadas)  
 Peso adicional: 28 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Tubos de escape redondos  
-  
+  ﻿
+### Tubos de escape redondos  
+
 Instalación de tubos de escape redondos  
-﻿### Espejo  
-  
+  ﻿
+### Espejo  
+
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 1 km/h  
-﻿### Mira reflectora  
-  
+  ﻿
+### Mira reflectora  
+
 Reemplaza la mira giroscópica Mk.II por una mira reflectora Mk.II* fija  
-﻿### Alas recortadas  
-  
+  ﻿
+### Alas recortadas  
+
 Alas recortadas  
 Peso retirado: 4 kg  
 Pérdida de velocidad estimada: 0 km/h  

@@ -1,9 +1,9 @@
 # Halberstadt D.II  
-  
+
 ![halberstadtd2](../images/halberstadtd2.png)  
-  
+
 ## 描述  
-  
+
 The first Halberstadt D.I prototype equipped with 100hp Mercedes D.I engine had its maiden flight during the late autumn of 1915. Later it was fitted with 120hp Mercedes D.II engine and went into production designated as D.II to supplement the Fokker D type biplanes, which were then replacing the old Fokker monoplanes. The first machines arrived at the frontline in June 1916.  
   
 Most of the pilots where impressed by its better performance compared to the older Fokker monoplanes, especially its better climb and speed and very quick, easy and responsitive controls which gave it good maneverability in the hands of the experienced German pilots.  
@@ -50,21 +50,24 @@ Forward firing: 1 х LMG 08/15 Spandau 7,92mm, 500 rounds.
   
 References  
 1) Halberstadt Fightres, Windsock Datafile Special.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具（战利品）  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  
-﻿### 温度计  
-  
+  ﻿
+### 温度计  
+
 A·施莱格米尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
 增加质量：1 kg  

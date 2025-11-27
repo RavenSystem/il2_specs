@@ -1,9 +1,9 @@
 # Pz.Kpfw.III Ausf.L  
-  
+
 ![pziii-l](../images/pziii-l.png)  
-  
+
 ## Descripción  
-  
+
 El Pz.Kpfw. III Ausf.L estaba equipado con un cañón de 50 mm con buena capacidad de penetración en blindaje y unas planchas adicionales de 20 mm de grosor en el mantelete y en la parte frontal del casco. Estas mejoras fueron introducidas después de que los alemanes capturaran carros de combate T-34 y KV.  
   
 Esta modificación (Ausf.L) estuvo en producción desde abril hasta agosto de 1942, con un total de unas 700 unidades fabricadas.  
@@ -90,10 +90,11 @@ Transmisor-receptor VHF Fu 5
   
 <b><u>ATENCIÓN:</u></b>  
 Este carro de combate es gratuito para cualquier usuario de <i>IL-2 Great Battles</i>. Los carros de combate de la expansión <i>Tank Crew</i> tienen todos los puestos interiores y el exterior definidos con mucho más detalle.  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 Pzgr. 39 de 5 cm  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -107,8 +108,9 @@ Velocidad de salida 835 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 68 mm, velocidad 702 m/s, caída -1,5 m.  
 1000 m: penetración del blindaje 53 mm, velocidad 587 m/s, caída -8,4 m.  
 2000 m: penetración del blindaje 30 mm, velocidad 394 m/s, caída -76,7 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 Sprgr. 38 de 5 cm  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -123,8 +125,9 @@ Velocidad de salida 550 m/s.
 500 m: velocidad 444 m/s, caída -4,9 m.  
 1000 m: velocidad 368 m/s, caída -22,6 m.  
 2000 m: velocidad 285 m/s, caída -118,5 m.  
-﻿### Proyectiles perforantes de núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes de núcleo rígido (APCR)  
+
 Pzgr. 40 de 5 cm  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso.  

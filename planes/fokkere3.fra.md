@@ -1,9 +1,9 @@
 # Fokker E.III  
-  
+
 ![fokkere3](../images/fokkere3.png)  
-  
+
 ## Description  
-  
+
 Le Fokker E.III Eindecker est un chasseur monoplace créé par Anthony Fokker au début de l\année 1915. Le gauchissement est assuré par une déformation de l\aile entière comme pour de nombreux avions de cette période. Cette méthode sera abandonnée pour l\utilisation d\ailerons bien plus efficaces et fiables.  
   
 Le Fokker E.III est équipé d\un mécanisme de tir synchronisé permettant de tirer au travers de l\hélice sans l\endommager. Cette innovation fut une véritable révolution dans le combat aérien permettant une augmentation importante de l\efficacité en combat. Le mécanisme de synchronisation fut inventé après la capture d\un Morane-Saulnier Type L équipé du système inventé par Roland Garros permettant de tirer à travers l\hélice. Les pales de l\hélice étaient équipées de plaques en métal défléchissant les balles lorsque celles-ci heurtaient l\hélice. Bien qu\il permettait de tirer au travers de l\hélice ce système dégradait l\efficacité aérodynamique des hélices aussi Anthony Fokker opta pour un système différent. Le mécanisme de tir est relié à l\arbre de transmission du moteur et le tir n\est possible que lorsqu\une des deux pales n\est pas dans l\axe des mitrailleuses.  
@@ -51,17 +51,19 @@ References
 2) The Fokker Monoplanes. Profile publications Number 38  
 3) Fokker E.III. Windsock Datafile 15.  
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.  
-  
-## Modifications  
-﻿### Montre de bord  
-  
+
+## Modifications  ﻿
+### Montre de bord  
+
 Montre mécanique  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  

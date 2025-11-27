@@ -1,9 +1,9 @@
 # U-2VS  
-  
+
 ![u2vs](../images/u2vs.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 63..70 km/h  
 Velocidad de picado límite: 240 km/h  
 Carga de rotura máxima (en fuerzas <i>g</i>): 6,5 <i>g</i>  
@@ -117,10 +117,10 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 0,6 l/min  
 	- Modo motor - Combate: 0,7 l/min  
-  
-## Modificaciones  
-﻿### Carga de bombas  
-  
+
+## Modificaciones  ﻿
+### Carga de bombas  
+
 Bastidores con bombas instaladas para las alas y panza  
   
 2 bombas de propósito general de 50 kg FAB-50sv  
@@ -157,30 +157,36 @@ Peso de munición: 308 kg
 Peso de los soportes: 8 kg  
 Pérdida de velocidad estimada antes de soltar: 13 km/h  
 Pérdida de velocidad estimada tras soltar: 2 km/h  
-﻿### Tripulación femenina  
-  
+  ﻿
+### Tripulación femenina  
+
 Las «Brujas de la noche» (alemán: die Nachthexen; ruso: Ночные ведьмы, Nochnyye vedmy) fue el apodo que los alemanes pusieron durante la Segunda Guerra Mundial al grupo de mujeres aviadoras militares del 46.º Regimiento aéreo de bombarderos nocturnos de la Guardia, «Tamánski», con Orden de Suvórov y de la Bandera Roja (46.º GNBAP; hasta el 8 de febrero de 1943, 588.º Regimiento de bombarderos ligeros nocturnos), perteneciente a la Fuerza Aérea soviética.  
-﻿### Horizonte artificial  
-  
+  ﻿
+### Horizonte artificial  
+
 Horizonte artificial AGP-2  
 Peso adicional: 2 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Luz de aterrizaje  
-  
+  ﻿
+### Luz de aterrizaje  
+
 Luz de aterrizaje para los vuelos nocturnos  
 Peso adicional: 2 kg  
 Pérdida de velocidad estimada: 1 km/h  
-﻿### Luces de navegación  
-  
+  ﻿
+### Luces de navegación  
+
 Luces de navegación  
 Peso adicional: 4 kg  
-﻿### Radiotransmisor  
-  
+  ﻿
+### Radiotransmisor  
+
 Radiotransmisor RSI-4  
 Peso adicional: 12,6 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Cohetes  
-  
+  ﻿
+### Cohetes  
+
 Cohetes no guiados explosivos (HE) de 82 mm ROS-82 o cohetes no guiados perforantes (AP) de 82 mm RBS-82 o cohetes no guiados explosivos (HE) de 132 mm ROS-132  
   
 4 cohetes ROS-82:  
@@ -217,13 +223,15 @@ Peso de munición: 184 kg
 Peso de los soportes: 40 kg  
 Pérdida de velocidad estimada antes de lanzarlos: 8 km/h  
 Pérdida de velocidad estimada tras lanzarlos: 4 km/h  
-﻿### Ametralladora trasera  
-  
+  ﻿
+### Ametralladora trasera  
+
 1 ametralladora ShKAS de 7,62 mm con 400 balas, instalada en puesto de navegante y encarada hacia atrás  
 Peso adicional: 34 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Ametralladora delantera  
-  
+  ﻿
+### Ametralladora delantera  
+
 1 ametralladora ShKAS de 7,62 mm montada en el ala con 500 balas  
 Peso adicional: 27 kg  
 Pérdida de velocidad estimada: 3 km/h  

@@ -1,9 +1,9 @@
 # CG-4A  
-  
+
 ![cg4a](../images/cg4a.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 65..86 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 241 km/h  
 Bruchlastvielfache: 3.5 G  
@@ -38,23 +38,26 @@ Eigenschaften:
 - The aircraft has independent left and right pneumatic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
 - The airplane tailwheel rotates freely and does not have a lock.  
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).  
-  
-## Änderungen  
-﻿### Bremsfallschirms  
-  
+
+## Änderungen  ﻿
+### Bremsfallschirms  
+
 Einbau eines Bremsfallschirms zur Reduzierung der Landestrecke  
 Zusätzliches Gewicht: 32 kg  
 Geschwindigkeitsverlust: 2 km/h  
-﻿### Luftfracht, 1000kg  
-  
+  ﻿
+### Luftfracht, 1000kg  
+
 1000kg militärische Luftfracht  
 Zusätzliches Gewicht: 1000 kg  
   
-﻿### 13 Infanterist  
-  
+  ﻿
+### 13 Infanterist  
+
 13 bewaffnete Infanterist  
 Zusätzliches Gewicht: 1415 kg  
-﻿### Willys MB  
-  
+  ﻿
+### Willys MB  
+
 Willys MB 1⁄4 ton 4x4 utility truck  
 Additional mass: 1630 kg  

@@ -1,9 +1,9 @@
 # GAZ-MM 72-K  
-  
+
 ![gaz-mm-72k](../images/gaz-mm-72k.png)  
-  
+
 ## Beschreibung  
-  
+
 GAZ-MM-LKW, hergestellt in der Gorki-Automobilfabrik im Jahr 1943, mit der 25 mm 72-K automatischen Luftabwehrkanone, installiert auf der speziellen Holzplattform. Dieser LKW war ein verbessertes Modell des GAZ-AA mit stärkerem Motor, besserem Lenkmechanismus und verstärkter Aufhängung.  
   
 Die Entwicklung des automatischen 25-mm-Regiments-Flakgeschützes begann 1939 im Kalinin-Werk in Leningrad. Es wurde 1940 in Dienst gestellt und seine Massenproduktion begann 1941. Die Herstellung von gezogenen Plattformen für diese Geschütze war jedoch problematisch, daher wurden 72-K-Geschütze auf gepanzerten Zugplattformen, dreiachsigen LKWs GAZ-AAA und dann auf zweiachsigen GAZ-MM installiert.  
@@ -64,10 +64,11 @@ OZR-132 high explosive (HE): 288 g, 910 m/s, 13 g explosives.
 <b><u>Gunsights:</u></b>  
 K8-T collimator gunsight with automatic correction process.  
 Reserve iron sights.  
-  
-## Änderungen  
-﻿### Panzerbrechende Granaten  
-  
+
+
+## Änderungen  ﻿
+### Panzerbrechende Granaten  
+
 BR-132  
   
 Panzerbrechende Hartkerngranaten ohne explosive Ladung. Geeignet gegen Panzerplatten mit Zwischenraum. Erzeugen aber weniger Schaden im Innern des Ziels als fortschrittlichere Panzersprenggranaten.  
@@ -80,19 +81,23 @@ Durchschlagsleistung aus kürzester Entfernung: 44 mm
 500 m: Durchschlagsleistung 33 mm, Geschwindigkeit 806 m/s, Fall -1,8 m  
 1000 m: Durchschlagsleistung 25 mm, Geschwindigkeit 528 m/s, Fall -8,3 m  
 2000 m: Durchschlagsleistung 13 mm, Geschwindigkeit 380 m/s, Fall -46,4 m  
-﻿### Gun shield (early)  
-  
+  ﻿
+### Gun shield (early)  
+
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The early variant had a simple rectangular form.  
 The shield has an additional window that should be opened when firing at low angles.  
-﻿### Gun shield  
-  
+  ﻿
+### Gun shield  
+
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The late variant had a complex form.  
 The shield has an additional window that should be opened when firing at low angles.  
-﻿### Remove gunsight cover  
-  
+  ﻿
+### Remove gunsight cover  
+
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 OZR-132  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  

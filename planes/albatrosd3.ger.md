@@ -1,9 +1,9 @@
 # Albatros D.III  
-  
+
 ![albatrosd3](../images/albatrosd3.png)  
-  
+
 ## Beschreibung  
-  
+
 Nachdem man sich die Konstruktion der Nieuport angesehen hatte, gestalteten die deutschen Ingenieure die untere Tragfläche schmaler und kürzer als die obere. Die Flügelspitzen wurden gebogen, um Vibrationen zu vermeiden. Hier ein kurzer Überblick wichtiger Designveränderungen: Querruderleinen wurden durch die untere Tragfläche gezogen, der Kühler wurde vom Rumpf auf die Mitte der oberen Tragfläche versetzt und die Tragflächen durch V—förmige Strukturen ersetzt. Eine Gewichtsreduzierung stand zu dieser Zeit im Vordergrund.  
   
 Die Testflüge begannen im August/September 1916. Im Dezember 1916 wurde das Flugzeug an die Flug-Staffeln ausgeliefert. In den ersten Monaten der Kampfeinsätze wurde deutlich, dass das Flugzeug die untere Tragfläche bei starken Sturzflügen und scharfen Turns verliert. Auch tropfte Kühlwasser von der oberen Tragfläche auf die MGs, die dadurch gefechtsunfähig wurden. Der Kühler wurde daraufhin außen rechts am Flugzeugrumpf in Höhe des Pilotensitzes angebracht. Im Juni 1917 bauten Ingenieure den Zellenstrukturkühler von Daimler ein, der wesentlich effektiver arbeitete.  
@@ -56,33 +56,39 @@ Referenzen
 4) Albatros Aces of World War I by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros fighters, Windsock Datafile Special.  
-  
-## Änderungen  
-﻿### Aldis (Trophäe)  
-  
+
+## Änderungen  ﻿
+### Aldis (Trophäe)  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Schusszähler  
-  
+  ﻿
+### Schusszähler  
+
 Wilhelm Morell Schusszähler mit Sprungzahlenanzeige für linkes Maschinengewehre  
 Zusätzliches Gewicht: 0.5 kg  
-﻿### Kompensierter Höhenmesser,  
-  
+  ﻿
+### Kompensierter Höhenmesser,  
+
 D.R.P kompensierter Höhenmesser (0-8000 m)  
-﻿### Uhr  
-  
+  ﻿
+### Uhr  
+
 Taschenuhr  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Maschinengewehr  
+
 Ein Cockpit montiertes zusätzliches Lewis-Maschinengewehr mit wechselbarer Position.  
 Munition: 291 7,69mm Patronen (3 Trommeln mit jeweils 97 Schuss)  
 Vordere Position: 8°  
@@ -95,11 +101,13 @@ Gewicht der Halterung: 4 kg
 Gewicht der Munition: 12 kg  
 Gseamtgewicht: 23 kg  
 Geschätzter Geschwindigkeitsverlust: 2-6 km/h  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
 Zusätzliches Gewicht: 1 kg  

@@ -1,9 +1,9 @@
 # DFW C.V  
-  
+
 ![dfwc5](../images/dfwc5.png)  
-  
+
 ## 描述  
-  
+
 The DFW C.V was a two-seater biplane plane designed and produced at the Deutsche Flugzeug Werke near Leipzig. In designing the aircraft, DFW\s designers aimed to create a light but durable airframe. Its structural features included a metal-covered strut in the tail section, a metal cowl protecting the engine, two hollow spars in the wings, and floating ribs. The radiator was mounted above the engine.  
   
 The aircraft\s first flight occurred on July 11, 1916. After its official trials were completed, the aircraft was sent to the front line where it received perfect reviews. At this point, mass production commenced at other factories, including Aviatik, LVG, and Halberstadt. By the end of the war, 3955 planes of the type had been produced. The C.V became the most numerous German aircraft in its class in WWI.  
@@ -61,14 +61,15 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 参考  
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.  
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具（战利品）  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具  
 增加质量：2 kg  
-﻿### 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -80,8 +81,9 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：6 km/h  
+
 ### P.u.W. 炸弹  
-  
+
 最多12 x 12.5 kg P.u.W. 通用炸弹  
 增加质量：186 kg  
 弹药质量：150 kg  
@@ -95,31 +97,37 @@ Among its advantages, pilots noted the aircraft\s ease of controls and of landin
 挂架质量：36 kg  
 投弹前预期速度损失：4 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 附加仪表  
-  
+  ﻿
+### 附加仪表  
+
 A·施莱格 m尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
   
 机械时钟  
   
 增加质量：0.5 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
+
 ### 相机  
-  
+
 可拍摄航空照片的相机  
 增加质量：10 kg  
+
 ### 无线电  
-  
+
 无线电发射机  
 增加质量：10 kg  
-﻿### 双帕拉贝伦（Parabellum）机枪炮塔  
-  
+  ﻿
+### 双帕拉贝伦（Parabellum）机枪炮塔  
+
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。  
 弹药：1500发7.92mm弹药（6个弹鼓，每个250发）  
 弹丸重量：10 g  

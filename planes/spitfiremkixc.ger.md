@@ -1,9 +1,9 @@
 # Spitfire Mk.IXc  
-  
+
 ![spitfiremkixc](../images/spitfiremkixc.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 143...163 km/h (89..101 mph)  
 Überziehgeschwindigkeit in Landekonfiguration: 135...154 km/h (84..96 mph)  
   
@@ -144,54 +144,61 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.3 l/min  
 	- Combat engine mode: 10.2 l/min  
-  
-## Änderungen  
-﻿### 150-Oktan-Kraftstoff  
-  
+
+## Änderungen  ﻿
+### 150-Oktan-Kraftstoff  
+
 150-Oktan-Kraftstoff, der einen erhöhten Ladedruck bis +25 erlaubt.  
 Die Ladergänge müssen manuell bei einer Höhe von 3000 m /9000 ft gewechselt werden.  
 Geschwindigkeitsgewinn in Bodennähe: 29 km/h  
   ﻿
+
 ### 2 x Bomben, Typ 250 lb G.P.  
-  
+
 2 x 113-kg-Splitterbomben 250 lb G.P.  
 Zusätzliches Gewicht: 247 kg  
 Gewicht der Munition: 227 kg  
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 24 km/h  
 Geschwindigkeitsverlust nach Abwurf: 8 km/h  
-﻿### Bombe, Typ 500 lb G.P.  
-  
+  ﻿
+### Bombe, Typ 500 lb G.P.  
+
 227-kg-Splitterbombe 500 lb G.P.  
 Zusätzliches Gewicht: 237 kg  
 Gewicht der Munition: 227 kg  
 Gewicht der Abwurfwaffenroste: 10 kg  
 Geschwindigkeitsverlust vor Abwurf: 13 km/h  
 Geschwindigkeitsverlust nach Abwurf: 7 km/h  
-﻿### "E"-Typ Flügel  
-  
+  ﻿
+### "E"-Typ Flügel  
+
 Installation von 2 x 12,7 mm Browning .50 Maschinengewehren anstelle von 4 x 7,7 mm Browning .50 Maschinengewehren  
 Zusätzliches Gewicht: 48 kg  
 Gewicht der Munition: 70 kg  
 Gewicht der Schusswaffen: 72 kg  
 Geschwindigkeitsgewinn: 5 km/h  
-﻿### MkII Kreiselvisier  
-  
+  ﻿
+### MkII Kreiselvisier  
+
 MkII kreiselstabilisiertes Visier  
 Zusätzliches Gewicht: 5,2 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Merlin 70 Motor  
-  
+  ﻿
+### Merlin 70 Motor  
+
 Später Merlin 70 Motor.  
 Zusätzliches Gewicht: 0 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Rückspiegel  
-  
+  ﻿
+### Rückspiegel  
+
 Rückspiegel  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 1 km/h  
-﻿### 2 х Raketen, Typ RP-3  
-  
+  ﻿
+### 2 х Raketen, Typ RP-3  
+
 2 х ungelenkte Raketen RP-3  
   
 RP-3 (Halb-panzerbrechend):  
@@ -207,8 +214,9 @@ Gewicht der Munition: 55 kg
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor dem Abfeuern: 21 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 17 km/h  
-﻿### Gekappter Flügel  
-  
+  ﻿
+### Gekappter Flügel  
+
 Gekappter Flügel  
 Reduziertes Gewicht: 4 kg  
 Geschwindigkeitsverlust: 0 km/h  

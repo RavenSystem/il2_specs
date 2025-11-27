@@ -1,9 +1,9 @@
 # Bf 109 G-6AS  
-  
+
 ![bf109g6as](../images/bf109g6as.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：163~180 km/h  
 起降构型的失速指示空速：151~163 km/h  
 俯冲极速：850 km/h  
@@ -136,19 +136,21 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 5.3 l/min  
 	- Combat engine mode: 8.2 l/min  
-  
+
 ## 修改  
 ### DB-605ASM 发动机  
-  
+
 换装DB-605ASM发动机并配备C3燃料和MW-50加力系统燃料箱  
 增加质量: 21 kg  
 预期海平面时速增加: 43 km/h  
+
 ### MW-50加力系统  
-  
+
 配备MW-50甲醇-水混合加力系统，提升发动机在紧急模式下的动力  
 增加质量: 63 kg  
+
 ### 21cm火箭弹  
-  
+
 装载两枚置于可抛弃发射管里的WGr.21火箭弹  
 增加质量：258 kg  
 弹药质量：224 kg  
@@ -156,28 +158,32 @@ Basic data and recommended positions of the aircraft controls:
 发射前预期速度损失：51 km/h  
 发射后预期速度损失：11 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 2 x 20mm MG 151/20机炮吊舱  
-  
+
 机翼挂载吊舱MG 151/20 20mm机炮，每门备弹135发  
 增加质量：212 kg  
 弹药质量：55 kg  
 枪炮质量：157 kg  
 预期速度损失：13 km/h  
+
 ### 30mm MK 108机炮  
-  
+
 机鼻换装MK 108 30mm机炮，备弹65发  
 增加质量：4 kg  
 弹药质量：38 kg  
 枪炮质量：58 kg  
 预期速度损失：0 km/h  
+
 ### MW-50系统  
-  
+
 MW-50甲醇-水混合加力系统  
 增加质量: 84 kg  
 水-甲醇混合物质量: 63 kg  
 预期海平面时速增加: 45 km/h  
+
 ### SC 250炸弹  
-  
+
 挂载249kg 通用炸弹SC 250  
 增加质量：279 kg  
 弹药质量：249 kg  

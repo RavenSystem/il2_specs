@@ -1,9 +1,9 @@
 # I.A.R. 80-B  
-  
+
 ![iar80b](../images/iar80b.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 151..162 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 143..151 km/h  
 Velocidad de picado límite: 750 km/h  
@@ -116,10 +116,10 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 6,9 l/min  
 	- Modo motor - Combate: 7,7 l/min  
-  
-## Modificaciones  
-﻿### I.A.R.80-C series 251-290  
-  
+
+## Modificaciones  ﻿
+### I.A.R.80-C series 251-290  
+
 La modificación incluye:  
 - 2 cañones de 20 mm MG FF/M en sustitución de las 2 ametralladores de 13,2 mm  
 - puntales en estabilizador horizontal  
@@ -128,8 +128,9 @@ La modificación incluye:
 - fuselaje y flaps más robustos  
 Peso adicional: 24,2 kg  
 Pérdida de velocidad estimada: 12 km/h  
-﻿### I.A.R. 81-C series 301-450  
-  
+  ﻿
+### I.A.R. 81-C series 301-450  
+
 La modificación incluye:  
 - 2 cañones de 20 mm MG 151/20 en sustitución de las 2 ametralladoras de 13,2 mm y 2 de 7,92 mm  
 - bombas en panza (1 SC 250 de 249 kg) y bajo alas (2 SC 50 de 55 kg)  

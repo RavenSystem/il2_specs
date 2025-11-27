@@ -1,9 +1,9 @@
 # Li-2  
-  
+
 ![li2](../images/li2.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 115...135 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 105...120 km/h  
 Höchstzulassige Geschwindigkeit im Sturzflug: 410 km/h  
@@ -122,10 +122,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 9.8 l/min  
-  
-## Änderungen  
-﻿### Bomben  
-  
+
+## Änderungen  ﻿
+### Bomben  
+
 4 x 254 kg Bomben, Typ FAB-250sv  
 Zusätzliches Gewicht: 1076 kg  
 Gewicht der Munition: 1016 kg  
@@ -139,28 +139,32 @@ Gewicht der Munition: 1024 kg
 Gewicht der Abwurfwaffenroste: 60 kg  
 Geschwindigkeitsverlust vor Abwurf: 17 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### Luftfracht, 2200kg  
-  
+  ﻿
+### Luftfracht, 2200kg  
+
 2200kg militärische Luftfracht  
 Zusätzliches Gewicht: 2100 kg  
 Geschwindigkeitsverlust: 6 km/h  
-﻿### 14 x PD-MM Behälter (innen)  
-  
+  ﻿
+### 14 x PD-MM Behälter (innen)  
+
 14 x Abwurfbehälter mit Fallschrim PD-MM (innen)  
 Zusätzliches Gewicht: 1760 kg  
 Gewicht der Munition: 1760 kg  
 Geschwindigkeitsverlust vor Abwurf: 5 km/h  
 Geschwindigkeitsverlust nach Abwurf: 0 km/h  
-﻿### 6 x PD-MM Behälter  
-  
+  ﻿
+### 6 x PD-MM Behälter  
+
 6 x Abwurfbehälter mit Fallschrim PD-M  
 Zusätzliches Gewicht: 814 kg  
 Gewicht der Munition: 754 kg  
 Gewicht der Abwurfwaffenroste: 60 kg  
 Geschwindigkeitsverlust vor Abwurf: 20 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### 16 Fallschirmjäger  
-  
+  ﻿
+### 16 Fallschirmjäger  
+
 16 bewaffnete Fallschirmjäger  
 Zusätzliches Gewicht: 1600 kg  
 Geschwindigkeitsverlust vor Abwurf: 7 km/h  

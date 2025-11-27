@@ -1,9 +1,9 @@
 # Bf 109 G-6AS  
-  
+
 ![bf109g6as](../images/bf109g6as.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 163..180 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 151..163 km/h  
 Vitesse limite de piqué : 850 km/h  
@@ -136,19 +136,21 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 5.3 l/min  
 	- Combat engine mode: 8.2 l/min  
-  
-## Modifications  
-﻿### DB-605ASM engine  
-  
+
+## Modifications  ﻿
+### DB-605ASM engine  
+
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)  
 Additional mass: 21 kg  
 Estimated speed increase at sea level: 43 km/h  
-﻿### MW-50 Mixture  
-  
+  ﻿
+### MW-50 Mixture  
+
 MW-50 water-methanol mixture injection increases engine endurance at emergency power modes  
 Additional mass (mixture): 63 kg  
-﻿### 21 cm BR  
-  
+  ﻿
+### 21 cm BR  
+
 Two WGr.21 rockets in jettisonable launchers  
 Masse supplémentaire : 258 kg  
 Masse des munitions : 224 kg  
@@ -157,30 +159,34 @@ Perte estimée de vitesse avant le lancement : 51 km/h
 Perte estimée de vitesse après le lancement : 11 km/h  
 Perte estimée de vitesse après le largage : 2 km/h  
   ﻿
+
 ### 2 canons MG 151/20 de 20 mm en nacelles  
-  
+
 2 canons MG 151/20 de 20 mm montés dans des nacelles sous les ailes avec 135 obus chaque  
 Masse supplémentaire : 212 kg  
 Masse des munitions : 55 kg  
 Masse des canons : 157 kg  
 Perte estimée de vitesse : 13 km/h  
   ﻿
+
 ### Canon MK 108 de 30 mm  
-  
+
 Canon MK 108 de 30 mm monté dans le nez avec 65 obus  
 Masse supplémentaire: 4 kg  
 Masse des munitions : 38 kg  
 Masse des canons : 58 kg  
 Perte estimée de vitesse : 0 km/h  
-﻿### MW-50 System  
-  
+  ﻿
+### MW-50 System  
+
 MW-50 water-methanol mixture injection system   
 Additional mass: 84 kg  
 Water-methanol mixture mass: 63 kg  
 Estimated speed increase at sea level: 45 km/h  
   ﻿
+
 ### 1 bombe SC 250  
-  
+
 Bombe d’emploi général SC 250 de 249 kg  
 Masse supplémentaire : 279 kg  
 Masse des munitions : 249 kg  

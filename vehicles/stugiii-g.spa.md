@@ -1,9 +1,9 @@
 # StuG III Ausf.G  
-  
+
 ![stugiii-g](../images/stugiii-g.png)  
-  
+
 ## Descripción  
-  
+
 El cañón de asalto autopropulsado <i>Sturmgeschütz</i> III <i>Ausführung</i> G estaba armado con un cañón StuK 40 L/48 de 75 mm. El Ausf.G fue una de las últimas modificaciones, pero la más numerosa: 7800 unidades desde diciembre de 1942 hasta abril de 1945. En comparación con la anterior variante, tenía un cañón más largo (L/48, en lugar de L/43) y láminas de blindaje adicionales instaladas en el casco y la parte frontal del habitáculo de la tripulación (cabina). El modelo empleado en la simulación fue construido en la fábrica MIAG utilizando el chasis Pz.Kpfw. Ausf.M producido por la fábrica MAN.  
   
 La diferencia visual más evidente era la adición de planchas de blindaje lateral, conocidas como <i>schürzen</i>, que se fijaban a los lados del casco. Se añadieron principalmente para proteger al carro del fuego masivo de los rifles anticarro, que era peligroso para los laterales con blindaje más fino. A pesar de no poder detener un proyectil AP, este blindaje adicional lo desestabilizaba o provocaba su fragmentación antes de que pudiera alcanzar el casco blindado principal.  
@@ -138,10 +138,11 @@ Mira telescópica Sfl ZF 1a en artillero, campo de visión de 8°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF Fu 5 con receptor Fu 2 adicional  
 4 intercomunicadores  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 Pzgr. 39 de 7,5 cm  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -155,8 +156,9 @@ Velocidad de salida 750 m/s, penetración del blindaje a bocajarro 117 mm.
 500 m: penetración del blindaje 104 mm, velocidad 691 m/s, caída -2,4 m.  
 1000 m: penetración del blindaje 92 mm, velocidad 636 m/s, caída -10,0 m.  
 2000 m: penetración del blindaje 72 mm, velocidad 537 m/s, caída -44,8 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 Sprgr. 34 de 7,5 cm  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -171,8 +173,9 @@ Velocidad de salida 550 m/s.
 500 m: velocidad 509 m/s, caída -4,5 m.  
 1000 m: velocidad 473 m/s, caída -18,5 m.  
 2000 m: velocidad 405 m/s, caída -80,9 m.  
-﻿### Proyectiles de carga hueca (HEAT)  
-  
+  ﻿
+### Proyectiles de carga hueca (HEAT)  
+
 Gr.38 HL/С de 7,5 cm  
   
 Proyectiles basados en el efecto Munroe. Cuando su explosivo detona, un cono, generalmente de cobre, instalado con la punta hacia el interior del proyectil, se invierte y se transforma en un chorro de metal fundido que perfora el blindaje.  
@@ -186,8 +189,9 @@ Velocidad de salida: 450 m/s.
 500 m: velocidad 328 m/s, caída -7,8 m.  
 1000 m: velocidad 278 m/s, caída -38,1 m.  
 2000 m: velocidad 244 m/s, caída -200,4 m.  
-﻿### Proyectiles perforantes núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes núcleo rígido (APCR)  
+
 Pzgr. 40 de 7,5 cm  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso. El Pzgr. 40 de 7,5 cm posee un núcleo rígido (aleación de tungsteno) dentro de un cuerpo fabricado en acero más blando (para ocupar el diámetro del cañón).  
@@ -201,12 +205,14 @@ Velocidad de salida 930 m/s, penetración del blindaje a bocajarro 150 mm.
 500 m: penetración del blindaje 128 mm, velocidad 832 m/s, caída -1,6 m.  
 1000 m: penetración del blindaje 108 mm, velocidad 739 m/s, caída -10,0 m.  
 2000 m: penetración del blindaje 75 mm, velocidad 573 m/s, caída -44,8 m.  
-﻿### Planchas blindadas adicionales  
-  
+  ﻿
+### Planchas blindadas adicionales  
+
 Protección adicional: planchas blindadas de 5 mm unidas a los laterales del casco y torreta.  
 Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.  
-﻿### Lanzagranadas de humo  
-  
+  ﻿
+### Lanzagranadas de humo  
+
 Instalación de 6 morteros externos lanzagranadas de humo de un único proyectil.  
 Granada de humo Schnellnebelkerze 39 (Nb K S 39)  
 Distancia de lanzamiento: 80 m  

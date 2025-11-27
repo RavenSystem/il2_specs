@@ -1,9 +1,9 @@
 # Hanriot HD.1  
-  
+
 ![hanriothd1](../images/hanriothd1.png)  
-  
+
 ## Descripción  
-  
+
 El avión fue desarrollado por Pierre Dupont para la compañía Hanriot en verano de 1916 y estaba construido como un biplano clásico hecho principalmente de madera; solo la estructura del timón y parte del morro eran metálicos. Tenía alas soportadas por dos largueros y arriostradas: la superior con un pequeño ángulo en V, las inferiores rectas. Contaba con 3 depósitos de combustible en el fuselaje: dos detrás del motor y uno más detrás de la espalda del piloto.  
   
 Inicialmente el HD.1 debía sustituir a los antiguos Nieuport 11 y 17. Pero el nuevo Spad 7 ya había sido desplegado en el frente, habiendo tenido una buena acogida entre los pilotos por su motor en línea, mientras que el motor Le Rhône instalado en el Hanriot todavía era usado en los escuadrones de Nieuport. Así que el mando de la fuerza aérea francesa, <i>Aviation Militaire</i>, pensó que no sería rentable el cambio a los HD.1 y canceló la adquisición. Sin embargo, el resto de aliados de la Entente se interesaron por este avión, ya que era más firme, maniobrable, y en general, sensiblemente mejor que el Nieuport.  
@@ -58,10 +58,10 @@ Disparo frontal: 1 Vickers Mk.I de 7,69 mm, 500 balas
   
 Referencias  
 1) Windsock Datafile 12 - Hanriot HD.1, por J.M. Bruce.  
-  
-## Modificaciones  
-﻿### Ametralladora cazaglobo  
-  
+
+## Modificaciones  ﻿
+### Ametralladora cazaglobo  
+
 Ametralladora Vickers «Balloon»  
 Munición: 250 balas de 11,43 mm  
 Peso del proyectil: 17,5 g  
@@ -70,20 +70,24 @@ Peso de las armas: 13 kg
 Peso de la munición: 20 kg  
 Cadencia de disparo: 600 bpm  
 Peso adicional total: 33 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Brújula  
-  
+  ﻿
+### Brújula  
+
 Brújula de L.Maxant  
 Peso adicional: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Colimador reflectante Le-Chretien  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora Lewis adicional de posición variable montada sobre el ala superior.  
 Munición: 388 balas de 7,69 mm (4 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  

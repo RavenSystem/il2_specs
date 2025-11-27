@@ -1,9 +1,9 @@
 # Bristol F2B (F.III)  
-  
+
 ![bristolf2bf3](../images/bristolf2bf3.png)  
-  
+
 ## Descripción  
-  
+
 El diseño del Bristol se inició en marzo de 1916 con el propósito de reemplazar las series del biplaza B.E. Fue diseñado como avión de reconocimiento, pero también iba a tener que ser capaz de realizar patrullas de caza. Para tales fines fue suministrado con controles duales, radio inalámbrica y cámara, y armado con una ametralladora fija Vickers capaz de disparar a través de la cubierta del motor y un puesto de artillero trasero con una o dos ametralladoras Lewis.  
   
 El primer prototipo del Bristol F.2A voló en septiembre de 1916, equipado con un motor Rolls Royce Mk.1. Después de completar con éxito sus pruebas, el modelo entró en producción. La primera unidad de combate en Francia que recibió F.2As fue el No. 48 Squadron, que comenzó a recibir el modelo el 8 de marzo de 1917.  
@@ -86,14 +86,15 @@ Referencias:
 7) Bristol F2 Fighter Aces, Osprey, AOF no.79.  
 8) Various NACA reports.  
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper / H.E.R.L.  
-  
+  ﻿
+### Bombas Cooper / H.E.R.L.  
+
 Hasta 12 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 167 kg  
 Peso de munición: 131 kg  
@@ -107,16 +108,19 @@ Peso de munición: 204 kg
 Peso de los soportes: 48 kg  
 Pérdida de velocidad estimada antes de soltar: 8 km/h  
 Pérdida de velocidad estimada tras soltar: 4 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Indicador nivel de combustible  
-  
+  ﻿
+### Indicador nivel de combustible  
+
 Indicador analógico del nivel de combustible (0-30 Galones)  
 Peso adicional: 1 kg  
-﻿### Doble Lewis sobre ala superior  
-  
+  ﻿
+### Doble Lewis sobre ala superior  
+
 Dos ametralladoras Lewis sincronizadas adicionales de posición variable montadas sobre el ala superior.  
 Munición: 582 balas de 7,69 mm (6 tambores con 97 balas cada uno)  
 Posición hacia delante: 0  
@@ -129,16 +133,19 @@ Peso de los soportes: 8 kg
 Peso de la munición: 24 kg  
 Peso total: 47 kg  
 Pérdida de velocidad estimada: 4-14 km/h  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Lewis en artillero  
-  
+  ﻿
+### Doble Lewis en artillero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  

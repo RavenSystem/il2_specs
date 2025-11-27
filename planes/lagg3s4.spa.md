@@ -1,9 +1,9 @@
 # LaGG-3 ser.4  
-  
+
 ![lagg3s4](../images/lagg3s4.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 167..193 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 142..170 km/h  
 Velocidad de picado límite: 750 km/h  
@@ -108,15 +108,16 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
   
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 2,7 l/min  
-  
-## Modificaciones  
-﻿### RPK-10  
-  
+
+## Modificaciones  ﻿
+### RPK-10  
+
 Radiogoniómetro para navegación con radiobalizas  
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### 8 cohetes ROS-82  
-  
+  ﻿
+### 8 cohetes ROS-82  
+
 8 cohetes no guiados explosivos (HE) de 82 mm ROS-82  
 Peso adicional: 80 kg  
 Peso de munición: 56 kg  

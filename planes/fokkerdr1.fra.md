@@ -1,9 +1,9 @@
 # Fokker Dr.I  
-  
+
 ![fokkerdr1](../images/fokkerdr1.png)  
-  
+
 ## Description  
-  
+
 Au printemps 1917 lors d\une visite au Jasta 11, Anthony Fokker observa la construction d\un chasseur anglais qui avait été capturé, le Sopwith Triplane. Manfred von Richthofen décrivit les détails de son combat avec ce nouvel avion au fabricant. C\était seulement en raison de sa grande expérience que le Baron Rouge réussi à éviter la défaite.  
 Le prototype du triplan F.I fut réalisé en août 1917. Quelques détails remarquables de sa construction étaient : un cadre de fuselage tubulaire en acier, tout comme des cadres en métal pour le stabilisateur et et la dérive; une absence de croisillons; et pour cet appareil les ailerons étaient situés sur l\aile haute. L\avion était plus compact et robuste que le triplan Sopwith britannique. Au total, 320 triplans Dr.I furent construits.  
 Le 23 septembre 1917, Werner Foss abbatit deux chasseurs britanniques alors qu\il pilotait une version expérimentale du triplan. Peu après il fut attaqué par six SE5s du Royal Flying Corps. Dans ce combat dramatique et historique, tous les appareils britanniques furent endommagés, parmi lesquels deux quittèrent la bataille. Ce fut uniquement car il était en sous—nombre que l\\As allemand perdit la vie.  
@@ -67,29 +67,34 @@ References
 6) Fokker Dr.I in action, by H J Nowarra, Aircraft Number 68.  
 7) The Fokker Dr.I, Profile publications, Number 55.  
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.  
-  
-## Modifications  
-﻿### Compteur de balles  
-  
+
+## Modifications  ﻿
+### Compteur de balles  
+
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses  
 Masse supplémentaire : 1 kg  
-﻿### Inclinometre  
-  
+  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 , Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  

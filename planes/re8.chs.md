@@ -1,9 +1,9 @@
 # R.E.8  
-  
+
 ![re8](../images/re8.png)  
-  
+
 ## 描述  
-  
+
 The R.E.8 was designed as a replacement for the obsolete B.E.2. Armament consisted of one synchronized machine gun facing forward and a rear gunner position aft of the pilot. This was a departure from the B.E.2 design which had the gunner in front of the pilot. This caused some awkward and dangerous firing positions, especially to the rear.  
 The R.E.8 was equipped with V-shaped 12-cylinder air- cooled engine the RAF4a. The aircraft was designed to carry a radio and photographic equipment for recon and artillery spotting duty. It could also carry a small bombload on underwing racks.  
 A very versatile aircraft for its time. The first versions of this aircraft began to arrive at the front in late 1916, but it did not arouse much enthusiasm among its pilots. The aircraft was difficult to fly and it was not very forgiving. Piloting mistakes could lead to a deadly tailspin. The first front-line squadrons to receive the R.E.8 reverted back to the old, but combat proven B.E.2. Eventually the R.E.8 did see combat and its debut was not very encouraging.  
@@ -55,14 +55,15 @@ References
 1) Windsock Datafile RAF RE8 by J.M. Bruce.  
 2) WWI Aeroplanes by J.M. Bruce.  
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Alidas）瞄准具  
-  
+
 阿尔迪斯（Alidas）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### 库珀（Cooper）/H.E.R.L. 炸弹  
-  
+
 最多12 x 11 kg（24 lb）通用炸弹  
 增加质量：167 kg  
 弹药质量：131 kg  
@@ -76,12 +77,14 @@ References
 挂架质量：24 kg  
 投弹前预期速度损失：8 km/h  
 投弹后预期速度损失：4 km/h  
-﻿### 驾驶舱照明  
-  
+  ﻿
+### 驾驶舱照明  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 上翼双刘易斯（Lewis）机枪  
-  
+  ﻿
+### 上翼双刘易斯（Lewis）机枪  
+
 Overwing mounted additional Lewis machinegun with changeable position.  
 弹药：291发7.69mm弹药（3个弹鼓，每个97发）  
 前方位置：25°  
@@ -94,16 +97,19 @@ Overwing mounted additional Lewis machinegun with changeable position.
 弹药重量：12 kg  
 总重：20.3 kg  
 预期速度损失：5 km/h  
+
 ### 相机  
-  
+
 可拍摄航空照片的相机  
 增加质量：10 kg  
+
 ### 无线电  
-  
+
 无线电发射机  
 增加质量：10 kg  
-﻿### 双刘易斯（Lewis）机枪炮塔  
-  
+  ﻿
+### 双刘易斯（Lewis）机枪炮塔  
+
 双刘易斯（Lewis）机枪的斯卡夫（Scarff）旋转炮塔  
 弹药：776发7.69mm弹药（8个弹鼓，每个97发）  
 弹丸重量：11 g  

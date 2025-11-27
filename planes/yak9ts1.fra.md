@@ -1,9 +1,9 @@
 # Yak-9T sér.1  
-  
+
 ![yak9ts1](../images/yak9ts1.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 157..165 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 139..145 km/h  
 Vitesse limite de piqué : 750 km/h  
@@ -109,31 +109,35 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
-## Modifications  
-﻿### Ammo counter  
-  
+
+## Modifications  ﻿
+### Ammo counter  
+
 NS-37 gun ammo counter  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
-﻿### Phare datterrissage  
-  
+  ﻿
+### Phare datterrissage  
+
 Atterrissage lumière pour les vols de nuit  
 Masse supplementaire : 2 kg  
 Perte estimee de vitesse : 0 km/h  
-﻿### Miroir  
-  
+  ﻿
+### Miroir  
+
 Miroir pour voir lhémisphère arrière  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
-﻿### Reflector Gunsight  
-  
+  ﻿
+### Reflector Gunsight  
+
 PBP-1A reflector gunsight  
 Additional mass: 0.5 kg  
 Estimated speed loss: 0 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  

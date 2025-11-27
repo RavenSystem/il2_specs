@@ -1,9 +1,9 @@
 # Spitfire Mk.XIVe  
-  
+
 ![spitfiremkxive](../images/spitfiremkxive.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 153..173 km/h  
 Indicated stall speed in takeoff/landing configuration: 145..164 km/h  
   
@@ -109,47 +109,54 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
 	- Combat engine mode: 12.9 l/min  
-  
+
 ## Modifications  
 ### 150 grade fuel  
-  
+
 Allows +21 lb boost  
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 11000ft altitude.  
 Estimated speed increase at sea level: 20 km/h  
+
 ### 2 x 250 lb G.P. bombs  
-  
+
 2 x 250 lb General Purpose Bombs  
 Additional mass: 247 kg  
 Ammunition mass: 227 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 22 km/h  
 Estimated speed loss after drop: 11 km/h  
+
 ### 500 lb G.P. bomb  
-  
+
 500 lb General Purpose Bomb  
 Additional mass: 237 kg  
 Ammunition mass: 227 kg  
 Racks mass: 10 kg  
 Estimated speed loss before drop: 12 km/h  
 Estimated speed loss after drop: 6 km/h  
+
 ### Recon camera  
-  
+
 F.24 camera installation behind the cockpit (clipped wing only)  
 Additional mass: 28 kg  
 Estimated speed loss: 0 km/h  
+
 ### Rounded exhaust pipes  
-  
+
 Rounded exhaust pipes  
+
 ### Mirror  
-  
+
 Rear view mirror  
 Additional mass: 1 kg  
 Estimated speed loss: 1 km/h  
+
 ### Reflector Gunsight  
-  
+
 Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight  
+
 ### Clipped Wing  
-  
+
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h  

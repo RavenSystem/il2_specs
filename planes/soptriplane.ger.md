@@ -1,9 +1,9 @@
 # Sopwith Triplane  
-  
+
 ![soptriplane](../images/soptriplane.png)  
-  
+
 ## Beschreibung  
-  
+
 In Anbetracht der mangelnden Manövrierfähigkeit und des schlechten Sichtfelds früherer Jagdflugzeugentwürfe entschied sich der Ingenieur Herbert Smith dazu, speziell diese Charakteristiken mit seinem berühmten Dreidecker-Entwurf zu verbessern. Ein dünnes Flügelprofil erlaubte es, die Geschwindigkeit zu erhöhen und die Sicht zu verbessern. Des Weiteren ermöglichten die drei Tragflächen außerordentliche Steigzeiten. Eine weitere Besonderheit des Designs war die kompakte Anordnung von Pilot, Treibstofftank, Bewaffnung und Motor.  
   
 Der erste Testflug erfolgte am 26. Mai 1916. Neben dem Hauptfabrikanten \Sopwith Aviation Company\ wurde die \Tripe\ von \Clayton & Shuttleworth Ltd\ sowie der \Lincoln Oakley Ltd\ gebaut. Wenig später wurde zwecks Ausrüstung britischer Jagdstaffeln ein Vertrag mit Frankreich über die Lieferung von Jagdflugzeugen des Typs \Spad VII\ abgeschlossen, so dass der Bedarf an weiteren neuen Jagdflugzeugen gedeckt war. Es wurden folglich nur etwa 180 Exemplare der Triplane hergestellt.  
@@ -55,18 +55,20 @@ Referenzen:
 1) Sopwith Triplane. Windsock Datafile 22.  
 2) The Sopwith Triplane. Profile publications Number 73  
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Twin forward Vickers  
-  
+  ﻿
+### Twin forward Vickers  
+
 Twin fixed forward firing Vickers guns.  
 Ammo: 1000 of 7.69mm rounds (500 rounds for each gun)  
 Geschossgewicht: 11 g  

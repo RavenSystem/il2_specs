@@ -1,9 +1,9 @@
 # Ju 52/3m g4e  
-  
+
 ![ju523mg4e](../images/ju523mg4e.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：105~117 km/h  
 起降构型的失速指示空速：92~109 km/h  
 俯冲极速：330 km/h  
@@ -114,29 +114,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.1 l/min  
 	- Combat engine mode: 10.6 l/min  
-  
+
 ## 修改  
 ### 2300 kg货物  
-  
+
 2300 kg军用货物装载  
 增加质量：2300 kg  
 预期速度损失：2 km/h  
+
 ### 10 x MAB 250货柜  
-  
+
 10 x 250 kg带降落伞的空投运输货柜MAB 250  
 增加质量：2550 kg  
 集装箱质量：2500 kg  
 挂架质量：50 kg  
 投弹前预期速度损失：2 km/h  
 投弹后预期速度损失：0 km/h  
+
 ### 12名伞兵  
-  
+
 12名带有弹药的伞兵  
 增加质量：1200 kg  
 投弹前预期速度损失：2 km/h  
 投弹后预期速度损失：0 km/h  
+
 ### 后部炮塔  
-  
+
 装有MG 15 7.92mm机枪的后部炮塔，备弹1125发  
 增加质量：130 kg  
 预期速度损失：4 km/h  

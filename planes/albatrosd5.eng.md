@@ -1,9 +1,9 @@
 # Albatros D.Va  
-  
+
 ![albatrosd5](../images/albatrosd5.png)  
-  
+
 ## Description  
-  
+
 The engineers of Albatros Werke faced the task of building a fast and manoeuvrable fighter plane. The older Albatros D.III had a lower wing defect that led to failure of the wing in a steep dive. Having been unable to find out the reason of these failures, the engineers moved the aileron control wires from the lower wing to the top wing.  
 Test flights were carried out in the spring of 1917. Externally, the Albatros D.V differed from earlier Albatros models: it had a larger tail fin surface; the top wing was lowered closer to the fuselage; the radiator was set to starboard of the centreline, and the fuselage was more rounded.  
   
@@ -58,26 +58,30 @@ References
 3) NASM Albatros D Va  
 4) Albatros Aces of World War I by Norman Franks, Osprey №32  
 5) Albatros fighters in action by John F Connors.  
-  
+
 ## Modifications  
 ### Bullet Counters  
-  
+
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns  
 Additional mass: 1 kg  
+
 ### Inclinometer  
-  
+
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Gunsight  
-  
+
 Additional sight with front sight and rear sight mountings  
 Additional mass: 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Cockpit mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 8°  
@@ -90,22 +94,26 @@ Mount weight: 4 kg
 Ammo weight: 12 kg  
 Total weight: 23 kg  
 Estimated speed loss: 2-6 km/h  
+
 ### Collimator Day  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer installed)  
 Additional mass: 2 kg  
+
 ### Collimator Night  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer removed)  
 Additional mass: 2 kg  
+
 ### Anemometer, Altimeter, Clock  
-  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Additional mass: 1 kg  
   
 D.R.P Altimeter (0-8000 m)  
 Additional mass: 1 kg  
+
 ### Thermometer  
-  
+
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)  
 Additional mass: 1 kg  

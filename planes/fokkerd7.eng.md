@@ -1,9 +1,9 @@
 # Fokker D.VII  
-  
+
 ![fokkerd7](../images/fokkerd7.png)  
-  
+
 ## Description  
-  
+
 The Fokker D.VII was designed by Reinhold Platz of the Fokker-Flugzeugwerke. His task was to create a fighter capable of beating the French SPAD XIII and British S.E.5a fighters. Some notable design features of the type included a metal airframe structure, a thick-sectioned wing, and a lack of bracing wires.  
   
 A competition among various new fighters took place in Adlershof from January 21st to February 12th, 1918, during the course of which the D.VII prototype proved to be the fastest, most durable, and the best-climbing aircraft. Manfred von Richthofen, a close friend of Anthony Fokker, also evaluated the prototype and noted some minor flaws. In particular, he noted the aircraft exhibited instability in a long dive, which was later corrected. The success of the design led to it being produced at a number of factories, including Fokker Flugzeugwerke, Albatros Werke, and the Ostdeutsche Albatros Werke. The Fokker D.VII would become one of the best - if not ultimately the best - fighter by the end of the war. In total, 2029 planes were produced and sent to the front by the end of 1918.  
@@ -58,36 +58,43 @@ References
 3) Fokker D.VII Aces of World War I. Part1 and 2 and 3 by Norman Franks and Greg VanWyngarden.  
 4) Fokker D.VII in action. By D. Edgar Brannon Aircraft Number 166.  
 5) Profile publications. The Fokker D.VII Number 25.  
-  
+
 ## Modifications  
 ### High Altimeter  
-  
+
 D.R.P Altimeter (0-8000 m)  
+
 ### Bullet counters  
-  
+
 Wilhelm Morell digital bullet counters for 2 machine guns  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Gunsight  
-  
+
 Additional sight with front sight and rear sight mountings  
 Additional mass: 1 kg  
+
 ### Collimator Day  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer installed)  
 Additional mass: 2 kg  
+
 ### Collimator Night  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer removed)  
 Additional mass: 2 kg  
+
 ### Anemometer  
-  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Additional mass: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)  
 Additional mass: 1 kg  

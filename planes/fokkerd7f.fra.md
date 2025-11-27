@@ -1,9 +1,9 @@
 # Fokker D.VIIF  
-  
+
 ![fokkerd7f](../images/fokkerd7f.png)  
-  
+
 ## Description  
-  
+
 L\avion a été conçu dans le département de design d\Anthony Fokker. Le chef designer a reçu pour missiion de créer un chasseur rapide, capable de battre le Spad-XIII français et le S.E.5a britannique. Quelques caractéristiques de productuin: structure de la cellule en métal, aile épaisse sectionnée, absence de câbles d\arrimage.  
   
 Du 21 janvier au 12 février 1918, à la compétion de chasseurs de Adlershof, l\avion s\est avéré être le plus rapide, le plus durable et avec le meilleur taux de montée. Manfred von Richthofen, un amis proche d\Anthony Fokker, a également pris le prototype pour ses essais en vol et à relevé certains défauts mineurs, particulièrement l\instabilité dans certaines plongées longues, qui a été amélioré plus tard.Le succès de la conception des avions a conduit à ce qu\elle soit produite sur un certain nombre d\usines: Fokker Flugzeug-Werke, Albatros Werke, Ostdeutsche Albatros Werke. Le Fokker D.VII est devenu l\un des meilleurs, si ce n\est en fin de compte le meilleur chasseur de la fin de la guerre. Il y a eu 2029 avions fabriqués et envoyés au front avant la fin de l\année 1918.  
@@ -73,33 +73,39 @@ References
 8) Technical description and operation manual for Bavarian engine type BMW IIIa 185hp. Bayerische Motoren Werke A.-G., München 1918.  
 9) NACA REPORT No.135. Performance of B.M.W. 185-horsepower airplane engine. By S.W.Sparrow. Bureau of Standards. 1919.  
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry, Directorate of Research. May, 1919.  
-  
-## Modifications  
-﻿### Haut Altimètre  
-  
+
+## Modifications  ﻿
+### Haut Altimètre  
+
 D.R.P Altimètre (0-8000 m)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
-﻿### Thermometre  
-  
+  ﻿
+### Thermometre  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

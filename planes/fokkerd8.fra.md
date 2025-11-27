@@ -1,9 +1,9 @@
 # Fokker D.VIII  
-  
+
 ![fokkerd8](../images/fokkerd8.png)  
-  
+
 ## Description  
-  
+
 L\avion fut spécialement conçu par Fokker pour les tests comparatifs du chasseur de seconde génération qui se déroula du 27 mai au 21 juin au centre d\essais d\Adlershof. Il fut principalement élaboré sur la base des anciens modèles de Reinhold Platz. La formule retenue fut celle du monoplan. Le fuselage est de type tubulaire soudé et les ailes sont recouvertes de contreplaqué sur toute l\envergure . L\aile possède un profil épais et est placée au niveau des yeux du pilote ce qui réduit la visibilité vers l\avant. Durant les tests le E.V démontra d\excellentes performances ainsi qu\une visibilité globale d\excellente facture, les performances en montée et manœuvrabilité furent jugées bonnes elles aussi, au point que certains pilotes le préféraient au Fokker D.VIIF. Un contrat avec l\Oberursel UR II pour la production de 400 avions fut signé par la suite.  
   
 L\avion était produit à l\usine Fokker Flugzeug-Werke et 285 unités furent produites avant la fin de la guerre. Le 7 Aout 1918 l\avion entra en service avec la Jasta 6 et la Jasta 19, Malheureusement le 16 et le 19 du mois, deux pilotes furent tués suite a une rupture de l\aile. les Fokker E.V furent coulés au sol temporairement pour investigation jusqu\en Octobre.La cause retenue pour les casses d\aile fut la mauvaise qualité de construction ainsi que des matériaux utilisés. Après modification et remise aux standards des procédures de fabrication la désignation officielle devint Fokker D.VIII. Il n\y avait aucune différence visuelle entre l\E.V et le Fokker DVIII et certains E.V ont gardé leur nom même une fois équipés de leur nouvelle aile.  
@@ -57,29 +57,34 @@ References
 4) Fokker Aircraft of World War One. By D. Paul Leaman.  
 5) German Aircraft of the First World War. By P.Gray, O.Thetford.  
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.  
-  
-## Modifications  
-﻿### Inclinometre  
-  
+
+## Modifications  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  

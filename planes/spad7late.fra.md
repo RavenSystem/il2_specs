@@ -1,9 +1,9 @@
 # SPAD 7.C1 180hp  
-  
+
 ![spad7late](../images/spad7late.png)  
-  
+
 ## Description  
-  
+
 Le SPAD S.VII était un chasseur monoplace conçu par Louis Bechereau de la Société pour l\Aviation et ses Dérivés au début de 1916. Le design principal de l\avion provint du développement par SPAD du SPAD Type A à moteur rotatif. Le moteur initialement prévu pour équiper le SPAD S.VII, l\Hispano-Suiza 8A de 150 chevaux, fut conçu par l\ingénieur suisse Marc Birkigt en Février 1915.  
   
 Le prototype, appelé le SPAD V, effectua son premier vol en Avril 1916. Cet avion avait initialement une grande casserole d\hélice conique avec une ouverture centrale, ainsi qu\un radiateur et un capot circulaires. Bien que la casserole fut abandonnée, le radiateur circulaire et le capot restèrent caractéristiques de ce type. Les vols d\essais montrèrent que l\avion possédait une vitesse maximale et un taux de montée excellents. De plus, la construction solide de la structure dotait l\avion d\une performance en piqué supérieure aux Nieuports à construction légère, connus pour perdre leurs ailes inférieures en cas de piqués prononcés. Grâce à ces caractéristiques prometteuses, la production de l\avion fut ordonnée sous l\appellation SPAD S.VII le 10 Mai 1916.  
@@ -54,22 +54,25 @@ References
 2) Windsock Datafile 008 - Spad 7.C1  
 3) SPAD 150 HP armamento, dec.1917  
 4) French \Hispano Suiza\ engines tech data.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis (importé dAngleterre)  
 Masse supplémentaire : 2 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Collimateur à réfraction Le-Chrétien  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Cockpit mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 25°  
@@ -82,15 +85,17 @@ Mounts weight: 0.8 kg
 Ammo weight: 12 kg  
 Total weight: 20.3 kg  
 Estimated speed loss: 7-18 km/h  
-﻿### LePrieur rockets  
-  
+  ﻿
+### LePrieur rockets  
+
 6 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Masse supplémentaire : 36 kg  
 Masse des munitions : 12 kg  
 Masse des pylones : 24 kg  
 Perte estimée de vitesse avant le largage : 8 km/h  
 Perte estimée de vitesse après le largage : 6 km/h  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Anemometre E.Badin (0..230 km/h à 0 m et 0..240 km/h à 2000 m)  
 Masse supplémentaire : 1 kg  

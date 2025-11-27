@@ -1,9 +1,9 @@
 # Pz.Kpfw.IV Ausf.G  
-  
+
 ![pziv-g](../images/pziv-g.png)  
-  
+
 ## Beschreibung  
-  
+
 Dieser Pz.Kpfw. IV Ausf.G mit 75 mm KwK 40/L48 Kanone wurde im Juni 1943 in den Nibelungenwerken hergestellt. Der Hauptunterschied der "Ausf.G"-Modifikation gegenüber den Vorgängermodellen war eine neue Kanone - längerer (+5 Kaliber) Lauf, aber mit festem Drall anstelle des variablen.  
   
 Der offensichtlichste optische Unterschied war das Hinzufügen von Seitenpanzerplatten, "Schürzen", die an der Wannen- und Turmseite angebracht wurden. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem Anti-Panzer-Gewehrfeuer zu schützen, was für die dünner gepanzerten Seiten gefährlich war. Da sie ein panzerbrechendes Geschoss nicht aufhalten konnte, destabilisierte diese zusätzliche Panzerung es oder verursachte seine Fragmentierung, bevor es auf den Hauptpanzer treffen konnte.  
@@ -95,10 +95,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 7,5 cm Pzgr. 39  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -113,8 +114,9 @@ Durchschlagsleistung aus kürzester Entfernung: 117 mm
 500 m: Durchschlagsleistung 104 mm, Geschwindigkeit 691 m/s, Fall -2,4 m  
 1000 m: Durchschlagsleistung 92 mm, Geschwindigkeit 636 m/s, Fall -10,0 m  
 2000 m: Durchschlagsleistung 72 mm, Geschwindigkeit 537 m/s, Fall -44,8 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 7,5 cm SprGr.34  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -128,8 +130,9 @@ Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 509 m/s, Geschossabfall -4,5 m  
 1000 m: Geschwindigkeit 473 m/s, Geschossabfall -18,5 m  
 2000 m: Geschwindigkeit 405 m/s, Geschossabfall -80,9 m  
-﻿### Hohlladunggranaten  
-  
+  ﻿
+### Hohlladunggranaten  
+
 7,5 cm Gr.38 HL/С  
   
 Hohlladunggranaten mit speziell geformtem und mit Sprengstoff gefülltem Sprengkopf.  
@@ -143,8 +146,9 @@ Mündungsgeschwindigkeit: 450 m/s
 500 m: Geschwindigkeit 328 m/s, Geschossabfall -7,8 m  
 1000 m: Geschwindigkeit 278 m/s, Geschossabfall -38,1 m  
 2000 m: Geschwindigkeit 244 m/s, Geschossabfall -200,4 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 7,5 cm Pzgr. 40  
   
 Granaten mit unterkalibrigen panzerbrechenden Projektilen. Gut gegen stark gepanzerte Ziele auf kurze Distanzen.  
@@ -159,6 +163,7 @@ Durchschlagsleistung aus kürzester Entfernung: 150 mm
 500 m: Durchschlagsleistung 128 mm, Geschwindigkeit 832 m/s, Fall -1.6 m  
 1000 m: Durchschlagsleistung 108 mm, Geschwindigkeit 739 m/s, Fall -10.0 m  
 2000 m: Durchschlagsleistung 75 mm, Geschwindigkeit 573 m/s, Fall -44.8 m  
-﻿### Zusätzliche Panzerschürzen  
-  
+  ﻿
+### Zusätzliche Panzerschürzen  
+
 Zusätzlicher Schutz 5mm. Zum Schutz vor Panzerbüchsen, welche die dünnere Seitenpanzerung durschlagen konnten. Obwohl die Schürzen ein panzerbrechendes Geschoss nicht aufhalten können, kann diese Zusatzpanzerung dafür sorgen, das Geschoss zum Trudeln zu bringen oder zu zersplittern, bevor es auf die Hauptpanzerung trifft.  

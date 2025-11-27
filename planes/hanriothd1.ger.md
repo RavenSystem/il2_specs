@@ -1,9 +1,9 @@
 # Hanriot HD.1  
-  
+
 ![hanriothd1](../images/hanriothd1.png)  
-  
+
 ## Beschreibung  
-  
+
 The Hanriot HD.1 was developed by Pierre Dupont in the summer of 1916 for the Hanriot company as a classical biplane made mostly of wood with two-spar wings (the rudder frame and the nose part were metal). The upper wing had a small V-angle while the lower one was straight. There were 3 fuel tanks in the fuselage: two behind the engine and one more behind the pilots back.  
   
 At first, the HD.1 was meant to take over from the older Nieuport 11 and 17 planes, but the new Spad 7s were already in use on the front lines and got positive feedback from pilots for their in-line engines. Meanwhile, Nieuport squadrons still used Le Rhone engines. As a result, the French Air Force (Aviation Militaire) decided not to switch to HDs as it wasnt cost-effective, and the acquisition was canceled.  
@@ -50,10 +50,10 @@ Starre Bewaffnung nach vorne: 1 х Vickers Mk.I 7.69mm, 500 Schuss pro Magazin.
   
 Referenzen  
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.  
-  
-## Änderungen  
-﻿### Ballon Maschinengewehre  
-  
+
+## Änderungen  ﻿
+### Ballon Maschinengewehre  
+
 Vickers "Ballon" Maschinengewehr  
 Munition: 250 11,43mm Patronen  
 Geschossgewicht: 17,5 g  
@@ -62,20 +62,24 @@ Gewicht der Waffe: 13 kg
 Gewicht der Munition: 20 kg  
 Feuerrate: 600 Schuss/min  
 Zusätzliches Gewicht: 33 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kompass  
-  
+  ﻿
+### Kompass  
+
 L.Maxant Kompass  
 Zusätzliches Gewicht: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Le-Chretien Teleskopvisier  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Maschinengewehr  
+
 Overwing mounted additional Lewis machinegun with changeable position.  
 Munition: 388 7,69mm Patronen (4 Trommeln mit jeweils 97 Schuss)  
 Geschossgewicht: 11 g  

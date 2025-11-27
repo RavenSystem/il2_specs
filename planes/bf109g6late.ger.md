@@ -1,9 +1,9 @@
 # Bf 109 G-6 Late  
-  
+
 ![bf109g6late](../images/bf109g6late.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 161..179 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 153..170 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 850 km/h  
@@ -118,10 +118,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 5.4 l/min  
 	- Combat engine mode: 8.6 l/min  
-  
-## Änderungen  
-﻿### 21 cm BR  
-  
+
+## Änderungen  ﻿
+### 21 cm BR  
+
 2 WGr.21 Raketen in abwerfbaren Abschussvorrichtungen  
 Zusätzliches Gewicht: 258 kg  
 Gewicht der Munition: 224 kg  
@@ -129,49 +129,56 @@ Gewicht der Abwurfwaffenroste: 34 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 51 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 11 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### 300-liter Drop Tank  
-  
+  ﻿
+### 300-liter Drop Tank  
+
 300-liter jettisonable fuel tank  
 Empty mass: 15 kg  
 Full mass: 237 kg  
 Fuel capacity: 300 l  
 Estimated speed loss before drop: 30 km/h  
 Estimated speed loss after drop: 10 km/h  
-﻿### Erla Haube  
-  
+  ﻿
+### Erla Haube  
+
 Erla Haube ist eine dreiteilige Klarsichthaube, die eine verbesserte Sicht ermöglichte.  
 Gewichtsersparnis: 9 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### 2 x 20 mm MG 151/20 in Waffengondeln  
-  
+  ﻿
+### 2 x 20 mm MG 151/20 in Waffengondeln  
+
 20 mm Maschinenkanonen MG 151/20 in flügelmontierten Waffengondeln mit je 135 Schuss  
 Zusätzliches Gewicht: 212 kg  
 Gewicht der Munition: 55 kg  
 Gewicht der Schusswaffen: 157 kg  
 Geschwindigkeitsverlust: 13 km/h  
-﻿### 30 mm MK 108  
-  
+  ﻿
+### 30 mm MK 108  
+
 30mm Maschinenkanone MK 108 mit 65 Schuss  
 Zusätzliches Gewicht: 4 kg  
 Gewicht der Munition: 38 kg  
 Gewicht der Schusswaffen: 58 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### MW-50 System  
-  
+  ﻿
+### MW-50 System  
+
 Ein Methanol-Wasser-Gemisch mit einem Mischungsverhältnis von 50:50, das über ein Einspritzsystem in den Ladereintritt zugeführt wird.  
 Zusätzliches Gewicht: 84 kg  
 Methanol-Wasser-Gemisch Gewicht: 63 kg  
 Geschätzte Geschwindigkeitserhöhung auf Meereshöhe: 45 km/h  
-﻿### 1 x Bombe, Typ SC 250  
-  
+  ﻿
+### 1 x Bombe, Typ SC 250  
+
 249-kg-Splitterbombe SC 250  
 Zusätzliches Gewicht: 279 kg  
 Gewicht der Munition: 249 kg  
 Gewicht der Abwurfwaffenroste: 30 kg  
 Geschwindigkeitsverlust vor Abwurf: 33 km/h  
 Geschwindigkeitsverlust nach Abwurf: 11 km/h  
-﻿### 4 x Bomben, Typ SD 70  
-  
+  ﻿
+### 4 x Bomben, Typ SD 70  
+
 4 x 66-kg-Splitterbomben SD 70  
 Zusätzliches Gewicht: 304 kg  
 Gewicht der Munition: 264 kg  

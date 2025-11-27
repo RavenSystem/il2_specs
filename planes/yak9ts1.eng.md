@@ -1,9 +1,9 @@
 # Yak-9T ser.1  
-  
+
 ![yak9ts1](../images/yak9ts1.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 157..165 km/h  
 Indicated stall speed in takeoff/landing configuration: 139..145 km/h  
 Dive speed limit: 750 km/h  
@@ -109,30 +109,34 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
+
 ## Modifications  
 ### Ammo counter  
-  
+
 NS-37 gun ammo counter  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
+
 ### Landing light  
-  
+
 Landing light for night flights  
 Additional mass: 2 kg  
 Estimated speed loss: 0 km/h  
+
 ### Mirror  
-  
+
 Rear view mirror  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
+
 ### Reflector Gunsight  
-  
+
 PBP-1A reflector gunsight  
 Additional mass: 0.5 kg  
 Estimated speed loss: 0 km/h  
+
 ### RPK-10  
-  
+
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  

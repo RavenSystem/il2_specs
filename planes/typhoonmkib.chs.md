@@ -1,9 +1,9 @@
 # Typhoon Mk.Ib  
-  
+
 ![typhoonmkib](../images/typhoonmkib.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：152~182 km/h  
 起降构型的失速指示空速：126~151 km/h  
   
@@ -110,24 +110,27 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 12.3 l/min  
-  
+
 ## 修改  
 ### 军刀IIA发动机（+11 lb型）  
-  
+
 军刀IIA发动机（+11 lb型）  
 预期海平面增速：23 km/h  
+
 ### 4叶螺旋桨  
-  
+
 安装四叶螺旋桨  
 预计最大提速：12 公里/小时  
 预计最大爬升率增加：2.3 m/s  
+
 ### 额外装甲  
-  
+
 安装额外引擎和座舱装甲  
 增加质量：157 kg  
 预期速度损失：2 km/h  
+
 ### 通用炸弹  
-  
+
 2发中型炸弹  
   
 2 x 500 lb 通用炸弹  
@@ -143,13 +146,15 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：20 kg  
 投弹前预期速度损失：42 km/h  
 投弹后预期速度损失：9 km/h  
+
 ### 圆顶防尘板  
-  
+
 在发动机进气口上安装防尘板。  
 增加质量：1 kg  
 预期速度损失：8 km/h  
-﻿### 装在MK.1型双导轨上的 RP-3 高爆火箭弹  
-  
+  ﻿
+### 装在MK.1型双导轨上的 RP-3 高爆火箭弹  
+
 装在Mk.1 导轨上的 3 英寸半穿甲弹/高爆无制导火箭弹 RP-3。  
   
 4 x 双RP-3 SAP/HE 和 4 x RP-3 SAP/HE:  
@@ -158,13 +163,15 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：84 kg  
 发射前预期速度损失：66 km/h  
 发射后预期速度损失：30 km/h  
+
 ### 不带反光板的瞄准具  
-  
+
 安装Type I Mk.III瞄准具  
 增加质量：0 kg  
 预期速度损失：0 km/h  
-﻿### 装在MK.1型导轨上的 RP-3 高爆 / 穿甲 火箭弹  
-  
+  ﻿
+### 装在MK.1型导轨上的 RP-3 高爆 / 穿甲 火箭弹  
+
 装在Mk.1 导轨上的 3 英寸半穿甲弹/高爆或穿甲无制导火箭弹 RP-3。  
   
 8 x RP-3 SAP/HE:  
@@ -180,8 +187,9 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：84 kg  
 发射前预期速度损失：50 km/h  
 发射后预期速度损失：30 km/h  
-﻿### 装在MK.3导轨上的 RP-3 高爆 / 穿甲 火箭弹  
-  
+  ﻿
+### 装在MK.3导轨上的 RP-3 高爆 / 穿甲 火箭弹  
+
 装在Mk.3 导轨上的 3 英寸半穿甲弹/高爆或穿甲无制导火箭弹 RP-3  
   
 8 x RP-3 SAP/HE:  

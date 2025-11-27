@@ -1,9 +1,9 @@
 # Spitfire Mk.IXe  
-  
+
 ![spitfiremkixe](../images/spitfiremkixe.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 143...163 km/h (89..101 mph)  
 Indicated stall speed in takeoff/landing configuration: 135...154 km/h (84..96 mph)  
   
@@ -139,54 +139,62 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.3 l/min  
 	- Combat engine mode: 10.2 l/min  
-  
+
+
 ## Modifications  
 ### 150 grade fuel  
-  
+
 Allows +25 lb boost  
 Automatic supercharger gear shifting is disabled. Stages should be manually switched at 9000ft altitude.  
 Estimated speed increase at sea level: 29 km/h  
+
 ### 2 x 250 lb G.P. bombs  
-  
+
 2 x 250 lb General Purpose Bombs  
 Additional mass: 247 kg  
 Ammunition mass: 227 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 24 km/h  
 Estimated speed loss after drop: 8 km/h  
+
 ### 500 lb G.P. bomb  
-  
+
 500 lb General Purpose Bomb  
 Additional mass: 237 kg  
 Ammunition mass: 227 kg  
 Racks mass: 10 kg  
 Estimated speed loss before drop: 13 km/h  
 Estimated speed loss after drop: 7 km/h  
+
 ### 300-liter Drop Tank  
-  
+
 300-liter jettisonable fuel tank  
 Empty mass: 50 kg  
 Full mass: 275 kg  
 Fuel capacity: 300 l  
 Estimated speed loss before drop: 30 km/h  
 Estimated speed loss after drop: 10 km/h  
+
 ### Gyro Gunsight  
-  
+
 MkII Gyro Gunsight  
 Additional mass: 5.2 kg  
 Estimated speed loss: 0 km/h  
+
 ### Merlin 70 engine  
-  
+
 Merlin 70 engine.   
 Additional mass: 0 kg  
 Estimated speed loss: 0 km/h  
+
 ### Mirror  
-  
+
 Rear view mirror  
 Additional mass: 1 kg  
 Estimated speed loss: 1 km/h  
-﻿### 2 х RP-3 HE / AP rockets  
-  
+  ﻿
+### 2 х RP-3 HE / AP rockets  
+
 2 х 3-in Semi-Armour Piercing/High Explosive or Armour Piercing unguided rockets RP-3  
   
 RP-3 SAP/HE:  
@@ -202,8 +210,9 @@ Ammunition mass: 55 kg
 Racks mass: 20 kg  
 Estimated speed loss before launch: 21 km/h  
 Estimated speed loss after launch: 17 km/h  
+
 ### Clipped Wing  
-  
+
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h  

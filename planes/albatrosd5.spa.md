@@ -1,9 +1,9 @@
 # Albatros D.Va  
-  
+
 ![albatrosd5](../images/albatrosd5.png)  
-  
+
 ## Descripción  
-  
+
 Los ingenieros de Albatros Werke aceptaron el desafío de construir un caza rápido y maniobrable. El viejo Albatros D.III tenía un defecto en el ala inferior que provocaba su rotura durante un picado fuerte. Incapaces de encontrar la razón de este problema , los ingenieros trasladaron los cables de control de los alerones desde el ala inferior al ala superior.  
   
 Los vuelos de prueba se llevaron a cabo en el primavera de 1917. Externamente, el Albatros D.V difería de los anteriores Albatros en lo siguiente: tenía una mayor superficie de cola; el ala superior se acercó más al fuselaje; el radiador fue colocado a estribor de la línea central y el fuselaje era más redondeado.  
@@ -61,26 +61,30 @@ Referencias:
 3) NASM Albatros D Va  
 4) Albatros Aces of World War I, por Norman Franks, Osprey n.º 32  
 5) Albatros fighters in action, por John F Connors.  
-  
-## Modificaciones  
-﻿### Contador de Balas  
-  
+
+## Modificaciones  ﻿
+### Contador de Balas  
+
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras  
 Peso adicional: 1 kg  
-﻿### Inclinómetro  
-  
+  ﻿
+### Inclinómetro  
+
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora Lewis adicional de posición variable montada sobre el ala superior.  
 Munición: 291 balas de 7,69 mm (3 cargadores con 97 balas cada uno)  
 Posición hacia delante: 8º  
@@ -93,22 +97,26 @@ Peso del soporte: 4 kg
 Peso de la munición: 12 kg  
 Peso total: 23 kg  
 Pérdida de velocidad estimada: 2-6 km/h  
-﻿### Colimador diurno  
-  
+  ﻿
+### Colimador diurno  
+
 Colimador reflectante Oigee (con filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Colimador nocturno  
-  
+  ﻿
+### Colimador nocturno  
+
 Colimador reflectante Oigee (sin filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Anemómetro, Altímetro, Relojes  
-  
+  ﻿
+### Anemómetro, Altímetro, Relojes  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  
   
 Altímetro de D.R.P (0-8000 m)  
 Peso adicional: 1 kg  
+
 ### Termómetro  
-  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
 Peso adicional: 1 kg  

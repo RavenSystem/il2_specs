@@ -1,9 +1,9 @@
 # Churchill IV  
-  
+
 ![churchill-iv](../images/churchill-iv.png)  
-  
+
 ## 描述  
-  
+
 The Churchill tank belonged to the class of infantry tanks developed by the British Army. According to this classification, the Churchill had low mobility and hardly the most powerful weaponry, but it was protected with powerful armor, and thus belonged to the class of heavy tanks. The tank was produced in England throughout the war years and was one of the most numerous armored vehicles in His Majesty’s armed forces. The model featured in the game was produced by the Leyland factory.  
   
 The first batch of early modification Churchill tanks under the Lend-Lease program was delivered to the USSR by the infamous Arctic convoy PQ-17. In total, 301 Churchill tanks were sent to the USSR during the war years, of which a little less than 50 vehicles were lost during transportation and 253 tanks were delivered to the Red Army during 1942 and 1943. The Churchill was the only heavy tank model supplied to the USSR by the Allies.  
@@ -90,10 +90,11 @@ No.39 Mk IIs machinegunner telescopic sight, field of view 21°.
 <b><u>Radio equipment:</u></b>  
 Wireless Set No. 19. HF/VHF transceiver.  
 5 intercom terminals.  
-  
+
+
 ## 修改  
 ### HE Mortar Rounds  
-  
+
 O-822Sh  
   
 Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. On the Eastern Front, Churchill tank crews fired 50 mm Soviet-made mortar rounds from a 2-inch mortar installed in the turret to lay smoke screens.  
@@ -101,8 +102,9 @@ Replacement of 20 out of 30 smoke mortar rounds with 50 mm High-Explosive ones. 
 Mass 850 g, explosives mass 90 g.  
 Direct hit armour penetration 7 mm, effective against infantry at less than 5 m.  
 Range 410m.  
+
 ### 穿甲弹  
-  
+
 6pdr APT  
   
 没有炸药装填的实心穿甲弹 对抗间隙装甲板效果好，但是比更先进的穿甲榴弹（APHE）对目标内部造成的伤害少。  
@@ -114,12 +116,15 @@ Range 410m.
 500m时：装甲穿深 104mm，速度 738 m/s，下坠高度 -1.8m  
 1000m时：装甲穿深 78mm，速度 602 m/s，下坠高度 -8.4m  
 2000m时：装甲穿深 41mm，速度 387 m/s，下坠高度 -45.7m  
+
 ### Removed Bow Fenders  
-  
+
 The track bow fenders of Churchill tanks on the Eastern front were often removed.  
+
 ### Removed Mid Fenders  
-  
+
 Rare variant with mid sections of caterpillar fenders removed.  
+
 ### Removed Fuel Tank  
-  
+
 The external rear-mounted fuel tank was commonly removed on the Eastern front.  

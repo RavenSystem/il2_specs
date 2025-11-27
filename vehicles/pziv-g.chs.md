@@ -1,9 +1,9 @@
 # 四号坦克G型（Pz.Kpfw.IV Ausf.G）  
-  
+
 ![pziv-g](../images/pziv-g.png)  
-  
+
 ## 描述  
-  
+
 此安装了75mmKwK 40/L48炮的四号坦克G型是在尼伯龙根工厂于1943年6月制造的。G型改型与以前的改型相比，主要区别在于新的炮管更长（+5口径），但使用固定膛线而不是可变的。  
   
 最明显的视觉差异是在车体和炮塔侧面附加了侧装甲“Schürzen”。安装它们主要是为了在反坦克步枪的射击下保护坦克，反坦克步枪对于较薄的侧面装甲来说是危险的。虽然无法挡住所有穿甲弹，这些额外的装甲可以使穿甲弹跳弹或或导致其碎裂，这使得炮弹接触车体装甲的概率降低。  
@@ -95,10 +95,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
+
+
 ## 修改  
 ### 穿甲榴弹  
-  
+
 7，5 cm Pzgr.39  
   
 炮弹上装有爆炸弹头。  
@@ -112,8 +113,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 104mm，速度 691 m/s，下坠高度 2.4m  
 1000m时：装甲穿深 92mm，速度 636 m/s，下坠高度 10.0m  
 2000m时：装甲穿深 72mm，速度 537 m/s，下坠高度 44.8m  
+
 ### 榴弹  
-  
+
 7，5 cm SprGr.34  
   
 对抗软目标、无装甲和轻装甲目标效果好。  
@@ -127,8 +129,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：速度 509 m/s，下坠高度 4.5m  
 1000m时：速度 473 m/s，下坠高度 18.5m  
 2000m时：速度 405 m/s，下坠高度 80.9m  
-﻿### 破甲弹  
-  
+  ﻿
+### 破甲弹  
+
 7，5 cm Gr.38 HL/С  
   
 破甲弹有成型高爆聚能战斗部装药  
@@ -142,8 +145,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：速度 328 m/s，下坠高度 7.8m  
 1000m时：速度 278 m/s，下坠高度 38.1m  
 2000m时：速度 244 m/s，下坠高度 200.4m  
-﻿### 次口径穿甲弹  
-  
+  ﻿
+### 次口径穿甲弹  
+
 7，5 cm Pzgr.40  
   
 装有次口径穿甲弹芯的炮弹。在近距离对抗重装甲目标效果好。  
@@ -157,8 +161,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 128mm，速度 832 m/s，下坠高度 1.6m  
 1000m时：装甲穿深 108mm，速度 739 m/s，下坠高度 10.0m  
 2000m时：装甲穿深 75mm，速度 573 m/s，下坠高度 44.8m  
+
 ### 额外装甲  
-  
+
 附加防护：车身和炮塔附上5mm装甲板。  
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。  
 虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。  

@@ -1,9 +1,9 @@
 # Gotha G.V  
-  
+
 ![gothag5](../images/gothag5.png)  
-  
+
 ## 描述  
-  
+
 The Gotha G.V was a subsequent development of the Gotha G.IV. Combat experience showed that the close proximity of the fuel tanks to the engines could lead to disastrous results. As a result, the fuel tanks were moved to the fuselage. A shortage of quality materials led to an increased weight of the airframe. The lower part of the fuselage retained the gun tunnel for firing rearward and downward. To improve stability while taxiing on the ground, the undercarriage legs were shortened, which required the engine nacelles to be repositioned above the lower wing. This latter modification is the most important external feature distinguishing the V series from previous models. Orders were placed in October 1916 for the production of 100 aircraft. In August 1917, first Gotha G.V left the factory. The plane was manufactured by Gothaer Waggonfabrik A.G. In all, 205 planes of the V series were built.  
 The G.V was used to bomb strategically important ground targets and cities such as London. By war’s end, the plane was being employed as a night bomber.  
 With a maximum bomb load, the plane was stable in flight, but on returning to base, it exhibited minimum stability and an unpleasant heaviness of the tail fin. To overcome these flaws, the tail gunner would sit close to the pilot; later on, the wings were simply moved rearwards by 20 cm. Upon landing, the plane had a tendency to yaw until it made full contact with ground. In February 1918, additional gears were fitted that were meant to make landings safer and to avoid nosing over. The aircraft took part in battles over the Western Front.  
@@ -68,10 +68,10 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 2) German Aircraft of World War I. Grey and Thetford Putnam Books. ISBN  0-933852-71-1  
 3) The Gotha G1-G5. Profile Publications Number 115  
 4) The Gotha. Flight magazine 1917.  
-  
+
 ## 修改  
 ### P.u.W. 炸弹  
-  
+
 最多12 x 12.5 kg P.u.W. 通用炸弹  
 增加质量：434 kg  
 弹药质量：350 kg  
@@ -99,8 +99,9 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 挂架质量：12 kg  
 投弹前预期速度损失：1.5 km/h  
 投弹后预期速度损失：1 km/h  
-﻿### Rear 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### Rear 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -112,8 +113,9 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：2 km/h  
-﻿### Rear 双帕拉贝伦（Parabellum）机枪炮塔  
-  
+  ﻿
+### Rear 双帕拉贝伦（Parabellum）机枪炮塔  
+
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。  
 弹药：2000发7.92mm弹药（8个弹鼓，每个250发）  
 弹丸重量：10 g  
@@ -124,16 +126,19 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 弹药重量：40 kg  
 总重：64 kg  
 预期速度损失：1 km/h  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 油量表  
-  
+  ﻿
+### 油量表  
+
 指针式油量表（0-800 l）  
 增加质量：0.5 kg  
-﻿### Front 20mm贝克（Becker）炮塔  
-  
+  ﻿
+### Front 20mm贝克（Becker）炮塔  
+
 装有贝克（Becker）机炮的炮塔  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -145,8 +150,9 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：2 km/h  
-﻿### Front 双帕拉贝伦（Parabellum）机枪炮塔  
-  
+  ﻿
+### Front 双帕拉贝伦（Parabellum）机枪炮塔  
+
 带有双帕拉贝伦（Parabellum）机枪的旋转炮塔。  
 弹药：2000发7.92mm弹药（8个弹鼓，每个250发）  
 弹丸重量：10 g  

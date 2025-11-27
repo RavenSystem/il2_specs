@@ -1,9 +1,9 @@
 # LaGG-3ser.4  
-  
+
 ![lagg3s4](../images/lagg3s4.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：167~193 km/h  
 起降构型的失速指示空速：142~170 km/h  
 俯冲极速：750 km/h  
@@ -108,15 +108,16 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
+
 ## 修改  
 ### RPK-10 无线电罗盘  
-  
+
 用于无线电信标导航的固定环形无线电罗盘  
 增加质量：10 kg  
 预期速度损失：0 km/h  
-﻿### 8 x ROS-82火箭弹  
-  
+  ﻿
+### 8 x ROS-82火箭弹  
+
 8 x 82mm高爆无制导火箭弹ROS-82  
 增加质量：80 kg  
 弹药质量：56 kg  

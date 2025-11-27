@@ -1,9 +1,9 @@
 # Sopwith 1½ Strutter  
-  
+
 ![sopstrutter](../images/sopstrutter.png)  
-  
+
 ## 描述  
-  
+
 Designed and built for the British Admiralty, the Sopwith 1½ Strutter (which took its name from the arrangement of the upper wing center section - "one-and-a-half" (long and short) pairs of cabane struts supporting the top wing) was the first true two-seat fighter to enter service and actually the first British airplane armed with synchronised machine gun. Powered by a 110 hp or 130 hp Clerget rotary engine, the aircraft was armed with a fixed synchronized forward firing Vickers .303 machine gun and a single (sometimes double) Lewis .303 machine gun in the rear cockpit. The 1½ Strutter entered service with both the RNAS and the Royal Flying Corps.  
   
 The prototype two-seater flew in December 1915. Deliveries of the "Strutter" into frontline units began around may of 1916, with the first machines delivered having no fixed forward gun. It is believed that these aircraft were delivered without the forward gun due to a shortage of Vickers .303 machine guns because of Army demand for these weapons. Some early production aircraft had the observer\s .303 Lewis gun mounted on a cranked pillar mounting; these were later replaced by the "Eteve" mounting and eventually by the standard Scarff No.2 ring mount.  
@@ -55,14 +55,15 @@ Bomb load: up to 72 kg.
 References  
 1) Windsock Datafile 34 - Sopwith Strutter, by J.M. Bruce.  
 2) WWI Aeroplanes by J.M. Bruce.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Alidas）瞄准具  
-  
+
 阿尔迪斯（Alidas）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### 库珀（Cooper）/H.E.R.L. 炸弹  
-  
+
 最多8 x 9 kg（20 lb）通用炸弹  
 增加质量：96 kg  
 弹药质量：72 kg  
@@ -76,20 +77,24 @@ References
 挂架质量：24 kg  
 投弹前预期速度损失：8 km/h  
 投弹后预期速度损失：4 km/h  
-﻿### 驾驶舱照明  
-  
+  ﻿
+### 驾驶舱照明  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 相机  
-  
+
 可拍摄航空照片的相机  
 增加质量：10 kg  
+
 ### 无线电  
-  
+
 无线电发射机  
 增加质量：10 kg  
-﻿### 双刘易斯（Lewis）机枪炮塔  
-  
+  ﻿
+### 双刘易斯（Lewis）机枪炮塔  
+
 双刘易斯（Lewis）机枪的斯卡夫（Scarff）旋转炮塔  
 弹药：776发7.69mm弹药（8个弹鼓，每个97发）  
 弹丸重量：11 g  
@@ -100,6 +105,7 @@ References
 弹药重量：32 kg  
 总重：59 kg  
 预期速度损失：2 km/h  
+
 ### 增大天窗  
-  
+
 增大上层机翼的缺口以改进视野。  

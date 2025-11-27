@@ -1,9 +1,9 @@
 # S.E.5a  
-  
+
 ![se5a](../images/se5a.png)  
-  
+
 ## Descripción  
-  
+
 El avión monoplaza S.E.5a (Scout Experimental 5a) fue diseñado por la compañía británica R.A.F. (Royal Aircraft Factory). El propósito era construir un caza con un motor Hispano-Suiza de 200 CV, que le proporcionaría velocidad y una alta tasa de ascenso. Con el fin de alcanzar este fin, los ingenieros tuvieron que establecer un compromiso. Al crear un perfil de ala delgado, debieron aumentar su superficie alar. Este diseño también incluyó alerones en el ala superior e inferior. Al final de la guerra un total de 5269 aeroplanos habían sido construidos.  
   
 El primer vuelo de prueba se llevó a cabo en enero de 1917, y su primera entrada en combate en Junio de 1917 con el escuadrón británico No. 56. Se utilizó para interceptar cazas y globos enemigos y escoltar bombarderos; en raras ocasiones fue empleado para atacar objetivos de tierra cerca de la línea del frente. Evaluando el avión, los pilotos destacaron su durabilidad estructural, suficiente maniobrabilidad, estabilidad en picados y al disparar las ametralladoras, manejo preciso y buena sensibilidad de los controles a bajas velocidades. En los aterrizajes a alta velocidad el avión no podía tocar el suelo a causa de la alta sustentación generada por las alas. Es interesante mencionar que la mayoría de los Ases ingleses volaron este modelo, por lo que se ganó el apodo de «Creador de Ases».  
@@ -58,25 +58,28 @@ Referencias:
 2) S.E. 5a in action. Squadron/signal publications, Aircraft Number 69.  
 3) RAF S.E.5 and S.E.5a Specification.  
 4) Profile Publications, The S.E. 5A Number 1.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper  
-  
+  ﻿
+### Bombas Cooper  
+
 Hasta 4 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 56 kg  
 Peso de munición: 44 kg  
 Peso de los soportes: 12 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Indicador nivel de combustible  
-  
+  ﻿
+### Indicador nivel de combustible  
+
 Indicador analógico del nivel de combustible (0-30 Galones)  
 Peso adicional: 1 kg  

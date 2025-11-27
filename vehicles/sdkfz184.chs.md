@@ -1,9 +1,9 @@
 # Sd.Kfz.184  
-  
+
 ![sdkfz184](../images/sdkfz184.png)  
-  
+
 ## 描述  
-  
+
 Heavy tank destroyer Sd.Kfz.184 built at Nibelungenwerke in 1943. This early version lacking commander cupola and a machine gun is known as "Ferdinand", while a later one equipped with these is known as "Elefant". 91 vehicles of all modifications were produced in total.  
   
 This self-propelled artillery was created to make use of the numerous "Tiger (P)" tanks chassis that were built for a new German heavy tank, but were left unused when the German authorities chose a competing design. This chassis had a unique electromechanical transmission, which, while being cutting-edge for its time, had many disadvantages - a significant drop in efficiency as the speed increased was the main one. This led to a very limited operational range and driving speed. However, "Ferdinand" was the most armored combat vehicle at the time of the Kursk battle. Its only weapon was long 88mm KwK 43 main gun designed on the basis of Flak 41 AA gun - its muzzle energy was more than 1.5 times higher than the muzzle energy of KwK 39 installed on Tiger tanks. As a result, armor-piercing rounds fired from it could knock out any armored vehicle of its time at any distance up to the maximum aiming distance. The early production vehicles had serious problems with the field of vision: the gunner used a periscopic gunsight with a very limited field of view while the commander had no optical visors usable with a closed hatch. Two loaders had periscopes for looking backward (in the game they can be used by the gunner and commander).  
@@ -118,10 +118,11 @@ Sfl ZF 1a gunner periscopic sight, field of view 8°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver.  
 5 intercom terminals.  
-  
+
+
 ## 修改  
 ### Armour Piercing High Explosive Shells  
-  
+
 8,8 cm Pzgr. 39/43  
   
 Shells armed with bursting charge warhead.  
@@ -135,8 +136,9 @@ Muzzle velocity 1000 m/s, armour penetration at point blank range 192 mm.
 500 m: armour penetration 179 mm, velocity 951 m/s, drop -1.3 m.  
 1000 m: armour penetration 167 mm, velocity 905 m/s, drop -5.4 m.  
 2000 m: armour penetration 144 mm, velocity 816 m/s, drop -22.8 m.  
+
 ### High-Explosive Shells  
-  
+
 8,8 cm Sprgr. Flak 41  
   
 Good against soft, unarmored or lightly armored targets.  
@@ -150,8 +152,9 @@ Muzzle velocity 700 m/s.
 500 m: velocity 662 m/s, drop -2.7 m.  
 1000 m: velocity 625 m/s, drop -11.1 m.  
 2000 m: velocity 556 m/s, drop -47.4 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 8,8 cm Pzgr. 40/43  
   
 Shells armed with sub-caliber armour-piercing projectile. Good against heavily armoured targets at short ranges.  
@@ -165,6 +168,7 @@ Muzzle velocity 1130 m/s, armour penetration at point blank range 266 mm.
 500 m: armour penetration 237 mm, velocity 1044 m/s, drop -1.1 m.  
 1000 m: armour penetration 212 mm, velocity: 964 m/s, drop -4.6 m.  
 2000 m: armour penetration 168 mm, velocity: 821 m/s, drop -19.7 m.  
+
 ### 倒置炮盾  
-  
+
 带有倒置炮盾的自定义改装。  

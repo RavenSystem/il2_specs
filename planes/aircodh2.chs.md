@@ -1,9 +1,9 @@
 # Airco D.H.2  
-  
+
 ![aircodh2](../images/aircodh2.png)  
-  
+
 ## 描述  
-  
+
 The Airco D.H.2 was a single-seat fighter and the second project of designer Sir Geoffrey de Havilland. With this design, he capitalized on the development of the "pusher" propeller concept, where the propeller is situated behind the pilot. This design eliminated the need for a synchronised machine gun, which was introduced only at the end of 1916: the prototype of the D.H.2 made its first flight in July 1915. In February 1916, No. 24 Squadron of the Royal Flying Corps became the first unit to be equipped with the type, when it began active service in France.  
   
 The Lewis machine gun was mounted in a nacelle and was initially difficult to aim. The movable gun mount forced the pilot to simultaneously control the aircraft and aim the machine gun by hand, which made combat even more difficult. Later on, pilots began to lock the gun down in a fixed position pointing forward. As a result, pilots could aim the weapon by manoeuvring the aircraft, which was found to be more effective than attempting to aim the machine gun manually during combat.  
@@ -51,22 +51,25 @@ References:
 1) Squadron/Signal Publications Nr. 171. De Haviland DH 2 in action  
 2) The De Haviland D.H.2. Profile publications Number 91  
 3) Airco DH2. Windsock Datafile 48.  
-  
-## 修改  
-﻿### 驾驶舱照明  
-  
+
+## 修改  ﻿
+### 驾驶舱照明  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 油量表  
-  
+  ﻿
+### 油量表  
+
 指针式油量表  
 增加质量：1 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
+
 ### LePrieur rockets  
-  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 增加质量：36 kg  
 弹药质量：16 kg  

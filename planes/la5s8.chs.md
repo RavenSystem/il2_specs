@@ -1,9 +1,9 @@
 # La-5 ser.8  
-  
+
 ![la5s8](../images/la5s8.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：165~183 km/h  
 起降构型的失速指示空速：147~162 km/h  
 俯冲极速：720 km/h  
@@ -121,39 +121,44 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 9.7 l/min  
 	- Combat engine mode: 11.1 l/min  
-  
+
 ## 修改  
 ### 特殊枪炮弹药装载  
-  
+
 装载种类：仅穿甲（AP）或高爆（HE）弹药  
+
 ### 2 x FAB-100M炸弹  
-  
+
 2 x 104kg 通用炸弹FAB-100M  
 增加质量：228 kg  
 弹药质量：208 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：27 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### 2 x FAB-50sv炸弹  
-  
+
 2 x 50kg 通用炸弹FAB-50sv  
 增加质量：120 kg  
 弹药质量：100 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：20 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### M-82F发动机  
-  
+
 带有无持续时间限制加力的后期型M-82F发动机。  
 增加质量：0 kg  
 预期速度损失：0 km/h  
+
 ### RPK-10 无线电罗盘  
-  
+
 用于无线电信标导航的固定环形无线电罗盘  
 增加质量：10 kg  
 预期速度损失：0 km/h  
+
 ### 平板风挡  
-  
+
 正前方部分为平板，视野更佳  
 增加质量：2 kg  
 预期速度损失：2 km/h  

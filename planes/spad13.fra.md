@@ -1,9 +1,9 @@
 # SPAD 13.C1  
-  
+
 ![spad13](../images/spad13.png)  
-  
+
 ## Description  
-  
+
 L\avion a été conçu comme une version améliorée du SPAD VII. Malgré l\extérieur semblable à son prédecesseur, c\était entièrement un nouvel avion. Une deuxième mitrailleuse et un moteur plus puissant ont été montés; ainsi qu\un réservoir de carburant auxiliaire a été placé dans la section centrale de la partie supérieure de l\aile, le réservoir de carburant principal avait des contours de la section inférieure du fuselage. A l\arrière gauche du cockpit il y\avait l\emplacement pour un appareil photo ou une charge de bombe. Le premier vol a été effectué le 4 avril 1917. L\avion a été fabriqué par: Bleriot, Levasseur, Bernard, Kellner, Safca, Borel, Nieuport. 8472 avions ont été construits au total.  
 La première apparition sur le front est datée de l\été—automne 1917. L\avion a fourni les escadrons de chasse français. il a été utilisé principalement contre les avions ennemis, l\escorte de bombardiers, la cartographie aérienne et la reconnaissance, rarement pour des bombardements de séparations de cibles autour du front.  
 Les pilotes français étaient impatients de recevoir cet avion. La deuxième mitrailleuse a augmenté la puissance de feu et le nouveau moteur l\a fait voler plus rapidement et grimper plus vite. Les contrôles demeuraient efficaces même à haute altitude. Les seuls inconvénients étaient la faible sensibilité des contrôles à basse vitesse, le profil d\aile a diminué la maniabilité à basse vitesse ce qui conduisait souvent à un décrochage. En plongée et en croisière le SPAD XIII était l\un des plus rapide, les pilotes disaient "plonge plus rapide que le vent". Il a participé à des batailles sur tous les fronts de la première guerre mondiale. Les Français, Britanniques, Américains et Italiens ont équipé leurs armées avec.  
@@ -58,14 +58,15 @@ References
 2) Profile Publications. The SPAD XIII. C.I  
 3) Performance of American Corp. SPAD XIII AIRFRAME DATA.  
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis (importé dAngleterre)  
 Masse supplémentaire : 2 kg  
-﻿### Balloon guns  
-  
+  ﻿
+### Balloon guns  
+
 Twin Vickers "Balloon" guns  
 Ammo: 400 of 11.43mm rounds  
 Projectile weight: 17,5 g  
@@ -74,23 +75,27 @@ Guns weight: 26 kg
 Ammo weight: 32 kg  
 Rate of fire: 600 rpm  
 Total additional weight of weapon modification: 58 kg  
-﻿### Cooper bombes  
-  
+  ﻿
+### Cooper bombes  
+
 2 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 22 kg  
 Masse des munitions : 22 kg  
 Masse des pylones : 0 kg  
 Perte estimée de vitesse avant le largage : 0 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Collimateur à réfraction Le-Chrétien  
 Masse supplémentaire : 1 kg  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  

@@ -1,9 +1,9 @@
 # SSW D.IV  
-  
+
 ![schuckertdiv](../images/schuckertdiv.png)  
-  
+
 ## Beschreibung  
-  
+
 SSW D.IV came very late to the Great War, too late to change Germany’s fortunes, but what machines did make it to front-line squadrons acquitted themselves well. This airplane was the end result of a robust line of Siemens-Schuckert aircraft that saw service in the war and it came with a unique feature. The 200-hp Siemens-Halske Sh.IIIa rotary engine had a crankshaft that rotated opposite of the engine and the propeller\s rotation in an attempt to reduce the torque. The four-bladed propeller gave it a fast rate of climb and a high speed. The SSW D.IV was even faster than Germany’s mainstay front-line fighter, the very successful Fokker D.VII. It was also very maneuverable, but reportedly had sudden stall without warning when pushed too far. It was armed with two 7.92 mm machine guns.  
   
   
@@ -63,29 +63,34 @@ Referenzen:
 4) WW1 Aero №99, April 1984.  
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.  
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.  
-  
-## Änderungen  
-﻿### Schusszähler  
-  
+
+## Änderungen  ﻿
+### Schusszähler  
+
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre  
 Zusätzliches Gewicht: 1 kg  
-﻿### Querneigungsmesser  
-  
+  ﻿
+### Querneigungsmesser  
+
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kollimator Tag  
-  
+  ﻿
+### Kollimator Tag  
+
 Oigee Reflexvisier (mit getönter Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Kollimator Nacht  
-  
+  ﻿
+### Kollimator Nacht  
+
 Oigee Reflexvisier (ohne getönte Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  

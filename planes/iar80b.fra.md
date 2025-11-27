@@ -1,9 +1,9 @@
 # I.A.R. 80-B  
-  
+
 ![iar80b](../images/iar80b.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 151..162 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 143..151 km/h  
 Vitesse limite de piqué : 750 km/h  
@@ -115,17 +115,18 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.9 l/min  
 	- Combat engine mode: 7.7 l/min  
-  
-## Modifications  
-﻿### I.A.R.80-C series 251-290  
-  
+
+## Modifications  ﻿
+### I.A.R.80-C series 251-290  
+
 Armament changed to four 7.92mm MGs and two 20mm MG FF/M guns,  
 tail struts, new air filter, second oil radiator,  
 sturdier fuselage and flaps.  
 Additional mass: 24,2 kg  
 Estimated speed loss: 12 km/h  
-﻿### I.A.R.81-C series 301-450  
-  
+  ﻿
+### I.A.R.81-C series 301-450  
+
 Armament changed to two 7.92mm MGs and two 20mm MG151/20 guns,  
 centerline (249 kg SC 250) and underwing bombs (two 55 kg SC 50),  
 tail struts, sturdier flaps.  

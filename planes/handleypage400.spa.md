@@ -1,9 +1,9 @@
 # Handley Page O/400  
-  
+
 ![handleypage400](../images/handleypage400.png)  
-  
+
 ## Descripción  
-  
+
 El O/400 fue el siguiente paso en la mejora del diseño del HP O/100. Dos tanques de combustible fueron desplazados desde las barquillas del motor al fuselaje, y otro tanque de combustible de tamaño medio se montó encima de estos dos tanques en la parte superior del fuselaje. Se montaron travesaños huecos en las alas; el tren de aterrizaje fue equipado con enganches para remolque; las rejillas del radiador se montaron ya de fábrica. Se incluyeron placas blindadas para proteger los motores. El empuje diferencial entre los dos motores se compensó con una aleta central en la cola. Los nuevos motores Eagle VIII hicieron posible aumentar la carga máxima de bombas.  
   
 Además de por Handley Page, este bombardero también fue fabricado por la Royal Aircraft Factory, Boulton & Paul, Metropolitan Carriage Wagon y Birmingham Carriage Co. Al final de la guerra un total de 554 aparatos habían sido construidos en Inglaterra.  
@@ -66,18 +66,19 @@ Referencias:
 2) Handley Page O/400, CA Owers, vol. 1 y 2.  
 3) Handley Page O/400 Specification.  
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, página 81.  
-  
-## Modificaciones  
-﻿### 1 bomba pesada 1650 lb SN  
-  
+
+## Modificaciones  ﻿
+### 1 bomba pesada 1650 lb SN  
+
 1 bomba de propósito general de 1650 lb (748 kg)  
 Peso adicional: 778 kg  
 Peso de munición: 748 kg  
 Peso de los soportes: 30 kg  
 Pérdida de velocidad estimada antes de soltar: 5 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
-﻿### Cañón Davis en artillero frontal  
-  
+  ﻿
+### Cañón Davis en artillero frontal  
+
 Cañón manual sin retroceso Davis de 57 mm en la posición del artillero frontal  
 Munición: 17 balas de 57 mm  
 Tipo de munición: HE (balas explosivas)  
@@ -89,8 +90,9 @@ Peso del soporte: 15 kg
 Peso de la munición: 119 kg  
 Peso total: 210 kg  
 Pérdida de velocidad estimada: 0,5 km/h  
-﻿### Cañón Davis en artillero frontal (+Lewis)  
-  
+  ﻿
+### Cañón Davis en artillero frontal (+Lewis)  
+
 Cañón manual sin retroceso Davis de 57 mm en la posición del artillero frontal con ametralladora coaxial Lewis para ayudar al apuntado  
 Munición: 17 balas de 57 mm  
 Tipo de munición: HE (balas explosivas)  
@@ -102,12 +104,14 @@ Peso del soporte: 15 kg
 Peso de la munición: 119 kg  
 Peso total: 210 kg  
 Pérdida de velocidad estimada: 0,5 km/h  
-﻿### Indicador nivel de combustible  
-  
+  ﻿
+### Indicador nivel de combustible  
+
 Indicador analógico del nivel de combustible (0-300 Galones)  
 Peso adicional: 1 kg  
-﻿### Doble Lewis en artillero trasero  
-  
+  ﻿
+### Doble Lewis en artillero trasero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero trasero  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  

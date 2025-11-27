@@ -1,9 +1,9 @@
 # Li-2  
-  
+
 ![li2](../images/li2.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速： 115...135 km/h  
 起降构型的失速指示空速： 105...120 km/h  
 俯冲极速： 410 km/h  
@@ -122,10 +122,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 9.8 l/min  
-  
+
 ## 修改  
 ### 炸弹  
-  
+
 4 x 254 kg FAB-250sv炸弹  
 增加质量：1076 kg  
 弹药质量：1016 kg  
@@ -139,28 +139,32 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：60 kg  
 投弹前预期速度损失：17 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 2200 kg货物  
-  
+
 装载2200 kg军用物资  
 增加质量：2200 kg  
 预期速度损失：6 km/h  
+
 ### 14PD-MM空投物资箱在货运区  
-  
+
 14 x 125kg PD-MM带降落伞的空投物资箱在货运区  
 增加质量：1760 kg  
 集装箱质量：1760 kg  
 投弹前预期速度损失：5 km/h  
 投弹后预期速度损失：0 km/h  
+
 ### 6 x PD-MM空投物资箱  
-  
+
 6 x 125kg PD-MM带降落伞的空投物资箱  
 增加质量：814 kg  
 集装箱质量：754 kg  
 挂架质量：60 kg  
 投弹前预期速度损失：20 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 16名伞兵  
-  
+
 搭载16名全副武装的伞兵  
 增加质量：1600 kg  
 投弹前预期速度损失：7 km/h  

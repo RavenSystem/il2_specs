@@ -1,9 +1,9 @@
 # MiG-3 ser.24  
-  
+
 ![mig3s24](../images/mig3s24.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 159..175 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 134..147 km/h  
 Velocidad de picado límite: 750 km/h  
@@ -131,29 +131,32 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 6,0 l/min  
 	- Modo motor - Combate: 7,2 l/min  
-  
-## Modificaciones  
-﻿### Motor AM-38  
-  
+
+## Modificaciones  ﻿
+### Motor AM-38  
+
 El motor AM-38 tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.  
 Ganancia de velocidad estimada: 60 km/h  
 Ganancia tasa de ascenso estimada: 3 m/s  
+
 ### 2 ametralladoras BK de 12,7 mm   
-  
+
 2 ametralladoras BK de 12,7 mm montados en carcasas exteriores subalares con 145 balas cada uno  
 Peso adicional: 155 kg  
 Peso de municion: 54 kg  
 Peso del armamento: 101 kg  
 Perdida de velocidad estimada: 13 km/h  
-﻿### 2 ametralladoras BS 12,7 mm (700 balas)  
-  
+  ﻿
+### 2 ametralladoras BS 12,7 mm (700 balas)  
+
 2 ametralladoras BS de 12,7 mm montadas en el morro con 350 balas cada una en lugar de las ametralladoras estándar ShKAS y BS  
 Peso adicional: 34 kg  
 Peso de munición: 131 kg  
 Peso del armamento: 62 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### 2 bombas FAB-50sv / FAB-100M  
-  
+  ﻿
+### 2 bombas FAB-50sv / FAB-100M  
+
 2 bombas de propósito general de 50 kg FAB-50sv / 2 bombas de propósito general de 104 kg FAB-100M  
   
 FAB-50sv:  
@@ -169,16 +172,18 @@ Peso de munición: 208 kg
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 27 km/h  
 Pérdida de velocidad estimada tras soltar: 12 km/h  
-﻿### 6 cohetes ROS-82  
-  
+  ﻿
+### 6 cohetes ROS-82  
+
 6 cohetes no guiados explosivos (HE) de 82 mm ROS-82  
 Peso adicional: 60 kg  
 Peso de munición: 42 kg  
 Peso de los soportes: 18 kg  
 Pérdida de velocidad estimada antes de lanzarlos: 23 km/h  
 Pérdida de velocidad estimada tras lanzarlos: 17 km/h  
-﻿### 2 cañones de 20 mm ShVAK (300 balas)  
-  
+  ﻿
+### 2 cañones de 20 mm ShVAK (300 balas)  
+
 2 cañones de 20 mm ShVAK montados en el morro con 150 balas cada uno en lugar de las ametralladoras estándar ShKAS y BS  
 Peso adicional: 4 kg  
 Peso de munición: 69 kg  

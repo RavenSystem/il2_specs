@@ -1,9 +1,9 @@
 # Churchill IV  
-  
+
 ![churchill-iv](../images/churchill-iv.png)  
-  
+
 ## Descripción  
-  
+
 El tanque Churchill pertenecía a la clase de tanques de infantería desarrollados por el ejército británico. Según esta clasificación, el Churchill tenía poca movilidad y no contaba con el armamento más potente, pero estaba protegido con un potente blindaje, por lo que pertenecía a la clase de tanques pesados. El tanque se fabricó en Inglaterra durante los años de la guerra y fue uno de los vehículos blindados más numerosos de las fuerzas armadas de Su Majestad. El modelo que aparece en la simulación fue producido por la fábrica Leyland.  
   
 El primer lote de carros Churchill incluidos en el marco del programa «<i>Lend-Lease</i>» se entregó a la URSS en el infame convoy ártico PQ-17. En total, se enviaron 301 tanques Churchill a la URSS durante los años de guerra, de los cuales algo menos de 50 vehículos se perdieron durante el transporte y 253 tanques fueron entregados al Ejército Rojo durante 1942 y 1943. El Churchill fue el único modelo de carro de combate pesado suministrado a la URSS por los Aliados.  
@@ -90,10 +90,10 @@ Mira telescópica No.39 Mk IIs en ametrallador, campo de visión de 21°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor HF/VHF <i>Wireless Set No. 19</i>  
 5 intercomunicadores  
-  
-## Modificaciones  
-﻿### Granadas explosivas de mortero  
-  
+
+## Modificaciones  ﻿
+### Granadas explosivas de mortero  
+
 O-822Sh  
   
 Sustitución de 20 de las 30 granadas de humo de mortero por otras explosivas de 50 mm. En el Frente Oriental, las tripulaciones de los carros Churchill disparaban granadas explosivas de 50 mm de fabricación soviética desde el mortero de 2 pulgadas instalado en la torreta, cuyo cometido original era el de poder crear pantallas de humo.  
@@ -101,8 +101,9 @@ Sustitución de 20 de las 30 granadas de humo de mortero por otras explosivas de
 Peso 850 g, peso del explosivo 90 g.  
 Penetración de blindaje por  impacto directo 7 mm, efectivo contra infantería a menos de 5 m.  
 Distancia de lanzamiento 410 m.  
-﻿### Proyectiles perforantes sólidos (AP)  
-  
+  ﻿
+### Proyectiles perforantes sólidos (AP)  
+
 6pdr APT  
   
 Proyectiles perforantes sólidos, sin carga explosiva en su interior.   
@@ -116,12 +117,15 @@ Velocidad de salida 890 m/s, penetración del blindaje a bocajarro 136 mm.
 500 m: penetración del blindaje 104 mm, velocidad 738 m/s, caída -1.8 m.  
 1000 m: penetración del blindaje 78 mm, velocidad 602 m/s, caída -8.4 m.  
 2000 m: penetración del blindaje 41 mm, velocidad 387 m/s, caída -45.7 m.  
-﻿### Retirada guardabarros frontales  
-  
+  ﻿
+### Retirada guardabarros frontales  
+
 En el Frente Oriental, la sección frontal de los guardabarros de las orugas de los carros de combate Churchill se retiraban a menudo.  
-﻿### Retirada guardabarros centrales  
-  
+  ﻿
+### Retirada guardabarros centrales  
+
 Variante no muy habitual, con la sección central de los guardabarros de las orugas retirados.  
-﻿### Retirada de depósito externo  
-  
+  ﻿
+### Retirada de depósito externo  
+
 En el Frente Oriental, el depósito de combustible externo instalado en la parte trasera del carro se retiraba con bastante frecuencia.  

@@ -1,9 +1,9 @@
 # SPAD 13.C1  
-  
+
 ![spad13](../images/spad13.png)  
-  
+
 ## Descripción  
-  
+
 El SPAD S.XIII fue diseñado como una versión mejorada del SPAD S.VII. De similar apariencia externa a su predecesor, era en realidad un diseño completamente nuevo. Se incluyó una segunda ametralladora y un motor más potente; asimismo, se instaló un tanque de combustible auxiliar en la sección central del ala superior, y el tanque de combustible principal estaba dispuesto en la sección inferior del fuselaje. En la parte izquierda posterior a la cabina había un espacio para una cámara de fotos o una carga de bombas. El primer vuelo se realizó el 4 de abril de 1917. La aeronave fue fabricada por  Bleriot, Levasseur, Bernard, Kellner, Safca, Borel y Nieuport. En total se construyeron 8472 aviones de este modelo.  
   
 El S.XIII apareció por primera vez en el frente entre el verano y principios del otoño de 1917, suministrándose inicialmente a escuadrones de caza franceses. Principalmente se utilizó para interceptar aviones enemigos, escoltar bombarderos, trazar mapas aéreos y en tareas de reconocimiento, y en raras ocasiones para bombardeo de objetivos en tierra cerca de la línea del frente.  
@@ -60,14 +60,15 @@ Referencias:
 2) Profile Publications. The SPAD XIII. C.I.  
 3) Performance of American Corp. SPAD XIII AIRFRAME DATA.  
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis (importado de Gran Bretaña)  
 Peso adicional: 2 kg  
-﻿### Ametralladoras cazaglobos  
-  
+  ﻿
+### Ametralladoras cazaglobos  
+
 Doble ametralladora Vickers «Balloon»  
 Munición: 400 balas de 11,43 mm  
 Peso del proyectil: 17,5 g  
@@ -76,23 +77,27 @@ Peso de las armas: 26 kg
 Peso de la munición: 24 kg  
 Cadencia de disparo: 600 bpm  
 Peso adicional total: 58 kg  
-﻿### Bombas Cooper  
-  
+  ﻿
+### Bombas Cooper  
+
 2 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 22 kg  
 Peso de munición: 22 kg  
 Peso de los soportes: 0 kg  
 Pérdida de velocidad estimada antes de soltar: 0 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Colimador reflectante Le-Chretien  
 Peso adicional: 1 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  

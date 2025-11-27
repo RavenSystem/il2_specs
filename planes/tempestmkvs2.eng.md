@@ -1,9 +1,9 @@
 # Tempest Mk.V ser.2  
-  
+
 ![tempestmkvs2](../images/tempestmkvs2.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 150...174 km/h  
 Indicated stall speed in takeoff/landing configuration: 128...149 km/h  
   
@@ -105,22 +105,24 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 8.9 l/min  
 	- Combat engine mode: 14.2 l/min  
-  
+
 ## Modifications  
 ### 2 x 1000 lb M.C. bomb  
-  
+
 2 x 1000 lb Medium Capacity Bombs  
 Additional mass: 969 kg  
 Ammunition mass: 949 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 57 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### Sabre IIA engine with +11 lb boost  
-  
+
 Sabre IIA engine with +11 lb boost  
 Estimated speed increase at sea level: 23 km/h  
+
 ### 2 x 500 lb M.C. bombs  
-  
+
 2 x 500 lb Medium Capacity Bombs  
 Additional mass: 484 kg  
 Ammunition mass: 464 kg  

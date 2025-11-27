@@ -1,9 +1,9 @@
 # F.E.2b  
-  
+
 ![fe2b](../images/fe2b.png)  
-  
+
 ## 描述  
-  
+
 The F.E.2 was a biplane with a pusher propeller and a sprung landing gear with a front support wheel to minimize the risk of overturning during a bad landing. The entire trailing edge of the upper center section was hinged along the rear spar and could be lowered to act as a flap-type air brake. The forward cockpit was occupied by the observer gunner, with the pilot sitting behind him at a higher level. The engine was almost completely cowled and drove a two-blade pusher propeller.  
   
 Interestingly, in February 1915, this type of plane was tested with a brake parachute. This was probably the first time in history that a braking parachute was used on an airplane. A newly designed air brake that had been used on the first F.E.2a was also tested, but the air brake was eventually abandoned.  
@@ -57,10 +57,10 @@ Forward gunner: 1 x Lewis 7,69mm for forward, port and starboard positions firin
 1) Windsock Datafile 18 RAF FE 2b, by J.M. Bruce.  
 2) Windsock Datafile 147 RAF FE 2b at War, by Paul R Hare.  
 2) WWI Aeroplanes by J.M. Bruce.  
-  
+
 ## 修改  
 ### 库珀（Cooper）/H.E.R.L. /H.E.R.F.C. 炸弹  
-  
+
 最多12 x 11 kg（24 lb）通用炸弹  
 增加质量：167 kg  
 弹药质量：131 kg  
@@ -81,28 +81,34 @@ Forward gunner: 1 x Lewis 7,69mm for forward, port and starboard positions firin
 挂架质量：16 kg  
 投弹前预期速度损失：5 km/h  
 投弹后预期速度损失：3 km/h  
+
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
-﻿### 驾驶舱照明  
-  
+  ﻿
+### 驾驶舱照明  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
-﻿### 油量表  
-  
+  ﻿
+### 油量表  
+
 指针式油量表  
 增加质量：1 kg  
+
 ### 相机  
-  
+
 可拍摄航空照片的相机  
 增加质量：10 kg  
+
 ### 无线电  
-  
+
 无线电发射机  
 增加质量：10 kg  
-﻿### 双刘易斯（Lewis）机枪炮塔  
-  
+  ﻿
+### 双刘易斯（Lewis）机枪炮塔  
+
 双刘易斯（Lewis）机枪的斯卡夫（Scarff）旋转炮塔  
 弹药：776发7.69mm弹药（8个弹鼓，每个97发）  
 弹丸重量：11 g  

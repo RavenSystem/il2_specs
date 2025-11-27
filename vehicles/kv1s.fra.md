@@ -1,9 +1,9 @@
 # KV-1s ChTZ (1943)  
-  
+
 ![kv1s](../images/kv1s.png)  
-  
+
 ## Description  
-  
+
 The tank was created by thedesign bureau of Chelyabinsk Tank Factory (ChTZ) during Summer 1942. It saw first combat action at the end of 1942 on Don and Voronezh front.  
   
 The tank was based on its predecessor, KV-1 heavy tank. Because of its low mobility and reliability, KV-1s (\s\ means \skorostnoy\ - speedy) was designed to be less armoured, but more mobile and reliable.  
@@ -92,10 +92,11 @@ PT4-7 gunner panoramic periscopic sight, field of view 26°.
 <b><u>Radio equipment:</u></b>  
 VHF 9-RM transceiver.  
 4 intercom terminals.  
-  
-## Modifications  
-﻿### Armour Piercing Shells  
-  
+
+
+## Modifications  ﻿
+### Armour Piercing Shells  
+
 BR-350BSP  
   
 Solid armour piercing shells without explosive filling.  
@@ -108,8 +109,9 @@ Muzzle velocity 660 m/s, armour penetration at point blank range 87 mm.
 500 m: armour penetration 73 mm, velocity 585 m/s, drop -3.2 m.  
 1000 m: armour penetration 62 mm, velocity 524 m/s, drop -13.6 m.  
 2000 m: armour penetration 47 mm, velocity 429 m/s, drop -63.5 m.  
-﻿### Armour Piercing High Explosive Shells  
-  
+  ﻿
+### Armour Piercing High Explosive Shells  
+
 BR-350B  
   
 Shells armed with bursting charge warhead.  
@@ -122,11 +124,13 @@ Muzzle velocity 660 m/s, armour penetration at point blank range 86 mm.
 500 m: armour penetration 72 mm, velocity 584 m/s, drop -3.2 m.  
 1000 m: armour penetration 61 mm, velocity 522 m/s, drop -13.6 m.  
 2000 m: armour penetration 46 mm, velocity 427 m/s, drop -64.0 m.  
-﻿### Removed Fuel Tank  
-  
+  ﻿
+### Removed Fuel Tank  
+
 The external rear-mounted fuel tank was commonly removed on the Eastern front.  
-﻿### High-Explosive Shells  
-  
+  ﻿
+### High-Explosive Shells  
+
 OF-350  
   
 Good against soft, unarmoured or lightly armoured targets.  
@@ -139,8 +143,9 @@ Muzzle velocity: 680 m/s.
 500 m: velocity: 616 m/s, drop -3.0 m.  
 1000 m: velocity: 558 m/s, drop -12.5 m.  
 2000 m: velocity: 468 m/s, drop -56.7 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 BR-354P  
   
 Shells armed with sub-caliber armour-piercing projectile.  

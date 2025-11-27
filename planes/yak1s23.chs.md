@@ -1,9 +1,9 @@
 # Yak-1ser.23  
-  
+
 ![yak1s23](../images/yak1s23.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：156~172 km/h  
 起降构型的失速指示空速：134~147 km/h  
 俯冲极速：720 km/h  
@@ -115,19 +115,21 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
-  
+
 ## 修改  
 ### M-105PA Engine  
-  
+
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.  
 增加质量：30 kg  
+
 ### 无线电发射机  
-  
+
 无线电发射机RSI-4  
 增加质量：12.6 kg  
 预期速度损失：0 km/h  
-﻿### 6 x ROS-82火箭弹  
-  
+  ﻿
+### 6 x ROS-82火箭弹  
+
 6 x 82mm高爆无制导火箭弹ROS-82  
 增加质量：60 kg  
 弹药质量：42 kg  

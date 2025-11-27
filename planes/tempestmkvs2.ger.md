@@ -1,9 +1,9 @@
 # Tempest Mk.V ser.2  
-  
+
 ![tempestmkvs2](../images/tempestmkvs2.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 150...174 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 128...149 km/h  
   
@@ -105,22 +105,24 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 8.9 l/min  
 	- Combat engine mode: 14.2 l/min  
-  
-## Änderungen  
-﻿### 2 x Bomben, Typ 1000 lb M.C.  
-  
+
+## Änderungen  ﻿
+### 2 x Bomben, Typ 1000 lb M.C.  
+
 2 x 474,5-kg-Splitterbomben 1000 lb M.C.  
 Zusätzliches Gewicht: 969 kg  
 Gewicht der Munition: 949 kg  
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 57 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
-﻿### Sabre IIA Motor mit +11 lb Ladedruck  
-  
+  ﻿
+### Sabre IIA Motor mit +11 lb Ladedruck  
+
 Sabre IIA Motor mit +11 lb Ladedruck  
 Geschwindigkeitsgewinn in Bodennähe: 23 km/h  
-﻿### 2 x Bomben, Typ 500 lb M.C.  
-  
+  ﻿
+### 2 x Bomben, Typ 500 lb M.C.  
+
 2 x 232-kg-Splitterbomben 500 lb M.C.  
 Zusätzliches Gewicht: 484 kg  
 Gewicht der Munition: 464 kg  

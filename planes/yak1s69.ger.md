@@ -1,9 +1,9 @@
 # Yak-1 Brh. 69  
-  
+
 ![yak1s69](../images/yak1s69.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 155..171 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 133..146 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 720 km/h  
@@ -117,11 +117,11 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
-  
-## Änderungen  
-  ﻿
+
+## Änderungen  ﻿
+
 ### 2 x Bomben, Typ FAB-100M  
-  
+
 2 x 104-kg-Splitterbomben FAB-100M  
 Zusätzliches Gewicht: 228 kg  
 Gewicht der Munition: 208 kg  
@@ -129,20 +129,23 @@ Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
   ﻿
+
 ### 2 x Bomben, Typ FAB-50sv  
-  
+
 2 x 50-kg-Splitterbomben FAB-50sv  
 Zusätzliches Gewicht: 120 kg  
 Gewicht der Munition: 100 kg  
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 20 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
-﻿### Female Pilot  
-  
+  ﻿
+### Female Pilot  
+
 Lydia (Lilya) Vladimirovna Litvyak (18 August 1921 - 1 August 1943) - a Soviet fighter pilot, flight commander, Guards Junior Lieutenant, most successful female pilot of World War 2, Hero of the Soviet Union. Later research confirms 4 individual and 3 shared victories in aerial combat, as well as 1 aerostat shot down. Killed in action at the age of less than 22 years in a battle over the Mius Front.  
   ﻿
+
 ### 2 x Raketen, Typ ROS-82  
-  
+
 2 x ungelenkte 82-mm-Explosivraketen ROS-82  
 Zusätzliches Gewicht: 60 kg  
 Gewicht der Munition: 42 kg  
@@ -150,8 +153,9 @@ Gewicht der Abwurfwaffenroste: 18 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 8 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 6 km/h  
   ﻿
+
 ### 6 x Raketen, Typ ROS-82  
-  
+
 6 x ungelenkte 82-mm-Explosivraketen ROS-82  
 Zusätzliches Gewicht: 60 kg  
 Gewicht der Munition: 42 kg  
@@ -159,8 +163,9 @@ Gewicht der Abwurfwaffenroste: 18 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 23 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 17 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen  
 Zusätzliches Gewicht: 10 kg  
 Geschwindigkeitsverlust: 0 km/h  

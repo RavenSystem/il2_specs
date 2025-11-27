@@ -1,9 +1,9 @@
 # Spitfire Mk.IXe  
-  
+
 ![spitfiremkixe](../images/spitfiremkixe.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 143...163 km/h (89..101 mph)  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 135...154 km/h (84..96 mph)  
   
@@ -140,55 +140,62 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.3 l/min  
 	- Combat engine mode: 10.2 l/min  
-  
-## Modifications  
-﻿### 150 grade fuel  
-  
+
+## Modifications  ﻿
+### 150 grade fuel  
+
 Allows +25 lb boost  
 Supercharger gear shift automat is disabled. Stages should be manually switched at 9000ft altitude.  
 Estimated speed increase at sea level: 29 km/h  
-﻿### 2 bombes 250 lb G.P.  
-  
+  ﻿
+### 2 bombes 250 lb G.P.  
+
 2 bombes d’emploi général 250 lb G.P.  
 Masse supplémentaire : 247 kg  
 Masse des munitions : 227 kg  
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 24 km/h  
 Perte estimée de vitesse après le largage : 8 km/h  
-﻿### 500 lb G.P.  
-  
+  ﻿
+### 500 lb G.P.  
+
 Le bombe d’emploi général 500 lb G.P.  
 Masse supplémentaire : 237 kg  
 Masse des munitions : 227 kg  
 Masse des pylones : 10 kg  
 Perte estimée de vitesse avant le largage : 13 km/h  
 Perte estimée de vitesse après le largage : 7 km/h  
-﻿### 300-liter Drop Tank  
-  
+  ﻿
+### 300-liter Drop Tank  
+
 300-liter jettisonable fuel tank  
 Empty mass: 50 kg  
 Full mass: 275 kg  
 Fuel capacity: 300 l  
 Estimated speed loss before drop: 30 km/h  
 Estimated speed loss after drop: 10 km/h  
-﻿### Gyro Gunsight  
-  
+  ﻿
+### Gyro Gunsight  
+
 MkII Gyro Gunsight  
 Additional mass: 5.2 kg  
 Estimated speed loss: 0 km/h  
-﻿### Merlin 70 engine  
-  
+  ﻿
+### Merlin 70 engine  
+
 Merlin 70 engine.   
 Masse supplémentaire : 0 kg  
 Perte estimée de vitesse : 0 km/h  
-﻿### Miroir  
-  
+  ﻿
+### Miroir  
+
 Miroir pour voir lhémisphère arrière  
 Additional mass: 1 kg  
 Estimated speed loss: 1 km/h  
   ﻿
+
 ### 2 x roquettes RP-3   
-  
+
 2 x roquettes non guidées RP-3 de 3-in  
   
 RP-3 SAP/HE:  
@@ -204,8 +211,9 @@ Masse des munitions : 55 kg
 Masse des rails : 20 kg  
 Perte estimée de vitesse avant le lancement : 21 km/h  
 Perte estimée de vitesse après le lancement : 17 km/h  
-﻿### Clipped Wing  
-  
+  ﻿
+### Clipped Wing  
+
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h  

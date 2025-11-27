@@ -1,9 +1,9 @@
 # Breguet 14.B2  
-  
+
 ![breguet14](../images/breguet14.png)  
-  
+
 ## Description  
-  
+
 Biplan à deux places conçu par la compagnie française de même nom. Le prototype a effectué son premier vol en avril 1917. La strucure de l\enveloppe contient du duraluminium et de l\acier qui assurent une durabilité exceptionnelle. Plusieurs sociétés ont fabriqué cet avion: Michelin, Bellanger, Renault, Farman, Schmitt, Darracq. Au cours d\une période de guerre, les avions étaient équipés de différents moteurs. En premier il s\agissait de moteurs Renault, ensuite Fiat, et dans les derniers mois des moteurs Liberty. La fiabilité et l\équipement de moteurs puissants font du Breguet 14 le bombardier à deux places le plus rapide de la première guerre mondiale.  
   
 La première série d\avions est entrée en service avec l\armée française en Mai 1917. L\avion a changé en Sopwith Strutter. Il était plus rapide, avaient une meilleure vitesse de montée, un chargement de bombes plus important et une structure plus sévère.En avril 1918 225 avions de ce type ont servi dans 50 escadrons français et un escadron américain.  
@@ -59,14 +59,15 @@ References
 1) S.T.Ae. Service des Essais. AVION Breguet 717.  
 2) Windsock Datafile Special Breguet 14, by Alan D. Toelle.  
 3) Profile Publications The Breguet 14, Number 157.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Bombes 8kg, 20 kg, 40 kg  
-  
+  ﻿
+### Bombes 8kg, 20 kg, 40 kg  
+
 8 x Bombes 40 kg   
 Masse supplémentaire : 320 kg  
 Masse des munitions : 320 kg  
@@ -87,16 +88,19 @@ Masse des munitions : 256 kg
 Masse des pylones : 0 kg  
 Perte estimée de vitesse avant le largage : 6.3 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Collimateur à réfraction Le-Chrétien  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Additional Lewis machinegun with changeable position.  
 Ammo: 485 of 7.69 mm rounds (5 drums with 97 rounds in each)  
 Forward position: 5°  
@@ -109,15 +113,18 @@ Mounts weight:2 kg
 Ammo weight: 20 kg  
 Total weight: 29.5 kg  
 Estimated speed loss: 3 km/h  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Indicateur de virage  
-  
+  ﻿
+### Indicateur de virage  
+
 Indicateur de virage (à balle)  
 Masse supplémentaire : 1 kg  

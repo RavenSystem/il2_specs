@@ -1,9 +1,9 @@
 # Pz.Kpfw.III Ausf.M  
-  
+
 ![pziii-m](../images/pziii-m.png)  
-  
+
 ## Descripción  
-  
+
 El Pz.Kpfw. III Ausf.M era un carro de combate similar a su modificación anterior, Ausf.L. Se modificaron algunos elementos internos, chasis, compartimento del motor y otras cuestiones menores, de acuerdo a la experiencia adquirida durante el periodo de servicio de la versión anterior.  
   
 La diferencia visual más evidente era la adición de planchas de blindaje lateral a modo de faldones o <i>Schürzen</i>, que se unían a los laterales de casco y torreta. Se añadieron principalmente para proteger el tanque de los disparos de rifle anticarro, peligrosos para los blindajes laterales, más finos. Aunque no eran capaces de detener una bala anticarro, estas chapas adicionales la desestabilizaban o provocaban que se fragmentara antes de que pudiera impactar contra el casco blindado.  
@@ -98,10 +98,11 @@ Mira telescópica KZF 2 en operador de radio, campo de visión de 18°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF Fu 5  
 4 intercomunicadores  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 Pzgr. 39 de 5 cm  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -115,8 +116,9 @@ Velocidad de salida 835 m/s, penetración del blindaje a bocajarro 87 mm.
 500 m: penetración del blindaje 68 mm, velocidad 702 m/s, caída -1,5 m.  
 1000 m: penetración del blindaje 53 mm, velocidad 587 m/s, caída -8,4 m.  
 2000 m: penetración del blindaje 30 mm, velocidad 394 m/s, caída -76,7 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 Sprgr. 38 de 5 cm  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -131,8 +133,9 @@ Velocidad de salida 550 m/s.
 500 m: velocidad 444 m/s, caída -4,9 m.  
 1000 m: velocidad 368 m/s, caída -22,6 m.  
 2000 m: velocidad 285 m/s, caída -118,5 m.  
-﻿### Proyectiles perforantes de núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes de núcleo rígido (APCR)  
+
 Pzgr. 40 de 5 cm  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso.  
@@ -148,12 +151,14 @@ Velocidad de salida 1180 m/s, penetración del blindaje a bocajarro 175 mm.
 500 m: penetración del blindaje 82 mm, velocidad 696 m/s, caída -2,1 m.  
 1000 m: penetración del blindaje 43 mm, velocidad 443 m/s, caída -9,2 m.  
 2000 m: penetración del blindaje 16 mm, velocidad 223 m/s, caída -49,0 m.  
-﻿### Planchas blindadas adicionales  
-  
+  ﻿
+### Planchas blindadas adicionales  
+
 Protección adicional: planchas blindadas de 5 mm unidas a los laterales del casco y torreta.  
 Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.  
-﻿### Lanzagranadas de humo  
-  
+  ﻿
+### Lanzagranadas de humo  
+
 Instalación de 6 morteros externos lanzagranadas de humo de un único proyectil.  
 Granada de humo Schnellnebelkerze 39 (Nb K S 39)  
 Distancia de lanzamiento: 80 m  

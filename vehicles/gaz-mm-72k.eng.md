@@ -1,9 +1,9 @@
 # GAZ-MM 72-K  
-  
+
 ![gaz-mm-72k](../images/gaz-mm-72k.png)  
-  
+
 ## Description  
-  
+
 GAZ-MM truck made at the Molotov automobile factory in Gorky in 1943 with 25 mm 72-K automatic anti-air gun installed on the special wooden platform. This truck was an improved model of GAZ-AA with more powerful engine, better steering mechanism and reinforced suspension.  
   
 The development of the 25 mm automatic regimental AA gun began at the Kalinin factory in Leningrad in 1939. It was accepted into service in 1940 and its mass production begun in 1941. However, the production of towed platforms for these guns was problematic, so 72-K guns were installed on armoured train platforms, three-axle trucks GAZ-AAA and then on two-axle GAZ-MM ones.  
@@ -64,10 +64,11 @@ OZR-132 high explosive (HE): 288 g, 910 m/s, 13 g explosives.
 <b><u>Gunsights:</u></b>  
 K8-T collimator gunsight with automatic correction process.  
 Reserve iron sights.  
-  
-## Modifications  
-﻿### Armour Piercing Shells  
-  
+
+
+## Modifications  ﻿
+### Armour Piercing Shells  
+
 BR-132  
   
 Solid armour piercing shells without explosive filling.  
@@ -80,19 +81,23 @@ Muzzle velocity 900 m/s, armour penetration at point blank range 44 mm.
 500 m: armour penetration 33 mm, velocity 806 m/s, drop -1.8 m.  
 1000 m: armour penetration 25 mm, velocity 528 m/s, drop -8.3 m.  
 2000 m: armour penetration 13 mm, velocity 380 m/s, drop -46.4 m.  
+
 ### Gun shield (early)  
-  
+
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The early variant had a simple rectangular form.  
 The shield has an additional window that should be opened when firing at low angles.  
+
 ### Gun shield  
-  
+
 5 mm armored plate for protecting the gun crew from shell fragments and regular (not AP) bullets. The late variant had a complex form.  
 The shield has an additional window that should be opened when firing at low angles.  
+
 ### Remove gunsight cover  
-  
+
 Removing the protective cover of the K8-T collimator sight gives the gunner a slightly wider field of view.  
-﻿### High-Explosive Shells  
-  
+  ﻿
+### High-Explosive Shells  
+
 OZR-132  
   
 Good against soft, unarmoured or lightly armoured targets.  

@@ -1,9 +1,9 @@
 # Sopwith Snipe  
-  
+
 ![sopsnipe](../images/sopsnipe.png)  
-  
+
 ## Descripción  
-  
+
 El Sopwith Snipe fue creado para reemplazar a su predecesor, el Camel, en respuesta a la llegada de nuevos cazas enemigos. En la fase de diseño se barajaron varias posibilidades para su motor, desde los equipados en el Camel (el Clerget 9B o el Bentley B.R.1) como el nuevo y más potente Bentley B.R.2. El éxito de las pruebas de este último, que confirmaron su extraordinaria potencia (234 CV), redujo finalmente la elección a un solo motor. El primer prototipo de avión era similar a su predecesor, tanto en la forma del fuselaje como en la estructura del soporte de las alas (un par de puntales interplano por lado). Pero más tarde, se formó la imagen final del avión: el armazón rectangular del fuselaje se transformó en un armazón exterior redondeado, la estructura del soporte de las alas se reforzó con un par adicional de puntales interplano por lado, y se aumentó la superficie del timón de cola gracias al compensador.  
   
 Para los primeros 1700 aviones se firmaron siete contratos, que fueron asignados a Sopwith, Boulton & Paul, Coventry Ordnance Works, Napier, Nieuport & General, Portholme Aerodrome y Ruston Proctor. Las entregas comenzaron en el verano de 1918, pero el ritmo de producción no resultó el esperado: a finales de agosto de 1918 solo se habían fabricado 77 de los 200 previstos. Se desconoce el número total de aviones producidos, ascendiendo a 1567 el número oficial de Sopwith Snipe entregados. Durante la producción se introdujeron una serie de mejoras en el diseño, como un mayor aumento de la superficie vertical de la cola y de los alerones del ala superior. Además, algunos aviones estaban equipados con el motor radial Dragonfly más potente (320 CV) que, tras algunos cambios en el diseño, se convertirían en los precursores del nuevo Sopwith Dragon.  
@@ -60,32 +60,36 @@ Referencias:
 2) The Sopwith 7F.I Snipe. Profile publications número 50.  
 3) Sopwith Snipe. J.M. Bruce Windsock Datafile 46.  
 4) Dolphin and Snipe Aces of Wold War I.  Norman Franks, Osprey n.º48.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bomba H.E.R.L.  
-  
+  ﻿
+### Bomba H.E.R.L.  
+
 Bomba de propósito general de 112 lb (51 kg) H.E.R.L.  
 Peso adicional: 57 kg  
 Peso de munición: 51 kg  
 Peso de los soportes: 6 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Bombas Cooper  
-  
+  ﻿
+### Bombas Cooper  
+
 4 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 56 kg  
 Peso de munición: 44 kg  
 Peso de los soportes: 12 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Recortes de cabina ampliados  
-  
+  ﻿
+### Recortes de cabina ampliados  
+
 Recortes laterales de la cabina ampliados para mejorar el campo de visión delantero (conocida como modificación Baker)  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 9 kg  

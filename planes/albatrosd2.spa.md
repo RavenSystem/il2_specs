@@ -1,9 +1,9 @@
 # Albatros D.II  
-  
+
 ![albatrosd2](../images/albatrosd2.png)  
-  
+
 ## Descripción  
-  
+
 El Albatros D.II, primogénito en el grupo de los legendarios cazas Albatros, se convirtió en un símbolo e icono del avión de combate de la Gran Guerra. Bajo la dirección del ingeniero Robert Thelen, el avión supuso un paso adelante en el diseño y desarrollo aeronaútico incorporando nuevas características. Manteniendo la forma aerodinámica bien definida del fuselaje del modelo D.I, se añadieron nuevos refuerzos centrales en forma de N a las alas del plano superior, que se acercó más al fuselaje. Los primeros modelos del avión montaron radiadores tipo caja Windhoff a ambos lados del fuselaje.  
   
 El avión fue fabricado por la Albatros Werke, Ostdeutsche Albatros Werke y Luft-Verkehrs-Gesellschaft mbH. En total, se construyeron 768 Albatros D.II.  
@@ -57,17 +57,19 @@ Referencias:
 4) Albatros Aces of WWI, por Norman Franks, Osprey n.º 32.  
 5) Albatros fighters in action, por John F Connors.  
 6) Albatros D.II, Flugzeugprofile n.º 38.  
-  
-## Modificaciones  
-﻿### Aldis (trofeo)  
-  
+
+## Modificaciones  ﻿
+### Aldis (trofeo)  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Altímetro de alta cota  
-  
+  ﻿
+### Altímetro de alta cota  
+
 Altímetro de D.R.P (0-8000 m)  
-﻿### Cañón Becker de 20 mm  
-  
+  ﻿
+### Cañón Becker de 20 mm  
+
 Cañón automático Becker de 20 mm  
 Munición: 60 balas de 20 mm (4 cargadores con 15 balas cada uno)  
 Tipo de munición: HE/AP (balas explosivas y perforantes)  
@@ -79,23 +81,28 @@ Peso del soporte: 10 kg
 Peso de la munición: 25 kg  
 Peso total: 65 kg  
 Pérdida de velocidad estimada: 6 km/h  
-﻿### Reloj  
-  
+  ﻿
+### Reloj  
+
 Reloj Mecánico  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  
-﻿### Termómetro  
-  
+  ﻿
+### Termómetro  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
 Peso adicional: 1 kg  

@@ -1,9 +1,9 @@
 # Pz.Kpfw.V Ausf.D  
-  
+
 ![pzv-d](../images/pzv-d.png)  
-  
+
 ## Description  
-  
+
 Developed by MAN company in 1942, it first saw action in the Kursk battle in 1943. The tank had a powerful main gun, thick frontal armor and good mobility at the price of protection from other sides.  
   
 For the better distribution of weight and protecting the sides, its wheels were positioned in a checkerboard order, making the running gear repairs very difficult - in combat conditions its damage often led to a loss of tank. The compression stroke of the suspension was very large and it was significantly softer than on other tanks, resulting in traveling comfort. One suspension unit included two torsion bars (32 bars in total). The reliability of these machines, especially at the beginning of their production, was abysmal - only 4 of 174 were sent to the front line units by April 1943, the others were returned to the factories of origin for reworking.  
@@ -91,10 +91,11 @@ Tzf 12 gunner binocular scope-sight, field of view 29°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
-## Modifications  
-﻿### Armour Piercing High Explosive Shells  
-  
+
+
+## Modifications  ﻿
+### Armour Piercing High Explosive Shells  
+
 7,5 cm Pzgr. 39/42  
   
 Shells armed with bursting charge warhead.  
@@ -108,8 +109,9 @@ Muzzle velocity 925 m/s, armour penetration at point blank range 158 mm.
 500 m: armour penetration 140 mm, velocity 825 m/s, drop -1.6 m.  
 1000 m: armour penetration 125 mm, velocity 785 m/s, drop -6.6 m.  
 2000 m: armour penetration 99 mm, velocity 667 m/s, drop -29.6 m.  
-﻿### High-Explosive Shells  
-  
+  ﻿
+### High-Explosive Shells  
+
 7,5 cm SprGr.42  
   
 Good against soft, unarmored or lightly armored targets.  
@@ -123,8 +125,9 @@ Muzzle velocity 700 m/s.
 500 m: velocity 648 m/s, drop -2.8 m.  
 1000 m: velocity 601 m/s, drop -11.5 m.  
 2000 m: velocity 518 m/s, drop -49.9 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 7,5 cm Pzgr. 40/42  
   
 Shells armed with sub-caliber armour-piercing projectile. Good against heavily armoured targets at short ranges.  
@@ -138,11 +141,13 @@ Muzzle velocity 1170 m/s, armour penetration at point blank range 208 mm.
 500 m: armour penetration 179 mm, velocity 1054 m/s, drop -1.0 m.  
 1000 m: armour penetration 154 mm, velocity: 949 m/s, drop -4.3 m.  
 2000 m: armour penetration 111 mm, velocity: 756 m/s, drop -19.7 m.  
-﻿### Removed additional armor plates  
-  
+  ﻿
+### Removed additional armor plates  
+
 Removed 5 mm Schürzen that were attached to the hull. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

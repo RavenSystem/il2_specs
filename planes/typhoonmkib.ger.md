@@ -1,9 +1,9 @@
 # Typhoon Mk.Ib  
-  
+
 ![typhoonmkib](../images/typhoonmkib.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 152...182 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 126...151 km/h  
   
@@ -110,24 +110,27 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 12.3 l/min  
-  
-## Änderungen  
-﻿### Sabre IIA Motor mit +11 lb Ladedruck  
-  
+
+## Änderungen  ﻿
+### Sabre IIA Motor mit +11 lb Ladedruck  
+
 Sabre IIA Motor mit +11 lb Ladedruck  
 Geschwindigkeitsgewinn in Bodennähe: 23 km/h  
-﻿### 4-Blatt-Luftschraube  
-  
+  ﻿
+### 4-Blatt-Luftschraube  
+
 Einbau einer 4-Blatt-Luftschraube  
 Geschätzter maximale Drehzahlerhoehung: 12 km/h  
 Geschätzter maximale Erhöhung der Steigleistung: 12,3 m/s  
-﻿### Zusätzliche Rüstung  
-  
+  ﻿
+### Zusätzliche Rüstung  
+
 Einbau zusätzlicher Motor und Cockpitpanzerung  
 Zusätzliches Gewicht: 157 kg  
 Geschwindigkeitsverlust: 2 km/h  
-﻿### Bomben, Typ M.C.  
-  
+  ﻿
+### Bomben, Typ M.C.  
+
 2 x Splitterbomben M.C.  
   
 2 Splitterbomben 500 lb M.C.  
@@ -143,13 +146,15 @@ Gewicht der Munition: 949 kg
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 42 km/h  
 Geschwindigkeitsverlust nach Abwurf: 9 km/h  
-﻿### Kuppelstaubabweiser  
-  
+  ﻿
+### Kuppelstaubabweiser  
+
 Einbau eines Kuppelstaubabweiser am Motor Lufteinlass  
 Zusätzliches Gewicht: 1 kg  
 Geschätzter maximaler Geschwindigkeitsverlust: 8 km/h  
-﻿### Zwillingsrakete, Typ RP-3 auf Startschiene Mk.I  
-  
+  ﻿
+### Zwillingsrakete, Typ RP-3 auf Startschiene Mk.I  
+
 Ungelenkte Raketen RP-3 auf Startschiene Mk.I  
   
 4 x Zwillinge RP-3 (Halb-panzerbrechend) und 4 x RP-3 (Halb-panzerbrechend):  
@@ -158,13 +163,15 @@ Gewicht der Munition: 460 kg
 Gewicht der Abwurfwaffenroste: 84 kg  
 Geschwindigkeitsverlust vor dem Abfeuern: 66 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 30 km/h  
-﻿### Visier ohne Reflektor  
-  
+  ﻿
+### Visier ohne Reflektor  
+
 Einbau von Typ I Mk.III visier  
 Zusätzliches Gewicht: 0 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Raketen, Typ RP-3 auf Startschiene Mk.I  
-  
+  ﻿
+### Raketen, Typ RP-3 auf Startschiene Mk.I  
+
 Ungelenkte Raketen RP-3 auf Startschiene Mk.I  
   
 8 x RP-3 (Halb-panzerbrechend):  
@@ -180,8 +187,9 @@ Gewicht der Munition: 170 kg
 Gewicht der Abwurfwaffenroste: 84 kg  
 Geschwindigkeitsverlust vor dem Abfeuern: 50 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 30 km/h  
-﻿### Raketen, Typ RP-3 auf Startschiene Mk.III  
-  
+  ﻿
+### Raketen, Typ RP-3 auf Startschiene Mk.III  
+
 Ungelenkte Raketen RP-3 auf Startschiene Mk.III  
   
 8 x RP-3 (Halb-panzerbrechend):  

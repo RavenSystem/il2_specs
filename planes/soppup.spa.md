@@ -1,9 +1,9 @@
 # Sopwith Pup  
-  
+
 ![soppup](../images/soppup.png)  
-  
+
 ## Descripción  
-  
+
 El Sopwith Pup fue un caza monoplaza diseñado por el talentoso ingeniero Herbert Smith de la Sopwith Aviation Company. El primer vuelo del prototipo se realizó en febrero de 1916. El aeroplano se ganó rápidamente el favor de sus pilotos gracias a sus buenas características de vuelo y maniobrabilidad. En marzo de 1916, después de una serie de mejoras, el aeroplano fue transferido a unidades del Royal Naval Service (RNAS) para ser probado en servicio operativo. El avión fue llamado oficialmente «Sopwith Scout», pero los pilotos lo apodaron «Pup»(cachorro) por la similitud con el Sopwith 1½ Strutter, aunque de menores proporciones. Aunque el apodo «Pup» nunca fue reconocido oficialmente, así empezó la costumbre de la Sopwith de poner nombres de aves o animales a los aviones posteriores.  
   
 Las primeras unidades del Sopwith Pup fueron transferidas al frente en octubre de 1916. Sus buenas características de vuelo le permitieron combatir con éxito a la oposición enemiga. Durante la batalla del Somme, alrededor de 20 victorias fueron atribuidas al 8.º Escuadrón de RNAS, que contaba con biplano. Tras encontrarse con el Pup en combate, Manfred von Richthofen anotó: «Vimos al instante que los aeroplanos enemigos eran superior a los nuestros».  
@@ -55,18 +55,20 @@ Referencias:
 2) Sopwith Pup. Windsock Datafile Special.  
 3) Sopwith Pup Aces of World War I. Osprey Aircraft of the Aces 67.  
 4) The Sopwith Pup. Profile publications Número 13.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 9 kg  
-﻿### Cohetes Le Prieur  
-  
+  ﻿
+### Cohetes Le Prieur  
+
 8 cohetes antiglobo Le Prieur montados en los soportes verticales de las alas, con una cuchilla triangular en la punta para ayudar a la perforación de la envoltura del globo o con una granada altamente explosiva.  
 Peso adicional: 36 kg  
 Peso de munición: 16 kg  

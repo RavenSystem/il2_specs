@@ -1,9 +1,9 @@
 # Bristol F2B (F.II)  
-  
+
 ![bristolf2bf2](../images/bristolf2bf2.png)  
-  
+
 ## Description  
-  
+
 La conception du Bristol F.2B débuta en mars 1916, avec pour but de remplacer les vieux biplaces de reconnaissance du type BE. En outre, le nouveau type d\avion devait aussi pouvoir être utilisé pour des patrouilles de combat. Muni de double commandes, d\une TSF et d\un équipement photographique, l\avion était armé d\une mitrailleuse Vickers fixe traversant le radiateur et d\un arceau-tourelle arrière doté d\une ou deux mitrailleuses Lewis.  
   
 Le premier prototype Bristol F.2A vola en septembre 1916, équipé d\un moteur Rolls Royce Mk.1. Après des essais en vol réussis, la mise en production fut décidée. L\escadrille N°48 fut la première unité opérationnelle en France équipée de Bristols, qui débarquèrent au front le 8 mars 1917.  
@@ -88,14 +88,15 @@ References
 7) Bristol F2 Fighter Aces, Osprey, AOF no.79.  
 8) Various NACA reports.  
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Cooper / H.E.R.L. bombes  
-  
+  ﻿
+### Cooper / H.E.R.L. bombes  
+
 12 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 167 kg  
 Masse des munitions : 131 kg  
@@ -109,16 +110,19 @@ Masse des munitions : 204 kg
 Masse des pylones : 48 kg  
 Perte estimée de vitesse avant le largage : 8 km/h  
 Perte estimée de vitesse après le largage : 4 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauge d\essence,  
-  
+  ﻿
+### Jauge d\essence,  
+
 Jauge de niveau de carburant à aiguille (0-30 Gallons)  
 Masse supplémentaire : 1 kg  
-﻿### Twin Lewis Overwing  
-  
+  ﻿
+### Twin Lewis Overwing  
+
 Two overwing mounted additional Lewis machineguns with changeable position.  
 Ammo: 582 of 7.69mm rounds (6 drums with 97 rounds in each)  
 Forward position: 0°  
@@ -131,16 +135,19 @@ Mounts weight: 8 kg
 Ammo weight: 24 kg  
 Total weight: 47 kg  
 Estimated speed loss: 4-14 km/h  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

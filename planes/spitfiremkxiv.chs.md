@@ -1,9 +1,9 @@
 # Spitfire Mk.XIV  
-  
+
 ![spitfiremkxiv](../images/spitfiremkxiv.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：152~172 km/h  
 起降构型的失速指示空速：145~163 km/h  
   
@@ -113,55 +113,62 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
 	- Combat engine mode: 12.9 l/min  
-  
+
 ## 修改  
 ### 150号汽油  
-  
+
 允许+21 lb增压  
 禁用增压器自动换挡。在11000 feet高度手动换挡增压器。  
 预期海平面增速：20 km/h  
+
 ### 2 x 250 lb 通用炸弹  
-  
+
 2 x 250 lb 通用炸弹  
 增加质量：247 kg  
 弹药质量：227 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：22 km/h  
 投弹后预期速度损失：11 km/h  
+
 ### 500 lb 通用炸弹  
-  
+
 500 lb 通用炸弹  
 增加质量：237 kg  
 弹药质量：227 kg  
 挂架质量：10 kg  
 投弹前预期速度损失：12 km/h  
 投弹后预期速度损失：6 km/h  
+
 ### E型机翼  
-  
+
 使用2挺12.7mm"勃朗宁 .50"机枪替换原先的4挺7.7mm"勃朗宁 .303"机枪。  
 增加质量: 48 kg  
 弹药质量: 70 kg  
 枪炮质量: 72 kg  
 预期速度增加: 5 km/h  
+
 ### 陀螺瞄准具  
-  
+
 MkII陀螺射击瞄准具  
 增加质量：5.2 kg  
 预期速度损失：0 km/h  
+
 ### 后视镜  
-  
+
 后视镜  
 增加质量：1 kg  
 预期速度损失：1 km/h  
+
 ### 移除机枪  
-  
+
 移除机翼上装备的机枪以减轻重量。  
 移除质量： 95千克  
 移除弹药质量： 42千克  
 移除枪炮质量： 53千克   
 预期速度提升： 8公里/小时  
+
 ### 裁剪翼  
-  
+
 裁剪翼  
 减少质量：4 kg  
 预期速度损失：0 km/h  

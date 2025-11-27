@@ -1,9 +1,9 @@
 # Airco D.H.4  
-  
+
 ![aircodh4](../images/aircodh4.png)  
-  
+
 ## Description  
-  
+
 Designed by Geoffrey de Havilland to be a two-seat light bomber powered by a BHP engine. First prototype flew in August 1916, but as the BHP engine proved to be weak it required a major redesign and DH.4 was adapted to be equipped with a Rolls Royce Eagle engine. First order for 50 planes powered by Eagle III engine (250hp) was placed at the end of 1916.  
   
 Basically an all-wooden construction tractor biplane, Airplane armament consisted of one forward-firing Vickers synchronized machine gun and one or two Lewis guns on the Scarff ring mount at the observer position. It could carry up to 460 pounds of bombs on external racks on wings or central position.  
@@ -68,14 +68,15 @@ References
 4) Rolls Royce engine charts, 1917.  
 5) WWI Aeroplanes data, by J.M. Bruce.  
 6) Various NACA reports.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Cooper / H.E.R.L. / H.E.R.F.C. bombes  
-  
+  ﻿
+### Cooper / H.E.R.L. / H.E.R.F.C. bombes  
+
 12 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 167 kg  
 Masse des munitions : 131 kg  
@@ -96,24 +97,29 @@ Masse des munitions : 208 kg
 Masse des pylones : 16 kg  
 Perte estimée de vitesse avant le largage : 5 km/h  
 Perte estimée de vitesse après le largage : 3 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauge d\essence,  
-  
+  ﻿
+### Jauge d\essence,  
+
 Jauge de niveau de carburant à aiguille (0-30 Gallons)  
 Masse supplémentaire : 1 kg  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis Overwing  
-  
+  ﻿
+### Twin Lewis Overwing  
+
 Two overwing mounted additional fixed Lewis machineguns.  
 Ammo: 194 of 7.69mm rounds (2 drums with 97 rounds in each)  
 Projectile weight: 11 g  
@@ -124,8 +130,9 @@ Mounts weight: 6 kg
 Ammo weight: 10 kg  
 Total weight: 31 kg  
 Estimated speed loss: 5 km/h  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  
@@ -136,8 +143,9 @@ Mount weight: 12 kg
 Ammo weight: 32 kg  
 Total weight: 59 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin forward Vickers  
-  
+  ﻿
+### Twin forward Vickers  
+
 Twin fixed forward firing Vickers guns.  
 Ammo: 1000 of 7.69mm rounds (500 rounds for each gun)  
 Projectile weight: 11 g  

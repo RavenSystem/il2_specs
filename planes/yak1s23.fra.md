@@ -1,9 +1,9 @@
 # Yak-1 sér.23  
-  
+
 ![yak1s23](../images/yak1s23.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 156..172 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 134..147 km/h  
 Vitesse limite de piqué : 720 km/h  
@@ -115,20 +115,22 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
-  
-## Modifications  
-﻿### M-105PA Engine  
-  
+
+## Modifications  ﻿
+### M-105PA Engine  
+
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.  
 Masse supplementaire : 30 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio RSI-4  
 Masse supplementaire : 12,6 kg  
 Perte estimee de vitesse : 0 km/h  
   ﻿
+
 ### 6 roquettes ROS-82  
-  
+
 6 roquettes Explosives Brisantes non guidées ROS-82 de 82 mm  
 Masse supplémentaire : 60 kg  
 Masse des munitions : 42 kg  

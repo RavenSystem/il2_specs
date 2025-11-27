@@ -1,9 +1,9 @@
 # Mosquito F.B. Mk.VI ser.2  
-  
+
 ![mosquitofbmkvis2](../images/mosquitofbmkvis2.png)  
-  
+
 ## 描述  
-  
+
 飞行构型时的失速表速：179...208 km/h  
 着陆构型时的失速表速：157...183 km/h  
   
@@ -124,29 +124,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 11.8 l/min  
 	- Combat engine mode: 21.6 l/min  
-  
+
 ## 修改  
 ### 150号燃油  
-  
+
 允许使用+25 lb boost增压  
 自动增压被禁用，应在3500 feet高度手动切换增压。  
 预计海平面速度增加：27 km/h  
+
 ### 2 x 勃朗宁.303机枪和57mm莫林斯炮   
-  
+
 于机鼻安装两挺"勃朗宁.303"7.7mm机枪，每门500发或780发备弹，以及一门备弹25发的57mm莫林斯炮  
 增加重量：589 kg  
 弹药重量：159 kg  
 装甲重量：386 kg  
 预计速度降低：5 km/h  
+
 ### 4 x 勃朗宁.303机枪和57mm莫林斯炮  
-  
+
 于机鼻安装四挺"勃朗宁.303"7.7mm机枪，可选择500发或780发备弹，以及一门备弹25发的57mm莫林斯炮  
 增加重量：644 kg  
 弹药重量：159 kg  
 装甲重量：386 kg  
 预计速度降低：7 km/h  
-﻿### 8 х RP-3 HE/AP火箭于Mk.I挂架  
-  
+  ﻿
+### 8 х RP-3 HE/AP火箭于Mk.I挂架  
+
 安装于Mk.I挂架上的8发RP3 3英寸半穿甲高爆(SAP/HE)或穿甲(AP)无制导火箭弹。  
   
 RP-3 SAP/HE:  
@@ -162,8 +165,9 @@ RP-3 AP:
 挂架重量：107 kg  
 投弹前预计速度降低：39 km/h  
 投弹后预计速度降低：21 km/h  
-﻿### 8 х RP-3 HE/AP火箭于Mk.III挂架  
-  
+  ﻿
+### 8 х RP-3 HE/AP火箭于Mk.III挂架  
+
 安装于Mk.III挂架上的8发RP3 3英寸半穿甲高爆(SAP/HE)或穿甲(AP)无制导火箭弹。  
   
 RP-3 SAP/HE:  
@@ -179,8 +183,9 @@ RP-3 AP:
 挂架重量：72 kg  
 投弹前预计速度降低：33 km/h  
 投弹后预计速度降低：14 km/h  
-﻿### 8 х RP-3 HE/AP火箭于Mk.III多层挂架  
-  
+  ﻿
+### 8 х RP-3 HE/AP火箭于Mk.III多层挂架  
+
 安装于Mk.III多层挂架上的8发RP3 3英寸半穿甲高爆(SAP/HE)或穿甲(AP)无制导火箭弹。  
   
 RP-3 SAP/HE:  
@@ -196,11 +201,13 @@ RP-3 AP:
 挂架重量：60 kg  
 投弹前预计速度降低：33 km/h  
 投弹后预计速度降低：14 km/h  
+
 ### Mk.IIL瞄准具  
-  
+
 Mk.IIL瞄准具允许将瞄准基线线向下移动最多5度（默认按键为右Shift + 分号/右Shift + 句号）  
 重量增加：2 kg  
+
 ### 开放式排气  
-  
+
 打开多支管排气口  
 预计海平面速度增加：22 km/h  

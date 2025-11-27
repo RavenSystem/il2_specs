@@ -1,9 +1,9 @@
 # CG-4A  
-  
+
 ![cg4a](../images/cg4a.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 65..86 km/h  
 Dive speed limit: 241 km/h  
 Maximum load factor: 3.5 G  
@@ -38,23 +38,26 @@ Operation features:
 - The aircraft has independent left and right pneumatic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
 - The airplane tailwheel rotates freely and does not have a lock.  
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).  
-  
+
 ## Modifications  
 ### Braking Parachute  
-  
+
 Installation of braking parachute for reducing the landing run distance  
 Additional mass: 32 kg  
 Estimated speed loss: 2 km/h  
+
 ### Cargo, 1000 kg  
-  
+
 1000 kg of military cargo  
 Additional mass: 1000 kg  
   
+
 ### 13 airborne troopers  
-  
+
 13 airborne troopers with ammunition  
 Additional mass: 1415 kg  
+
 ### Willys MB  
-  
+
 Willys MB 1⁄4 ton 4x4 utility truck  
 Additional mass: 1630 kg  

@@ -1,9 +1,9 @@
 # Gotha G.V  
-  
+
 ![gothag5](../images/gothag5.png)  
-  
+
 ## Beschreibung  
-  
+
 Diese Flugzeug war die Weiterentwickling des Gotha G.IV. Kampfeinsätze zeigten das Tanks, in unmittelbarer Nähe zum Triebwerk angebracht, fatal waren. Die Tanks wurden daraufhin zum Rumpf des Flugzeugs verlegt. Eine Verknappung von Qualitätswerkstoffen führte zu einem größeren Gesamtgewicht des Flugzeuges. In dem hinteren Teil des Rumpfes ermöglichte ein MG-Tunnel das Schießen schräg nach hinten, unten. Um die Stabilität beim Rollen in  bei Start- und Landungephase zu erhöhen, wurde das Fahrwerk verkürzt und die Triebwerksgondel nach oben verlegt. Dieses sind die wichtigsten optischen Merkmale der V Serie. Im Oktober 1916 wurden 100 Bomber bestellt. Im August 1917 verließ die erste Gotha G.V das Werk der Gothaer Waggonfabrik AG. Insgesamt wurden 205 Flugzeuge der V Serie produziert.  
 Das Flugzeug wurde eingesetzt zur Bombardierung strategisch wichtiger Bodenziele, aber auch  London wurde bombardiert. Zum Ende des Krieges wurde die Gotha G.V als Nachtbomber eingesetzt, um den feindlichen Jägern zu entgehen .  
 Bei maximaler Beladung flog das Flugzeug stabil, nach einem Bomben-Abwurf wurde es jedoch instabil, die veränderte Gewichtsverteilung und das große Gewicht des Leitwerks machte sich dann ungünstig bemerkbar. Um dieses auszugleichen, kletterte der Heckschütze nach vorn ins Cockpit. Später versetzte man die Tragflächen 20 cm weiter nach hinten. Beim Landen zeigte das Flugzeug eine Tendenz zum Drehen, die erst beim Kontakt mit dem Boden aufhörte. Im Februar 1918 wurde ein zusätzliches Fahrwerk angebracht, um die Landungen sicherer zu gestalten. Das Flugzeug wurde an der Westfront eingesetzt.  
@@ -71,10 +71,10 @@ Referenzen:
 2) German Aircraft of World War I. Grey and Thetford Putnam Books. ISBN  0-933852-71-1  
 3) The Gotha G1-G5. Profile Publications Number 115  
 4) The Gotha. Flight magazine 1917.  
-  
-## Änderungen  
-﻿### Bomben, Typ P.u.W.  
-  
+
+## Änderungen  ﻿
+### Bomben, Typ P.u.W.  
+
 12 x Splitterbomben 12.5 kg P.u.W  
 Zusätzliches Gewicht: 434 kg  
 Gewicht der Munition: 350 kg  
@@ -102,8 +102,9 @@ Gewicht der Munition: 300 kg
 Gewicht der Abwurfwaffenroste: 12 kg  
 Geschwindigkeitsverlust vor Abwurf: 1.5 km/h  
 Geschwindigkeitsverlust nach Abwurf: 1 km/h  
-﻿### 20mm Becker Rear Turret  
-  
+  ﻿
+### 20mm Becker Rear Turret  
+
 Rear Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -115,8 +116,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin Parabellum MG Rear Turret  
-  
+  ﻿
+### Twin Parabellum MG Rear Turret  
+
 Rear ring turret with twin Parabellum machine guns.  
 Ammo: 2000 of 7.92mm rounds (8 drums with 250 rounds in each)  
 Projectile weight: 10 g  
@@ -127,16 +129,19 @@ Mount weight: 5 kg
 Ammo weight: 40 kg  
 Total weight: 64 kg  
 Estimated speed loss: 1 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Benzinuhr  
-  
+  ﻿
+### Benzinuhr  
+
 Anzeige mit Nadel für die Treibstoffmenge (0-100 l)  
 Zusätzliches Gewicht: 0.5 kg  
-﻿### 20mm Becker Front Turret  
-  
+  ﻿
+### 20mm Becker Front Turret  
+
 Front Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -148,8 +153,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin Parabellum MG Front Turret  
-  
+  ﻿
+### Twin Parabellum MG Front Turret  
+
 Front ring turret with twin Parabellum machine guns.  
 Ammo: 2000 of 7.92mm rounds (8 drums with 250 rounds in each)  
 Projectile weight: 10 g  

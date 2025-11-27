@@ -1,9 +1,9 @@
 # Albatros D.Va  
-  
+
 ![albatrosd5](../images/albatrosd5.png)  
-  
+
 ## Description  
-  
+
 Les ingénieurs d\Albatros Werke avaient la tâche de construire un avion de chasse rapide et maniable. Le précédent, l\Albatros D. III avaient des défauta à l\aille basse qui conduit à l\échec de l\aile en plongée. N\étant pas en mesure de trouver la raison de ces échecs, les ingénieurs ont déplacé les fils de contrôle des ailerons de l\aile inférieur vers le haut.  
   
 Au printemps 1917 des vols d\essai ont été effectués. Les différences extérieures de l\Albatros D.V étaient une queue de plus grande surface.  
@@ -58,26 +58,30 @@ References
 3) NASM Albatros D Va  
 4) Albatros Aces of World War I by Norman Franks, Osprey №32  
 5) Albatros fighters in action by John F Connors.  
-  
-## Modifications  
-﻿### Compteur de balles  
-  
+
+## Modifications  ﻿
+### Compteur de balles  
+
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses  
 Masse supplémentaire : 1 kg  
-﻿### Inclinometre  
-  
+  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Cockpit mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 8°  
@@ -90,22 +94,26 @@ Mount weight: 4 kg
 Ammo weight: 12 kg  
 Total weight: 23 kg  
 Estimated speed loss: 2-6 km/h  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre, Altimètre, Les montres  
-  
+  ﻿
+### Anémomètre, Altimètre, Les montres  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  
   
 D.R.P Altimètre (0-8000 m)  
 Masse supplémentaire : 1 kg  
+
 ### Thermometre  
-  
+
 Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 °C)  
 Masse supplémentaire : 1 kg  

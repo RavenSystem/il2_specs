@@ -1,9 +1,9 @@
 # U-2VS  
-  
+
 ![u2vs](../images/u2vs.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：63~70 km/h  
 俯冲极速：240 km/h  
 最大过载：6.5 G  
@@ -119,10 +119,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 0.6 l/min  
 	- Combat engine mode: 0.7 l/min  
-  
+
 ## 修改  
 ### 炸弹装载  
-  
+
 翼下和机腹挂架带炸弹  
   
 2 x FAB-50sv炸弹  
@@ -164,30 +164,36 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：8 kg  
 投弹前预期速度损失：13 km/h  
 投弹后预期速度损失：2 km/h  
+
 ### 女性乘员  
-  
+
 "暗夜女巫"(德语: die Nachthexen; 俄语: Ночные ведьмы, Nochnyye Vedmy)是德国空军对苏联空军第588夜间轰炸机航空团所属的女性飞行员的称呼，后来其改组为苏联空军"塔曼"第46近卫夜间轰炸机航空团。  
+
 ### 地平仪  
-  
+
 地平仪AGP-2  
 增加质量：2 kg  
 预期速度损失：0 km/h  
+
 ### 着陆灯  
-  
+
 夜间飞行用的着陆灯  
 增加质量：2 kg  
 预期速度损失：1 km/h  
+
 ### 航行灯  
-  
+
 航行灯  
 增加质量：4 kg  
+
 ### 无线电发射机  
-  
+
 无线电发射机RSI-4  
 增加质量：12.6 kg  
 预期速度损失：0 km/h  
+
 ### 火箭弹  
-  
+
 82mm高爆无制导火箭弹ROS-82或82mm穿甲无制导火箭弹RBS-82或132mm高爆无制导火箭弹ROS-132  
   
 ROS-82x4:  
@@ -224,13 +230,15 @@ ROS-132x8:
 挂架质量：40 kg  
 发射前预期速度损失：8 km/h  
 发射后预期速度损失：4 km/h  
+
 ### 后部炮塔  
-  
+
 装有施卡斯 7.62mm机枪的后部炮塔，备弹400发  
 增加质量：34 kg  
 预期速度损失：2 km/h  
+
 ### 腰部机枪  
-  
+
 安装在机翼上的7.62mm施卡斯机枪，备弹500发  
 增加质量：27 kg  
 预期速度损失：3 km/h  

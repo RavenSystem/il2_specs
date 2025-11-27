@@ -1,9 +1,9 @@
 # Pz.Kpfw.IV Ausf.G  
-  
+
 ![pziv-g](../images/pziv-g.png)  
-  
+
 ## Descripción  
-  
+
 Este Pz.Kpfw. IV Ausf.G con cañón KwK 40/L48 de 75 mm fue fabricado en Nibelungenwerke en junio de 1943. La princpal diferencia de la modificación Ausf.G respecto a las anteriores fue su cañón, 5 calibres más largo, pero con el giro del estriado fijo en lugar de variable.   
   
 La diferencia visual más evidente era la adición de planchas de blindaje lateral a modo de faldones o <i>Schürzen</i>, que se unían a los laterales de casco y torreta. Se añadieron principalmente para proteger el tanque de los disparos de rifle anticarro, peligrosos para los blindajes laterales, más finos. Aunque no eran capaces de detener una bala anticarro, estas chapas adicionales la desestabilizaban o provocaban que se fragmentara antes de que pudiera impactar contra el casco blindado.  
@@ -95,10 +95,11 @@ Mira telescópica KZF 2 en operador de radio, campo de visión de 18°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF Fu 5  
 4 intercomunicadores  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 Pzgr. 39 de 7,5 cm  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -112,8 +113,9 @@ Velocidad de salida 750 m/s, penetración del blindaje a bocajarro 117 mm.
 500 m: penetración del blindaje 104 mm, velocidad 691 m/s, caída -2,4 m.  
 1000 m: penetración del blindaje 92 mm, velocidad 636 m/s, caída -10,0 m.  
 2000 m: penetración del blindaje 72 mm, velocidad 537 m/s, caída -44,8 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 Sprgr. 34 de 7,5 cm  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -128,8 +130,9 @@ Velocidad de salida 550 m/s.
 500 m: velocidad 509 m/s, caída -4,5 m.  
 1000 m: velocidad 473 m/s, caída -18,5 m.  
 2000 m: velocidad 405 m/s, caída -80,9 m.  
-﻿### Proyectiles de carga hueca (HEAT)  
-  
+  ﻿
+### Proyectiles de carga hueca (HEAT)  
+
 Gr.38 HL/С de 7,5 cm  
   
 Proyectiles basados en el efecto Munroe. Cuando su explosivo detona, un cono, generalmente de cobre, instalado con la punta hacia el interior del proyectil, se invierte y se transforma en un chorro de metal fundido que perfora el blindaje.  
@@ -143,8 +146,9 @@ Velocidad de salida: 450 m/s.
 500 m: velocidad 328 m/s, caída -7,8 m.  
 1000 m: velocidad 278 m/s, caída -38,1 m.  
 2000 m: velocidad 244 m/s, caída -200,4 m.  
-﻿### Proyectiles perforantes núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes núcleo rígido (APCR)  
+
 Pzgr. 40 de 7,5 cm  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso. El Pzgr. 40 de 7,5 cm posee un núcleo rígido (aleación de tungsteno) dentro de un cuerpo fabricado en acero más blando (para ocupar el diámetro del cañón).  
@@ -158,7 +162,8 @@ Velocidad de salida 930 m/s, penetración del blindaje a bocajarro 150 mm.
 500 m: penetración del blindaje 128 mm, velocidad 832 m/s, caída -1,6 m.  
 1000 m: penetración del blindaje 108 mm, velocidad 739 m/s, caída -10,0 m.  
 2000 m: penetración del blindaje 75 mm, velocidad 573 m/s, caída -44,8 m.  
-﻿### Planchas blindadas adicionales  
-  
+  ﻿
+### Planchas blindadas adicionales  
+
 Protección adicional: planchas blindadas de 5 mm unidas a los laterales del casco y torreta.  
 Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.  

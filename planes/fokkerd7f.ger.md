@@ -1,9 +1,9 @@
 # Fokker D.VIIF  
-  
+
 ![fokkerd7f](../images/fokkerd7f.png)  
-  
+
 ## Beschreibung  
-  
+
 Das Flugzeug wurde von Fokker hergestellt. Der Chefkonstrukteur Reinhold Platz wurde mit der Aufgabe betreut, ein schnelles Kampfflugzeug zu entwerfen, das in der Lage war, ein konkurrenzfähiges Flugzeug gegenüber der französischen SPAD XIII und die britischen S.E.5a zu sein. Einige bemerkenswerte Daten: Stabiler Stahlrohrrahmen, mit Stoff bespannte Flügel aus Holz, Das gesamte Leitwerk war aus Stahlrohren aufgebaut und stoffbespannt.  
   
 Von 21. Januar bis zum 12. Februar 1918 fanden in Berlin-Adlershof Kampfflugwettbewerbe statt. Ziel war es das schnellste, zuverlässigste Flugzueg mit der höchsten Steigrate zu finden. Manfred von Richthofen, ein guter Freund von Anthony Fokker, testete dort seinen Prototyp und bemerkte sogleich einige kleinere Unstimmigkeiten bei seinem Flugzeug, insbesondere Stabilitätsprobleme bei Sturzflügen, welche jedoch später behoben wurden. Da Fokker die gewünschte Anzahl in der vorgegebenen Zeit nicht liefern konnte, wurden Lizenzbauten bei weiteren Flugzeugwerke vereinbart. Es produzieren: Fokker Flugzeug—Werke, Albatros Werke, Ostdeutsche Albatros Werke. Die Fokker D.VII wurde eines der besten Flugzeuge, wenn nicht das ultimative Kampflugzeug bis zum Ende des 1. Weltkriegs. 2.029 Stück wurden bis zum Jahr 1918 gebaut und an die Front geschickt.  
@@ -71,33 +71,39 @@ Referenzen
 3) Fokker D.VII Aces of World War I. Part1 and 2 and 3 by Norman Franks and Greg VanWyngarden.  
 4) Fokker D.VII in action. By D. Edgar Brannon Aircraft Number 166.  
 5) Profile publications. The Fokker D.VII Number 25.  
-  
-## Änderungen  
-﻿### Kompensierter Höhenmesser,  
-  
+
+## Änderungen  ﻿
+### Kompensierter Höhenmesser,  
+
 D.R.P kompensierter Höhenmesser (0-8000 m)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kollimator Tag  
-  
+  ﻿
+### Kollimator Tag  
+
 Oigee Reflexvisier (mit getönter Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Kollimator Nacht  
-  
+  ﻿
+### Kollimator Nacht  
+
 Oigee Reflexvisier (ohne getönte Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
 Zusätzliches Gewicht: 1 kg  

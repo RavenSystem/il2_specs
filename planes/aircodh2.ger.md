@@ -1,9 +1,9 @@
 # Airco D.H.2  
-  
+
 ![aircodh2](../images/aircodh2.png)  
-  
+
 ## Beschreibung  
-  
+
 Die Airco D.H.2 war ein einsitziger Jäger und das zweite Projekt des Entwicklers Sir Geoffrey de Havilland; beeinflußt von der Bauform des "Druck"-Propeller Konzepts, wurde die Luftschraube hinter dem Piloten angebracht. Dieses Design erlaubte es Flugzeuge zu bauen, bei denen es nicht erforderlich war ein synchronisiertes Maschinengewehr zu verwenden. Dieses wurde erst Ende 1916 implementiert. Der Prototyp der D.H.2 machte seinen Erstflug im Juli 1915. Es wurde anschließend zügig produziert und an das Royal Flying Corps, 24 Schwadron ausgeliefert. Im Februar 1916 begann sein aktiver Einsatz über französischem Territorium.  
   
 Das Lewis Maschinengewehr war auf einem Gestell an der Rumpfnase befestigt und sorgte am Anfang für viel Probleme. Das bewegliche MG sowie die Kontrolle des Flugzeuges forderten den Piloten. Darüberhinaus machte das Zielen mit dem Maschinengewehr den Luftkampf noch schwieriger. Die späteren Piloten fixierten nun das MG auf die Sichtachse des Flugzeuges. Sie zielten nun indem sie das Zielen mit dem gesamten Flugzeug erflogen, was sich als wesentlich wirkunsvoller erwieß als mit einem beweglichen MG.  
@@ -51,22 +51,25 @@ Referenzen:
 1) Squadron/Signal Publications Nr. 171. De Haviland DH 2 in action  
 2) The De Haviland D.H.2. Profile publications Number 91  
 3) Airco DH2. Windsock Datafile 48.  
-  
-## Änderungen  
-﻿### Instrumentenlicht  
-  
+
+## Änderungen  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Benzinuhr  
-  
+  ﻿
+### Benzinuhr  
+
 Anzeige mit Nadel für die Treibstoffmenge  
 Zusätzliches Gewicht: 1 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### LePrieur rockets  
-  
+  ﻿
+### LePrieur rockets  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Zusätzliches Gewicht: 36 kg  
 Gewicht der Munition: 16 kg  

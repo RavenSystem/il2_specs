@@ -1,9 +1,9 @@
 # Albatros D.III  
-  
+
 ![albatrosd3](../images/albatrosd3.png)  
-  
+
 ## Description  
-  
+
 Having investigated the construction of captured Nieuport fighter aircraft, German engineers designed the lower wing of their new plane to be narrower and shorter than the upper one. The wing tips were swept in an effort to eliminate wing vibration. Among other remarkable design solutions, the following can be mentioned: the aileron control rods were drawn through the lower wing, the radiator was moved from the side of the fuselage to the middle of the upper wing, and the wings were now supported by V-shaped struts. Weight reduction was one of the primary tasks for this particular aircraft.  
   
 Test flights began in late August or early September 1916 and in December the plane was first delivered to fighter squadrons. Several months of combat action revealed that the plane had a tendency to lose its lower wing in a steep dive or in a sharp turn. Water from the radiator, which was fitted on the upper wing, would spill onto the machine guns, thus making firing impossible. The radiator was relocated to the right side of the pilot in order to correct this problem. From June 1917, engineers began using Daimler’s new cellular radiator, which helped to solve problems with the engine overheating.  
@@ -57,33 +57,39 @@ References
 4) Albatros Aces of World War I by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros fighters, Windsock Datafile Special.  
-  
+
 ## Modifications  
 ### Aldis (Trophy)  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Bullet counters  
-  
+
 Wilhelm Morell digital bullet counter for left machine gun  
 Additional mass: 0.5 kg  
+
 ### High Altimeter  
-  
+
 D.R.P Altimeter (0-8000 m)  
+
 ### Clock  
-  
+
 Mechanical Clock  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Gunsight  
-  
+
 Additional sight with front sight and rear sight mountings  
 Additional mass: 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Cockpit mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 8°  
@@ -96,11 +102,13 @@ Mount weight: 4 kg
 Ammo weight: 12 kg  
 Total weight: 23 kg  
 Estimated speed loss: 2-6 km/h  
+
 ### Anemometer  
-  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Additional mass: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch engine coolant temperature indicator (0-100 °C)  
 Additional mass: 1 kg  

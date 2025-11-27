@@ -1,9 +1,9 @@
 # Yak-7B sér.36  
-  
+
 ![yak7bs36](../images/yak7bs36.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 155..172 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 139..154 km/h  
 Vitesse limite de piqué : 740 km/h  
@@ -112,11 +112,11 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.8 l/min  
-  
+
 ## Modifications  
-  
+
 ### 2 bombes FAB-100M   
-  
+
 2 bombes d’emploi général FAB-100M de 104 kg  
 Masse supplémentaire : 228 kg  
 Masse des munitions : 208 kg  
@@ -124,22 +124,25 @@ Masse des pylones : 20 kg
 Perte estimée de vitesse avant le largage : 27 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
   
+
 ### 2 bombes FAB-50sv  
-  
+
 2 bombes d’emploi général FAB-50sv de 50 kg  
 Masse supplémentaire : 120 kg  
 Masse des munitions : 100 kg  
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 20 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
-﻿### Phare datterrissage  
-  
+  ﻿
+### Phare datterrissage  
+
 Atterrissage lumière pour les vols de nuit  
 Masse supplementaire : 2 kg  
 Perte estimee de vitesse : 0 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  

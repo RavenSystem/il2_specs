@@ -1,9 +1,9 @@
 # Pz.Kpfw.VI Ausf.H1  
-  
+
 ![pzvi-h1](../images/pzvi-h1.png)  
-  
+
 ## Beschreibung  
-  
+
 1942 von der Firma Henschel entwickelt, fand im August 1942 der erste Kampfeinsatz an der Leningrader Front statt.  
   
 Der Panzer war berühmt für seine kraftvolle Panzerung und sein quadratisches Aussehen. Die Räder sind in einem Schachbrettmuster angeordnet, um den Bodendruck zu optimieren und die Rumpfseiten zusätzlich zu schützen, aber das machte die Reparatur des Fahrgestells kompliziert und führte oft zum Verlust eines beschädigten Panzers.  
@@ -102,10 +102,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 8,8 cm Pzgr. 39  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -120,8 +121,9 @@ Durchschlagsleistung aus kürzester Entfernung: 140 mm
 500 m: Durchschlagsleistung 129 mm, Geschwindigkeit 756 m/s, Fall -2,2 m  
 1000 m: Durchschlagsleistung 119 mm, Geschwindigkeit 713 m/s, Fall -8,6 m  
 2000 m: Durchschlagsleistung 100 mm, Geschwindigkeit 631 m/s, Fall -36,3 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 8,8 cm Sprgr L/4,5  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -135,8 +137,9 @@ Mündungsgeschwindigkeit 820 m/s
 500 m: Geschwindigkeit 771 m/s, Geschossabfall -2,0 m  
 1000 m: Geschwindigkeit 723 m/s, Geschossabfall -8,1 m  
 2000 m: Geschwindigkeit 629 m/s, Geschossabfall -35,5 m  
-﻿### Hohlladunggranaten  
-  
+  ﻿
+### Hohlladunggranaten  
+
 8,8 cm Gr. 39 HL  
   
 Hohlladunggranaten mit speziell geformtem und mit Sprengstoff gefülltem Sprengkopf.  
@@ -150,8 +153,9 @@ Mündungsgeschwindigkeit: 600 m/s
 500 m: Geschwindigkeit 476 m/s, Geschossabfall -4,1 m  
 1000 m: Geschwindigkeit 369 m/s, Geschossabfall -19,4 m  
 2000 m: Geschwindigkeit 273 m/s, Geschossabfall -114,6 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 8,8 cm Pzgr. 40  
   
 Granaten mit unterkalibrigen panzerbrechenden Projektilen. Gut gegen stark gepanzerte Ziele auf kurze Distanzen.  
@@ -166,8 +170,9 @@ Durchschlagsleistung aus kürzester Entfernung: 201 mm
 500 m: Durchschlagsleistung 179 mm, Geschwindigkeit 858 m/s, Fall -1,7 m  
 1000 m: Durchschlagsleistung 159 mm, Geschwindigkeit 791 m/s, Fall -6,6 m  
 2000 m: Durchschlagsleistung 126 mm, Geschwindigkeit 670 m/s, Fall -29,1 m  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

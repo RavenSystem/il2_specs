@@ -1,9 +1,9 @@
 # CG-4A  
-  
+
 ![cg4a](../images/cg4a.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 65..86 km/h  
 Vitesse limite de piqué : 241 km/h  
 Facteur de charge maximum : 3,5 g  
@@ -38,22 +38,25 @@ Caractéristiques
 - The aircraft has independent left and right pneumatic wheel brake controls. To apply either brake push the upper part of the rudder pedal.  
 - The airplane tailwheel rotates freely and does not have a lock.  
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).  
-  
-## Modifications  
-﻿### Braking Parachute  
-  
+
+## Modifications  ﻿
+### Braking Parachute  
+
 Installation of braking parachute for shortening the ground roll when landing  
 Additional mass: 32 kg  
 Estimated speed loss: 2 km/h  
-﻿### Cargaison, 1000 kg  
-  
+  ﻿
+### Cargaison, 1000 kg  
+
 Cargaison militaire, 1000 kg  
 Masse supplémentaire : 1000 kg  
-﻿### 13 troops  
-  
+  ﻿
+### 13 troops  
+
 13 troops armés  
 Masse supplémentaire : 1415 kg  
-﻿### Willys MB  
-  
+  ﻿
+### Willys MB  
+
 Willys MB 1⁄4 ton 4x4 utility truck  
 Additional mass: 1630 kg  

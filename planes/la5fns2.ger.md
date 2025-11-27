@@ -1,9 +1,9 @@
 # La-5FN Brh. 2  
-  
+
 ![la5fns2](../images/la5fns2.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 168..185 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 147..159 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 720 km/h  
@@ -119,15 +119,16 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 3.6 l/min  
 	- Combat engine mode: 12.3 l/min  
-  
+
 ## Änderungen  
-  
+
 ### Spezielle Geschützmunition  
-  
+
 Ausstattungsvarianten: entweder nur panzerbrechend (PB) oder nur explosiv (E)  
   ﻿
+
 ### 2 x Bomben, Typ FAB-100M  
-  
+
 2 x 104-kg-Splitterbomben FAB-100M  
 Zusätzliches Gewicht: 228 kg  
 Gewicht der Munition: 208 kg  
@@ -135,27 +136,31 @@ Gewicht der Abwurfwaffenroste: 20 kg
 Geschwindigkeitsverlust vor Abwurf: 27 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
   ﻿
+
 ### 2 x Bomben, Typ FAB-50sv  
-  
+
 2 x 50-kg-Splitterbomben FAB-50sv  
 Zusätzliches Gewicht: 120 kg  
 Gewicht der Munition: 100 kg  
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 20 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
-﻿### Scheinwerfer  
-  
+  ﻿
+### Scheinwerfer  
+
 Landescheinwerfer für Nachtflüge  
 Zusätzliches Gewicht: 2 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Rückspiegel  
-  
+  ﻿
+### Rückspiegel  
+
 Rückspiegel  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 0 km/h  
   ﻿
+
 ### RPK-10  
-  
+
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen  
 Zusätzliches Gewicht: 10 kg  
 Geschwindigkeitsverlust: 0 km/h  

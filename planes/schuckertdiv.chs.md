@@ -1,9 +1,9 @@
 # SSW D.IV  
-  
+
 ![schuckertdiv](../images/schuckertdiv.png)  
-  
+
 ## 描述  
-  
+
 SSW D.IV came very late to the Great War, too late to change Germany’s fortunes, but what machines did make it to front-line squadrons acquitted themselves well. This airplane was the end result of a robust line of Siemens-Schuckert aircraft that saw service in the war and it came with a unique feature. The 207-hp Siemens-Halske Sh.IIIa rotary engine had a crankshaft that rotated opposite of the engine and the propeller\s rotation in an attempt to reduce the torque. The four-bladed propeller gave it a fast rate of climb and a high speed. The SSW D.IV was even faster than Germany’s mainstay front-line fighter, the very successful Fokker D.VII. It was also very maneuverable, but reportedly had sudden stall without warning when pushed too far. It was armed with two 7.92 mm machine guns.  
   
   
@@ -58,29 +58,34 @@ SSW D.IV came very late to the Great War, too late to change Germany’s fortune
 4) WW1 Aero №99, April 1984.  
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.  
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.  
-  
+
 ## 修改  
 ### 弹药计数器  
-  
+
 2挺机枪的威廉·莫雷尔（Wilhelm Morell）针式刻度弹药计数器  
 增加质量：1 kg  
+
 ### 测斜仪  
-  
+
 D.R.G.M液体测斜仪（地面指示坡度，飞行中指示侧滑）  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 瞄准具（昼）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）  
 增加质量：2 kg  
+
 ### 瞄准具（夜）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）  
 增加质量：2 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  

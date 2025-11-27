@@ -1,9 +1,9 @@
 # Gotha G.V  
-  
+
 ![gothag5](../images/gothag5.png)  
-  
+
 ## Descripción  
-  
+
 El Gotha G.V fue la evolución del Gotha G.IV. La experiencia en combate demostró que la cercanía de los tanques de combustible a los motores era fatal. Los tanques de combustible fueron desplazados al fuselaje. La falta de materiales de calidad conllevó un aumento en el peso de la estructura. La parte inferior del fuselaje mantenía el hueco para disparar por debajo hacia atrás. Para mejorar la estabilidad durante el desplazamiento en tierra, los soportes de los trenes de aterrizaje fueron acortados, lo que obligó a recolocar las barquillas de los motores por encima del ala inferior. Esta última modificación es la característica externa más importante para distinguir la serie V de los modelos previos. En octubre de 1916 se hicieron encargos para la fabricación de 100 bombarderos. En agosto de 1917, el primer Gotha G.V salió de la fábrica. El avión fue fabricado por Gothaer Waggonfabrik A.G. En total, se produjeron 205 unidades de la serie V.  
   
 El G.V fue utilizado para el bombardeo estratégico de importantes objetivos en tierra y ciudades como Londres. Al final de la guerra, el avión estaba siendo utilizando como bombardero nocturno.  
@@ -70,10 +70,10 @@ Referencias:
 2) German Aircraft of World War I. Grey and Thetford Putnam Books. ISBN  0-933852-71-1  
 3) The Gotha G1-G5. Profile Publications, número 115  
 4) The Gotha. Flight magazine 1917.  
-  
-## Modificaciones  
-﻿### Bombas P.u.W.  
-  
+
+## Modificaciones  ﻿
+### Bombas P.u.W.  
+
 Hasta 12 bombas de propósito general de 12,5 kg P.u.W (Prünfanstalt und der Werft Fliegertruppe)  
 Peso adicional: 434 kg  
 Peso de munición: 350 kg  
@@ -101,8 +101,9 @@ Peso de munición: 300 kg
 Peso de los soportes: 12 kg  
 Pérdida de velocidad estimada antes de soltar: 1,5 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Cañón Becker en artillero trasero  
-  
+  ﻿
+### Cañón Becker en artillero trasero  
+
 Cañón automático Becker de 20 mm montado sobre anillo en la posición del artillero trasero  
 Munición: 60 balas de 20 mm (4 cargadores con 15 balas cada uno)  
 Tipo de munición: HE/AP (balas explosivas y perforantes)  
@@ -114,8 +115,9 @@ Peso del soporte: 10 kg
 Peso de la munición: 25 kg  
 Peso total: 65 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Doble Parabellum en artillero trasero  
-  
+  ﻿
+### Doble Parabellum en artillero trasero  
+
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero trasero  
 Munición: 2000 balas de 7,92 mm (8 tambores con 250 balas cada uno)  
 Peso del proyectil: 10 g  
@@ -126,16 +128,19 @@ Peso de los soportes: 5 kg
 Peso de la munición: 40 kg  
 Peso total: 64 kg  
 Pérdida de velocidad estimada: 1 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Indicador de combustible y reloj  
-  
+  ﻿
+### Indicador de combustible y reloj  
+
 Indicador analógico del nivel de combustible (0-800 l) y reloj mecánico  
 Peso adicional: 0,5 kg  
-﻿### Cañón Becker en artillero frontal  
-  
+  ﻿
+### Cañón Becker en artillero frontal  
+
 Cañón automático Becker de 20 mm montado sobre anillo en la posición del artillero frontal  
 Munición: 60 balas de 20 mm (4 cargadores con 15 balas cada uno)  
 Tipo de munición: HE/AP (balas explosivas y perforantes)  
@@ -147,8 +152,9 @@ Peso del soporte: 10 kg
 Peso de la munición: 25 kg  
 Peso total: 65 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Doble Parabellum en artillero frontal  
-  
+  ﻿
+### Doble Parabellum en artillero frontal  
+
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero frontal  
 Munición: 2000 balas de 7,92 mm (8 tambores con 250 balas cada uno)  
 Peso del proyectil: 10 g  

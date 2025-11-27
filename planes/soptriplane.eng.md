@@ -1,9 +1,9 @@
 # Sopwith Triplane  
-  
+
 ![soptriplane](../images/soptriplane.png)  
-  
+
 ## Description  
-  
+
 Sopwith engineer Herbert Smith, in designing the Triplane, elected to rectify the lack of manoeuvrability and visibility in previous aircraft designs with the well-known triplane scheme. The three narrow-chord wings provided an increase in airspeed and improved the field of view from the cockpit. Furthermore, the three wings provided an outstanding climb rate and allowed for the compact placement of pilot, fuel tanks, armament, and engine.  
   
 The first test flight was performed on May 26, 1916. In addition to Sopwith, aircraft were also manufactured by Clayton & Shuttleworth Ltd. and Lincoln Oakley Ltd. However, a contract with France was soon agreed to that would supply British squadrons with SPAD VII fighters, thus ending the demand for Triplanes. About 180 Sopwith Triplanes in all were manufactured.  
@@ -57,18 +57,20 @@ References
 1) Sopwith Triplane. Windsock Datafile 22.  
 2) The Sopwith Triplane. Profile publications Number 73  
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Twin forward Vickers  
-  
+  ﻿
+### Twin forward Vickers  
+
 Twin fixed forward firing Vickers guns.  
 Ammo: 1000 of 7.69mm rounds (500 rounds for each gun)  
 Projectile weight: 11 g  

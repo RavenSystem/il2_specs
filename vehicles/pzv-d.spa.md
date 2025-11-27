@@ -1,9 +1,9 @@
 # Pz.Kpfw.V Ausf.D  
-  
+
 ![pzv-d](../images/pzv-d.png)  
-  
+
 ## Descripción  
-  
+
 Desarrollado por la compañía MAN en 1942, entró en acción durante la batalla de Kursk en 1943. El carro de combate contaba con un poderoso cañón principal, un grueso blindaje frontal y buena movilidad a costa de la protección en sus laterales.  
   
 Para lograr una mejor distribución del peso y proteger sus laterales, sus ruedas estaban intercaladas y solapadas entre sí, haciendo muy difícil las reparaciones del tren de rodaje, lo que en condiciones de combate real llevaba a menudo a la pérdida del tanque. El recorrido de comprensión de la suspensión era muy grande y significativamente más suave que en otros carros, por lo que los viajes resultaban más confortables. Una unidad de suspensión incluía dos barras de torsión (32 barras en total). La fiabilidad de estas máquinas, especialmente al principio de su producción, era pésima: solo 4 de 174 carros fueron enviados a la línea del frente en abril de 1943; el resto fue devuelto a las fábricas de origen para su revisión.  
@@ -91,10 +91,11 @@ Mira telescópica binocular Tzf 12 en artillero, campo de visión de 29°
 <b><u>Equipamiento de radio:</u></b>  
 Transmisor-receptor VHF Fu 5  
 4 intercomunicadores  
-  
-## Modificaciones  
-﻿### Proyectiles perforantes explosivos (APHE)  
-  
+
+
+## Modificaciones  ﻿
+### Proyectiles perforantes explosivos (APHE)  
+
 Pzgr. 39/42 de 7,5 cm  
   
 Proyectiles perforantes armados con una pequeña carga explosiva que estalla con un ligero retraso tras el impacto.  
@@ -108,8 +109,9 @@ Velocidad de salida 925 m/s, penetración del blindaje a bocajarro 158 mm.
 500 m: penetración del blindaje 140 mm, velocidad 825 m/s, caída -1,6 m.  
 1000 m: penetración del blindaje 125 mm, velocidad 785 m/s, caída -6,6 m.  
 2000 m: penetración del blindaje 99 mm, velocidad 667 m/s, caída -29,6 m.  
-﻿### Proyectiles explosivos (HE)  
-  
+  ﻿
+### Proyectiles explosivos (HE)  
+
 Sprgr. 42 de 7,5 cm  
   
 Proyectiles de fragmentación con carga altamente explosiva en su interior.  
@@ -124,8 +126,9 @@ Velocidad de salida 700 m/s.
 500 m: velocidad 648 m/s, caída -2,8 m.  
 1000 m: velocidad 601 m/s, caída -11,5 m.  
 2000 m: velocidad 518 m/s, caída -49,9 m.  
-﻿### Proyectiles perforantes núcleo rígido (APCR)  
-  
+  ﻿
+### Proyectiles perforantes núcleo rígido (APCR)  
+
 Pzgr. 40/42 de 7,5 cm  
   
 Proyectiles perforantes que poseen un núcleo de pequeño calibre de material muy duro y denso. El Pzgr. 40/42 de 7,5 cm posee un núcleo rígido (aleación de tungsteno) dentro de un cuerpo fabricado en acero más blando (para ocupar el diámetro del cañón).  
@@ -139,12 +142,14 @@ Velocidad de salida 1170 m/s, penetración del blindaje a bocajarro 208 mm.
 500 m: penetración del blindaje 179 mm, velocidad 1054 m/s, caída -1,0 m.  
 1000 m: penetración del blindaje 154 mm, velocidad 949 m/s, caída -4,3 m.  
 2000 m: penetración del blindaje 111 mm, velocidad 756 m/s, caída -19,7 m.  
-﻿### Retirada de faldones adicionales  
-  
+  ﻿
+### Retirada de faldones adicionales  
+
 Retirada de los «schürzen» de 5 mm que están unidos al casco.  
 Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.  
-﻿### Lanzagranadas de humo  
-  
+  ﻿
+### Lanzagranadas de humo  
+
 Instalación de 6 morteros externos lanzagranadas de humo de un único proyectil.  
 Granda de humo Schnellnebelkerze 39 (Nb K S 39)  
 Distancia de lanzamiento: 80 m  

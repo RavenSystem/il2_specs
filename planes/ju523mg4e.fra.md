@@ -1,9 +1,9 @@
 # Ju 52/3m g4e  
-  
+
 ![ju523mg4e](../images/ju523mg4e.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 105..117 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 92..109 km/h  
 Vitesse limite de piqué : 330 km/h  
@@ -115,29 +115,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.1 l/min  
 	- Combat engine mode: 10.6 l/min  
-  
-## Modifications  
-﻿### Cargaison, 2300 kg  
-  
+
+## Modifications  ﻿
+### Cargaison, 2300 kg  
+
 Cargaison militaire, 2300 kg  
 Masse supplémentaire : 2300 kg  
 Perte estimée de vitesse : 2 km/h  
-﻿### Conteneur de 10 x MAB largables  
-  
+  ﻿
+### Conteneur de 10 x MAB largables  
+
 10 x 250 kg conteneur d\emport de MAB 250  
 Masse supplémentaire : 2550 kg  
 Masse des conteneurs : 2500 kg  
 Masse des pylones : 50 kg  
 Perte estimée de vitesse avant le largage : 2 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### 12 parachutistes  
-  
+  ﻿
+### 12 parachutistes  
+
 12 parachutistes armés  
 Masse supplémentaire : 1200 kg  
 Perte estimée de vitesse avant le largage : 2 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### Tourelle arrière  
-  
+  ﻿
+### Tourelle arrière  
+
 Tourelle arrière avec mitrailleuse MG 15 de 7,92 mm et 1125 cartouches  
 Masse supplémentaire : 130 kg  
 Perte estimée de vitesse : 4 km/h  

@@ -1,9 +1,9 @@
 # Nieuport 28.C1  
-  
+
 ![nieuport28](../images/nieuport28.png)  
-  
+
 ## Beschreibung  
-  
+
 Die nächste Generation an Nieuport S.A.d E.(Societe Anonyme des Etablissements) Kampflugzeugen war die Nieuport 28. Die Entwickler wußten, dass das bisherige Design keine wirklichen Verbesserungen erlaubte. Daher entschloß man sich, auf der strukturellen Basis der SPAD XIII ein neues Flugzeug zu entwickeln. Hier einige Neuerungen: Größere Flügelfläche der unteren Tragfläche, ein zweiter Sparren wurde eingefügt, damit wurde das Flugzeug zu einem echten Doppeldecker; ein zweites Maschinengewehr wurde auf der linken Seite hinter dem Triebwerk angebracht; Querruder wurden an der unteren anstelle der oberen Tragfläche angebracht. Die ersten Testflüge fanden am 5. Juni 1917 statt. Unglücklicherweise konnte das neue Flugzeug nicht die bisherige SPAD XIII mit seinen Charakteristiken übertreffen. Daher weigerten sich die französischen Piloten mit diesem Flugzeug zu fliegen. 208 Flugzeuge wurden produziert. Danach wechselte Nieuport S.A.d E. zur Produktion der SPAD XIII.  
   
 Die Nieuport 28 begann den Dienst bei den amerikanischen Militäreinheiten im Februar 1918. Wegen Lieferschwierigkeiten bei den Vickers Maschinengewehren begann der Kampfeinsatz erst im März 1918. In der Hauptsache wurden gegnerische Flieger und Ballons angegriffen, in seltenen Fällen wurden sie zur Eskorte von Bombern oder zu Aufklärungszwecken eingesetzt. Piloten lobten die gute Steiggeschwindigkeit, die Manövrierfähigkeit und die Sensibilität der Steuerung. In den Kämpfen zeigte sich, dass das Flugzeug teilweise die obere Verkleidung der Tragfläche bei langen Sturzflügen verlor. Es wurden einige haarsträubende Geschichten über die halsbrecherischen Landungen mit so einem defekten Flugzeug erzählt.  
@@ -52,18 +52,20 @@ Referenzen
 1) The Nieuport 28 America\s first fighter. Theodore Hamady.  
 2) The Nieuport 28 C.1. Profile Publications Number 79.  
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier (aus England importiert)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Höhenmesser  
-  
+  ﻿
+### Höhenmesser  
+
 Peltret and Lafage Höhenmesser (0..5000m)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Ballon Maschinengewehre  
-  
+  ﻿
+### Ballon Maschinengewehre  
+
 Vickers "Ballon" Zwillings-Maschinengewehr  
 Munition: 300 11,43mm Patronen  
 Geschossgewicht: 17,5 g  
@@ -72,27 +74,33 @@ Gewicht der Waffe: 26 kg
 Gewicht der Munition: 24 kg  
 Feuerrate: 600 Schuss/min  
 Zusätzliches Gewicht: 50 kg  
-﻿### Uhr  
-  
+  ﻿
+### Uhr  
+
 Taschenuhr  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kompass  
-  
+  ﻿
+### Kompass  
+
 L.Maxant Kompass  
 Zusätzliches Gewicht: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Le-Chretien Teleskopvisier  
 Zusätzliches Gewicht: 1 kg  
-﻿### Schiebefluganzeige  
-  
+  ﻿
+### Schiebefluganzeige  
+
 Schiebefluganzeiger (mit Kugel)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 E.Badin Anemometer (70..200 km/h at 2000 m and 80..220 km/h at 4000 m)  
 Zusätzliches Gewicht: 1 kg  

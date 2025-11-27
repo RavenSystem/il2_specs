@@ -1,9 +1,9 @@
 # Bf 109 G-6AS  
-  
+
 ![bf109g6as](../images/bf109g6as.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 163..180 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 151..163 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 850 km/h  
@@ -136,21 +136,23 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 5.3 l/min  
 	- Combat engine mode: 8.2 l/min  
-  
-## Änderungen  
-﻿### DB-605ASM Motor  
-  
+
+## Änderungen  ﻿
+### DB-605ASM Motor  
+
 Höhenmotor mit 7,8 km Volldruckhöhe.  
 DB 605 AS: ein DB 605 A mit dem großen Lader des DB 603, 1435 PS Startleistung in 0 m  
 DB 605 ASM: wie 605 AS, aber mit MW-50-Anlage bis zu 1800 PS Sondernotleistung in 0 m  
 Zusätzliches Gewicht: 21 kg  
 Geschätzte Geschwindigkeitserhöhung auf Meereshöhe: 43 km/h  
-﻿### MW-50 Gemisch  
-  
+  ﻿
+### MW-50 Gemisch  
+
 Ein Methanol-Wasser-Gemisch mit einem Mischungsverhältnis von 50:50, das über ein Einspritzsystem in den Ladereintritt zugeführt wird um eine Leistungssteigerung des Motors zu erreichen.  
 Methanol-Wasser-Gemisch Gewicht: 63 kg  
-﻿### 21 cm BR  
-  
+  ﻿
+### 21 cm BR  
+
 2 WGr.21 Raketen in abwerfbaren Abschussvorrichtungen  
 Zusätzliches Gewicht: 258 kg  
 Gewicht der Munition: 224 kg  
@@ -158,28 +160,32 @@ Gewicht der Abwurfwaffenroste: 34 kg
 Geschwindigkeitsverlust vor dem Abfeuern: 51 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 11 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### 2 x 20 mm MG 151/20 in Waffengondeln  
-  
+  ﻿
+### 2 x 20 mm MG 151/20 in Waffengondeln  
+
 20 mm Maschinenkanonen MG 151/20 in flügelmontierten Waffengondeln mit je 135 Schuss  
 Zusätzliches Gewicht: 212 kg  
 Gewicht der Munition: 55 kg  
 Gewicht der Schusswaffen: 157 kg  
 Geschwindigkeitsverlust: 13 km/h  
-﻿### 30 mm MK 108  
-  
+  ﻿
+### 30 mm MK 108  
+
 30mm Maschinenkanone MK 108 mit 65 Schuss  
 Zusätzliches Gewicht: 4 kg  
 Gewicht der Munition: 38 kg  
 Gewicht der Schusswaffen: 58 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### MW-50 System  
-  
+  ﻿
+### MW-50 System  
+
 MW-50 water-methanol mixture injection system   
 Additional mass: 84 kg  
 Water-methanol mixture mass: 63 kg  
 Estimated speed increase at sea level: 45 km/h  
-﻿### 1 x Bombe, Typ SC 250  
-  
+  ﻿
+### 1 x Bombe, Typ SC 250  
+
 249-kg-Splitterbombe SC 250  
 Zusätzliches Gewicht: 279 kg  
 Gewicht der Munition: 249 kg  

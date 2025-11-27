@@ -1,9 +1,9 @@
 # Roland C.IIa  
-  
+
 ![rolandc2a](../images/rolandc2a.png)  
-  
+
 ## Beschreibung  
-  
+
 One of the most original trends of thought in aircraft design during 1915 was seen in the L.F.G. Roland C.II, which had been evolved by Dipl. Ing. Tantzen, who had recently joined Luftfahrzeug Gesellschaft as a design engineer. Tantzens ambition was to present a drastically cleaned-up airframe, eliminating as much as possible of the "built-in" drag of interplane, center section strut arrangements and attendant bracing. Streamlined design of fuselage, thin wings profile resulted in great performance for its time: it was one of the fastest airplanes at front able to outrun any enemy fighter plane.  
   
 Upper wing was placed on the top edge of fuselage providing great forward and up view for the pilot. But due to its wide oval fuselage and pilot position towards the back, it was a very unforgiving airplane to land: very few pilots which flew this airplane did not crash or damage it during landing. In time, some minor modifications where added, such as forward firing gun for the pilot, internal wings structire change and ailerons controls moved into upper wing with addition of a control rod instead of cables in the lower wing on early machines. Also wing trailing edge wire was replaced with wooden stringer. New version became Roland C.IIa: first prototype powered by Mercedes D.III engine flew October 25-26 of 1915, and on December 23, 1915 the first production order for 50 machines was placed.  
@@ -58,14 +58,15 @@ Maximale Zuladung 50 kg
 References  
 1) Schlachtflieger  by Rick Duiven, Dan-San Abbott.  
 2) Windsock Datafile 49 LFG Roland C.II by P.M. Grosz.  
-  
-## Änderungen  
-﻿### Aldis (Trophäe)  
-  
+
+## Änderungen  ﻿
+### Aldis (Trophäe)  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### 20mm Becker Turret  
-  
+  ﻿
+### 20mm Becker Turret  
+
 Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -77,8 +78,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
-﻿### Bomben, Typ P.u.W.  
-  
+  ﻿
+### Bomben, Typ P.u.W.  
+
 4 x Splitterbomben 12.5 kg P.u.W  
 Zusätzliches Gewicht: 62 kg  
 Gewicht der Munition: 50 kg  
@@ -92,16 +94,19 @@ Gewicht der Munition: 50 kg
 Gewicht der Abwurfwaffenroste: 12 kg  
 Geschwindigkeitsverlust vor Abwurf: 4 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### Uhr  
-  
+  ﻿
+### Uhr  
+
 Taschenuhr  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Zusätzliche Anzeigen  
-  
+  ﻿
+### Zusätzliche Anzeigen  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
   
 Wilhelm Morell kompensierter Höhenmesser (0-5000 m)  
@@ -109,16 +114,19 @@ Wilhelm Morell kompensierter Höhenmesser (0-5000 m)
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
   
 Zusätzliches Gewicht: 3 kg  
-﻿### Kamera  
-  
+  ﻿
+### Kamera  
+
 Kamera zum Aufnehmen von Luftbildern  
 Zusätzliches Gewicht: 10 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät  
 Zusätzliches Gewicht: 10 kg  
-﻿### Twin Parabellum MG Turret  
-  
+  ﻿
+### Twin Parabellum MG Turret  
+
 Ring turret with twin Parabellum machine guns.  
 Ammo: 2000 of 7.92mm rounds (8 drums with 250 rounds in each)  
 Projectile weight: 10 g  

@@ -1,9 +1,9 @@
 # Airco D.H.2  
-  
+
 ![aircodh2](../images/aircodh2.png)  
-  
+
 ## Description  
-  
+
 Le chasseur monoplace Airco D.H.2 fut le second projet de Sir Geoffrey de Havilland matérialisant les avancées réalisées dans le domaine des hélices propulsives, situées derrière le pilote. Ce type de configuration permettait de placer un armement sans synchronisation, technique qui ne fut implantée que vers la fin 1916. Le prototype du D.H.2 vola pour la première fois en Juillet 1915 et fut déployé dans 24 Squadrons du Royal Flying Corps où il commença sa carrière au dessus de la France dès Février 1916.  
   
 La mitrailleuse Lewis était montée dans le nez de l\avion ce qui posa d\ailleurs beaucoup de problèmes au début. Le fait qu\elle fut mobile forçait le pilote durant un combat non seulement à manoeuvrer l\avion mais aussi à viser avec la mitrailleuse ce qui rendait les combats encore plus difficiles. Plus tard, les pilotes fixèrent la mitrailleuse dans l\axe de vol ce qui, en manoeuvrant l\avion leur permettait d\obtenir de biens meilleurs résultats.  
@@ -51,22 +51,25 @@ Référence:
 1) Squadron/Signal Publications Nr. 171. De Haviland DH 2 in action  
 2) The De Haviland D.H.2. Profile publications Number 91  
 3) Airco DH2. Windsock Datafile 48.  
-  
-## Modifications  
-﻿### Lumière de cockpit  
-  
+
+## Modifications  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauge d\essence,  
-  
+  ﻿
+### Jauge d\essence,  
+
 Jauge de niveau de carburant à aiguille  
 Masse supplémentaire : 1 kg  
-﻿### Viseur  
-  
+  ﻿
+### Viseur  
+
 Viseur additionnel avec guidon de mire avant-arrière  
 Masse supplémentaire : 1 kg  
-﻿### LePrieur rockets  
-  
+  ﻿
+### LePrieur rockets  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Masse supplémentaire : 36 kg  
 Masse des munitions : 16 kg  

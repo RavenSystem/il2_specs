@@ -1,9 +1,9 @@
 # R.E.8  
-  
+
 ![re8](../images/re8.png)  
-  
+
 ## Description  
-  
+
 Le R.E.8 a été conçu en remplacement dun B.E.2 désuet. Larmement a consisté en une mitrailleuse synchronisée pour lavant et un artilleur en arrière du pilote. Ceci était issu de la conception du B.E.2 qui avait lartilleur devant le pilote. Ceci avait causé quelques incidents de tir très dangereux, particulièrement vers larrière.  
 Le R.E.8 a été équipé dun 12 cylindres en V refroidi par air - le RAF4A. Lavion a été conçu pour porter une radio et un équipement photographique pour la reconnaissance et la localisation dartillerie. Il pouvait aussi porter un petit chargement de bombes sur des supports dailes inférieures.  
 Cétait un avion très polyvalent en son temps. Les premières versions de cet avion ont commencé à parvenir au front à la fin de 1916, mais il na pas éveillé beaucoup denthousiasme parmi ses pilotes. Lavion était difficile à voler et il pardonnait peu. Les erreurs de pilotage pouvaient mener à la vrille mortelle. Les premiers escadrons du front à recevoir le R.E.8 retournèrent à lancien B.E.2 qui avait donné quelques preuves. Finalement le R.E.8 a vraiment vu le combat mais son début nétait pas très encourageant.  
@@ -55,14 +55,15 @@ References
 1) Windsock Datafile RAF RE8 by J.M. Bruce.  
 2) WWI Aeroplanes by J.M. Bruce.  
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Cooper / H.E.R.L. bombes  
-  
+  ﻿
+### Cooper / H.E.R.L. bombes  
+
 12 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 167 kg  
 Masse des munitions : 131 kg  
@@ -76,12 +77,14 @@ Masse des munitions : 102 kg
 Masse des pylones : 24 kg  
 Perte estimée de vitesse avant le largage : 8 km/h  
 Perte estimée de vitesse après le largage : 4 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Overwing mounted additional Lewis machinegun with changeable position.  
 Ammo: 291 of 7.69mm rounds (3 drums with 97 rounds in each)  
 Forward position: 25°  
@@ -94,16 +97,19 @@ Mounts weight: 0.8 kg
 Ammo weight: 12 kg  
 Total weight: 20.3 kg  
 Estimated speed loss: 5 km/h  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

@@ -1,9 +1,9 @@
 # Ju 52/3m g4e  
-  
+
 ![ju523mg4e](../images/ju523mg4e.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 105..117 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 92..109 km/h  
 Höchstzulassige Geschwindigkeit im Sturzflug: 330 km/h  
@@ -113,29 +113,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.1 l/min  
 	- Combat engine mode: 10.6 l/min  
-  
-## Änderungen  
-﻿### Luftfracht, 2300kg  
-  
+
+## Änderungen  ﻿
+### Luftfracht, 2300kg  
+
 2300kg militärische Luftfracht  
 Zusätzliches Gewicht: 2300 kg  
 Geschwindigkeitsverlust: 2 km/h  
-﻿### 10 x MAB 250 Behälter  
-  
+  ﻿
+### 10 x MAB 250 Behälter  
+
 Abwurfbehälter mit Fallschrim MAB 250  
 Zusätzliches Gewicht: 2550 kg  
 Gewicht der Munition: 2500 kg  
 Gewicht der Abwurfwaffenroste: 50 kg  
 Geschwindigkeitsverlust vor Abwurf: 2 km/h  
 Geschwindigkeitsverlust nach Abwurf: 0 km/h  
-﻿### 12 Fallschirmjäger  
-  
+  ﻿
+### 12 Fallschirmjäger  
+
 12 bewaffnete Fallschirmjäger  
 Zusätzliches Gewicht: 1200 kg  
 Geschwindigkeitsverlust vor Abwurf: 2 km/h  
 Geschwindigkeitsverlust nach Abwurf: 0 km/h  
-﻿### Heckgeschützturm  
-  
+  ﻿
+### Heckgeschützturm  
+
 Rückwärtiges Geschütz mit 7,92-mm-MG15-Maschinengewehr mit 1125 Schuss  
 Zusätzliches Gewicht: 130 kg  
 Geschwindigkeitsverlust: 4 km/h  

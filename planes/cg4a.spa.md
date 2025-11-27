@@ -1,9 +1,9 @@
 # CG-4A  
-  
+
 ![cg4a](../images/cg4a.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 65..86 km/h  
 Velocidad de picado límite: 241 km/h  
 Carga de rotura máxima (en fuerzas <i>g</i>): 3,5 <i>g</i>  
@@ -38,23 +38,26 @@ Características operativas:
 - La aeronave dispone de controles independientes para el freno neumático de la rueda izquierda y derecha. Para accionar cualquiera de los frenos, es necesario presionar la parte superior del pedal del timón correspondiente.  
 - La rueda de cola del planeador gira libremente y no tiene bloqueo.  
 - Para acortar el recorrido de la carrera en el aterrizaje, puede instalarse un paracaídas de frenado. La velocidad máxima de liberación del paracaídas de emergencia («Alt_Izq + D») es de 225 km/h. Después de aterrizar y frenar con éxito, se debe soltar el paracaídas de emergencia («Alt_Izq + D»).  
-  
-## Modificaciones  
-﻿### Paracaídas de frenado  
-  
+
+## Modificaciones  ﻿
+### Paracaídas de frenado  
+
 Instalación de un paracaídas de frenado para reducir el recorrido de la carrera en el aterrizaje  
 Peso adicional: 32 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### Сarga, 1000 kg  
-  
+  ﻿
+### Сarga, 1000 kg  
+
 1000 kg de cargamento militar  
 Peso adicional: 1000 kg  
   
-﻿### 13 soldados de infantería  
-  
+  ﻿
+### 13 soldados de infantería  
+
 13 soldados de infantería armados  
 Peso adicional: 1415 kg  
-﻿### Willys MB  
-  
+  ﻿
+### Willys MB  
+
 Vehículo 4x4 Willys MB  
 Peso adicional: 1630 kg  

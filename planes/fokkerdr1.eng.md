@@ -1,9 +1,9 @@
 # Fokker Dr.I  
-  
+
 ![fokkerdr1](../images/fokkerdr1.png)  
-  
+
 ## Description  
-  
+
 In the spring of 1917, during a visit to Jasta 11, Anthony Fokker inspected the construction of a captured British fighter, the Sopwith Triplane. Manfred von Richthofen related to Fokker the details of his dogfight with this new aeroplane. It was only due to his great experience that the Red Baron managed to avoid defeat.  
 The prototype of the F.I (the name at the time of the Dr.I) triplane was made ready by August 1917. Some remarkable details of its construction were as follows: a steel tube fuselage frame, as well as metal frames for the stabilizer and tail fin; an absence of bracing trusses; and the placement of the ailerons on the upper wing. The plane was more compact and robust than the British Sopwith Triplane. In total, 320 Dr.I triplanes were built.  
 On the 23rd of September 1917, Werner Voss shot down two British fighters while piloting an experimental version of the plane. Soon afterwards, he was attacked by six SE5s of the Royal Flying Corps. Each British plane was damaged in the course of this dramatic and historic fight, which forced two of their number to retire from the battle. It was only because he was outnumbered that the ace Voss unfortunately lost his life.  
@@ -69,29 +69,34 @@ References
 6) Fokker Dr.I in action, by H J Nowarra, Aircraft Number 68.  
 7) The Fokker Dr.I, Profile publications, Number 55.  
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.  
-  
+
 ## Modifications  
 ### Bullet Counters  
-  
+
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns  
 Additional mass: 1 kg  
+
 ### Inclinometer  
-  
+
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Gunsight  
-  
+
 Additional sight with front sight and rear sight mountings  
 Additional mass: 1 kg  
+
 ### Collimator Day  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer installed)  
 Additional mass: 2 kg  
+
 ### Collimator Night  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer removed)  
 Additional mass: 2 kg  

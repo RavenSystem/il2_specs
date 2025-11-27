@@ -1,9 +1,9 @@
 # R.E.8  
-  
+
 ![re8](../images/re8.png)  
-  
+
 ## Descripción  
-  
+
 El R.E.8 fue diseñado como reemplazo para el obsoleto B.E.2. Su armamento consistía en una ametralladora sincronizada apuntando hacia delante y una posición de artillero trasero detrás del piloto. Esto suponía una diferencia respecto al diseño del B.E.2, que tenía el artillero enfrente del piloto, situación que había provocado posiciones de tiro difíciles y peligrosas, especialmente hacia atrás.  
   
 El R.E.8 estaba equipado con el motor RAF 4a de 12 cilindros en V y refrigerado por aire. El avión estaba diseñado para llevar radio y cámara de fotos para realizar tareas de reconocimiento y observación de artillería. También podía llevar una pequeña carga de bombas en bastidores ubicados bajo alas, haciendo de él un avión muy versátil para su tiempo.  
@@ -62,14 +62,15 @@ Referencias:
 1) Windsock Datafile RAF RE8 por J.M. Bruce.  
 2) WWI Aeroplanes por J.M. Bruce.  
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper / H.E.R.L.  
-  
+  ﻿
+### Bombas Cooper / H.E.R.L.  
+
 Hasta 12 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 167 kg  
 Peso de munición: 131 kg  
@@ -83,12 +84,14 @@ Peso de munición: 102 kg
 Peso de los soportes: 24 kg  
 Pérdida de velocidad estimada antes de soltar: 8 km/h  
 Pérdida de velocidad estimada tras soltar: 4 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora adicional Lewis de posición variable montada sobre al ala superior.  
 Munición: 291 balas de 7,69 mm (3 tambores con 97 balas cada uno)  
 Posición hacia delante: 25º  
@@ -101,16 +104,19 @@ Peso del soporte: 0,8 kg
 Peso de la munición: 12 kg  
 Peso total: 20,3 kg  
 Pérdida de velocidad estimada: 5 km/h  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Lewis en artillero  
-  
+  ﻿
+### Doble Lewis en artillero  
+
 Dos ametralladoras Lewis sincronizadas sobre anillo Scarff en la posición del artillero.  
 Munición: 776 balas de 7,69 mm (8 tambores con 97 balas cada uno)  
 Peso del proyectil: 11 g  

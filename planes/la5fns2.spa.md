@@ -1,9 +1,9 @@
 # La-5FN ser.2  
-  
+
 ![la5fns2](../images/la5fns2.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 168..185 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 147..159 km/h  
 Velocidad de picado límite: 720 km/h  
@@ -120,39 +120,44 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 3,6 l/min  
 	- Modo motor - Combate: 12,3 l/min  
-  
+
 ## Modificaciones  
 ### Munición especial  
-  
+
 Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE)  
+
 ### 2 bombas FAB-100M  
-  
+
 2 bombas de propósito general de 104 kg FAB-100M  
 Peso adicional: 228 kg  
 Peso de munición: 208 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 27 km/h  
 Pérdida de velocidad estimada tras soltar: 12 km/h  
+
 ### 2 bombas FAB-50sv  
-  
+
 2 bombas de propósito general de 50 kg FAB-50sv  
 Peso adicional: 120 kg  
 Peso de munición: 100 kg  
 Peso de los soportes: 20 kg  
 Pérdida de velocidad estimada antes de soltar: 20 km/h  
 Pérdida de velocidad estimada tras soltar: 12 km/h  
-﻿### Luz de aterrizaje  
-  
+  ﻿
+### Luz de aterrizaje  
+
 Luz de aterrizaje para los vuelos nocturnos  
 Peso adicional: 2 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Espejo  
-  
+  ﻿
+### Espejo  
+
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### RPK-10  
-  
+  ﻿
+### RPK-10  
+
 Radiogoniómetro para navegación con radiobalizas  
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  

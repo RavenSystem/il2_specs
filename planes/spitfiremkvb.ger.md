@@ -1,9 +1,9 @@
 # Spitfire Mk.VB  
-  
+
 ![spitfiremkvb](../images/spitfiremkvb.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 137..144 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 129..135 km/h  
   
@@ -132,15 +132,16 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.2 l/min  
 	- Combat engine mode: 7.7 l/min  
-  
-## Änderungen  
-﻿### Merlin 45 Motor  
-  
+
+## Änderungen  ﻿
+### Merlin 45 Motor  
+
 Später Merlin 45 Motor.  
 Zusätzliches Gewicht: 0 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Rückspiegel  
-  
+  ﻿
+### Rückspiegel  
+
 Rückspiegel  
 Zusätzliches Gewicht: 1 kg  
 Geschwindigkeitsverlust: 0 km/h  

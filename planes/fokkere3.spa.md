@@ -1,9 +1,9 @@
 # Fokker E.III  
-  
+
 ![fokkere3](../images/fokkere3.png)  
-  
+
 ## Descripción  
-  
+
 El Fokker E.III Eindecker era un caza monoplano para un único piloto. El avión fue diseñado por Anthony Fokker a principios de 1915. El alabeo fue implementado mediante la deformación de todo el ala (<i>wing-warping</i>). Este sistema de control era típico en todos los aviones de la época. Más tarde, este poco confiable e inefectivo sistema de control fue sustituido por el control mediante alerones o superficies de control.  
   
 El Fokker E.III fue equipado con un sistema de sincronización mediante engranajes, una idea revolucionaria que cambió el concepto de combate aéreo. Con la implementación de este sistema fue posible disparar la ametralladora sin que la hélice resultase dañada. Este dispositivo mejoró drásticamente el rendimiento del avión como caza. El sistema de sincronismo (o interruptor) fue inventado después de capturar el Morane-Sulnier tipo L de Rolland Garros. Este avión estaba equipado con deflectores metálicos en las aspas de la hélice. Con este diseño, se podía disparar a través de la hélice, pero el deflector reducía bastante su eficiencia, dañándola en muchos casos. Anthony Fokker eligió un enfoque distinto a este problema, creando un montaje de engranajes que conectaban el eje del motor con el gatillo del arma. El disparo solo podría ser posible cuando la hélice no estuviera alineada con la zona de disparo del arma.  
@@ -53,17 +53,19 @@ Referencias:
 2) The Fokker Monoplanes. Profile publications número 38  
 3) Fokker E.III. Windsock Datafile 15.  
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.  
-  
-## Modificaciones  
-﻿### Reloj  
-  
+
+## Modificaciones  ﻿
+### Reloj  
+
 Reloj Mecánico  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  

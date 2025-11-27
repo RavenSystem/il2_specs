@@ -1,9 +1,9 @@
 # Gotha G.V  
-  
+
 ![gothag5](../images/gothag5.png)  
-  
+
 ## Description  
-  
+
 Cet avion est devenu la prochaine étape dans le développement du Gotha G.IV. L\expréience du combat a montré que la proximité de réservoirs de carburant près du moteur est fatal. Les réservoirs de carburant ont été déplace vers le fuselage. La pénurie de matériaux de qualité a conduit à l\augmentation du poids de la structure. La partie basse du fuselage a été retenue pour le tube de tir de fusil avant et arrière. Pour améliorer la stabilité du roulage sur le sol les trains ont été raccourci ce qui a conduit à lever la nacelle moteur au dessus de l\aile. C\est le signe distinctif le plus important de la série V depuis les modèles précédents. En octobre 1916 100 bombardiers ont été commandé. En août 1917 le premier Gotha G.V a quitté l\usine. L\avion a été fabriqué par Gothaer Waggonfabrik A.G. IL y a eu 205 avions de la série V produit au total.  
 L\avion a été utilisé pour bombarder des cibles importantes au sol et pour le bombardement de Londres. En fin de guerre le Gotha G.V a été utilisé comme bombardier de nuit.   
 Avec une charge maximale de bombes l\avion était très stable en vol, mais lors du retour à la base il avait un minimum de stabilité et une lourdeur désagréable à la dérive. Pour remédier à ce défaut de queu l\atilleur était assis à proximité des pilotes, plus tard, les ailes one été simplement déplacées de 20 cm vers l\arrière. A l\atterrissage l\avion avait tendance à tourner jusqu\au contact complet avec le sol. En février 1918 les trains ont été suréquipés afin de rendre l\atterrissage plus sûr. L\avion a pris part à des batailles sur le front de l\ouest.  
@@ -66,10 +66,10 @@ References:
 2) German Aircraft of World War I. Grey and Thetford Putnam Books. ISBN  0-933852-71-1  
 3) The Gotha G1-G5. Profile Publications Number 115  
 4) The Gotha. Flight magazine 1917.  
-  
-## Modifications  
-﻿### Bombes P.u.W.  
-  
+
+## Modifications  ﻿
+### Bombes P.u.W.  
+
 12 bombes d’emploi général 12.5 kg P.u.W  
 Masse supplémentaire : 434 kg  
 Masse des munitions : 350 kg  
@@ -97,8 +97,9 @@ Masse des munitions : 300 kg
 Masse des pylones : 12 kg  
 Perte estimée de vitesse avant le largage : 1.5 km/h  
 Perte estimée de vitesse après le largage : 1 km/h  
-﻿### 20mm Becker Rear Turret  
-  
+  ﻿
+### 20mm Becker Rear Turret  
+
 Rear Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -110,8 +111,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin Parabellum MG Rear Turret  
-  
+  ﻿
+### Twin Parabellum MG Rear Turret  
+
 Rear ring turret with twin Parabellum machine guns.  
 Ammo: 2000 of 7.92mm rounds (8 drums with 250 rounds in each)  
 Projectile weight: 10 g  
@@ -122,16 +124,19 @@ Mount weight: 5 kg
 Ammo weight: 40 kg  
 Total weight: 64 kg  
 Estimated speed loss: 1 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauge d\essence  
-  
+  ﻿
+### Jauge d\essence  
+
 Jauge de niveau de carburant à aiguille (0-800 l)  
 Masse supplémentaire : 0.5 kg  
-﻿### 20mm Becker Front Turret  
-  
+  ﻿
+### 20mm Becker Front Turret  
+
 Front Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -143,8 +148,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin Parabellum MG Front Turret  
-  
+  ﻿
+### Twin Parabellum MG Front Turret  
+
 Front ring turret with twin Parabellum machine guns.  
 Ammo: 2000 of 7.92mm rounds (8 drums with 250 rounds in each)  
 Projectile weight: 10 g  

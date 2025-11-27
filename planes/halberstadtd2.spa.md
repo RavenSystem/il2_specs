@@ -1,9 +1,9 @@
 # Halberstadt D.II  
-  
+
 ![halberstadtd2](../images/halberstadtd2.png)  
-  
+
 ## Descripción  
-  
+
 El primer prototipo del Halberstadt D.I, equipado con un motor Mercedes D.I de 100 CV, voló a finales del otoño de 1915. Más tarde sería equipado con un motor Mercedes D.II de 120 CV, entrando en producción con la designación D.II. Estaba pensado para complementar a los biplanos Fokker tipo D, que en aquellos momentos estaban reemplazando a los obsoletos monoplanos Fokker de la serie E. Los primeros aparatos fueron enviados a las unidades del frente en junio de 1916.  
   
 La mayoría de los pilotos quedaron impresionados por su mejor rendimiento en comparación con los antiguos monoplanos Fokker, especialmente por su mejor ascenso y velocidad, y por unos controles muy rápidos, fáciles y sensibles que le daban una buena maniobrabilidad en manos de los experimentados pilotos alemanes.  
@@ -50,21 +50,24 @@ Disparo frontal: 1 LMG 08/15 Spandau de 7,92mm, hasta 500 balas
   
 Referencias:  
 1) Halberstadt Fightres, Windsock Datafile Special.  
-  
-## Modificaciones  
-﻿### Aldis (trofeo)  
-  
+
+## Modificaciones  ﻿
+### Aldis (trofeo)  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  
-﻿### Termómetro  
-  
+  ﻿
+### Termómetro  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
 Peso adicional: 1 kg  

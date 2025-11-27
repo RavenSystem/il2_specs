@@ -1,9 +1,9 @@
 # Halberstadt CL.II 200 CV  
-  
+
 ![halberstadtcl2au](../images/halberstadtcl2au.png)  
-  
+
 ## Descripción  
-  
+
 El diseño del Halberstadt CL.II fue una respuesta a la especificación del Idflieg (<i>Inspektion der Fliegertruppen</i>) emitida en agosto de 1916 para un nuevo «tipo ligero C» con un motor de 160-180 caballos.  
   
 El propósito era crear un biplaza tipo caza/escolta para proteger aviones de observación más pesados de ataques de aviones aliados. En noviembre de 1916 el idflieg ordenó tres prototipos del Halberstadt CL.II, todos con motor Mercedes D.III. El primero de estos aviones estuvo preparado en abril de 1917, y tras realizar algunos cambios en el diseño del ala pasó las pruebas finales en Aldershof entre el 2 y el 7 de mayo de 1917.  
@@ -76,14 +76,15 @@ Referencias:
 1) Schlachtflieger por Rick Duiven, Dan-San Abbott.  
 2) Informe sobre el  caza Halberstadt, octubre de 1918.  
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.  
-  
-## Modificaciones  
-﻿### Aldis (Trofeo)  
-  
+
+## Modificaciones  ﻿
+### Aldis (Trofeo)  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Cañón Becker de 20 mm en artillero  
-  
+  ﻿
+### Cañón Becker de 20 mm en artillero  
+
 Cañón automático Becker de 20 mm montado sobre anillo en posición de artillero.  
 Munición: 60 balas de 20 mm (4 cargadores con 15 balas cada uno)  
 Tipo de munición: HE/AP (balas explosivas y perforantes)  
@@ -95,8 +96,9 @@ Peso del soporte: 10 kg
 Peso de la munición: 25 kg  
 Peso total: 65 kg  
 Pérdida de velocidad estimada: 6 km/h  
-﻿### Bombas P.u.W.  
-  
+  ﻿
+### Bombas P.u.W.  
+
 Hasta 12 bombas de propósito general de 12,5 kg P.u.W (Prünfanstalt und der Werft Fliegertruppe)  
 Peso adicional: 186 kg  
 Peso de munición: 150 kg  
@@ -110,12 +112,14 @@ Peso de munición: 150 kg
 Peso de los soportes: 36 kg  
 Pérdida de velocidad estimada antes de soltar: 4 km/h  
 Pérdida de velocidad estimada tras soltar: 2 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Instrumentación adicional  
-  
+  ﻿
+### Instrumentación adicional  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
   
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)  
@@ -125,16 +129,19 @@ Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °
 Reloj mecánico  
   
 Peso adicional: 3 kg  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Doble Parabellum en artillero  
-  
+  ﻿
+### Doble Parabellum en artillero  
+
 Dos ametralladoras Parabellum sincronizadas sobre anillo en la posición del artillero.  
 Munición: 1500 balas de 7,92 mm (6 tambores con 250 balas cada uno)  
 Peso del proyectil: 10 g  
@@ -145,8 +152,9 @@ Peso de los soportes: 5 kg
 Peso de la munición: 30 kg  
 Peso total: 54 kg  
 Pérdida de velocidad estimada: 8 km/h  
-﻿### Doble Spandau frontal  
-  
+  ﻿
+### Doble Spandau frontal  
+
 Dos ametralladoras frontales sincronizadas Spandau LMG 08/15 de posición fija.  
 Munición: 1000 balas de 7,92 mm (500 balas por arma)  
 Peso del proyectil: 10 g  

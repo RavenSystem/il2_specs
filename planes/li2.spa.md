@@ -1,9 +1,9 @@
 # Li-2  
-  
+
 ![li2](../images/li2.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 115..135 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 105..120 km/h  
 Velocidad de picado límite: 410 km/h  
@@ -123,10 +123,10 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7,7 l/min  
 	- Modo motor - Combate: 9,8 l/min  
-  
-## Modificaciones  
-﻿### Carga de bombas  
-  
+
+## Modificaciones  ﻿
+### Carga de bombas  
+
 4 bombas de propósito general de 254 kg FAB-250sv  
 Peso adicional: 1076 kg  
 Peso de munición: 1016 kg  
@@ -140,29 +140,33 @@ Peso de munición: 1024 kg
 Peso de los soportes: 60 kg  
 Pérdida de velocidad estimada antes de soltar: 17 km/h  
 Pérdida de velocidad estimada tras soltar: 2 km/h  
-﻿### 2200 kg de carga en cajas  
-  
+  ﻿
+### 2200 kg de carga en cajas  
+
 2200 kg de cargamento militar en cajas  
 Peso adicional: 2200 kg  
 Pérdida de velocidad estimada: 6 km/h  
-﻿### 14 contenedores lanzables PD-MM (interior)  
-  
+  ﻿
+### 14 contenedores lanzables PD-MM (interior)  
+
 14 contenedores de transporte de 125 kg con paracaídas PD-MM  
 en el compartimento interior de carga  
 Peso adicional: 1760 kg  
 Peso de contenedores: 1760 kg  
 Pérdida de velocidad estimada antes de soltar: 5 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
-﻿### 6 contenedores lanzables PD-MM  
-  
+  ﻿
+### 6 contenedores lanzables PD-MM  
+
 6 contenedores de transporte de 125 kg con paracaídas PD-MM  
 Peso adicional: 814 kg  
 Peso de contenedores: 754 kg  
 Peso de los soportes: 60 kg  
 Pérdida de velocidad estimada antes de soltar: 20 km/h  
 Pérdida de velocidad estimada tras soltar: 2 km/h  
-﻿### 16 paracaidistas  
-  
+  ﻿
+### 16 paracaidistas  
+
 16 paracaidistas armados  
 Peso adicional: 1600 kg  
 Pérdida de velocidad estimada antes de soltar: 7 km/h  

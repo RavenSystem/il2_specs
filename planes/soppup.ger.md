@@ -1,9 +1,9 @@
 # Sopwith Pup  
-  
+
 ![soppup](../images/soppup.png)  
-  
+
 ## Beschreibung  
-  
+
 Entworfen vom talentierten Ingenieur Herbert Smith von der Sopwith Aviation Company ist die Sopwith Pup ein Jagdeinsitzer. Mit ihren guten Flugeigenschaften und Manövrierfähigkeit fand sie sehr schnell Gefallen bei ihren Piloten. Der erste Prototyp flog im Februar 1916. Nach einer Anzahl von Verbesserungen am Prototyp kam es zu den ersten Fronteinsätzen der Pup beim Royal Naval Air Service (RNAS), den britischen Marinefliegern. Der offizielle Name des Flugzeuges lautete “Sopwith Scout”, jedoch erlangte es bald den Spitznamen “Pup” (Welpe) aufgrund der Ähnlichkeit zur Sopwith “1½ Strutter”, die Pup verfügte jedoch über kleinere Proportionen und wirkte daher wie ein Welpe. Obwohl der Spitznamen "Pup" niemals offiziell anerkannt wurde, läutete sie die Tradition ein, nachfolgende Sopwithflugzeuge nach einem Vogel oder Tier zu benennen.  
   
 Die ersten Serienmodelle der Sopwith Pup gelangten im Oktober 1916 an die Front. Die guten Flugeigenschaften ermöglichten es ihr, sich erfolgreich mit dem Gegner zu messen. Bis zum Ende des Jahres 1916 errang die 8. Staffel des RNAS während der Schlacht an der Somme über 20 Luftsiege. “Wir bemerkten sofort, dass diese Maschine den Unseren überlegen war” - Manfred von Richthofen. Die gelungene Mischung von niedrigem Gewicht und großer Flügelfläche erlaubte es britischen Piloten den Gegner im Kurvenkampf zu übertreffen. Das britische Ass James McCudden sagte folgendes über die Pup: “Die Pup kurvt zwei Mal so schnell wie die Albatros im Kurvenkampf [...] darüber hinaus ist sie perfekt für alle Arten der Fliegerei. Die Kombination von Gewicht und Flügelfläche ist so erfolgeich, dass man nach ein wenig Übung auf einem Tennisplatz landen kann”. Aufgrund dieses Merkmals war die Pup das erste Flugzeug, dass auf dem Deck eines fahrenden Schiffes landete, der HMS Furious.  
@@ -53,18 +53,20 @@ References:
 2) Sopwith Pup. Windsock Datafile Special.  
 3) Sopwith Pup Aces of World War I. Osprey Aircraft of the Aces 67.  
 4) The Sopwith Pup. Profile publications Number 13.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 9 kg  
-﻿### LePrieur rockets  
-  
+  ﻿
+### LePrieur rockets  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 Zusätzliches Gewicht: 36 kg  
 Gewicht der Munition: 16 kg  

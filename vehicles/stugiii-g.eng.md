@@ -1,9 +1,9 @@
 # StuG III Ausf.G  
-  
+
 ![stugiii-g](../images/stugiii-g.png)  
-  
+
 ## Description  
-  
+
 This self-propelled assault gun Sturmgeschütz III Ausführung G was armed with 75 mm StuK 40 L/48 gun. Ausf.G was one of the last modifications, but the most numerous: 7800 SPG in total since December 1942 till April 1945. Compared to the previous one, it had a longer gun barrel (L/48 instead of L/43) and additional armour sheets installed in the hull and cabin front. The SPG modeled in our sim was built at MIAG factory using the Pz.Kpfw. Ausf.M chassis produced by MAN factory.  
   
 The most apparent visual difference was the addition of side armor plates, "Schürzen", which were attached to the hull sides. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armour destabilized it or caused its fragmentation before it could hit the main armored hull.  
@@ -138,10 +138,11 @@ Sfl ZF 1a gunner periscopic sight, field of view 8°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
+
+
 ## Modifications  
 ### Armour Piercing High Explosive Shells  
-  
+
 7,5 cm Pzgr. 39  
   
 Shells armed with bursting charge warhead.  
@@ -155,8 +156,9 @@ Muzzle velocity 750 m/s, armour penetration at point blank range 117 mm.
 500 m: armour penetration 104 mm, velocity 691 m/s, drop -2.4 m.  
 1000 m: armour penetration 92 mm, velocity 636 m/s, drop -10.0 m.  
 2000 m: armour penetration 72 mm, velocity 537 m/s, drop -44.8 m.  
+
 ### High-Explosive Shells  
-  
+
 7,5 cm SprGr.34  
   
 Good against soft, unarmored or lightly armored targets.  
@@ -170,8 +172,9 @@ Muzzle velocity 550 m/s.
 500 m: velocity 509 m/s, drop -4.5 m.  
 1000 m: velocity 473 m/s, drop -18.5 m.  
 2000 m: velocity 405 m/s, drop -80.9 m.  
+
 ### High Explosive Anti-Tank Shells  
-  
+
 7,5 cm Gr.38 HL/C  
   
 HEAT shells armed with high-explosive shaped charge warhead.  
@@ -185,8 +188,9 @@ Muzzle velocity: 450 m/s.
 500 m: velocity 328 m/s, drop -7.8 m.  
 1000 m: velocity 278 m/s, drop -38.1 m.  
 2000 m: velocity 244 m/s, drop -200.4 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 7,5 cm Pzgr. 40  
   
 Shells armed with sub-caliber armour-piercing projectile. Good against heavily armoured targets at short ranges.  
@@ -200,11 +204,13 @@ Muzzle velocity 930 m/s, armour penetration at point blank range 150 mm.
 500 m: armour penetration 128 mm, velocity 832 m/s, drop -1.6 m.  
 1000 m: armour penetration 108 mm, velocity: 739 m/s, drop -10.0 m.  
 2000 m: armour penetration 75 mm, velocity: 573 m/s, drop -44.8 m.  
+
 ### Additional armor plates  
-  
+
 Additional protection: 5 mm armored plates attached to the hull and turret. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

@@ -1,9 +1,9 @@
 # SPAD 7.C1 150 PS  
-  
+
 ![spad7early](../images/spad7early.png)  
-  
+
 ## Beschreibung  
-  
+
 Die SPAD S.VII wurde als einsitziges Jagdflugzeug durch Louis Bechereau von der Societe Pour LAviation et ses Derives Anfang 1916 entwickelt. Der Entwurf hat seine Wurzeln in der SPAD-eigenen Entwicklung der mit einem Umlaufmotor angetriebenen SPAD Typ A. Zu Beginn war als Motor für die SPAD S.VII der 150 PS starke Hispano-Suiza 8A vorgesehen, entwickelt vom Schweizer Ingenieur Marc Birkigt im Februar 1915.  
   
 Der Prototyp, als SPAD V bezeichnet, wurde erstmals im April 1916 geflogen. Ursprünglich hatte das Flugzeug eine große kegelförmige Propellerhaube mit einer Öffnung in der Nabe, die nahtlos in einen kreisförmigen Kühler und die Motorhaube überging. Obwohl diese Propellerhaube bald verworfen wurde, blieben der Ringkühler und die runde Motorhaube markante Kennzeichen dieses Flugzeugtyps. Die Flugerprobungen ergaben eine herausragende Höchstgeschwindigkeit sowie Steigrate. Zusätzlich ermöglichte die solide Konstruktion der Zelle dem Flugzeug den leicht gebauten Nieuport, bei denen in steilen Stürzen oft die unteren Flügel abmontierten, überlegene Sturzflugeigenschaften. Aufgrund dieser vielversprechenden Eigenschaften wurde am 10. Mai 1916 die Produktion des Flugzeuges als SPAD S.VII angeordnet.  
@@ -53,22 +53,25 @@ Referenzen
 2) Windsock Datafile 008 - Spad 7.C1  
 3) SPAD 150 HP armamento, dec.1917  
 4) French \Hispano Suiza\ engines tech data.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier (aus England importiert)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Le-Chretien Teleskopvisier  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Maschinengewehr  
+
 Cockpit montierte zusätzliche Lewis-Maschinengewehre mit wechselbarer Position.  
 Munition: 291 7,69mm Patronen (3 Trommeln mit jeweils 97 Schuss)  
 Vordere Position: 25°  
@@ -81,15 +84,17 @@ Gewicht der Halterung: 0.8 kg
 Gewicht der Munition: 12 kg  
 Gseamtgewicht: 20.3 kg  
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h  
-﻿### Le Prieur rockets  
-  
+  ﻿
+### Le Prieur rockets  
+
 6 x strut-mounted "Le Prieur" anti-balloon rockets with pointed triangular blade attached to nose cone to assist balloon envelope penetration or additional high explosive filling.  
 Zusätzliches Gewicht: 36 kg  
 Gewicht der Munition: 12 kg  
 Gewicht der Abwurfwaffenroste: 24 kg  
 Geschwindigkeitsverlust vor Abwurf: 8 km/h  
 Geschwindigkeitsverlust nach Abwurf: 6 km/h  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 E.Badin Anemometer (0..230 km/h at 0 m and 0..240 km/h at 2000 m)  
 Zusätzliches Gewicht: 1 kg  

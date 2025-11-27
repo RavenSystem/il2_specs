@@ -1,9 +1,9 @@
 # Sopwith Dolphin  
-  
+
 ![sopdolphin](../images/sopdolphin.png)  
-  
+
 ## Beschreibung  
-  
+
 Das Flugzeug wurde von der British Sopwith Aviation Co. entwickelt. Es offenbarte jedoch Schwächen wie bei der Sopwith Camel: Schlechte Sicht nach vorn und oben und eine schwierige Flug-Kontrolle des Flugzeugs durch den Kreiskolbenmotor. Nun sollte ein Flugzeug mit Reihenmotor entwicklet werden. Das Design zeigte ein kompaktes Cockpit, Tanks, Maschinengewehre und Motor. Die Kühler wurden hinter das Cockpit an die Rumpfseite gelegt. Der Kopf des Piloten ragte nun aus einer Luke der oberen Tragfläche. Der erste Testflug fand im Mai 1917 statt. Neben den Hauptwerken wurde das Flugzeug auch in folgenden Werken produziert: Darracq, Hooper, SACA. Bis zum Ende des Krieges wurden 1.532 Flugzeuge gebaut.  
   
 Die ersten Kampftests wurden von der British Squadron N56 am 13. Juni 1917 durchgeführt. Anschließend folgten mehrere Änderungen des Designs. Im Januar 1918 erhielt die N19 Squadron den neuen Typ. Die Dolphin wurde im Kampf gegen feindliche Flugzeuge und Ballons, besonders in großen Höhen eingesetzt. Dort hatte sie enorme Vorteile gegenüber der Sopwith Camel. Auch wurde sie bei Bombardierungen eingesetzt.  
@@ -59,26 +59,29 @@ Referenzen
 2) Sopwith Dolphin.  J M Bruce Windsock Datafile 054.  
 3) Dolphin and Snipe Aces of Wold War I.  Norman Franks,  Osprey №48.  
 4) Sopwith Dolphin Specification.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Cooper Bomben  
-  
+  ﻿
+### Cooper Bomben  
+
 Vier (Zwei) 24 lb Cooper Bomben (11kg)  
 Zusätzliches Gewicht: 56 kg  
 Gewicht der Munition: 44 kg  
 Gewicht der Abwurfwaffenroste: 12 kg  
 Geschwindigkeitsverlust vor Abwurf: 2 km/h  
 Geschwindigkeitsverlust nach Abwurf: 1 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Zwillings-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Zwillings-Maschinengewehr  
+
 Zwei Cockpit montierte zusätzliche Lewis-Maschinengewehre mit wechselbarer Position.  
 Munition: 388 7,69mm Patronen (4 Trommeln mit jeweils 97 Schuss)  
 Vordere Position: 25°  
@@ -91,8 +94,9 @@ Gewicht der Halterung: 2 kg
 Gewicht der Munition: 16 kg  
 Gseamtgewicht: 33 kg  
 Geschätzter Geschwindigkeitsverlust: 7-18 km/h  
-﻿### Twin Lewis lower-wing  
-  
+  ﻿
+### Twin Lewis lower-wing  
+
 Two additional lower-wing mounted fixed Lewis machine guns.  
 Ammo: 194 of 7.69mm rounds (2 drums with 97 rounds in each)  
 Projectile weight: 11 g  
@@ -103,7 +107,8 @@ Mounts weight: 2 kg
 Ammo weight: 8 kg  
 Total weight: 25 kg  
 Geschätzter Geschwindigkeitsverlust: 3 km/h  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 O.S.I.C Kühlwasserthermometer (30-100 °C)  
 Zusätzliches Gewicht: 1 kg  

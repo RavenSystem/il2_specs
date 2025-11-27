@@ -1,9 +1,9 @@
 # LaGG-3 Brh. 4  
-  
+
 ![lagg3s4](../images/lagg3s4.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 167..193 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 142..170 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 750 km/h  
@@ -108,17 +108,18 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
-## Änderungen  
-  ﻿
+
+## Änderungen  ﻿
+
 ### RPK-10  
-  
+
 Rahmenantennen-Funkkompass zur Navigation über Radiosignalquellen  
 Zusätzliches Gewicht: 10 kg  
 Geschwindigkeitsverlust: 0 km/h  
   ﻿
+
 ### 8 x Raketen, Typ ROS-82  
-  
+
 8 x ungelenkte 82-mm-Explosivraketen ROS-82  
 Zusätzliches Gewicht: 80 kg  
 Gewicht der Munition: 56 kg  

@@ -1,9 +1,9 @@
 # Sopwith 1½ Strutter B  
-  
+
 ![sopstrutterb](../images/sopstrutterb.png)  
-  
+
 ## Descripción  
-  
+
 Diseñado y construido por el Almirantazgo británico, el Sopwith 1½ Strutter (tomó su nombre de la sujección de la sección central del ala superior: parejas de arriostramientos largos y cortos, «uno y medio», que soportaban el ala superior) fue el primer caza biplaza en entrar en servicio y, de hecho, el primer aeroplano británico armado con una ametralladora sincronizada. Propulsado por un motor rotativo Clerget de 110 o 130 CV, esta variante de bombardero monoplaza prescindía del puesto de artillero para poder cargar más combustible y estaba equipada con una ametralladora fija Vickers de .303 pulgadas (7,69 mm) de disparo frontal sincronizado, pudiendo llevar 4 bombas de 65 lb (29 kg) en su bodega interna. La variante de bombardero monoplaza del 1½ Strutter entró en servicio con el <i>Royal Naval Air Service</i> (RNAS).  
   
 El prototipo biplaza voló en diciembre de 1915. La llegada del Strutter a las unidades del frente comenzó en torno a mayo de 1916, pero las primeras entregas carecían de la ametralladora delantera fija. Al parecer, estos aviones se entregaron sin el arma debido a la escasez de Vickers de .303 a causa de las demandas de armamento del ejército.  
@@ -54,22 +54,25 @@ Carga de Bombas:
 Referencias:  
 1) Windsock Datafile 34 - Sopwith Strutter, por J.M. Bruce.  
 2) WWI Aeroplanes por J.M. Bruce.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas H.E.R.L.  
-  
+  ﻿
+### Bombas H.E.R.L.  
+
  4 bombas de propósito general de 65 lb (29 kg) H.E.R.L.  
 Peso adicional: 164 kg  
 Peso de munición: 116 kg  
 Peso de los soportes: 48 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Abertura más ancha en el ala superior  
-  
+  ﻿
+### Abertura más ancha en el ala superior  
+
 Recorte ampliado en el ala superior para mejorar la visibilidad.  

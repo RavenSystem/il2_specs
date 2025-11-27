@@ -1,9 +1,9 @@
 # S.E.5a  
-  
+
 ![se5a](../images/se5a.png)  
-  
+
 ## Description  
-  
+
 L\avion a été conçu par la société britannique R.A.F. (Royal Aircraft Factory). S.E. — Patrouilleur expérimental (chasseurs monoplaces). L\objectif était de construire un chasseur autur d\un moteur Hispano—Suiza de 200 hp, qui serait rapide avec une haute vitesse de montée. Pour atteindre ces objectifs, les ingénieurs ont du trouver un compromis. En faisant des profils d\ailes minces, ils en ont augmenté la surface. Ce design comportait des ailes supérieures et inférieures. 5269 avions ont été construits à la fin de la guerre.  
   
 Le premier vol d\essai a été réalisé en janvier 1917. L\avion a été vu pour la première fois au combat en juin1917 dans l\escadron anglais N 56. Il était utilisé contre les chasseurs et ballons ennemis, l\escorte de bombardiers, très rarement contre des cibles au sol sur la ligne de front. Les discussions des pilotes mentionnaient la durabilité de la structure, une maniabilité suffisante, une stabilité en plongée et pendant les tirs de mitrailleuses, de prise en main fine, et d\une bonne sensibilité de contrôle à basse vitesse. Lors d\atterrissage à haute vitesse l\avion ne pouvait pas toucher le sol à cause d\une forte portance de l\aile. Il est intéressant que la plupart des as britanniques ont volé sur ce type d\avion. Son surnom était même "faiseur d\as".  
@@ -56,25 +56,28 @@ References
 2) S.E. 5a in action. Squadron/signal publications, Aircraft Number 69.  
 3) RAF S.E.5 and S.E.5a Specification.  
 4) Profile Publications, The S.E. 5A Number 1.  
-  
-## Modifications  
-﻿### Aldis  
-  
+
+## Modifications  ﻿
+### Aldis  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### Cooper bombes  
-  
+  ﻿
+### Cooper bombes  
+
 4 x bombes d’emploi général 24 lb Cooper (11 kg)  
 Masse supplémentaire : 56 kg  
 Masse des munitions : 44 kg  
 Masse des pylones : 12 kg  
 Perte estimée de vitesse avant le largage : 2 km/h  
 Perte estimée de vitesse après le largage : 1 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauge d\essence,  
-  
+  ﻿
+### Jauge d\essence,  
+
 Jauge de niveau de carburant à aiguille (0-30 Gallons)  
 Masse supplémentaire : 1 kg  

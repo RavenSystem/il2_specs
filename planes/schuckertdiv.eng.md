@@ -1,9 +1,9 @@
 # SSW D.IV  
-  
+
 ![schuckertdiv](../images/schuckertdiv.png)  
-  
+
 ## Description  
-  
+
 SSW D.IV came very late to the Great War, too late to change Germany’s fortunes, but what machines did make it to front-line squadrons acquitted themselves well. This airplane was the end result of a robust line of Siemens-Schuckert aircraft that saw service in the war and it came with a unique feature. The 207-hp Siemens-Halske Sh.IIIa rotary engine had a crankshaft that rotated opposite of the engine and the propeller\s rotation in an attempt to reduce the torque. The four-bladed propeller gave it a fast rate of climb and a high speed. The SSW D.IV was even faster than Germany’s mainstay front-line fighter, the very successful Fokker D.VII. It was also very maneuverable, but reportedly had sudden stall without warning when pushed too far. It was armed with two 7.92 mm machine guns.  
   
   
@@ -63,29 +63,34 @@ References:
 4) WW1 Aero №99, April 1984.  
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.  
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.  
-  
+
 ## Modifications  
 ### Bullet Counters  
-  
+
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns  
 Additional mass: 1 kg  
+
 ### Inclinometer  
-  
+
 D.R.G.M liquid Inclinometer (indicates bank while on ground and sideslip while in flight)  
 Additional mass: 1 kg  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Collimator Day  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer installed)  
 Additional mass: 2 kg  
+
 ### Collimator Night  
-  
+
 Oigee Reflector-type Collimator sight (daytime dimmer removed)  
 Additional mass: 2 kg  
+
 ### Anemometer  
-  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Additional mass: 1 kg  

@@ -1,9 +1,9 @@
 # 虎式坦克H1型（Pz.Kpfw.VI Ausf.H1）  
-  
+
 ![pzvi-h1](../images/pzvi-h1.png)  
-  
+
 ## 描述  
-  
+
 本坦克于1942年由亨舍尔公司研发，于1942年八月在列宁格勒首次参加战斗。  
   
 该坦克以其强大的装甲和“方形”的外观而闻名。它的负重轮轮以交错方式布置，以优化对地压强，并为车体侧面提供额外的保护，但这使得底盘维修变得复杂，经常导致损坏的坦克无法维修。  
@@ -102,10 +102,11 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
+
+
 ## 修改  
 ### 穿甲榴弹  
-  
+
 8.8 cm Pzgr.39  
   
 炮弹上装有爆炸弹头。  
@@ -119,8 +120,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 129mm，速度 756 m/s，下坠高度 2.2m  
 1000m时：装甲穿深 119mm，速度 713 m/s，下坠高度 8.6m  
 2000m时：装甲穿深 100mm，速度 631 m/s，下坠高度 36.3m  
+
 ### 榴弹  
-  
+
 8.8 cm Sprgr L/4，5  
   
 对抗软目标、无装甲和轻装甲目标效果好。  
@@ -134,8 +136,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：速度 771 m/s，下坠高度 2.0m  
 1000m时：速度 723 m/s，下坠高度 8.1m  
 2000m时：速度 629 m/s，下坠高度 35.5m  
+
 ### 破甲弹  
-  
+
 8.8 cm Gr.39 HL  
   
 破甲弹有成型高爆聚能战斗部装药  
@@ -149,8 +152,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：速度 476 m/s，下坠高度 4.1m  
 1000m时：速度 369 m/s，下坠高度 19.4m  
 2000m时：速度 273 m/s，下坠高度 114.6m  
-﻿### 次口径穿甲弹  
-  
+  ﻿
+### 次口径穿甲弹  
+
 8.8 cm Pzgr.40  
   
 装有次口径穿甲弹芯的炮弹。在近距离对抗重装甲目标效果好。  
@@ -164,8 +168,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 500m时：装甲穿深 179mm，速度 858 m/s，下坠高度 1.7m  
 1000m时：装甲穿深 159mm，速度 :791 m/s，下坠高度 6.6m  
 2000m时：装甲穿深 126mm，速度 670 m/s，下坠高度 29.1m  
+
 ### Smoke Mortars  
-  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

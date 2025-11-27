@@ -1,9 +1,9 @@
 # DFW C.V  
-  
+
 ![dfwc5](../images/dfwc5.png)  
-  
+
 ## Beschreibung  
-  
+
 Dieses Flugzeug wurde in den Deutschen Flugzeug Werken in der Nähe von Leipzig entwickelt und gebaut. Das Ziel war ein leichtes, aber ausdauerndes Flugzeug zu entwickeln. Strukturelemente dieses Flugzeugs waren: Eine metallverkleidete Hecksektion, das Triebwerk ist durch eine Metallverkleidung geschützt, zwei hohle Sparren in der Tragfläche und eine schwebende Rippenstruktur. Der Kühler wurde oberhalb des Triebwerks angebracht.  
   
 Der erste Flug fand am 11. Juli 1916 statt. Nach einer offiziellen Erprobungsphase wurde das Flugzeug an die Front entsandt, wo es zugleich positive Kritiken erntete. Ab diesem Zeitpunkt fand die Massenfertigung in mehreren Werken statt:  Aviatik,  LVG, Halberstadt. Bis zum Ende des Kriegs wurden 3.955 Flugzeuge gebaut. Dieses Flugzeugmodell wurde am häufigsten in der deutschen Aviation gebaut.  
@@ -61,14 +61,15 @@ Bombenzuladungsmöglichkeiten:
 Referenzen:  
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.  
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.  
-  
-## Änderungen  
-﻿### Aldis (Trophäe)  
-  
+
+## Änderungen  ﻿
+### Aldis (Trophäe)  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### 20mm Becker Turret  
-  
+  ﻿
+### 20mm Becker Turret  
+
 Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -80,8 +81,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
-﻿### Bomben, Typ P.u.W.  
-  
+  ﻿
+### Bomben, Typ P.u.W.  
+
 12 x Splitterbomben 12.5 kg P.u.W  
 Zusätzliches Gewicht: 186 kg  
 Gewicht der Munition: 150 kg  
@@ -95,31 +97,37 @@ Gewicht der Munition: 150 kg
 Gewicht der Abwurfwaffenroste: 36 kg  
 Geschwindigkeitsverlust vor Abwurf: 4 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Zusätzliche Anzeigen  
-  
+  ﻿
+### Zusätzliche Anzeigen  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
   
 Taschenuhr  
   
 Zusätzliches Gewicht: 0.5 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kamera  
-  
+  ﻿
+### Kamera  
+
 Kamera zum Aufnehmen von Luftbildern  
 Zusätzliches Gewicht: 10 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät  
 Zusätzliches Gewicht: 10 kg  
-﻿### Twin Parabellum MG Turret  
-  
+  ﻿
+### Twin Parabellum MG Turret  
+
 Ring turret with twin Parabellum machine guns.  
 Ammo: 1500 of 7.92mm rounds (6 drums with 250 rounds in each)  
 Projectile weight: 10 g  

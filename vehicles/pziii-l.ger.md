@@ -1,9 +1,9 @@
 # Pz.Kpfw.III Ausf.L  
-  
+
 ![pziii-l](../images/pziii-l.png)  
-  
+
 ## Beschreibung  
-  
+
 Der Pz.Kpfw. III Ausf.L wurde mit einer 50 mm Hauptkanone ausgestattet, die eine gute Panzerdurchschlagskraft und zusätzliche 20 mm dicke Panzerplatten auf der Kanonenblende und dem vorderen Rumpf aufweist. Diese Verbesserungen wurden eingeführt, als die Deutschen auf sowjetische T-34 und KV Panzer trafen.  
   
 Diese Panzermodifikation wird von April bis August 1942 mit ca. 700 Stück produziert.  
@@ -88,10 +88,11 @@ Tzf 5f2 gunner scope-sight, field of view 25°.
   
 <b><u>ACHTUNG:</u></b>  
 Dieser Panzer ist für jeden Benutzer von IL-2 Great Battles kostenlos. Die Panzer der Tank Crew - Erweiterung haben eine wesentlich detailliertere Außen- und Innenausstattung der einzelnen Stationen der Besatzung.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 5 cm Pzgr. 39  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -106,8 +107,9 @@ Durchschlagsleistung aus kürzester Entfernung: 87 mm
 500 m: Durchschlagsleistung 68 mm, Geschwindigkeit 702 m/s, Fall -1,5 m  
 1000 m: Durchschlagsleistung 53 mm, Geschwindigkeit 587 m/s, Fall -8,4 m  
 2000 m: Durchschlagsleistung 30 mm, Geschwindigkeit 394 m/s, Fall -76,7 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 5 cm Sprgr. 38  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -121,8 +123,9 @@ Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 444 m/s, Geschossabfall -4,9 m  
 1000 m: Geschwindigkeit 368 m/s, Geschossabfall -22,6 m  
 2000 m: Geschwindigkeit 285 m/s, Geschossabfall -118,5 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 5 cm Pzgr. 40  
   
 Granaten mit unterkalibrigen panzerbrechenden Projektilen.  

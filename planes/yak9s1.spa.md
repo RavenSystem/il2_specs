@@ -1,9 +1,9 @@
 # Yak-9 ser.1  
-  
+
 ![yak9s1](../images/yak9s1.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 152..160 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 136..141 km/h  
 Velocidad de picado límite: 750 km/h  
@@ -109,25 +109,28 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
   
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7,5 l/min  
-  
-## Modificaciones  
-﻿### Luz de aterrizaje  
-  
+
+## Modificaciones  ﻿
+### Luz de aterrizaje  
+
 Luz de aterrizaje para los vuelos nocturnos  
 Peso adicional: 2 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Espejo  
-  
+  ﻿
+### Espejo  
+
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Mira reflectora  
-  
+  ﻿
+### Mira reflectora  
+
 Mira reflectora PBP-1A  
 Peso adicional: 0,5 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### RPK-10  
-  
+  ﻿
+### RPK-10  
+
 Radiogoniómetro para navegación con radiobalizas  
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  

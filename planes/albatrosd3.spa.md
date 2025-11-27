@@ -1,9 +1,9 @@
 # Albatros D.III  
-  
+
 ![albatrosd3](../images/albatrosd3.png)  
-  
+
 ## Descripción  
-  
+
 Tras investigar la construcción de un Nieuport capturado, los ingenieros alemanes diseñaron el ala inferior de su nuevo avión más corto y estrecho que el superior. Los extremos de las alas fueron limados para intentar eliminar las vibraciones en las alas. Entre otras soluciones de diseño se pueden mencionar: las varillas del control del alerón se llevaron a lo largo del ala inferior, el radiador fue desplazado del lateral del fuselaje al centro del ala superior, y las alas fueron soportadas por estructuras en V. La reducción del peso fue uno de los objetivos principales de este particular avión. Fue fabricado por Albatros Werke y Ostdeutsche Albatros Werke. En total se fabricaron 1346 unidades del Albatros D.III.  
   
 Los vuelos de prueba comenzaron a finales de agosto o  primeros de septiembre de 1916, y en diciembre de 1916, el avión fue entregado a los escuadrones. Algunos meses de acción en combate revelaron que el avión tenía tendencia a perder su ala inferior en un picado pronunciado o en un giro muy cerrado. El depósito de agua del radiador, que se había ubicado en el ala superior, se filtraba dentro de las ametralladoras haciendo imposible su uso. Para corregir este problema, el radiador fue recolocado en el lado derecho del piloto. Desde junio de 1917, los ingenieros comenzaron a utilizar el nuevo radiador celular de Daimler, que ayudó a resolver los problemas de sobrecalentamiento del motor.  
@@ -59,33 +59,39 @@ Referencias:
 4) Albatros Aces of World War I, por Norman Franks, Osprey №32.  
 5) Albatros fighters in action, por John F Connors.  
 6) Albatros fighters, Windsock Datafile Special.  
-  
-## Modificaciones  
-﻿### Aldis (trofeo)  
-  
+
+## Modificaciones  ﻿
+### Aldis (trofeo)  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Contador de Balas  
-  
+  ﻿
+### Contador de Balas  
+
 Contador de balas digital Wilhelm Morell para dos ametralladoras  
 Peso adicional: 0,5 kg  
-﻿### Altímetro de alta cota  
-  
+  ﻿
+### Altímetro de alta cota  
+
 Altímetro de D.R.P (0-8000 m)  
-﻿### Reloj  
-  
+  ﻿
+### Reloj  
+
 Reloj Mecánico  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora Lewis adicional de posición variable montada sobre el ala superior.  
 Munición: 291 balas de 7,69 mm (3 cargadores con 97 balas cada uno)  
 Posición hacia delante: 8º  
@@ -98,11 +104,13 @@ Peso del soporte: 4 kg
 Peso de la munición: 12 kg  
 Peso total: 23 kg  
 Pérdida de velocidad estimada: 2-6 km/h  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  
-﻿### Termómetro  
-  
+  ﻿
+### Termómetro  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
 Peso adicional: 1 kg  

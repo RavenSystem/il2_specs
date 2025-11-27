@@ -1,9 +1,9 @@
 # Nieuport 17.C1  
-  
+
 ![nieuport17](../images/nieuport17.png)  
-  
+
 ## 描述  
-  
+
 The Nieuport 17 was intended to be a further development of the Nieuport 11 fighter. When the Nieuport 17 arrived on the battlefield in March 1916, it swiftly replaced the Nieuport 11. By the end of 1916, every squadron in the French Aviation Militaire had Nieuport 17s. Compared to its predecessor, it had a larger wingspan and surface area, a more powerful engine, a Vickers machine gun, and metal aileron control wires. The plane was initially built in several French factories, but licenses were soon purchased by other countries: Great Britain, Russia, Italy, Finland and Japan.  
   
 Pilots noted its good climb rate and visibility, as well as its excellent maneuverability. The planes powerful engine and high dive speed exposed the main drawback of the "one and a half wing" design - a weak lower wing due to only one spar. There are two known occasions when pilots made successful landings after losing their lower wings. The introduction of the Vickers machine gun was met with ambiguity: some pilots removed and replaced it with a Lewis machine gun mounted on the upper wing. Others, however, used both machine guns simultaneously, although this somewhat decreased manoeuvrability.  
@@ -51,34 +51,39 @@ References
 1) Nieuport Fighters in action. Aircraft Number 167.  
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.  
 3) Profile Publications. The Nieuport 17 Number 49.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具 (从英国进口)  
 增加质量：2 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 罗盘  
-  
+
 L.麦克森型罗盘  
 增加质量：1 kg  
+
 ### 勒克雷蒂安（LeChretien）瞄准具  
-  
+
 勒克雷蒂安（LeChretien）折射型直筒瞄准具  
 增加质量：1 kg  
+
 ### LePrieur rockets  
-  
+
 8 x strut-mounted "Le Prieur" anti-balloon rockets of incendary action, with pointed triangular blade attached to nose cone to asssit penetration of balloon envelope or with high explosive grenade.  
 增加质量：36 kg  
 弹药质量：16 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：8 km/h  
 投弹后预期速度损失：6 km/h  
-﻿### 上翼双刘易斯（Lewis）机枪  
-  
+  ﻿
+### 上翼双刘易斯（Lewis）机枪  
+
 上翼加装可变位置的双刘易斯（Lewis）机枪  
 弹药：291发7.69mm弹药（3个弹鼓，每个97发）  
 前方位置：25°  
@@ -91,8 +96,9 @@ L.麦克森型罗盘
 弹药重量：12 kg  
 总重：20.3 kg  
 预期速度损失：5 km/h  
+
 ### 风速仪、高度表、时钟  
-  
+
 E.巴丁型风速计(2000m时70至200km/h，4000m时80至220km/h)  
 增加质量：1 kg  
   
@@ -101,8 +107,9 @@ E.巴丁型风速计(2000m时70至200km/h，4000m时80至220km/h)
   
 机械时钟  
 增加质量：1 kg  
-﻿### 机翼上加装两挺刘易斯机枪  
-  
+  ﻿
+### 机翼上加装两挺刘易斯机枪  
+
 机翼上额外加装两挺刘易斯机枪。  
 弹药：582发7.69mm弹药（6个弹鼓，每个97发）  
 弹丸重量：11 g  

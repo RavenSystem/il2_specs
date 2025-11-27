@@ -1,9 +1,9 @@
 # Yak-7B series 36  
-  
+
 ![yak7bs36](../images/yak7bs36.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 155..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 139..154 km/h  
 Dive speed limit: 740 km/h  
@@ -112,31 +112,34 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.8 l/min  
-  
+
 ## Modifications  
 ### 2 x FAB-100M bombs  
-  
+
 2 x 104 kg General Purpose Bombs FAB-100M  
 Additional mass: 228 kg  
 Ammunition mass: 208 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 27 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### 2 x FAB-50sv bombs  
-  
+
 2 x 50 kg General Purpose Bombs FAB-50sv  
 Additional mass: 120 kg  
 Ammunition mass: 100 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 20 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### Landing light  
-  
+
 Landing light for night flights  
 Additional mass: 2 kg  
 Estimated speed loss: 0 km/h  
+
 ### RPK-10  
-  
+
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  

@@ -1,9 +1,9 @@
 # Yak-3 sér.9  
-  
+
 ![yak3s9](../images/yak3s9.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 152..160 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 136..141 km/h  
 Vitesse limite de piqué : 750 km/h  
@@ -119,25 +119,28 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
-## Modifications  
-﻿### Miroir  
-  
+
+## Modifications  ﻿
+### Miroir  
+
 Miroir pour voir lhémisphère arrière  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
-﻿### Reflector Gunsight  
-  
+  ﻿
+### Reflector Gunsight  
+
 PKI reflector gunsight  
 Additional mass: 0.5 kg  
 Estimated speed loss: 0 km/h  
-﻿### RPK-10  
-  
+  ﻿
+### RPK-10  
+
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
-﻿### 12,7mm UBS MG  
-  
+  ﻿
+### 12,7mm UBS MG  
+
 12,7mm UBS machinegun (right) with 175 rounds  
 Additional mass: 57 kg  
 Ammunition mass: 33 kg  

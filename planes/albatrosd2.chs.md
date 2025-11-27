@@ -1,9 +1,9 @@
 # Albatros D.II  
-  
+
 ![albatrosd2](../images/albatrosd2.png)  
-  
+
 ## 描述  
-  
+
 First in the pantheon of the legendary Albatros fighter planes, the D.II became a symbol and icon of the fighter plane in the Great War. Under the guidance of engineer Robert Thelen, the plane incorporated new features in design and development. While retaining the clean aerodynamic shape of the D.I model’s fuselage, new central N-shaped struts were added to the wings. The upper wing was moved closer to the fuselage, and early models of the aircraft were fitted with Windhoff box-type radiators on both sides of the fuselage.  
 The Albatros Werke, Ostdeutsche Albatros Werke, and Luft-Verkehrs-Gesellschaft mbH factories manufactured the aircraft. In all, 768 Albatros D.IIs were produced.  
 In August 1916, the first detachment of Albatros D.I and D. II fighters arrived at the front. Starting with these two models of aircraft, two Spandau machine guns became standard equipment for all German fighters. In the hands of experienced pilots, who were already battle hardened and experienced in aerobatics, the D.II made for huge gains in air superiority. The rapid mass production of Albatros fighter planes allowed Germany to maintain air superiority all the way through April 1917. "Bloody April" has become synonymous with the great losses of British aircraft in 1917.  
@@ -51,17 +51,19 @@ The Albatros D. II was also employed against balloons and for providing cover fo
 4) Albatros Aces of WWI by Norman Franks, Osprey №32.  
 5) Albatros fighters in action by John F Connors.  
 6) Albatros D.II, Flugzeugprofile №38.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Aldis）瞄准具（战利品）  
-  
+
 阿尔迪斯（Aldis）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### 高空高度计  
-  
+
 德意志帝国（D.R.P.）高度表（0-8000m）  
-﻿### 20mm Becker Cannon  
-  
+  ﻿
+### 20mm Becker Cannon  
+
 20mm Becker Automatic Cannon  
 弹药：60发20mm弹药（4个弹匣，每个15发）  
 弹药类型：HE/AP（高爆和穿甲弹）  
@@ -73,23 +75,28 @@ The Albatros D. II was also employed against balloons and for providing cover fo
 弹药重量：25 kg  
 总重：65 kg  
 预期速度损失：6 km/h  
+
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  
-﻿### 温度计  
-  
+  ﻿
+### 温度计  
+
 A·施莱格米尔奇(A.Schlegelmilch)发动机冷却液温度指示器(0-100℃)  
 增加质量：1 kg  

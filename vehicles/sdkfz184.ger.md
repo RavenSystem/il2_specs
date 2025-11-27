@@ -1,9 +1,9 @@
 # Sd.Kfz.184  
-  
+
 ![sdkfz184](../images/sdkfz184.png)  
-  
+
 ## Beschreibung  
-  
+
 1943 von den Nibelungenwerken gebauter schwerer Panzerzerstörer Sd.Kfz.184. Diese frühe Version ohne Kommandantenkuppel und Maschinengewehr wird als "Ferdinand" bezeichnet, während eine spätere, damit ausgerüstete Version als "Elefant" bezeichnet wird. Insgesamt wurden 91 Fahrzeuge aller Modifikationen hergestellt.  
   
 Diese Panzerhaubitze wurde geschaffen, um die zahlreichen "Tiger (P)"-Panzerfahrgestelle zu nutzen, die für einen neuen deutschen schweren Panzer gebaut wurden, aber ungenutzt blieben, als die deutschen Behörden ein konkurrierendes Design wählten. Dieses Fahrgestell verfügte über ein einzigartiges elektromechanisches Getriebe, das zwar für seine Zeit hochmodern war, aber auch viele Nachteile hatte - vor allem ein erheblicher Rückgang des Wirkungsgrades bei zunehmender Geschwindigkeit. Dies führte zu einer sehr begrenzten Reichweite und Fahrgeschwindigkeit. Allerdings war der "Ferdinand" zur Zeit der Kursk-Schlacht das am stärksten gepanzerte Kampffahrzeug. Seine einzige Waffe war das lange 88 mm lange Hauptgeschütz KwK 43, das auf der Grundlage der Flak 41 Flugabwehrkanone konstruiert wurde - seine Mündungsenergie war mehr als 1,5-mal höher als die Mündungsenergie des KwK 39, welches auf Tiger-Panzern installiert war. Infolgedessen konnten von dieser Kanone abgefeuerte panzerbrechende Geschosse jedes gepanzerte Fahrzeug seiner Zeit in jeder Entfernung bis zur maximalen Zielentfernung außer Gefecht setzen. Die frühen Serienfahrzeuge hatten ernsthafte Probleme mit dem Sichtfeld: Der Richtschütze benutzte ein Periskopvisier mit einem sehr eingeschränkten Sichtfeld, während der Kommandant keine optischen Visiere hatte, die bei geschlossener Luke verwendet werden konnten. Zwei Lader hatten Periskope für den Blick nach hinten (im Spiel können sie vom Richtschützen und vom Kommandanten benutzt werden).  
@@ -118,10 +118,11 @@ Sfl ZF 1a gunner periscopic sight, field of view 8°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver.  
 5 intercom terminals.  
-  
-## Änderungen  
-﻿### Armour Piercing High Explosive Shells  
-  
+
+
+## Änderungen  ﻿
+### Armour Piercing High Explosive Shells  
+
 8,8 cm Pzgr. 39/43  
   
 Shells armed with bursting charge warhead.  
@@ -135,8 +136,9 @@ Muzzle velocity 1000 m/s, armour penetration at point blank range 192 mm.
 500 m: armour penetration 179 mm, velocity 951 m/s, drop -1.3 m.  
 1000 m: armour penetration 167 mm, velocity 905 m/s, drop -5.4 m.  
 2000 m: armour penetration 144 mm, velocity 816 m/s, drop -22.8 m.  
-﻿### High-Explosive Shells  
-  
+  ﻿
+### High-Explosive Shells  
+
 8,8 cm Sprgr. Flak 41  
   
 Good against soft, unarmored or lightly armored targets.  
@@ -150,8 +152,9 @@ Muzzle velocity 700 m/s.
 500 m: velocity 662 m/s, drop -2.7 m.  
 1000 m: velocity 625 m/s, drop -11.1 m.  
 2000 m: velocity 556 m/s, drop -47.4 m.  
-﻿### Sub-Caliber Armour Piercing Shells  
-  
+  ﻿
+### Sub-Caliber Armour Piercing Shells  
+
 8,8 cm Pzgr. 40/43  
   
 Shells armed with sub-caliber armour-piercing projectile. Good against heavily armoured targets at short ranges.  
@@ -165,6 +168,7 @@ Muzzle velocity 1130 m/s, armour penetration at point blank range 266 mm.
 500 m: armour penetration 237 mm, velocity 1044 m/s, drop -1.1 m.  
 1000 m: armour penetration 212 mm, velocity: 964 m/s, drop -4.6 m.  
 2000 m: armour penetration 168 mm, velocity: 821 m/s, drop -19.7 m.  
-﻿### Rückwärtiges Kanonenmantelschild  
-  
+  ﻿
+### Rückwärtiges Kanonenmantelschild  
+
 Kanonenmantelschild, hauptsächlich angebracht, um einen leichteren Zugang zu den Bolzen zu ermöglichen, die Schildhälften zusammenhalten (kosmetische Änderung).  

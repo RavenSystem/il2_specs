@@ -1,9 +1,9 @@
 # Breguet 14.B2  
-  
+
 ![breguet14](../images/breguet14.png)  
-  
+
 ## Descripción  
-  
+
 El Breguet 14 fue un avión biplaza francés diseñado por la compañía Breguet Aviation. El prototipo realizó su primer vuelo en abril de 1917. Para asegurar una durabilidad excepcional, la estructura del fuselaje estaba compuesta por secciones de acero y duraluminio. Varias compañías fabricaron el aeroplano, incluyendo Michelin, Bellanger, Renault, Farman, Schmitt y Darracq. Durante la guerra, este aeroplano fue equipado con diversos motores. Al principio los motores eran Renault, después le siguieron los modelos de Fiat y en los últimos meses, motores Liberty. Estos fiables y potentes motores hicieron del Breguet 14 el bombardero biplaza más rápido de la Primera Guerra Mundial.  
   
 La primera serie de este avión entró en servicio con el Cuerpo del Ejército Francés en mayo de 1917, donde terminó sustituyendo al Sopwith 1½ Strutter. El Breguet 14 era más rápido, poseía una mejor velocidad de ascenso, una carga mayor de bombas y una estructura más duradera. En abril de 1918, 225 aeroplanos de este modelo estaban en servicio en 50 escuadrones franceses y 1 estadounidense.  
@@ -59,14 +59,15 @@ Referencias:
 1) S.T.Ae. Service des Essais. AVION Breguet 717.  
 2) Windsock Datafile Special Breguet 14, por Alan D. Toelle.  
 3) Profile Publications The Breguet 14, número 157.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas 8 kg, 20 kg, 40 kg  
-  
+  ﻿
+### Bombas 8 kg, 20 kg, 40 kg  
+
 8 bombas de propósito general de 40 kg  
 Peso adicional: 320 kg  
 Peso de munición: 320 kg  
@@ -87,16 +88,19 @@ Peso de munición: 256 kg
 Peso de los soportes: 0 kg  
 Pérdida de velocidad estimada antes de soltar: 6,3 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Colimador reflectante Le-Chretien  
 Peso adicional: 1 kg  
-﻿### Lewis sobre ala superior  
-  
+  ﻿
+### Lewis sobre ala superior  
+
 Ametralladora adicional Lewis de posición variable montada sobre al ala superior.  
 Munición: 485 balas de 7,69 mm (5 tambores con 97 balas cada uno)  
 Posición hacia delante: 5º  
@@ -109,15 +113,18 @@ Peso del soporte: 2 kg
 Peso de la munición: 20 kg  
 Peso total: 29,5 kg  
 Pérdida de velocidad estimada: 3 km/h  
-﻿### Cámara de fotos  
-  
+  ﻿
+### Cámara de fotos  
+
 Cámara para tomar fotografías aéreas  
 Peso adicional: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radiotransmisor  
 Peso adicional: 10 kg  
-﻿### Indicador de deslizamiento lateral  
-  
+  ﻿
+### Indicador de deslizamiento lateral  
+
 Indicador de deslizamiento lateral (tipo bola)  
 Peso adicional: 1 kg  

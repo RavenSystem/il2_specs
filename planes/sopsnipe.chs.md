@@ -1,9 +1,9 @@
 # Sopwith Snipe  
-  
+
 ![sopsnipe](../images/sopsnipe.png)  
-  
+
 ## 描述  
-  
+
 The Sopwith Snipe was created as a replacement for the Camel in response to the appearance of new enemy fighters. At the design stage, the Camels engines (for instance, the Clerget 9B or Bentley B.R.1) were considered for use, as well as the newer and more powerful Bentley B.R.2. The decision was finally made after successful tests of the latter that confirmed its exceptional performance (234 HP). The early prototype’s fuselage and wings were similar to its predecessor, but later on its look became final. The rectangular fuselage got rounded edges, the biplane wings were reinforced by an additional pair of struts per side and the vertical stabilizer got the bigger surface rudder thanks to the compensator.  
   
 Seven contracts for producing the first 1700 aircraft were assigned to Sopwith, Boulton & Paul, Coventry Ordnance Works, Napier, Nieuport & General, Portholme Aerodrome and Ruston Proctor companies. The first shipments began during the summer of 1918, but the production rate was lagging behind schedule. Only 77 airplanes were completed by the end of August instead of the planned 200. The total number of aircraft produced is not known, but at least 1567 Snipes were delivered. There were several improvements made to the design during the production run - for instance, the vertical stabilizer and upper wing ailerons surfaces have been increased even more. A more powerful (320 HP) radial engine, the "Dragonfly" was installed on some machines. The airplanes equipped with this engine became the ancestors of the new Sopwith Dragon after some additional changes in design.  
@@ -59,32 +59,36 @@ Only a handful of squadrons got the new aircraft in time to use it on the Wester
 2) The Sopwith 7F.I Snipe. Profile publications Number 50.  
 3) Sopwith Snipe. J.M. Bruce Windsock Datafile 46.  
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.  
-  
+
 ## 修改  
 ### 阿尔迪斯（Alidas）瞄准具  
-  
+
 阿尔迪斯（Alidas）折射型直筒瞄准具  
 增加质量：2 kg  
+
 ### H.E.R.L. bomb  
-  
+
 51 kg (112 lb) H.E.R.L. General Purpose Bomb  
 Additional mass: 57 kg  
 Ammunition mass: 51 kg  
 Rack mass: 6 kg  
 Estimated speed loss before drop: 2 km/h  
 Estimated speed loss after drop: 1 km/h  
+
 ### 库珀（Cooper）炸弹  
-  
+
 最多4 x 11 kg（24 lb）库珀（Cooper）通用炸弹  
 增加质量：56 kg  
 弹药质量：44 kg  
 挂架质量：12 kg  
 投弹前预期速度损失：2 km/h  
 投弹后预期速度损失：1 km/h  
+
 ### Enlarged cockpit cutouts  
-  
+
 Enlarged cockpit cutouts for improved field of view ("Barker mod")  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：9 kg  

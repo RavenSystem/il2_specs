@@ -1,9 +1,9 @@
 # LaGG-3 ser.4  
-  
+
 ![lagg3s4](../images/lagg3s4.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 167..193 km/h  
 Indicated stall speed in takeoff/landing configuration: 142..170 km/h  
 Dive speed limit: 750 km/h  
@@ -108,15 +108,16 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
+
 ## Modifications  
 ### RPK-10  
-  
+
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  
-﻿### 8 x ROS-82 rockets  
-  
+  ﻿
+### 8 x ROS-82 rockets  
+
 8 x 82mm High Explosive unguided rockets ROS-82  
 Additional mass: 80 kg  
 Ammunition mass: 56 kg  

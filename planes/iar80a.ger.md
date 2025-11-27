@@ -1,9 +1,9 @@
 # I.A.R. 80-A  
-  
+
 ![iar80a](../images/iar80a.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 151..162 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 143..151 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 750 km/h  
@@ -114,23 +114,25 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.9 l/min  
 	- Combat engine mode: 7.7 l/min  
-  
-## Änderungen  
-﻿### I.A.R.80-B series 181-200  
-  
+
+## Änderungen  ﻿
+### I.A.R.80-B series 181-200  
+
  cTwo 7.92mm MGs replaced by 13.2mm ones,  
 new headrest, sturdier flaps.  
 Zusätzliches Gewicht: 14.7 kg  
 Geschwindigkeitsverlust: 1 km/h  
-﻿### I.A.R.80-M  
-  
+  ﻿
+### I.A.R.80-M  
+
 Armament changed to two 7.92mm MGs and two 20mm MG151/20 guns,  
 tail struts, new air filter, second oil radiator,  
 late type headrest, sturdier fuselage and flaps.  
 Zusätzliches Gewicht: 62.2 kg  
 Geschwindigkeitsverlust: 9 km/h  
-﻿### I.A.R.81 series 151-175  
-  
+  ﻿
+### I.A.R.81 series 151-175  
+
 Centerline (249 kg SC 250) and underwing bombs (two 55 kg SC 50),  
 tail struts, sturdier flaps.  
 Zusätzliches Gewicht: 378.7 kg  

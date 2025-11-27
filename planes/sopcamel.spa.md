@@ -1,9 +1,9 @@
 # Sopwith Camel  
-  
+
 ![sopcamel](../images/sopcamel.png)  
-  
+
 ## Descripción  
-  
+
 La construcción del Sopwith Camel se basó en la de su predecesor, el Sopwith Pup. El diseñador jefe de Sopwith, Herbert Smith, decidió que había que modificar algo del diseño del Pup, puesto que el nuevo motor que tenía que ser montado era más grande y pesado. Se realización cambios en las riostras del tren de aterrizaje, el espacio de las alas y estabilizadores fueron aumentados, y el fuselaje adquirió una extensión hasta el borde posterior de la cabina con forma de joroba de camello, de ahí su nombre - Sopwith Camel. Un detalle notable de la construcción del avión fue su compacidad: el asiento del piloto, tanques de combustible, ametralladoras y motor estaban instalados muy juntos.  
   
 Paralelamente al trabajo en la principal fábrica de Sopwith, el avión fue también ensamblado por otras compañías como Ruston Proctor Co, Portholme Aerodrome Ltd, Boulton & Paul Ltd, British Caudron Co. Ltd, Clayton & Shuttleworth Ltd, Hooper & Co. Ltd y otras. En total, cerca de 5490 Camel fueron construidos. Las primeras pruebas fueron realizadas por el escuadrón británico No. 60, en marzo de 1917, seguidas de algunas mejoras en la construcción del avión. La producción del avión fue destinada a los escuadrones de cazas en mayo de 1917. Se utilizó principalmente para destruir aviones enemigos y globos; y de vez en cuando para ataques a objetivos en tierra. Los periodistas ingleses se referían a él como una «pequeña y ágil bestia».  
@@ -61,25 +61,28 @@ Referencias:
 5) Flying the Camel in 1918. FLIGHT International, 2 de mayo de 1968.  
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.  
 7) Sopwith Camel Specification.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Bombas Cooper  
-  
+  ﻿
+### Bombas Cooper  
+
 Hasta 4 bombas de propósito general de 24 lb (11 kg) Cooper  
 Peso adicional: 56 kg  
 Peso de munición: 44 kg  
 Peso de los soportes: 12 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 1 km/h  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Abertura más ancha en el ala superior  
-  
+  ﻿
+### Abertura más ancha en el ala superior  
+
 Recorte ampliado en el ala superior para mejorar la visibilidad.  
 Pérdida de velocidad estimada: 2 km/h  

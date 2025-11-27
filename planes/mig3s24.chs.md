@@ -1,9 +1,9 @@
 # MiG-3ser.24  
-  
+
 ![mig3s24](../images/mig3s24.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：159~175 km/h  
 起降构型的失速指示空速：134~147 km/h  
 俯冲极速：750 km/h  
@@ -131,29 +131,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.0 l/min  
 	- Combat engine mode: 7.2 l/min  
-  
+
 ## 修改  
 ### AM-38 Engine  
-  
+
 The AM-38 engine modification provides more power than the AM-35A model below 4 km altitude, but exceeds the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.  
 Estimated speed gain: 60 km/h.  
 Estimated climb rate gain: 3 m/s.  
+
 ### 2 x 12.7mm BK机枪吊舱  
-  
+
 翼装机枪吊舱里的BK 12.7mm机枪，每挺备弹145发  
 增加质量：155 kg  
 弹药质量：54 kg  
 枪炮质量：101 kg  
 预期速度损失：13 km/h  
+
 ### 2 x BS 12.7mm机枪（700发）  
-  
+
 BS 12.7mm机头机枪，每挺备弹350发，替换默认施卡斯和BS机头机枪  
 增加质量：34 kg  
 弹药质量：131 kg  
 枪炮质量：62 kg  
 预期速度损失：0 km/h  
+
 ### 2 x FAB-50sv/FAB-100M炸弹  
-  
+
 2 x 50kg 通用炸弹FAB-50sv/2 x 104kg 通用炸弹FAB-100M  
   
 FAB-50sv:  
@@ -169,16 +172,18 @@ FAB-100M:
 挂架质量：20 kg  
 投弹前预期速度损失：27 km/h  
 投弹后预期速度损失：12 km/h  
-﻿### 6 x ROS-82火箭弹  
-  
+  ﻿
+### 6 x ROS-82火箭弹  
+
 6 x 82mm高爆无制导火箭弹ROS-82  
 增加质量：60 kg  
 弹药质量：42 kg  
 挂架质量：18 kg  
 发射前预期速度损失：23 km/h  
 发射后预期速度损失：17 km/h  
+
 ### 2 x 20mm施瓦克机炮（300发）  
-  
+
 施瓦克20mm机头机炮，每门备弹150发，替换默认施卡斯和BS机头机枪  
 增加质量：4 kg  
 弹药质量：69 kg  

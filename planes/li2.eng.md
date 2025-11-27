@@ -1,9 +1,9 @@
 # Li-2  
-  
+
 ![li2](../images/li2.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 115...135 km/h  
 Indicated stall speed in takeoff/landing configuration: 105...120 km/h  
 Dive speed limit: 410 km/h  
@@ -122,10 +122,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 9.8 l/min  
-  
+
 ## Modifications  
 ### Bomb Load  
-  
+
 4 x 254 kg General Purpose Bombs FAB-250sv  
 Additional mass: 1076 kg  
 Ammunition mass: 1016 kg  
@@ -139,27 +139,31 @@ Ammunition mass: 1024 kg
 Racks mass: 60 kg  
 Estimated speed loss before drop: 17 km/h  
 Estimated speed loss after drop: 2 km/h  
+
 ### 2200 kg of cargo  
-  
+
 2200 kg of military cargo payload  
 Additional mass: 2200 kg  
 Estimated speed loss: 6 km/h  
+
 ### 14 PD-MM containers (inside)  
-  
+
 14 x 125 kg drop transport container with parachute PD-MM stored in the cargo compartment  
 Additional mass: 1760 kg  
 Estimated speed loss before drop: 5 km/h  
 Estimated speed loss after drop: 0 km/h  
+
 ### 6 x PD-MM containers  
-  
+
 6 x 125 kg drop transport container with parachute PD-MM  
 Additional mass: 814 kg  
 Containers mass: 754 kg  
 Racks mass: 60 kg  
 Estimated speed loss before drop: 20 km/h  
 Estimated speed loss after drop: 2 km/h  
+
 ### 16 paratroopers  
-  
+
 16 paratroopers with equipment  
 Additional mass: 1600 kg  
 Estimated speed loss before drop: 7 km/h  

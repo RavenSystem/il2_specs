@@ -1,9 +1,9 @@
 # Sopwith Triplane  
-  
+
 ![soptriplane](../images/soptriplane.png)  
-  
+
 ## Descripción  
-  
+
 El ingeniero de Sopwith Herbert Smith, al diseñar el Triplane, buscó corregir la falta de maniobrabilidad y visibilidad de diseños anteriores empleando la bien conocida arquitectura del triplano. Los tres estrechos perfiles de las alas permitieron incrementar la velocidad aérea y el campo de visión desde la cabina. Además, las tres alas proporcionaban una increíble tasa de ascenso y permitieron una distribución compacta de piloto, tanques de combustible, armamento y motor.  
   
 El primer test de vuelo se realizó el 26 de mayo de 1916. Además de por Sopwith, el avión fue también fabricado por Clayton & Shuttleworth Ltd. y Lincoln Oakley Ltd. Sin embargo, pronto se acordó un contrato con Francia por el que se suministraría a los escuadrones británicos cazas SPAD VII, eliminando la demanda de aviones Triplane. Alrededor de 180 Sopwith Triplane fueron fabricados en total.  
@@ -58,18 +58,20 @@ Referencias:
 1) Sopwith Triplane. Windsock Datafile 22.  
 2) The Sopwith Triplane. Profile publications, n.º 73  
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.  
-  
-## Modificaciones  
-﻿### Aldis  
-  
+
+## Modificaciones  ﻿
+### Aldis  
+
 Colimador reflectante Aldis  
 Peso adicional: 2 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Doble Vickers frontal  
-  
+  ﻿
+### Doble Vickers frontal  
+
 Dos ametralladoras Vickers fijas de disparo frontal.  
 Munición: 1000 balas de 7,69 mm (500 balas por arma)  
 Peso del proyectil: 11 g  

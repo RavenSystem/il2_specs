@@ -1,9 +1,9 @@
 # SSW D.IV  
-  
+
 ![schuckertdiv](../images/schuckertdiv.png)  
-  
+
 ## Descripción  
-  
+
 El Siemens-Schuckert (SSW) D.IV entró en servicio en la Gran Guerra demasiado tarde para cambiar la suerte de Alemania, pero los aparatos que llegaron a los escuadrones de primera línea se desenvolvieron bien. Este avión fue el resultado final de una robusta serie de aviones Siemens-Schuckert que entraron en servicio durante la guerra y poseía una característica única: el motor rotativo Siemens-Halske Sh.IIIa de 207 CV tenía un cigüeñal que giraba en sentido contrario al del motor y la hélice, para reducir el par motor. La hélice de cuatro palas le proporcionaba una rápida tasa de ascenso y una gran velocidad. El SSW D.IV era incluso más rápido que el principal caza de primera línea alemán, el exitoso Fokker D.VII. También era muy maniobrable, pero los pilotos informaban que entraba en pérdida de forma repentina cuando se le forzaba demasiado. Iba armado con dos ametralladoras de 7,92 mm.  
   
   
@@ -63,29 +63,34 @@ Referencias:
 4) WW1 Aero n.º 99, abril de 1984.  
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.  
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.  
-  
-## Modificaciones  
-﻿### Contador de Balas  
-  
+
+## Modificaciones  ﻿
+### Contador de Balas  
+
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras  
 Peso adicional: 1 kg  
-﻿### Inclinómetro  
-  
+  ﻿
+### Inclinómetro  
+
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Colimador diurno  
-  
+  ﻿
+### Colimador diurno  
+
 Colimador reflectante Oigee (con filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Colimador nocturno  
-  
+  ﻿
+### Colimador nocturno  
+
 Colimador reflectante Oigee (sin filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  

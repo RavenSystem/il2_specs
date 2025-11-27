@@ -1,9 +1,9 @@
 # LaGG-3 ser.29  
-  
+
 ![lagg3s29](../images/lagg3s29.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 163..189 km/h  
 Indicated stall speed in takeoff/landing configuration: 138..168 km/h  
 Dive speed limit: 750 km/h  
@@ -118,41 +118,45 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
+
 ## Modifications  
 ### 2 x FAB-100M bombs  
-  
+
 2 x 104 kg General Purpose Bombs FAB-100M  
 Additional mass: 228 kg  
 Ammunition mass: 208 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 27 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### 2 x FAB-50sv bombs  
-  
+
 2 x 50 kg General Purpose Bombs FAB-50sv  
 Additional mass: 120 kg  
 Ammunition mass: 100 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 20 km/h  
 Estimated speed loss after drop: 12 km/h  
-﻿### 6 x ROS-82 rockets  
-  
+  ﻿
+### 6 x ROS-82 rockets  
+
 6 x 82mm High Explosive unguided rockets ROS-82  
 Additional mass: 60 kg  
 Ammunition mass: 42 kg  
 Racks mass: 18 kg  
 Estimated speed loss before launch: 23 km/h  
 Estimated speed loss after launch: 17 km/h  
+
 ### 37mm Sh-37 gun  
-  
+
 Sh-37 37mm motor-gun with 20 rounds  
 Additional mass: 117 kg  
 Ammunition mass: 36 kg  
 Gun mass: 169 kg  
 Estimated speed loss: 2 km/h  
+
 ### 23mm VYa-23 gun  
-  
+
 VYa-23 23mm motor-gun with 90 rounds  
 Additional mass: 35 kg  
 Ammunition mass: 45 kg  

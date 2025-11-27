@@ -1,9 +1,9 @@
 # S.E.5a  
-  
+
 ![se5a](../images/se5a.png)  
-  
+
 ## Description  
-  
+
 The S.E.5a (single-seat fighter, Scout Experimental 5a) was designed by the British company known as R.A.F. (Royal Aircraft Factory). The goal was to build a fighter around the 200hp Hispano-Suiza engine, which would make it to be fast and have a high climbing speed. To achieve this goal, engineers had to settle on a compromise. By making the wing profile thin, they simultaneously increased its surface area. This design featured ailerons in both the upper and lower wings. In total, 5269 planes were built by the end of the war.  
   
 The plane’s first trial flight was performed in January 1917, and it saw action in June 1917 at the British No. 56 Squadron RFC. It was used to engage enemy fighters and balloons and to escort bombers; only rarely was it used to engage ground targets near the front lines. In evaluating the aircraft, pilots mentioned its structural durability, sufficient manoeuvrability, stability in dives and when firing machine guns, fine handling, and good sensitivity of controls at low speeds. When landing at high speed, the plane could not touch down due to its high wing lift. It is notable that most of the top British aces flew this type of plane. It was even given a nickname - “ace-maker.”  
@@ -57,25 +57,28 @@ References
 2) S.E. 5a in action. Squadron/signal publications, Aircraft Number 69.  
 3) RAF S.E.5 and S.E.5a Specification.  
 4) Profile Publications, The S.E. 5A Number 1.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Cooper bombs  
-  
+
 Up to 4 x 11 kg (24 lb) Cooper General Purpose Bombs  
 Additional mass: 56 kg  
 Ammunition mass: 44 kg  
 Racks mass: 12 kg  
 Estimated speed loss before drop: 2 km/h  
 Estimated speed loss after drop: 1 km/h  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Fuel Gauge  
-  
+  ﻿
+### Fuel Gauge  
+
 Needle Scale fuel level Gauge (0-30 Gallons)  
 Additional mass: 1 kg  

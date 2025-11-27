@@ -1,9 +1,9 @@
 # Hanriot HD.1  
-  
+
 ![hanriothd1](../images/hanriothd1.png)  
-  
+
 ## Description  
-  
+
 The Hanriot HD.1 was developed by Pierre Dupont in the summer of 1916 for the Hanriot company as a classical biplane made mostly of wood with two-spar wings (the rudder frame and the nose part were metal). The upper wing had a small V-angle while the lower one was straight. There were 3 fuel tanks in the fuselage: two behind the engine and one more behind the pilots back.  
   
 At first, the HD.1 was meant to take over from the older Nieuport 11 and 17 planes, but the new Spad 7s were already in use on the front lines and got positive feedback from pilots for their in-line engines. Meanwhile, Nieuport squadrons still used Le Rhone engines. As a result, the French Air Force (Aviation Militaire) decided not to switch to HDs as it wasnt cost-effective, and the acquisition was canceled.  
@@ -50,10 +50,10 @@ Tir avant: 1 x Vickers Mk.I 7.69mm, 500 cartouches par baril.
   
 References  
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.  
-  
-## Modifications  
-﻿### Balloon gun  
-  
+
+## Modifications  ﻿
+### Balloon gun  
+
 Vickers "Balloon" gun  
 Ammo: 250 of 11.43mm rounds  
 Projectile weight: 17,5 g  
@@ -62,20 +62,24 @@ Guns weight: 13 kg
 Ammo weight: 20 kg  
 Rate of fire: 600 rpm  
 Total additional weight of weapon modification: 33 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Compas  
-  
+  ﻿
+### Compas  
+
 Compas L.Maxant  
 Masse supplémentaire : 1 kg  
-﻿### Le-Chretien  
-  
+  ﻿
+### Le-Chretien  
+
 Collimateur à réfraction Le-Chrétien  
 Masse supplémentaire : 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Overwing mounted additional Lewis machinegun with changeable position.  
 Ammo: 388 of 7.69mm rounds (4 drums with 97 rounds in each)  
 Projectile weight: 11 g  

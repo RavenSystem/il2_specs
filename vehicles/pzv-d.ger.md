@@ -1,9 +1,9 @@
 # Pz.Kpfw.V Ausf.D  
-  
+
 ![pzv-d](../images/pzv-d.png)  
-  
+
 ## Beschreibung  
-  
+
 1942 von der Firma MAN entwickelt, wurde er erstmals 1943 in der Schlacht von Kursk eingesetzt. Der Panzer hatte ein starkes Hauptgeschütz, eine dicke Frontpanzerung und eine gute Beweglichkeit auf Kosten des Schutzes der anderen Seiten.  
   
 Zur besseren Gewichtsverteilung und zum Schutz der Seiten wurden seine Räder schachbrettartig angeordnet, was die Reparatur des Fahrwerks sehr schwierig machte - im Kampf führte dessen Beschädigung oft zum Verlust des Panzers. Der Einfederungshub der Federung war sehr groß und sie war deutlich weicher als bei anderen Panzern, was zu einem hohen Fahrkomfort führte. Eine Federung umfasste zwei Torsionsstäbe (insgesamt 32 Stäbe). Die Zuverlässigkeit dieser Maschinen, besonders zu Beginn der Produktion, war miserabel - nur 4 von 174 wurden bis April 1943 an die Fronteinheiten geschickt, die anderen wurden zur Nacharbeit an die Herstellerwerke zurückgeschickt.  
@@ -91,10 +91,11 @@ Tzf 12 gunner binocular scope-sight, field of view 29°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 7,5 cm Pzgr. 39/42  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -109,8 +110,9 @@ Durchschlagsleistung aus kürzester Entfernung: 158 mm
 500 m: Durchschlagsleistung 140 mm, Geschwindigkeit 825 m/s, Fall -1,6 m  
 1000 m: Durchschlagsleistung 125 mm, Geschwindigkeit 785 m/s, Fall -6,6 m  
 2000 m: Durchschlagsleistung 99 mm, Geschwindigkeit 667 m/s, Fall -29,6 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 7,5 cm SprGr.42  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -124,11 +126,12 @@ Mündungsgeschwindigkeit 700 m/s
 500 m: Geschwindigkeit 648 m/s, Geschossabfall -2,8 m  
 1000 m: Geschwindigkeit 601 m/s, Geschossabfall -11,5 m  
 2000 m: Geschwindigkeit 518 m/s, Geschossabfall -49,9 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 7,5 cm Pzgr. 40/42  
   
-  
+
 Granaten mit unterkalibrigen panzerbrechenden Projektilen. Gut gegen stark gepanzerte Ziele auf kurze Distanzen.  
   
 Die 7,5 cm Pzgr. 40/42 ist eine Kompositgranate - harter (Wolframlegierung) Eindringkörper in einer Hülle aus weicherem Stahl (für die Obturation in einem Geschützrohr).  
@@ -141,11 +144,13 @@ Durchschlagsleistung aus kürzester Entfernung: 208 mm
 500 m: Durchschlagsleistung 179 mm, Geschwindigkeit 1054 m/s, Fall -1.0 m  
 1000 m: Durchschlagsleistung 154 mm, Geschwindigkeit 949 m/s, Fall -4.3 m  
 2000 m: Durchschlagsleistung 111 mm, Geschwindigkeit 756 m/s, Fall -19.7 m  
-﻿### Entfernte zusätzliche Panzerplatten  
-  
+  ﻿
+### Entfernte zusätzliche Panzerplatten  
+
 Entfernte 5 mm Schürzen, die am Rumpf befestigt waren. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem AT-Gewehrfeuer zu schützen, das für die dünneren Panzerseiten gefährlich war. Diese zusätzliche Panzerung konnte ein AP-Geschoss zwar nicht aufhalten, destabilisierte es aber oder verursachte seine Zersplitterung, bevor es auf die gepanzerte Hauptwanne aufschlagen konnte.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

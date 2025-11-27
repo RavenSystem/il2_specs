@@ -1,9 +1,9 @@
 # Albatros D.Va  
-  
+
 ![albatrosd5](../images/albatrosd5.png)  
-  
+
 ## Beschreibung  
-  
+
 Ingenieure der Albatros Werke wurden vor die Aufgabe gestellt, ein schnelles und höchst manövrierfähiges Kampfflugzeug zu entwickeln. Das bisherige Modell Albatros D.III hatte zu schwache Tragflächen, diese konnten bei längerem steilen Sturzflug brechen. Da der eigentliche Schwachpunkt nicht wirklich auszumachen war, verlegten die Ingenieure die Seilzüge des Querruders von der unteren auf die obere Tragfläche.  
   
 Im Frühling 1917 fanden die ersten Testflüge statt. Äußere Änderungen der Albatros D.V waren unter anderem das größere Leitwerk und die obere Tragfläche wurde näher zum Rumpf angebracht. Der Kühler wurde zur rechten Rumpfseite in Höhe des Pilotensitzes verlegt und der Rumpf wurde allgemein runder gestaltet.  
@@ -59,26 +59,30 @@ Referenzen
 3) NASM Albatros D Va  
 4) Albatros Aces of World War I by Norman Franks, Osprey №32  
 5) Albatros fighters in action by John F Connors.  
-  
-## Änderungen  
-﻿### Schusszähler  
-  
+
+## Änderungen  ﻿
+### Schusszähler  
+
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre  
 Zusätzliches Gewicht: 1 kg  
-﻿### Querneigungsmesser  
-  
+  ﻿
+### Querneigungsmesser  
+
 D.R.G.M Flüssigkeitsquerneigungsmesser (zeigt am Boden Querneigung und im Flug Schieben an)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Visier  
-  
+  ﻿
+### Visier  
+
 Zusätzliches Visier mit Kimme und Kreuz  
 Zusätzliches Gewicht: 1 kg  
-﻿### Lewis Überflügel-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Maschinengewehr  
+
 Ein Cockpit montiertes zusätzliches Lewis-Maschinengewehr mit wechselbarer Position.  
 Munition: 291 7,69mm Patronen (3 Trommeln mit jeweils 97 Schuss)  
 Vordere Position: 8°  
@@ -91,22 +95,26 @@ Gewicht der Halterung: 4 kg
 Gewicht der Munition: 12 kg  
 Gseamtgewicht: 23 kg  
 Geschätzter Geschwindigkeitsverlust: 2-6 km/h  
-﻿### Kollimator Tag  
-  
+  ﻿
+### Kollimator Tag  
+
 Oigee Reflexvisier (mit getönter Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Kollimator Nacht  
-  
+  ﻿
+### Kollimator Nacht  
+
 Oigee Reflexvisier (ohne getönte Scheibe)  
 Zusätzliches Gewicht: 2 kg  
-﻿### Anemometer, Höhenmesser, Uhr  
-  
+  ﻿
+### Anemometer, Höhenmesser, Uhr  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  
   
 D.R.P kompensierter Höhenmesser (0-8000 m)  
 Zusätzliches Gewicht: 1 kg  
+
 ### Thermometer  
-  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
 Zusätzliches Gewicht: 1 kg  

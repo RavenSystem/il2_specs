@@ -1,9 +1,9 @@
 # Spitfire Mk.VB  
-  
+
 ![spitfiremkvb](../images/spitfiremkvb.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 137..144 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 129..135 km/h  
 Velocidad de picado límite: 725 km/h  
@@ -132,15 +132,16 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 6,2 l/min  
 	- Modo motor - Combate: 7,7 l/min  
-  
-## Modificaciones  
-﻿### Motor Merlin 45  
-  
+
+## Modificaciones  ﻿
+### Motor Merlin 45  
+
 Nuevo motor Merlin 45  
 Peso adicional: 0 kg  
 Pérdida de velocidad estimada: 0 km/h  
-﻿### Espejo  
-  
+  ﻿
+### Espejo  
+
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 0 km/h  

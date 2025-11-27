@@ -1,9 +1,9 @@
 # LaGG-3ser.29  
-  
+
 ![lagg3s29](../images/lagg3s29.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：163~189 km/h  
 起降构型的失速指示空速：138~168 km/h  
 俯冲极速：750 km/h  
@@ -118,41 +118,45 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 2.7 l/min  
-  
+
 ## 修改  
 ### 2 x FAB-100M炸弹  
-  
+
 2 x 104kg 通用炸弹FAB-100M  
 增加质量：228 kg  
 弹药质量：208 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：27 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### 2 x FAB-50sv炸弹  
-  
+
 2 x 50kg 通用炸弹FAB-50sv  
 增加质量：120 kg  
 弹药质量：100 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：20 km/h  
 投弹后预期速度损失：12 km/h  
-﻿### 6 x ROS-82火箭弹  
-  
+  ﻿
+### 6 x ROS-82火箭弹  
+
 6 x 82mm高爆无制导火箭弹ROS-82  
 增加质量：60 kg  
 弹药质量：42 kg  
 挂架质量：18 kg  
 发射前预期速度损失：23 km/h  
 发射后预期速度损失：17 km/h  
+
 ### 37mm Sh-37机炮  
-  
+
 Sh-37 37mm机炮，备弹20发  
 增加质量：117 kg  
 弹药质量：36 kg  
 枪炮质量：169 kg  
 预期速度损失：2 km/h  
+
 ### 23mm VYa-23机炮  
-  
+
 VYa-23 23mm机炮，备弹90发  
 增加质量：35 kg  
 弹药质量：45 kg  

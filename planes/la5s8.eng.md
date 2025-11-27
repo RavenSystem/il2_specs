@@ -1,9 +1,9 @@
 # La-5 ser.8  
-  
+
 ![la5s8](../images/la5s8.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 165..183 km/h  
 Indicated stall speed in takeoff/landing configuration: 147..162 km/h  
 Dive speed limit: 720 km/h  
@@ -121,40 +121,45 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 9.7 l/min  
 	- Combat engine mode: 11.1 l/min  
-  
+
 ## Modifications  
-  
+
 ### Special Guns Ammo Load  
-  
+
 Loadout variants: armour piercing (AP) or high-explosive (HE) rounds only  
+
 ### 2 x FAB-100M bombs  
-  
+
 2 x 104 kg General Purpose Bombs FAB-100M  
 Additional mass: 228 kg  
 Ammunition mass: 208 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 27 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### 2 x FAB-50sv bombs  
-  
+
 2 x 50 kg General Purpose Bombs FAB-50sv  
 Additional mass: 120 kg  
 Ammunition mass: 100 kg  
 Racks mass: 20 kg  
 Estimated speed loss before drop: 20 km/h  
 Estimated speed loss after drop: 12 km/h  
+
 ### M-82F engine  
-  
+
 Late M-82F engine modification with unlimited boosted mode duration.   
 Additional mass: 0 kg  
 Estimated speed loss: 0 km/h  
+
 ### RPK-10  
-  
+
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  
+
 ### Flat Windscreen  
-  
+
 Flat frontal section for better visibility  
 Additional mass: 2 kg  
 Estimated speed loss: 2 km/h  

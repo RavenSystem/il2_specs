@@ -1,9 +1,9 @@
 # Halberstadt D.II  
-  
+
 ![halberstadtd2](../images/halberstadtd2.png)  
-  
+
 ## Beschreibung  
-  
+
 The first Halberstadt D.I prototype equipped with 100hp Mercedes D.I engine had its maiden flight during the late autumn of 1915. Later it was fitted with 120hp Mercedes D.II engine and went into production designated as D.II to supplement the Fokker D type biplanes, which were then replacing the old Fokker monoplanes. The first machines arrived at the frontline in June 1916.  
   
 Most of the pilots where impressed by its better performance compared to the older Fokker monoplanes, especially its better climb and speed and very quick, easy and responsitive controls which gave it good maneverability in the hands of the experienced German pilots.  
@@ -49,21 +49,24 @@ Starre Bewaffnung nach vorne: 1x LMG 08/15 Spandau 7,92mm, 1 Gurt mit 500 Schuss
   
 Referenzen  
 1) Halberstadt Fightres, Windsock Datafile Special.  
-  
-## Änderungen  
-﻿### Aldis (Trophäe)  
-  
+
+## Änderungen  ﻿
+### Aldis (Trophäe)  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Anemometer  
-  
+  ﻿
+### Anemometer  
+
 Wilhelm Morell Anemometer (45-250 km/h)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Thermometer  
-  
+  ﻿
+### Thermometer  
+
 A.Schlegelmilch Kühlwasserthermometer (0-100 °C)  
 Zusätzliches Gewicht: 1 kg  

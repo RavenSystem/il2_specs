@@ -1,9 +1,9 @@
 # Spitfire Mk.IXc  
-  
+
 ![spitfiremkixc](../images/spitfiremkixc.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：143~163 km/h(89~101 mph)  
 起降构型的失速指示空速：135~154 km/h(84~96 mph)  
   
@@ -142,53 +142,60 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 6.3 l/min  
 	- Combat engine mode: 10.2 l/min  
-  
+
 ## 修改  
 ### 150号汽油  
-  
+
 允许+25 lb增压  
 禁用增压器自动换挡。应在9000 feet高度手动换挡。  
 预期海平面增速：29 km/h  
+
 ### 2 x 250 lb 通用炸弹  
-  
+
 2 x 250 lb 通用炸弹  
 增加质量：247 kg  
 弹药质量：227 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：24 km/h  
 投弹后预期速度损失：8 km/h  
+
 ### 500 lb 通用炸弹  
-  
+
 500 lb 通用炸弹  
 增加质量：237 kg  
 弹药质量：227 kg  
 挂架质量：10 kg  
 投弹前预期速度损失：13 km/h  
 投弹后预期速度损失：7 km/h  
+
 ### E型机翼  
-  
+
 使用2挺12.7mm"勃朗宁 .50"机枪替换原先的4挺7.7mm"勃朗宁 .303"机枪。  
 增加质量: 48 kg  
 弹药质量: 70 kg  
 枪炮质量: 72 kg  
 预期速度增加: 5 km/h  
+
 ### 陀螺瞄准具  
-  
+
 MkII陀螺射击瞄准具  
 增加质量：5.2 kg  
 预期速度损失：0 km/h  
+
 ### 梅林70发动机  
-  
+
 梅林70发动机。  
 增加质量：0 kg  
 预期速度损失：0 km/h  
+
 ### 后视镜  
-  
+
 后视镜  
 增加质量：1 kg  
 预期速度损失：1 km/h  
-﻿### 2 х RP-3 高爆/穿甲 火箭弹  
-  
+  ﻿
+### 2 х RP-3 高爆/穿甲 火箭弹  
+
 2 х 3-inch RP-3无制导高爆/穿甲火箭弹  
   
 RP-3 SAP/HE:  
@@ -204,8 +211,9 @@ RP-3 AP:
 挂架质量：20 kg  
 发射前预期速度损失：21 km/h  
 发射后预期速度损失：17 km/h  
+
 ### 裁剪翼  
-  
+
 裁剪翼  
 减少质量：4 kg  
 预期速度损失：0 km/h  

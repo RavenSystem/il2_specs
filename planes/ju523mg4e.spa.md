@@ -1,9 +1,9 @@
 # Ju 52/3m g4e  
-  
+
 ![ju523mg4e](../images/ju523mg4e.png)  
-  
+
 ## Descripción  
-  
+
 Velocidad indicada de pérdida en configuración de vuelo: 105..117 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 92..109 km/h  
 Velocidad de picado límite: 330 km/h  
@@ -114,29 +114,32 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:  
 	- Modo motor - Crucero: 7.1 l/min  
 	- Modo motor - Combate: 10.6 l/min  
-  
-## Modificaciones  
-﻿### 2300 kg de carga en cajas  
-  
+
+## Modificaciones  ﻿
+### 2300 kg de carga en cajas  
+
 2300 kg de cargamento militar en cajas  
 Peso adicional: 2300 kg  
 Pérdida de velocidad estimada: 2 km/h  
-﻿### 10 contenedores lanzables MAB 250  
-  
+  ﻿
+### 10 contenedores lanzables MAB 250  
+
 10 contenedores de transporte de 250 kg con paracaídas MAB 250  
 Peso adicional: 2550 kg  
 Peso de contenedores: 2500 kg  
 Peso de los soportes: 50 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
-﻿### 12 paracaidistas  
-  
+  ﻿
+### 12 paracaidistas  
+
 12 paracaidistas armados  
 Peso adicional: 1200 kg  
 Pérdida de velocidad estimada antes de soltar: 2 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
+
 ### Artillero trasero  
-  
+
 Posición de artillero trasero con ametralladora MG 15 de 7,92 mm con 1125 balas  
 Peso adicional: 130 kg  
 Pérdida de velocidad estimada: 4 km/h  

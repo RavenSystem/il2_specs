@@ -1,9 +1,9 @@
 # Breguet 14.B2  
-  
+
 ![breguet14](../images/breguet14.png)  
-  
+
 ## Description  
-  
+
 The Breguet 14 was a two-seater biplane designed by the French company known as Breguet Aviation. The prototype made its first flight in April 1917. To ensure exceptional durability, the airframe structure was composed of duralumin and steel sections. Several companies manufactured this plane, including Michelin, Bellanger, Renault, Farman, Schmitt, and Darracq. During the war, production aircraft were fitted with a variety of engine types. Renault engines were the first to be installed and were subsequently followed by Fiat models and, in later months, Liberty engines. These reliable and powerful engines made the Breguet 14 the fastest two-seat bomber of WWI.  
   
 The first series of planes entered service with the French Army Corps in May 1917, where it eventually replaced the Sopwith 1½ Strutter. The Breguet 14 was faster, had a higher climb speed, could carry a higher bomb load and possessed a more durable structure. In April 1918, 225 aircraft of this type were in service with 1 American and 50 French squadrons.  
@@ -58,14 +58,15 @@ References
 1) S.T.Ae. Service des Essais. AVION Breguet 717.  
 2) Windsock Datafile Special Breguet 14, by Alan D. Toelle.  
 3) Profile Publications The Breguet 14, Number 157.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### 8kg, 20 kg, 40 kg bombs  
-  
+
 Up to 8 x 40 kg General Purpose Bombs  
 Additional mass: 320 kg  
 Ammunition mass: 320 kg  
@@ -86,16 +87,19 @@ Ammunition mass:256 kg
 Racks mass: 0 kg  
 Estimated speed loss before drop: 6.3 km/h  
 Estimated speed loss after drop: 0 km/h  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Le-Chretien  
-  
+
 Le-Chretien Refractor-type Collimator Sight  
 Additional mass: 1 kg  
-﻿### Lewis Overwing  
-  
+  ﻿
+### Lewis Overwing  
+
 Additional Lewis machinegun with changeable position.  
 Ammo: 485 of 7.69 mm rounds (5 drums with 97 rounds in each)  
 Forward position: 5°  
@@ -108,15 +112,18 @@ Mounts weight:2 kg
 Ammo weight: 20 kg  
 Total weight: 29.5 kg  
 Estimated speed loss: 3 km/h  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
+
 ### Sideslip Indicator  
-  
+
 Sideslip indicator (ball-type)  
 Additional mass: 1 kg  

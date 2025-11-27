@@ -1,9 +1,9 @@
 # Yak-3 ser.9  
-  
+
 ![yak3s9](../images/yak3s9.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 152..160 km/h  
 Indicated stall speed in takeoff/landing configuration: 136..141 km/h  
 Dive speed limit: 750 km/h  
@@ -107,25 +107,28 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.5 l/min  
-  
+
 ## Modifications  
 ### Mirror  
-  
+
 Rear view mirror  
 Additional mass: 1 kg  
 Estimated speed loss: 0 km/h  
+
 ### PKI Reflector Gunsight  
-  
+
 PKI reflector gunsight  
 Additional mass: 0.5 kg  
 Estimated speed loss: 0 km/h  
+
 ### RPK-10  
-  
+
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  
+
 ### 12.7mm UBS MG  
-  
+
 12.7mm UBS machinegun (right) with 175 rounds  
 Additional mass: 57 kg  
 Ammunition mass: 33 kg  

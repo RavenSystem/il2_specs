@@ -1,9 +1,9 @@
 # Sopwith 1½ Strutter  
-  
+
 ![sopstrutter](../images/sopstrutter.png)  
-  
+
 ## Description  
-  
+
 Designed and built for the British Admiralty, the Sopwith 1½ Strutter (which took its name from the arrangement of the upper wing center section - "one-and-a-half" (long and short) pairs of cabane struts supporting the top wing) was the first true two-seat fighter to enter service and actually the first British airplane armed with synchronised machine gun. Powered by a 110 hp or 130 hp Clerget rotary engine, the aircraft was armed with a fixed synchronized forward firing Vickers .303 machine gun and a single (sometimes double) Lewis .303 machine gun in the rear cockpit. The 1½ Strutter entered service with both the RNAS and the Royal Flying Corps.  
   
 The prototype two-seater flew in December 1915. Deliveries of the "Strutter" into frontline units began around may of 1916, with the first machines delivered having no fixed forward gun. It is believed that these aircraft were delivered without the forward gun due to a shortage of Vickers .303 machine guns because of Army demand for these weapons. Some early production aircraft had the observer\s .303 Lewis gun mounted on a cranked pillar mounting; these were later replaced by the "Eteve" mounting and eventually by the standard Scarff No.2 ring mount.  
@@ -55,14 +55,15 @@ Bomb load: up to 72 kg.
 References  
 1) Windsock Datafile 34 - Sopwith Strutter, by J.M. Bruce.  
 2) WWI Aeroplanes by J.M. Bruce.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Cooper / H.E.R.L. bombs  
-  
+
 Up to 8 x 9 kg (20 lb) General Purpose Bombs  
 Additional mass: 96 kg  
 Ammunition mass: 72 kg  
@@ -76,20 +77,24 @@ Ammunition mass: 58 kg
 Racks mass: 24 kg  
 Estimated speed loss before drop: 8 km/h  
 Estimated speed loss after drop: 4 km/h  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  
@@ -100,6 +105,7 @@ Mount weight: 12 kg
 Ammo weight: 32 kg  
 Total weight: 59 kg  
 Estimated speed loss: 2 km/h  
+
 ### Enlarged window  
-  
+
 Enlarged cutout in the upper wing for improved field of view.  

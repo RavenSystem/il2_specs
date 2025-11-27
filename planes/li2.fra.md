@@ -1,9 +1,9 @@
 # Li-2  
-  
+
 ![li2](../images/li2.png)  
-  
+
 ## Description  
-  
+
 Vitesse de décrochage indiquée en configuration de vol : 115...135 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 105...120 km/h  
 Vitesse limite de piqué : 410 km/h  
@@ -122,10 +122,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.7 l/min  
 	- Combat engine mode: 9.8 l/min  
-  
-## Modifications  
-﻿### Bombes  
-  
+
+## Modifications  ﻿
+### Bombes  
+
 4 x 254 kg bombes d\emploi général FAB-250sv  
 Masse supplémentaire : 1076 kg  
 Masse des munitions : 1016 kg  
@@ -139,28 +139,32 @@ Masse des munitions : 1024 kg
 Masse des pylones : 60 kg  
 Perte estimée de vitesse avant le largage : 17 km/h  
 Perte estimée de vitesse après le largage : 2 km/h  
-﻿### Cargaison, 2200 kg  
-  
+  ﻿
+### Cargaison, 2200 kg  
+
 Cargaison militaire, 2200 kg  
 Masse supplémentaire : 2200 kg  
 Perte estimée de vitesse : 6 km/h  
-﻿### 14 x PD-MM à l\intérieur  
-  
+  ﻿
+### 14 x PD-MM à l\intérieur  
+
 14 x 125kg conteneur d\emport de PD-MM à l\intérieur  
 Masse supplémentaire : 1760 kg  
 Masse des conteneurs : 1760 kg  
 Perte estimée de vitesse avant le largage : 5 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
-﻿### Conteneur de 6 x PD-MM largables  
-  
+  ﻿
+### Conteneur de 6 x PD-MM largables  
+
 6 x 125kg conteneur d\emport de PD-MM  
 Masse supplémentaire : 814 kg  
 Masse des conteneurs : 754 kg  
 Masse des pylones : 60 kg  
 Perte estimée de vitesse avant le largage : 20 km/h  
 Perte estimée de vitesse après le largage : 2 km/h  
-﻿### 16 parachutistes  
-  
+  ﻿
+### 16 parachutistes  
+
 16 parachutistes armés  
 Masse supplémentaire : 1600 kg  
 Perte estimée de vitesse avant le largage : 7 km/h  

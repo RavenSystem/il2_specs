@@ -1,9 +1,9 @@
 # Airco D.H.4  
-  
+
 ![aircodh4](../images/aircodh4.png)  
-  
+
 ## Beschreibung  
-  
+
 Designed by Geoffrey de Havilland to be a two-seat light bomber powered by a BHP engine. First prototype flew in August 1916, but as the BHP engine proved to be weak it required a major redesign and DH.4 was adapted to be equipped with a Rolls Royce Eagle engine. First order for 50 planes powered by Eagle III engine (250hp) was placed at the end of 1916.  
   
 Basically an all-wooden construction tractor biplane, Airplane armament consisted of one forward-firing Vickers synchronized machine gun and one or two Lewis guns on the Scarff ring mount at the observer position. It could carry up to 460 pounds of bombs on external racks on wings or central position.  
@@ -68,14 +68,15 @@ Referenzen
 4) Rolls Royce engine charts, 1917.  
 5) WWI Aeroplanes data, by J.M. Bruce.  
 6) Various NACA reports.  
-  
-## Änderungen  
-﻿### Aldis  
-  
+
+## Änderungen  ﻿
+### Aldis  
+
 Aldis Teleskopvisier  
 Zusätzliches Gewicht: 2 kg  
-﻿### Cooper / H.E.R.L. / H.E.R.F.C. Bomben  
-  
+  ﻿
+### Cooper / H.E.R.L. / H.E.R.F.C. Bomben  
+
 12 x 24 lb Cooper Bomben (11 kg)  
 Zusätzliches Gewicht: 167 kg  
 Gewicht der Munition: 131 kg  
@@ -96,24 +97,29 @@ Gewicht der Munition: 208 kg
 Gewicht der Abwurfwaffenroste: 16 kg  
 Geschwindigkeitsverlust vor Abwurf: 5 km/h  
 Geschwindigkeitsverlust nach Abwurf: 3 km/h  
-﻿### Instrumentenlicht  
-  
+  ﻿
+### Instrumentenlicht  
+
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen  
 Zusätzliches Gewicht: 1 kg  
-﻿### Benzinuhr  
-  
+  ﻿
+### Benzinuhr  
+
 Anzeige mit Nadel für die Treibstoffmenge (0-30 Gallons)  
 Zusätzliches Gewicht: 1 kg  
-﻿### Kamera  
-  
+  ﻿
+### Kamera  
+
 Kamera zum Aufnehmen von Luftbildern  
 Zusätzliches Gewicht: 10 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät  
 Zusätzliches Gewicht: 10 kg  
-﻿### Lewis Überflügel-Zwillings-Maschinengewehr  
-  
+  ﻿
+### Lewis Überflügel-Zwillings-Maschinengewehr  
+
 Zwei überflügeln montierte zusätzliche Lewis-Maschinengewehre ohne wechselbarer Position.  
 Munition: 194 7,69mm Patronen (2 Trommeln mit jeweils 97 Schuss)  
 Geschossgewicht: 11 g  
@@ -124,8 +130,9 @@ Gewicht der Halterung: 6 kg
 Gewicht der Munition: 10 kg  
 Gseamtgewicht: 31 kg  
 Geschätzter Geschwindigkeitsverlust: 5 km/h  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  
@@ -136,8 +143,9 @@ Mount weight: 12 kg
 Ammo weight: 32 kg  
 Total weight: 59 kg  
 Estimated speed loss: 2 km/h  
-﻿### Twin forward Vickers  
-  
+  ﻿
+### Twin forward Vickers  
+
 Twin fixed forward firing Vickers guns.  
 Ammo: 1000 of 7.69mm rounds (500 rounds for each gun)  
 Geschossgewicht: 11 g  

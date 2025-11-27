@@ -1,9 +1,9 @@
 # Bristol F2B (F.III)  
-  
+
 ![bristolf2bf3](../images/bristolf2bf3.png)  
-  
+
 ## Description  
-  
+
 Design of the Bristol started in March of 1916 as an intended replacement for the B.E. two seater Series. It was designed as a reconnaissance aircraft, but additionally the new type was also going to have to be capable of carrying out scout patrols.  
 It was supplied with dual controls, wireless radio, camera equipment and armed with a fixed Vickers gun firing through the cowling and a rear turret with one or two Lewis guns.  
   
@@ -88,14 +88,15 @@ References
 7) Bristol F2 Fighter Aces, Osprey, AOF no.79.  
 8) Various NACA reports.  
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Cooper / H.E.R.L. bombs  
-  
+
 Up to 12 x 11 kg (24 lb) General Purpose Bombs  
 Additional mass: 167 kg  
 Ammunition mass: 131 kg  
@@ -109,16 +110,19 @@ Ammunition mass: 204 kg
 Racks mass: 48 kg  
 Estimated speed loss before drop: 8 km/h  
 Estimated speed loss after drop: 4 km/h  
-﻿### Cockpit light  
-  
+  ﻿
+### Cockpit light  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
-﻿### Fuel Gauge  
-  
+  ﻿
+### Fuel Gauge  
+
 Needle Scale fuel level Gauge (0-30 Gallons)  
 Additional mass: 1 kg  
-﻿### Twin Lewis Overwing  
-  
+  ﻿
+### Twin Lewis Overwing  
+
 Two overwing mounted additional Lewis machineguns with changeable position.  
 Ammo: 582 of 7.69mm rounds (6 drums with 97 rounds in each)  
 Forward position: 0°  
@@ -131,16 +135,19 @@ Mounts weight: 8 kg
 Ammo weight: 24 kg  
 Total weight: 47 kg  
 Estimated speed loss: 4-14 km/h  
+
 ### Camera  
-  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
+
 ### Radio  
-  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Lewis MG turret  
-  
+  ﻿
+### Twin Lewis MG turret  
+
 Scarff ring turret with twin Lewis MG  
 Ammo: 776 of 7.69mm rounds (8 drums with 97 rounds in each)  
 Projectile weight: 11 g  

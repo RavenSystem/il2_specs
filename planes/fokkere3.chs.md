@@ -1,9 +1,9 @@
 # Fokker E.III  
-  
+
 ![fokkere3](../images/fokkere3.png)  
-  
+
 ## 描述  
-  
+
 The Fokker E.III Eindecker was a single-seat monoplane fighter designed by Anthony Fokker at the beginning of 1915. Typical for all early aircraft, roll control was implemented by physically deforming the whole surface of the wings (\wing-warping\). Later on, the unreliable and ineffective wing-warping function was replaced by ailerons, or control surfaces.  
   
 After the capture of Roland Garros’ Morane-Saulnier type L that was equipped with metal deflector wedges attached to the propeller blades, Anthony Fokker chose an alternative approach to this problem by creating a geared assembly connecting the shaft of the engine to the trigger of the machine gun. Bullets would only be fired once the propeller blade had cleared the front of the machine gun\s muzzle and during the gap left as each blade in turn moved around the spinner. Thanks to this invention, the Fokker E.III was equipped with synchronizer gearing, a revolutionary innovation that changed the face of air combat: it was now possible to fire a machine gun through a rotating propeller without damaging it. This device drastically improved the performance of the aircraft in its role as a fighter.  
@@ -53,17 +53,19 @@ References
 2) The Fokker Monoplanes. Profile publications Number 38  
 3) Fokker E.III. Windsock Datafile 15.  
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.  
-  
+
 ## 修改  
 ### 时钟  
-  
+
 机械时钟  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  

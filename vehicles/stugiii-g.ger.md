@@ -1,9 +1,9 @@
 # StuG III Ausf.G  
-  
+
 ![stugiii-g](../images/stugiii-g.png)  
-  
+
 ## Beschreibung  
-  
+
 This self-propelled assault gun Sturmgeschütz III Ausführung G was armed with 75 mm StuK 40 L/48 gun. Ausf.G was one of the last modifications, but the most numerous: 7800 SPG in total since December 1942 till April 1945. Compared to the previous one, it had a longer gun barrel (L/48 instead of L/43) and additional armour sheets installed in the hull and cabin front. The SPG modeled in our sim was built at MIAG factory using the Pz.Kpfw. Ausf.M chassis produced by MAN factory.  
   
 The most apparent visual difference was the addition of side armor plates, "Schürzen", which were attached to the hull sides. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armour destabilized it or caused its fragmentation before it could hit the main armored hull.  
@@ -138,10 +138,11 @@ Sfl ZF 1a gunner periscopic sight, field of view 8°.
 <b><u>Radio equipment:</u></b>  
 VHF Fu 5 transceiver with additional Fu 2 receiver.  
 4 intercom terminals.  
-  
-## Änderungen  
-﻿### Panzersprenggranaten  
-  
+
+
+## Änderungen  ﻿
+### Panzersprenggranaten  
+
 7,5 cm Pzgr. 39  
   
 Granaten mit einer explosiven Ladung im Sprengkopf.  
@@ -156,8 +157,9 @@ Durchschlagsleistung aus kürzester Entfernung: 117 mm
 500 m: Durchschlagsleistung 104 mm, Geschwindigkeit 691 m/s, Fall -2,4 m  
 1000 m: Durchschlagsleistung 92 mm, Geschwindigkeit 636 m/s, Fall -10,0 m  
 2000 m: Durchschlagsleistung 72 mm, Geschwindigkeit 537 m/s, Fall -44,8 m  
-﻿### Sprenggranaten  
-  
+  ﻿
+### Sprenggranaten  
+
 7,5 cm SprGr.34  
   
 Geeignet gegen weiche, ungepanzerte oder leicht gepanzerte Ziele.  
@@ -171,8 +173,9 @@ Mündungsgeschwindigkeit 550 m/s
 500 m: Geschwindigkeit 509 m/s, Geschossabfall -4,5 m  
 1000 m: Geschwindigkeit 473 m/s, Geschossabfall -18,5 m  
 2000 m: Geschwindigkeit 405 m/s, Geschossabfall -80,9 m  
-﻿### Hohlladunggranaten  
-  
+  ﻿
+### Hohlladunggranaten  
+
 7,5 cm Gr.38 HL/С  
   
 Hohlladunggranaten mit speziell geformtem und mit Sprengstoff gefülltem Sprengkopf.  
@@ -186,8 +189,9 @@ Mündungsgeschwindigkeit: 450 m/s
 500 m: Geschwindigkeit 328 m/s, Geschossabfall -7,8 m  
 1000 m: Geschwindigkeit 278 m/s, Geschossabfall -38,1 m  
 2000 m: Geschwindigkeit 244 m/s, Geschossabfall -200,4 m  
-﻿### Hartkerngranaten  
-  
+  ﻿
+### Hartkerngranaten  
+
 7,5 cm Pzgr. 40  
   
 Granaten mit unterkalibrigen panzerbrechenden Projektilen. Gut gegen stark gepanzerte Ziele auf kurze Distanzen.  
@@ -202,11 +206,13 @@ Durchschlagsleistung aus kürzester Entfernung: 150 mm
 500 m: Durchschlagsleistung 128 mm, Geschwindigkeit 832 m/s, Fall -1.6 m  
 1000 m: Durchschlagsleistung 108 mm, Geschwindigkeit 739 m/s, Fall -10.0 m  
 2000 m: Durchschlagsleistung 75 mm, Geschwindigkeit 573 m/s, Fall -44.8 m  
-﻿### Zusätzliche Panzerschürzen  
-  
+  ﻿
+### Zusätzliche Panzerschürzen  
+
 Zusätzlicher Schutz 5mm. Zum Schutz vor Panzerbüchsen, welche die dünnere Seitenpanzerung durschlagen konnten. Obwohl die Schürzen ein panzerbrechendes Geschoss nicht aufhalten können, kann diese Zusatzpanzerung dafür sorgen, das Geschoss zum Trudeln zu bringen oder zu zersplittern, bevor es auf die Hauptpanzerung trifft.  
-﻿### Smoke Mortars  
-  
+  ﻿
+### Smoke Mortars  
+
 Installation of 6 external single-shot smoke mortars.  
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  

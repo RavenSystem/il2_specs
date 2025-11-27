@@ -1,9 +1,9 @@
 # SSW D.IV  
-  
+
 ![schuckertdiv](../images/schuckertdiv.png)  
-  
+
 ## Description  
-  
+
 SSW D.IV came very late to the Great War, too late to change Germany’s fortunes, but what machines did make it to front-line squadrons acquitted themselves well. This airplane was the end result of a robust line of Siemens-Schuckert aircraft that saw service in the war and it came with a unique feature. The 207-hp Siemens-Halske Sh.IIIa rotary engine had a crankshaft that rotated opposite of the engine and the propeller\s rotation in an attempt to reduce the torque. The four-bladed propeller gave it a fast rate of climb and a high speed. The SSW D.IV was even faster than Germany’s mainstay front-line fighter, the very successful Fokker D.VII. It was also very maneuverable, but reportedly had sudden stall without warning when pushed too far. It was armed with two 7.92 mm machine guns.  
   
   
@@ -63,29 +63,34 @@ References
 4) WW1 Aero №99, April 1984.  
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.  
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.  
-  
-## Modifications  
-﻿### Compteur de balles  
-  
+
+## Modifications  ﻿
+### Compteur de balles  
+
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses  
 Masse supplémentaire : 1 kg  
-﻿### Inclinometre  
-  
+  ﻿
+### Inclinometre  
+
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
 Masse supplémentaire : 1 kg  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Collimateur de jour  
-  
+  ﻿
+### Collimateur de jour  
+
 , Collimateur à réfraction Oigee (gradateur de jour installé)  
 Masse supplémentaire : 2 kg  
-﻿### Collimateur de nuit  
-  
+  ﻿
+### Collimateur de nuit  
+
 Collimateur à réfraction Oigee (gradateur de jour désinstallé)  
 Masse supplémentaire : 2 kg  
-﻿### Anémomètre  
-  
+  ﻿
+### Anémomètre  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
 Masse supplémentaire : 1 kg  

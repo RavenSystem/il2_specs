@@ -1,9 +1,9 @@
 # Yak-1 Brh. 23  
-  
+
 ![yak1s23](../images/yak1s23.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 156..172 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 134..147 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 720 km/h  
@@ -115,20 +115,22 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.4 l/min  
-  
-## Änderungen  
-﻿### M-105PA Engine  
-  
+
+## Änderungen  ﻿
+### M-105PA Engine  
+
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.  
 Zusätzliches Gewicht: 30 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät RSI-4  
 Zusätzliches Gewicht: 12.6 kg  
 Geschwindigkeitsverlust: 0 km/h  
   ﻿
+
 ### 6 x Raketen, Typ ROS-82  
-  
+
 6 x ungelenkte 82-mm-Explosivraketen ROS-82  
 Zusätzliches Gewicht: 60 kg  
 Gewicht der Munition: 42 kg  

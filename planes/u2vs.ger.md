@@ -1,9 +1,9 @@
 # U-2VS  
-  
+
 ![u2vs](../images/u2vs.png)  
-  
+
 ## Beschreibung  
-  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 63..70 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 240 km/h  
 Bruchlastvielfache: 6.5 G  
@@ -119,10 +119,10 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 0.6 l/min  
 	- Combat engine mode: 0.7 l/min  
-  
-## Änderungen  
-﻿### Bombenlast  
-  
+
+## Änderungen  ﻿
+### Bombenlast  
+
 Flügel- und Rumpfhalterungen mit Bomben  
   
 2 x 50-kg-Splitterbomben FAB-50sv  
@@ -159,30 +159,36 @@ Gewicht der Munition: 308 kg
 Gewicht der Abwurfwaffenroste: 8 kg  
 Geschwindigkeitsverlust vor Abwurf: 13 km/h  
 Geschwindigkeitsverlust nach Abwurf: 2 km/h  
-﻿### Female Crew  
-  
+  ﻿
+### Female Crew  
+
 "Night Witches" (German: die Nachthexen; Russian: Ночные ведьмы, Nochnyye Vedmy) was a World War II German nickname for the all female military aviators of the 588th Night Bomber Regiment, known later as the 46th "Taman" Guards Night Bomber Aviation Regiment, of the Soviet Air Forces.  
+
 ### Fluglageanzeige  
-  
+
 Fluglageanzeige AGP-2  
 Zusätzliches Gewicht: 2 kg  
 Geschätzter Geschwindigkeitsverlust: 0 km/h  
-﻿### Scheinwerfer  
-  
+  ﻿
+### Scheinwerfer  
+
 Landescheinwerfer für Nachtflüge  
 Zusätzliches Gewicht: 2 kg  
 Geschwindigkeitsverlust: 1 km/h  
-﻿### Navigationslichter  
-  
+  ﻿
+### Navigationslichter  
+
 Navigationslichter  
 Zusätzliches Gewicht: 4 kg  
-﻿### Funkgerät  
-  
+  ﻿
+### Funkgerät  
+
 Funkgerät RSI-4  
 Zusätzliches Gewicht: 12.6 kg  
 Geschwindigkeitsverlust: 0 km/h  
-﻿### Raketen  
-  
+  ﻿
+### Raketen  
+
  82mm explosive ungelenkte Raketen ROS-82 oder 82mm panzerbrechende ungelenkte Raketen RBS-82 oder 132mm explosive ungelenkte Raketen ROS-132  
   
 ROS-82x4:  
@@ -219,13 +225,15 @@ Gewicht der Munition: 184 kg
 Gewicht der Abwurfwaffenroste: 40 kg  
 Geschwindigkeitsverlust vor dem Abfeuern: 8 km/h  
 Geschwindigkeitsverlust nach dem Abfeuern: 4 km/h  
-﻿### Heckgeschützturm  
-  
+  ﻿
+### Heckgeschützturm  
+
 Rückwärtiges Geschütz mit 7,62-mm-SchKAS-Maschinengewehr mit 400 Schuss  
 Zusätzliches Gewicht: 34 kg  
 Geschwindigkeitsverlust: 2 km/h  
+
 ### Bug-MG  
-  
+
 Flügelmontiertes 7,62mm SchKAS Maschinengewehr mit 500 Schuss  
 Zusätzliches Gewicht: 27 kg  
 Geschätzter Geschwindigkeitsverlust: 3 km/h  

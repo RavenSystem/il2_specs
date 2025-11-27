@@ -1,9 +1,9 @@
 # Fokker D.VII  
-  
+
 ![fokkerd7](../images/fokkerd7.png)  
-  
+
 ## Descripción  
-  
+
 El Fokker D.VII fue diseñado por Reinhold Platz, del Departamento de Diseño de Anthony Fokker. Su objetivo fue crear un caza capaz de vencer al SPAD XIII francés y al S.E.5a británico. Algunas características notables de diseño incluyeron una estructura metálica del fuselaje, ala de sección gruesa, y la ausencia de cables de refuerzo.  
   
 Durante el concurso de nuevos cazas, celebrado en Adlershof del 21 de enero al 12 de febrero de 1918, este caza demostró ser el más rápido, durable y con la tasa de ascenso más alta. Manfred von Richthofen, amigo íntimo de Anthony Fokker, también evaluó el prototipo y observó algunos defectos menores, en particular su inestabilidad en picados prolongados, que fue posteriormente corregido. El éxito del diseño provocó que fuera construido en varias fábricas, incluyendo Fokker Flugzeug-Werke, Albatros Werke y Ostdeutsche Albatros Werke. El Fokker D.VII se convertiría en uno de los mejores cazas –si no el mejor- al final de la guerra. En total, 2029 aviones fueron fabricados y enviados al frente hasta finales de 1918.  
@@ -58,36 +58,43 @@ Referencias:
 3) Fokker D.VII Aces of World War I. Parte 1, 2 y 3, por Norman Franks y Greg VanWyngarden.  
 4) Fokker D.VII in action. Por D. Edgar Brannon Aircraft Number 166.  
 5) Profile publications. The Fokker D.VII Number 25.  
-  
-## Modificaciones  
-﻿### Altímetro de alta cota  
-  
+
+## Modificaciones  ﻿
+### Altímetro de alta cota  
+
 Altímetro de D.R.P (0-8000 m)  
-﻿### Contador de Balas  
-  
+  ﻿
+### Contador de Balas  
+
 Contador de balas digital para dos ametralladoras de Wilhelm Morell  
 Peso adicional: 1 kg  
-﻿### Luz de cabina  
-  
+  ﻿
+### Luz de cabina  
+
 Lámpara para iluminar la cabina en las salidas nocturnas  
 Peso adicional: 1 kg  
-﻿### Punto de mira  
-  
+  ﻿
+### Punto de mira  
+
 Mira adicional con monturas de mira frontal y mira trasera  
 Peso adicional: 1 kg  
-﻿### Colimador diurno  
-  
+  ﻿
+### Colimador diurno  
+
 Colimador reflectante Oigee (con filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Colimador nocturno  
-  
+  ﻿
+### Colimador nocturno  
+
 Colimador reflectante Oigee (sin filtro solar instalado)  
 Peso adicional: 2 kg  
-﻿### Anemómetro  
-  
+  ﻿
+### Anemómetro  
+
 Anemómetro Wilhelm Morell (45-250 km/h)  
 Peso adicional: 1 kg  
-﻿### Termómetro  
-  
+  ﻿
+### Termómetro  
+
 Indicador de temperatura del refrigerante del motor de A.Schlegelmilch (0-100 °C)  
 Peso adicional: 1 kg  

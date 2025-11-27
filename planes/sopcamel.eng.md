@@ -1,9 +1,9 @@
 # Sopwith Camel  
-  
+
 ![sopcamel](../images/sopcamel.png)  
-  
+
 ## Description  
-  
+
 The Sopwith Camel\s construction was based on that of its predecessor, the Sopwith Pup. Sopwith\s chief designer Herbert Smith decided to somewhat alter the Pup’s design, since a newer, larger and heavier engine would have to be mounted. Some changes were made to the landing gear struts, the spacing of the wings and stabiliser were increased, and the fuselage acquired an extension to the cockpit\s trailing edge, which looked rather like a camel’s hump. That \hump\ is what gave the plane its name - the Sopwith Camel.  
   
 A remarkable detail of the plane’s construction was its compactness: the pilot’s seat, fuel tanks, machine guns and engine were all installed very close together. In parallel with the work of the main Sopwith factory, the plane was also assembled by a number of other companies such as Ruston Proctor Co, Portholme Aerodrome Ltd, Boulton & Paul Ltd, British Caudron Co. Ltd, Clayton & Shuttleworth Ltd, Hooper & Co. Ltd and others. In total, about 5490 Camels were built. The Camel’s first flight trials were performed by the British No. 60 squadron in March of 1917, which were followed by a series of minor improvements to the plane’s construction. Production aircraft were first delivered to fighter squadrons in May of 1917. It was primarily used for destroying enemy aircraft and balloons, while from time to time it was also engaged in ground attack operations. English journalists referred to this plane as a “small and agile beast.”  
@@ -61,25 +61,28 @@ References:
 5) Flying the Camel in 1918. FLIGHT International, 2 May 1968.  
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.  
 7) Sopwith Camel Specification.  
-  
+
 ## Modifications  
 ### Aldis  
-  
+
 Aldis Refractor-type Collimator Sight  
 Additional mass: 2 kg  
+
 ### Cooper bombs  
-  
+
 Up to 4 x 11 kg (24 lb) Cooper General Purpose Bombs  
 Additional mass: 56 kg  
 Ammunition mass: 44 kg  
 Racks mass: 12 kg  
 Estimated speed loss before drop: 2 km/h  
 Estimated speed loss after drop: 1 km/h  
+
 ### Cockpit light  
-  
+
 Cockpit illumination lamp for night sorties  
 Additional mass: 1 kg  
+
 ### Enlarged window  
-  
+
 Enlarged cutout in the upper wing for improved field of view.  
 Estimated speed loss: 2 km/h  

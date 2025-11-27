@@ -1,9 +1,9 @@
 # Fokker D.VIII  
-  
+
 ![fokkerd8](../images/fokkerd8.png)  
-  
+
 ## 描述  
-  
+
 This aircraft was specifically designed by the Fokker company for the Second Fighter Competition convened between May 27 and June 21, 1918 at Adlershof, the German aircraft test centre. Constructed as a monoplane fighter, it was mainly based on previous designs by Reinhold Platz. Its design was based on a tube-welded fuselage and wings covered with plywood throughout their span. The wing, which had a thick profile, was situated level with the pilot’s line of sight, which reduced upward visibility. During the Second Fighter Competition, the E.V showed good performance and offered good all-round visibility. It also has a good climb rate and good manoeuvrability, with some test pilots even preferring it to the Fokker D.VIIF. Thereafter, a contract was placed to produce 400 planes for the army, which were all powered by the Oberursel UR II.  
   
 The aircraft were produced at the Fokker-Flugzeugwerke, with 285 aircraft having been produced by war\s end. On 7th August 1918, the aircraft went into frontline service with Jasta 6 and Jasta 19, but unfortunately on the 16th and then again, on the 19th, E.V pilots were killed following catastrophic wing failures. All E.Vs were temporarily grounded for a crash investigation; this investigation ended in October. Wing failures were found to be due to poor production quality and poor-quality materials used during wing construction. With the aircraft\s wings built to the original quality specification and with its new wing having increased strength and quality, it earned its new designation – the Fokker D.VIII. Visually there was no difference between the E.V and the D.VIII, and some earlier produced E.Vs were re-designated as D.VIIIs after the wings were replaced.  
@@ -56,29 +56,34 @@ Pilots\ impressions about the aircraft were as follows: its climb performance an
 4) Fokker Aircraft of World War One. By D. Paul Leaman.  
 5) German Aircraft of the First World War. By P.Gray, O.Thetford.  
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.  
-  
+
 ## 修改  
 ### 测斜仪  
-  
+
 D.R.G.M液体测斜仪（地面指示坡度，飞行中指示侧滑）  
 增加质量：1 kg  
+
 ### 驾驶舱照明  
-  
+
 用于夜间飞行的驾驶舱照明灯  
 增加质量：1 kg  
+
 ### 射击瞄准具  
-  
+
 带有前后准心的附加瞄准具  
 增加质量：1 kg  
+
 ### 瞄准具（昼）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（安装了昼间灯）  
 增加质量：2 kg  
+
 ### 瞄准具（夜）  
-  
+
 奥吉（Oigee）反射型准直瞄准具（移除了昼间灯）  
 增加质量：2 kg  
+
 ### 风速仪  
-  
+
 威廉·莫雷尔(Wilhelm Morell)风速仪(45-250 km/h)  
 增加质量：1 kg  

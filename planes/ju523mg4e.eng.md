@@ -1,9 +1,9 @@
 # Ju 52/3m g4e  
-  
+
 ![ju523mg4e](../images/ju523mg4e.png)  
-  
+
 ## Description  
-  
+
 Indicated stall speed in flight configuration: 105..117 km/h  
 Indicated stall speed in takeoff/landing configuration: 92..109 km/h  
 Dive speed limit: 330 km/h  
@@ -114,29 +114,32 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.1 l/min  
 	- Combat engine mode: 10.6 l/min  
-  
+
 ## Modifications  
 ### 2300 kg of cargo  
-  
+
 2300 kg of military cargo payload  
 Additional mass: 2300 kg  
 Estimated speed loss: 2 km/h  
+
 ### 10 x MAB 250 containers  
-  
+
 10 x 250 kg drop transport container with parachute MAB 250  
 Additional mass: 2550 kg  
 Containers mass: 2500 kg  
 Racks mass: 50 kg  
 Estimated speed loss before drop: 2 km/h  
 Estimated speed loss after drop: 0 km/h  
+
 ### 12 paratroopers  
-  
+
 12 paratroopers with ammunition  
 Additional mass: 1200 kg  
 Estimated speed loss before drop: 2 km/h  
 Estimated speed loss after drop: 0 km/h  
+
 ### Rear turret  
-  
+
 Rear turret with MG 15 7.92mm machinegun with 1125 rounds  
 Additional mass: 130 kg  
 Estimated speed loss: 4 km/h  

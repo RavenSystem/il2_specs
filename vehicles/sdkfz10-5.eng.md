@@ -1,9 +1,9 @@
 # Sd.Kfz.10/5  
-  
+
 ![sdkfz10-5](../images/sdkfz10-5.png)  
-  
+
 ## Description  
-  
+
 One of the many Sd.Kfz.10 half-track modifications produced by Demag company as mobile Flak 38 anti-air gun platform since 1939.  
   
 This fully metallic integral body half-track was propelled by a double differential tracked chassis with brakes (forward steering wheels don\t have brakes) and had a custom metallic platform where the gun was installed.  
@@ -60,10 +60,11 @@ Turret drive: mechanical, 6 seconds per rotation.
 Schwebekreis Visier 38 mechanical AA gunsight.  
 ZF 3x8 telescopic gunsight for engaging ground targets.  
 Reserve iron sights.  
-  
-## Modifications  
-﻿### Armour Piercing Shells  
-  
+
+
+## Modifications  ﻿
+### Armour Piercing Shells  
+
 2 cm Pzgr. Lspur  
   
 Solid armour piercing shells without explosive filling.  
@@ -76,8 +77,9 @@ Muzzle velocity 780 m/s, armour penetration at point blank range 25 mm.
 500 m: armour penetration 16 mm, velocity 561 m/s, drop -2.7 m.  
 1000 m: armour penetration 9 mm, velocity 393 m/s, drop -13.6 m.  
 2000 m: armour penetration 5 mm, velocity 264 m/s, drop -96.1 m.  
-﻿### High-Explosive Shells  
-  
+  ﻿
+### High-Explosive Shells  
+
 2 cm Spgr.Patr.  
   
 Good against soft, unarmoured or lightly armoured targets.  
@@ -91,9 +93,11 @@ Muzzle velocity: 880 m/s.
 500 m: velocity 634 m/s, drop -2.1 m.  
 1000 m: velocity 373 m/s, drop -11.0 m.  
 2000 m: velocity 245 m/s, drop -95.8 m.  
+
 ### Remove both gun shields  
-  
+
 Gun shields are completely removed for an improved field of view.  
+
 ### Remove gunsight shield  
-  
+
 Removing the gunsight shield gives the gunner a slightly wider field of view.  

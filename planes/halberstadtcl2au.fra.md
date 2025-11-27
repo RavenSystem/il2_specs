@@ -1,9 +1,9 @@
 # Halberstadt CL.II 200hp  
-  
+
 ![halberstadtcl2au](../images/halberstadtcl2au.png)  
-  
+
 ## Description  
-  
+
 L\Halberstadt CL.II fut imaginé en réponse aux spécifications demandées par l\Idflieg (Inspection des Troupes Aériennes) en Août 1916 pour un nouveau "type C léger" équipé d\un moteur de 160-180 cv.  
   
 Le but était de créer un chasseur escorteur bi-place pour protéger les avions d\observation plus lourds d\éventuelles attaques de chasseurs Alliés. En Novembre 1916 l\Idflieg commanda trois prototypes de l\Halberstadt CL.II avec moteur Mercedes D.III, ainsi le premier avion achevé sortit en avril 1917, et après quelques changements de conception d\aile, il subissait les tests finaux à Adlesdorf du 2-7 Mai 1917.  
@@ -73,14 +73,15 @@ References
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.  
 2) Report on the Halberstadt Fighter, October 1918, Flight.  
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.  
-  
-## Modifications  
-﻿### Aldis (Trophée)  
-  
+
+## Modifications  ﻿
+### Aldis (Trophée)  
+
 Collimateur à réfraction Aldis  
 Masse supplémentaire : 2 kg  
-﻿### 20mm Becker Turret  
-  
+  ﻿
+### 20mm Becker Turret  
+
 Turret with Becker Automatic Cannon  
 Ammo: 60 of 20mm rounds (4 magazines with 15 rounds in each)  
 Ammo type: HE/AP (High Explosive and Armour Piercing rounds)  
@@ -92,8 +93,9 @@ Mount weight: 10 kg
 Ammunition total weight: 25 kg  
 Total weight: 65 kg  
 Estimated speed loss: 6 km/h  
-﻿### Bombes P.u.W.  
-  
+  ﻿
+### Bombes P.u.W.  
+
 12 bombes d’emploi général 12.5 kg P.u.W  
 Masse supplémentaire : 186 kg  
 Masse des munitions : 150 kg  
@@ -107,12 +109,14 @@ Masse des munitions : 150 kg
 Masse des pylones : 36 kg  
 Perte estimée de vitesse avant le largage : 4 km/h  
 Perte estimée de vitesse après le largage : 2 km/h  
-﻿### Lumière de cockpit  
-  
+  ﻿
+### Lumière de cockpit  
+
 Lumière à ampoule pour les sorties de nuit  
 Masse supplémentaire : 1 kg  
-﻿### Jauges supplémentaires  
-  
+  ﻿
+### Jauges supplémentaires  
+
 Wilhelm Morell Anémomètre (45-250 km/h)  
   
 Inclinometre à liquide D.R.G.M (indique inclinaison au sol et glissade sur aile en vol)  
@@ -122,16 +126,19 @@ Indicateur de température de liquide de refroidissement A.Schlegelmilch (0-100 
 Montre Mécanique  
   
 Masse supplémentaire : 3 kg  
-﻿### Camera  
-  
+  ﻿
+### Camera  
+
 Camera for taking aerial photographs  
 Additional mass: 10 kg  
-﻿### Radio  
-  
+  ﻿
+### Radio  
+
 Radio transmitter  
 Additional mass: 10 kg  
-﻿### Twin Parabellum MG Turret  
-  
+  ﻿
+### Twin Parabellum MG Turret  
+
 Ring turret with twin Parabellum machine guns.  
 Ammo: 1500 of 7.92mm rounds (6 drums with 250 rounds in each)  
 Projectile weight: 10 g  
@@ -142,8 +149,9 @@ Mount weight: 5 kg
 Ammo weight: 30 kg  
 Total weight: 54 kg  
 Estimated speed loss: 8 km/h  
-﻿### Twin Spandau MG  
-  
+  ﻿
+### Twin Spandau MG  
+
 Twin fixed forward firing LMG 08/15 guns.  
 Ammo: 1000 of 7.92mm rounds (500 rounds for each gun)  
 Projectile weight: 10 g  

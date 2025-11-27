@@ -1,9 +1,9 @@
 # Yak-7B series 36  
-  
+
 ![yak7bs36](../images/yak7bs36.png)  
-  
+
 ## 描述  
-  
+
 飞行构型的失速指示空速：155~172 km/h  
 起降构型的失速指示空速：139~154 km/h  
 俯冲极速：740 km/h  
@@ -112,31 +112,34 @@ Basic data and recommended positions of the aircraft controls:
   
 4. Approximate fuel consumption at 2000 m altitude:  
 	- Cruise engine mode: 7.8 l/min  
-  
+
 ## 修改  
 ### 2 x FAB-100M炸弹  
-  
+
 2 x 104kg 通用炸弹FAB-100M  
 增加质量：228 kg  
 弹药质量：208 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：27 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### 2 x FAB-50sv炸弹  
-  
+
 2 x 50kg 通用炸弹FAB-50sv  
 增加质量：120 kg  
 弹药质量：100 kg  
 挂架质量：20 kg  
 投弹前预期速度损失：20 km/h  
 投弹后预期速度损失：12 km/h  
+
 ### 着陆灯  
-  
+
 夜间飞行用的着陆灯  
 增加质量：2 kg  
 预期速度损失：0 km/h  
+
 ### RPK-10 无线电罗盘  
-  
+
 用于无线电信标导航的固定环形无线电罗盘  
 增加质量：10 kg  
 预期速度损失：0 km/h  
