@@ -116,8 +116,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:
 	- Modo motor - Crucero: 7,4 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor M-105PA
 
 Instalación de un motor M-105PA, que cuenta con un refuerzo estructural del cárter y de las bielas. Añadido control de potenciación del motor.

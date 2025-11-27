@@ -54,8 +54,7 @@ Referencias:
 3) Fokker E.III. Windsock Datafile 15.
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Reloj
 
 Reloj Mecánico

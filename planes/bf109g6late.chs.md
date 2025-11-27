@@ -120,7 +120,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 8.6 l/min
 
 ## 修改
-
 ### 21cm火箭弹
 
 两枚位于可抛弃发射管里的WGr.21火箭弹

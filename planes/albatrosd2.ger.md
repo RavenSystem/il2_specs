@@ -52,8 +52,7 @@ Referenzen
 5) Albatros fighters in action by John F Connors.
 6) Albatros D.II, Flugzeugprofile №38.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier

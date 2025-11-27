@@ -53,8 +53,7 @@ Referenzen
 2) The Nieuport 28 C.1. Profile Publications Number 79.
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)

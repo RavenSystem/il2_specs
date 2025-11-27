@@ -64,7 +64,6 @@ References
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
 ## 修改
-
 ### 1650 lb SN重型炸弹
 
 1650 lb (748 kg) 通用炸弹

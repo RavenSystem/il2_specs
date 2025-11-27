@@ -132,8 +132,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 6,0 l/min
 	- Modo motor - Combate: 7,2 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor AM-38
 
 El motor AM-38 tiene el compresor ajustado para ser más óptimo a altitudes más bajas que el modelo AM-35a, proporcionando más potencia por debajo de los 4000 m de altitud. Sin embargo, estos ajustes superan la capacidad del sistema de refrigeración instalado y pueden provocar un sobrecalentamiento del agua y el aceite, especialmente cuando la temperatura del aire supera los 15 ºC.

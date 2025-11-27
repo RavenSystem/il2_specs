@@ -63,7 +63,6 @@ References:
 7) Sopwith Camel Specification.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

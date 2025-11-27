@@ -115,8 +115,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 6.9 l/min
 	- Combat engine mode: 7.7 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### I.A.R.80-B series 181-200
 
  cTwo 7.92mm MGs replaced by 13.2mm ones,

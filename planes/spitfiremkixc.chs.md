@@ -144,7 +144,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 10.2 l/min
 
 ## 修改
-
 ### 150号汽油
 
 允许+25 lb增压

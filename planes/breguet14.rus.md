@@ -60,8 +60,7 @@
 2) Windsock Datafile Special Breguet 14, by Alan D. Toelle.
 3) Profile Publications The Breguet 14, Number 157.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

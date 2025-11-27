@@ -59,8 +59,7 @@ Referenzen
 3) Performance of American Corp. SPAD XIII AIRFRAME DATA.
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)

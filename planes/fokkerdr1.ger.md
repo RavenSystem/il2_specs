@@ -66,8 +66,7 @@ Referenzen
 7) The Fokker Dr.I, Profile publications, Number 55.
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre

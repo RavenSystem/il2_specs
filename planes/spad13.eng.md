@@ -60,7 +60,6 @@ References
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)

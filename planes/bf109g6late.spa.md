@@ -119,8 +119,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 5,4 l/min
 	- Modo motor - Combate: 8,6 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### 2 cohetes WGr.21
 
 2 cohetes WGr.21 en lanzadores desechables BR 21

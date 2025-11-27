@@ -123,8 +123,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.7 l/min
 	- Combat engine mode: 9.8 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### Bombes
 
 4 x 254 kg bombes d\emploi général FAB-250sv

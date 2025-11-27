@@ -62,7 +62,6 @@ References:
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

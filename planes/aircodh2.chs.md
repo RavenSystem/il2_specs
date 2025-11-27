@@ -52,8 +52,7 @@ References:
 2) The De Haviland D.H.2. Profile publications Number 91
 3) Airco DH2. Windsock Datafile 48.
 
-## 修改
-﻿
+## 修改﻿
 ### 驾驶舱照明
 
 用于夜间飞行的驾驶舱照明灯

@@ -59,7 +59,6 @@ References
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

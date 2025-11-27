@@ -52,7 +52,6 @@ References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

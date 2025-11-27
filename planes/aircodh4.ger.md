@@ -69,8 +69,7 @@ Referenzen
 5) WWI Aeroplanes data, by J.M. Bruce.
 6) Various NACA reports.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier

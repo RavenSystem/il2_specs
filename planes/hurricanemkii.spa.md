@@ -127,8 +127,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 6,0 l/min
 	- Modo motor - Combate: 9,9 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor Merlin XX con +14 lb de impulso
 
 Motor Merlin XX que permite un impulso de +14 lb

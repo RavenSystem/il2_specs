@@ -61,8 +61,7 @@ Mira antiaérea mecánica Schwebekreis Visier 38.
 Mira telescópica ZF 3x8 para objetivos en tierra.
 Miras de hierro de respaldo.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes sólidos (AP)
 
 2 cm Pzgr. Lspur

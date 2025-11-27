@@ -109,8 +109,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:
 	- Modo motor - Crucero: 2,7 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### RPK-10
 
 Radiogoniómetro para navegación con radiobalizas

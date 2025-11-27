@@ -121,7 +121,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 0.7 l/min
 
 ## 修改
-
 ### 炸弹装载
 
 翼下和机腹挂架带炸弹

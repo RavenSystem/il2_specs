@@ -117,7 +117,6 @@ Basic data and recommended positions of the aircraft controls:
 	- nominal mode of engine operation: 7.4 l/min
 
 ## Modifications
-
 ### M-105PA Engine
 
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.

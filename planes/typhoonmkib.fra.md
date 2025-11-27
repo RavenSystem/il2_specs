@@ -111,8 +111,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.7 l/min
 	- Combat engine mode: 12.3 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost

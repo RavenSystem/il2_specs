@@ -112,7 +112,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 12.3 l/min
 
 ## 修改
-
 ### 军刀IIA发动机（+11 lb型）
 
 军刀IIA发动机（+11 lb型）

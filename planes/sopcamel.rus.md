@@ -64,8 +64,7 @@ Clerget 9B ротативный 9-цилиндровый, 130 л.с.
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.
 7) Sopwith Camel Specification.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

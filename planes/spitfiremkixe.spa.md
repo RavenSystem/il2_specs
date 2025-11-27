@@ -140,8 +140,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 6,3 l/min
 	- Modo motor - Combate: 10,2 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Combustible de 150 octanos
 
 Permite un impulso de +25 lb

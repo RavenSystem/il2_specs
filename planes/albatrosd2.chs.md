@@ -53,7 +53,6 @@ The Albatros D. II was also employed against balloons and for providing cover fo
 6) Albatros D.II, Flugzeugprofile №38.
 
 ## 修改
-
 ### 阿尔迪斯（Aldis）瞄准具（战利品）
 
 阿尔迪斯（Aldis）折射型直筒瞄准具

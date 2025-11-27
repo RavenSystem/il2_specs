@@ -93,8 +93,7 @@ Mira periscópica y panorámica PT4-7 en artillero, campo de visión de 26°
 Transmisor-receptor VHF 9-RM
 4 intercomunicadores
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes sólidos (AP)
 
 BR-350BSP

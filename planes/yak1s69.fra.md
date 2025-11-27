@@ -120,7 +120,6 @@ Basic data and recommended positions of the aircraft controls:
 
 ## Modifications
 
-
 ### 2 bombes FAB-100M 
 
 2 bombes d’emploi général FAB-100M de 104 kg

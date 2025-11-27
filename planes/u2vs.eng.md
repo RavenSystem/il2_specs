@@ -121,7 +121,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 0.7 l/min
 
 ## Modifications
-
 ### Bomb load
 
 Underwing and underbelly racks with bombs

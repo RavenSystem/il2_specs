@@ -62,7 +62,6 @@ References
 4) Sopwith Dolphin Specification.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

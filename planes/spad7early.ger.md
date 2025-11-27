@@ -54,8 +54,7 @@ Referenzen
 3) SPAD 150 HP armamento, dec.1917
 4) French \Hispano Suiza\ engines tech data.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier (aus England importiert)

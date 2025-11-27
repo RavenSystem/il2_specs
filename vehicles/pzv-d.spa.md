@@ -92,8 +92,7 @@ Mira telescópica binocular Tzf 12 en artillero, campo de visión de 29°
 Transmisor-receptor VHF Fu 5
 4 intercomunicadores
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes explosivos (APHE)
 
 Pzgr. 39/42 de 7,5 cm

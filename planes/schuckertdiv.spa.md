@@ -64,8 +64,7 @@ Referencias:
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras

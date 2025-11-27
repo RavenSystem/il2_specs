@@ -137,8 +137,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 5.3 l/min
 	- Combat engine mode: 8.2 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### DB-605ASM Motor
 
 Höhenmotor mit 7,8 km Volldruckhöhe.

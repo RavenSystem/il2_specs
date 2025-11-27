@@ -110,8 +110,7 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:
 	- Cruise engine mode: 7.5 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### Phare datterrissage
 
 Atterrissage lumière pour les vols de nuit

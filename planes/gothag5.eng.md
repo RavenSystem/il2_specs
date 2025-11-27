@@ -71,7 +71,6 @@ References:
 4) The Gotha. Flight magazine 1917.
 
 ## Modifications
-
 ### P.u.W. Bombs
 
 Up to 12 x 12.5 kg P.u.W. General Purpose Bombs

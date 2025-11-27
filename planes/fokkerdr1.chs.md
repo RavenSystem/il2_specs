@@ -70,7 +70,6 @@ Dr.I的飞行员报告说其爬升率和机动性极佳，驾驶舱的视野也�
 8) The Fokker Triplane，Magazine "FLIGHT" 14 March 1918.
 
 ## 修改
-
 ### 弹药计数器
 
 2挺机枪的威廉·莫雷尔（Wilhelm Morell）针式刻度弹药计数器

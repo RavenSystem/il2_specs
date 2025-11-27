@@ -54,8 +54,7 @@ References:
 3) Sopwith Pup Aces of World War I. Osprey Aircraft of the Aces 67.
 4) The Sopwith Pup. Profile publications Number 13.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier

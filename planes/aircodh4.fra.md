@@ -69,8 +69,7 @@ References
 5) WWI Aeroplanes data, by J.M. Bruce.
 6) Various NACA reports.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis

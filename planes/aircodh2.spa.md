@@ -53,8 +53,7 @@ Referencias:
 2) The De Haviland D.H.2. Profile publications Número 91
 3) Airco DH2. Windsock Datafile 48.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Luz de cabina
 
 Lámpara para iluminar la cabina en las salidas nocturnas

@@ -122,7 +122,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.5 l/min
 
 ## 修改
-
 ### 后视镜
 
 后视镜

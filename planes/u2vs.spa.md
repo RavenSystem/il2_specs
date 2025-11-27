@@ -118,8 +118,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 0,6 l/min
 	- Modo motor - Combate: 0,7 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Carga de bombas
 
 Bastidores con bombas instaladas para las alas y panza

@@ -70,7 +70,6 @@
 6) Various NACA reports.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具

@@ -107,7 +107,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 14.2 l/min
 
 ## 修改
-
 ### 2 x 1000 lb 通用炸弹
 
 2 x 1000 lb 通用炸弹

@@ -64,7 +64,6 @@
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
 ## Модификации
-
 ### Тяжелая авиабомба 1650 lb SN
 
 1650-фунтовая (748 кг) авиабомба на центральной внешней подвеске

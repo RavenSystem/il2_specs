@@ -59,7 +59,6 @@ Forward gunner: 1 x Lewis 7,69mm for forward, port and starboard positions firin
 2) WWI Aeroplanes by J.M. Bruce.
 
 ## 修改
-
 ### 库珀（Cooper）/H.E.R.L. /H.E.R.F.C. 炸弹
 
 最多12 x 11 kg（24 lb）通用炸弹

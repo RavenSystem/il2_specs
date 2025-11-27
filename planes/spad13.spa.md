@@ -61,8 +61,7 @@ Referencias:
 3) Performance of American Corp. SPAD XIII AIRFRAME DATA.
 4) Performance (Report No.5). Aeronautiqe Militare  Ministre de la Guerre, 1917.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)

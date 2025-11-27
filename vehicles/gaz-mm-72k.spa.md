@@ -65,8 +65,7 @@ OZR-132 explosivo (HE): 288 g, 910 m/s, 13 g de explosivo
 Mira colimadora K8-T con sistema de corrección automática
 Miras de hierro de respaldo.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes sólidos (AP)
 
 BR-132

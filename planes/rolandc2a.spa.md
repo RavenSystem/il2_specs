@@ -56,8 +56,7 @@ Referencias:
 1) Schlachtflieger, por Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 49 LFG Roland C.II, por P.M. Grosz.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (Trofeo)
 
 Colimador reflectante Aldis

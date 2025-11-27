@@ -53,7 +53,6 @@ References
 6) Albatros D.II, Flugzeugprofile №38.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

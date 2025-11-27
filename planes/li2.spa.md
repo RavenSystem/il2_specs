@@ -124,8 +124,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 7,7 l/min
 	- Modo motor - Combate: 9,8 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Carga de bombas
 
 4 bombas de propósito general de 254 kg FAB-250sv

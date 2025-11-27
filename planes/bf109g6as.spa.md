@@ -137,8 +137,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 5,3 l/min
 	- Modo motor - Combate: 8,2 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor DB-605ASM
 
 Motor DB-605ASM con combustible C3 y depósito (vacío) para sistema de inyección MW-50

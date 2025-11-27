@@ -58,8 +58,7 @@
 4) Fokker D.VII in action. By D. Edgar Brannon Aircraft Number 166.
 5) Profile publications. The Fokker D.VII Number 25.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Высотомер
 
 Высотомер больших высот D.R.P (0-8000 м)

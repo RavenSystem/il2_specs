@@ -138,7 +138,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 8.2 l/min
 
 ## 修改
-
 ### DB-605ASM 发动机
 
 换装DB-605ASM发动机并配备C3燃料和MW-50加力系统燃料箱

@@ -61,8 +61,7 @@ Referencias:
 3) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey n.º48.
 4) Sopwith Dolphin Specification.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

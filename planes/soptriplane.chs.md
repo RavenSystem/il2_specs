@@ -57,7 +57,6 @@ Pilots reported that the plane exhibited an outstanding climb rate, high speed a
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具

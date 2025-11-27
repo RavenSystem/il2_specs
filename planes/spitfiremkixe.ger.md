@@ -142,8 +142,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 6.3 l/min
 	- Combat engine mode: 10.2 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### 150-Oktan-Kraftstoff
 
 150-Oktan-Kraftstoff, der einen erhöhten Ladedruck bis +25 erlaubt.

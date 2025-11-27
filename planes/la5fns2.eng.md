@@ -122,7 +122,6 @@ Basic data and recommended positions of the aircraft controls:
 
 ## Modifications
 
-
 ### Special Guns Ammo Load
 
 Loadout variants: armour piercing (AP) or high-explosive (HE) rounds only

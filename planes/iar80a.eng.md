@@ -115,7 +115,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 7.7 l/min
 
 ## Modifications
-
 ### I.A.R.80-B series 181-200
 
  Two 7.92mm MGs replaced by 13.2mm ones,

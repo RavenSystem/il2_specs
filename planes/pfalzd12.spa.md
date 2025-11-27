@@ -55,8 +55,7 @@ Referencias:
 2) The Pfalz D.XII, Profile Publications número 199.
 3) WW I Aero n.º124, mayo de 1989.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Contadores de balas
 
 Contadores de balas diales de Wilhelm Morell para 2 ametralladoras

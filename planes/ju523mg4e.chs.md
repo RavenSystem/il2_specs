@@ -116,7 +116,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 10.6 l/min
 
 ## 修改
-
 ### 2300 kg货物
 
 2300 kg军用货物装载

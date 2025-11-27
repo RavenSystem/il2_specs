@@ -59,7 +59,6 @@ References
 6) Albatros fighters, Windsock Datafile Special.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

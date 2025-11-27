@@ -50,8 +50,7 @@ Tir avant: 1 x LMG 08/15 Spandau 7,92mm, 500 rounds
 References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis

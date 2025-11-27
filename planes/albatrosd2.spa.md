@@ -58,8 +58,7 @@ Referencias:
 5) Albatros fighters in action, por John F Connors.
 6) Albatros D.II, Flugzeugprofile n.º 38.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (trofeo)
 
 Colimador reflectante Aldis

@@ -59,8 +59,7 @@ Disparo frontal: 1 Vickers Mk.I de 7,69 mm, 500 balas
 Referencias
 1) Windsock Datafile 12 - Hanriot HD.1, por J.M. Bruce.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Ametralladora cazaglobo
 
 Ametralladora Vickers «Balloon»

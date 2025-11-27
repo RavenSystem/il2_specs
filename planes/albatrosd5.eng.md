@@ -60,7 +60,6 @@ References
 5) Albatros fighters in action by John F Connors.
 
 ## Modifications
-
 ### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns

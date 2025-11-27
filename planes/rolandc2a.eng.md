@@ -60,7 +60,6 @@ References
 2) Windsock Datafile 49 LFG Roland C.II by P.M. Grosz.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

@@ -68,8 +68,7 @@ References
 7) The Fokker Dr.I, Profile publications, Number 55.
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Compteur de balles
 
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses

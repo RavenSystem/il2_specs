@@ -71,7 +71,6 @@ References
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
 ## Modifications
-
 ### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns

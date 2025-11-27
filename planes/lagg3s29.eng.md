@@ -120,7 +120,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 2.7 l/min
 
 ## Modifications
-
 ### 2 x FAB-100M bombs
 
 2 x 104 kg General Purpose Bombs FAB-100M

@@ -117,7 +117,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.4 l/min
 
 ## 修改
-
 ### M-105PA Engine
 
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.

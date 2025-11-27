@@ -124,7 +124,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 9.8 l/min
 
 ## Modifications
-
 ### Bomb Load
 
 4 x 254 kg General Purpose Bombs FAB-250sv

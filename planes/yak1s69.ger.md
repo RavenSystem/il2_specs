@@ -118,8 +118,7 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:
 	- Cruise engine mode: 7.4 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 
 ### 2 x Bomben, Typ FAB-100M
 

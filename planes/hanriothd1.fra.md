@@ -51,8 +51,7 @@ Tir avant: 1 x Vickers Mk.I 7.69mm, 500 cartouches par baril.
 References
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Balloon gun
 
 Vickers "Balloon" gun

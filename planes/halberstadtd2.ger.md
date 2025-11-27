@@ -50,8 +50,7 @@ Starre Bewaffnung nach vorne: 1x LMG 08/15 Spandau 7,92mm, 1 Gurt mit 500 Schuss
 Referenzen
 1) Halberstadt Fightres, Windsock Datafile Special.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier

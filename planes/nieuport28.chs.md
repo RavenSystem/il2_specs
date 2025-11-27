@@ -54,7 +54,6 @@ References
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)

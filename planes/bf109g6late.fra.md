@@ -119,8 +119,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 5.4 l/min
 	- Combat engine mode: 8.6 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### 21 cm BR
 
 Two WGr.21 rockets in jettisonable launchers

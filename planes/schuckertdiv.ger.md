@@ -64,8 +64,7 @@ Referenzen:
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre

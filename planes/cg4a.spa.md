@@ -39,8 +39,7 @@ Características operativas:
 - La rueda de cola del planeador gira libremente y no tiene bloqueo.
 - Para acortar el recorrido de la carrera en el aterrizaje, puede instalarse un paracaídas de frenado. La velocidad máxima de liberación del paracaídas de emergencia («Alt_Izq + D») es de 225 km/h. Después de aterrizar y frenar con éxito, se debe soltar el paracaídas de emergencia («Alt_Izq + D»).
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Paracaídas de frenado
 
 Instalación de un paracaídas de frenado para reducir el recorrido de la carrera en el aterrizaje

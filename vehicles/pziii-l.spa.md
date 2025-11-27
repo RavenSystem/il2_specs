@@ -91,8 +91,7 @@ Transmisor-receptor VHF Fu 5
 <b><u>ATENCIÓN:</u></b>
 Este carro de combate es gratuito para cualquier usuario de <i>IL-2 Great Battles</i>. Los carros de combate de la expansión <i>Tank Crew</i> tienen todos los puestos interiores y el exterior definidos con mucho más detalle.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes explosivos (APHE)
 
 Pzgr. 39 de 5 cm

@@ -59,7 +59,6 @@ S.E.5a（单座战斗机、侦察机实验型5a）是由英国R.A.F.公司（皇
 4) Profile Publication s，The S.E. 5A Number 1.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具

@@ -54,8 +54,7 @@ Oberursel U.I ротативный 9-цилиндровый 100 л.с.
 3) Fokker E.III. Windsock Datafile 15.
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Часы
 
 Механические часы

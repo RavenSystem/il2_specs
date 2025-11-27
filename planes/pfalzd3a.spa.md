@@ -57,8 +57,7 @@ Referencias:
 4) Flight magazine, abril de 1918.
 5) The Pfalz D.III , Profile Publications número 43.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Altímetro de alta cota
 
 Altímetro de D.R.P (0-8000 m)

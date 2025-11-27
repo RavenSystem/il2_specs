@@ -63,8 +63,7 @@ Referencias:
 2) WWI Aeroplanes por J.M. Bruce.
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

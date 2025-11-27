@@ -52,7 +52,6 @@ References
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)

@@ -53,8 +53,7 @@ Referencias:
 2) The Nieuport 28 C.1. Profile Publications n.º 79.
 3) Nieuport 28 por J Guttman. Windsock Datafile 36.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)

@@ -59,8 +59,7 @@ References
 4) Albatros Aces of World War I by Norman Franks, Osprey №32
 5) Albatros fighters in action by John F Connors.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Compteur de balles
 
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses

@@ -134,8 +134,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 6.2 l/min
 	- Combat engine mode: 7.7 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### Merlin 45 engine
 
 Merlin 45 engine. 

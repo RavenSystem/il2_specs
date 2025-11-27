@@ -72,8 +72,7 @@ Referenzen
 4) Fokker D.VII in action. By D. Edgar Brannon Aircraft Number 166.
 5) Profile publications. The Fokker D.VII Number 25.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Kompensierter Höhenmesser,
 
 D.R.P kompensierter Höhenmesser (0-8000 m)

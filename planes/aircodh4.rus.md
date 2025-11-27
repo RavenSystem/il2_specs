@@ -69,8 +69,7 @@
 5) WWI Aeroplanes data, by J.M. Bruce.
 6) Various NACA reports.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

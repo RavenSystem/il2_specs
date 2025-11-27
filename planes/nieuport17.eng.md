@@ -53,7 +53,6 @@ References
 3) Profile Publications. The Nieuport 17 Number 49.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)

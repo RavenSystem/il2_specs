@@ -57,8 +57,7 @@
 2) WWI Aeroplanes by J.M. Bruce.
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

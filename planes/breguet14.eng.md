@@ -60,7 +60,6 @@ References
 3) Profile Publications The Breguet 14, Number 157.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

@@ -116,8 +116,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 6,9 l/min
 	- Modo motor - Combate: 7,7 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### I.A.R. 80-B series 181-200
 
 La modificación incluye:

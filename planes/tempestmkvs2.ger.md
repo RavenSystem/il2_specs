@@ -106,8 +106,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 8.9 l/min
 	- Combat engine mode: 14.2 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### 2 x Bomben, Typ 1000 lb M.C.
 
 2 x 474,5-kg-Splitterbomben 1000 lb M.C.

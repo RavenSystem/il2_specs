@@ -113,8 +113,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:
 	- Modo motor - Crucero: 7,8 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### 2 bombas FAB-100M
 
 2 bombas de propósito general de 104 kg FAB-100M

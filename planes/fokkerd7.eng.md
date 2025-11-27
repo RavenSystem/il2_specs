@@ -60,7 +60,6 @@ References
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## Modifications
-
 ### High Altimeter
 
 D.R.P Altimeter (0-8000 m)

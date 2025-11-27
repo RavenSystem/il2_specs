@@ -119,8 +119,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 5.4 l/min
 	- Combat engine mode: 8.6 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### 21 cm BR
 
 2 WGr.21 Raketen in abwerfbaren Abschussvorrichtungen

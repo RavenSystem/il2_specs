@@ -72,8 +72,7 @@ Referenzen:
 3) The Gotha G1-G5. Profile Publications Number 115
 4) The Gotha. Flight magazine 1917.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Bomben, Typ P.u.W.
 
 12 x Splitterbomben 12.5 kg P.u.W

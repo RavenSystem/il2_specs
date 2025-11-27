@@ -110,8 +110,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 4. Consumo aproximado de combustible a 2000 m de altitud:
 	- Modo motor - Crucero: 7,5 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Luz de aterrizaje
 
 Luz de aterrizaje para los vuelos nocturnos

@@ -114,7 +114,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.8 l/min
 
 ## 修改
-
 ### 2 x FAB-100M炸弹
 
 2 x 104kg 通用炸弹FAB-100M

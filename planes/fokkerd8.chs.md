@@ -58,7 +58,6 @@ Pilots\ impressions about the aircraft were as follows: its climb performance an
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
 ## 修改
-
 ### 测斜仪
 
 D.R.G.M液体测斜仪（地面指示坡度，飞行中指示侧滑）

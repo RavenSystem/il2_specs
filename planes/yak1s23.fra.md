@@ -116,8 +116,7 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:
 	- Cruise engine mode: 7.4 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### M-105PA Engine
 
 The crankcase halves better secured in place, the main connecting rods reinforced. Boost control lever added.

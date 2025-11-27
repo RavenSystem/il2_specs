@@ -116,7 +116,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 7.7 l/min
 
 ## Modifications
-
 ### I.A.R.80-C series 251-290
 
 Armament changed to four 7.92mm MGs and two 20mm MG FF/M guns,

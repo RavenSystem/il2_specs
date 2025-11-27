@@ -53,8 +53,7 @@ Nieuport 28 поступил в американские боевые части
 2) The Nieuport 28 C.1. Profile Publications Number 79.
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа (импорт из Великобритании)

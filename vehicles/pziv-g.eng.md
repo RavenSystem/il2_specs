@@ -97,7 +97,6 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 4 intercom terminals.
 
 ## Modifications
-
 ### Armour Piercing High Explosive Shells
 
 7,5 cm Pzgr. 39

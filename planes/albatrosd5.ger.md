@@ -60,8 +60,7 @@ Referenzen
 4) Albatros Aces of World War I by Norman Franks, Osprey №32
 5) Albatros fighters in action by John F Connors.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Nadelanzeige für 2 Maschinengewehre

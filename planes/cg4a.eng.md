@@ -40,7 +40,6 @@ Operation features:
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).
 
 ## Modifications
-
 ### Braking Parachute
 
 Installation of braking parachute for reducing the landing run distance

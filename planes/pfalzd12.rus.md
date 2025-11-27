@@ -54,8 +54,7 @@
 2) The Pfalz D.XII, Profile Publications Number 199.
 3) WW I Aero №124, May 1989.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Счётчики патронов
 
 Цифровые счётчики патронов Wilhelm Morell для двух пулемётов

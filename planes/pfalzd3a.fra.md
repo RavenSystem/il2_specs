@@ -57,8 +57,7 @@ References
 4) Flight magazine, Aprel 1918.
 5) The Pfalz D.III , Profile Publications Number 43.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Haut Altimètre
 
 D.R.P Altimètre (0-8000 m)

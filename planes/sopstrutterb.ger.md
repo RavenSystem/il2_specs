@@ -54,8 +54,7 @@ Referenzen:
 1) Windsock Datafile 34 - Sopwith Strutter, by J.M. Bruce.
 2) WWI Aeroplanes by J.M. Bruce.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier

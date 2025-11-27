@@ -133,8 +133,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 6,2 l/min
 	- Modo motor - Combate: 7,7 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor Merlin 45
 
 Nuevo motor Merlin 45

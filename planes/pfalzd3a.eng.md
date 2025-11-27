@@ -58,7 +58,6 @@ References
 5) The Pfalz D.III , Profile Publications Number 43.
 
 ## Modifications
-
 ### High Altimeter
 
 D.R.P Altimeter (0-8000 m)

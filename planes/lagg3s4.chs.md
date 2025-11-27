@@ -110,7 +110,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 2.7 l/min
 
 ## 修改
-
 ### RPK-10 无线电罗盘
 
 用于无线电信标导航的固定环形无线电罗盘

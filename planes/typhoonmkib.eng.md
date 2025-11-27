@@ -112,7 +112,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 12.3 l/min
 
 ## Modifications
-
 ### Sabre IIA engine with +11 lb boost
 
 Sabre IIA engine with +11 lb boost

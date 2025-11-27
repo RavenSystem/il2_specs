@@ -58,8 +58,7 @@ References
 5) Albatros fighters in action by John F Connors.
 6) Albatros fighters, Windsock Datafile Special.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis

@@ -51,8 +51,7 @@ Disparo frontal: 1 LMG 08/15 Spandau de 7,92mm, hasta 500 balas
 Referencias:
 1) Halberstadt Fightres, Windsock Datafile Special.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (trofeo)
 
 Colimador reflectante Aldis

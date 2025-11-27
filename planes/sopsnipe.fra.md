@@ -59,8 +59,7 @@ References:
 3) Sopwith Snipe. J.M. Bruce Windsock Datafile 46.
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis

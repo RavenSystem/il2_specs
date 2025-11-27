@@ -58,8 +58,7 @@ Oberursel UR II ротативный 9-цилиндровый 110 л.с.
 5) German Aircraft of the First World War. By P.Gray, O.Thetford.
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Указатель наклона
 
 Жидкостный указатель наклона D.R.G.M (отображает крен на земле и скольжение в полёте)

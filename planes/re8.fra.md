@@ -56,8 +56,7 @@ References
 2) WWI Aeroplanes by J.M. Bruce.
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis

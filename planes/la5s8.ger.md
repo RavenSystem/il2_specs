@@ -124,7 +124,6 @@ Basic data and recommended positions of the aircraft controls:
 
 ## Änderungen
 
-
 ### Spezielle Geschützmunition
 
 Ausstattungsvarianten: entweder nur panzerbrechend (PB) oder nur explosiv (E)

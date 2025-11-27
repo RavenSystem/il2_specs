@@ -51,8 +51,7 @@
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа (импорт из Великобритании)

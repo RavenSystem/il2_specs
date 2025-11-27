@@ -52,8 +52,7 @@ Référence:
 2) The De Haviland D.H.2. Profile publications Number 91
 3) Airco DH2. Windsock Datafile 48.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Lumière de cockpit
 
 Lumière à ampoule pour les sorties de nuit

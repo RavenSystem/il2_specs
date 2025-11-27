@@ -109,7 +109,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.5 l/min
 
 ## Modifications
-
 ### Mirror
 
 Rear view mirror

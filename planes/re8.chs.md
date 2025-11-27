@@ -57,7 +57,6 @@ References
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具

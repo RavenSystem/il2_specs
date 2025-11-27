@@ -54,7 +54,6 @@ References
 3) Nieuport 28 by J Guttman. Windsock Datafile 36.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)

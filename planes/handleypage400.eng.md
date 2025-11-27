@@ -64,7 +64,6 @@ References
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
 ## Modifications
-
 ### 1650 lb SN heavy bomb
 
 1650 lb (748 kg) General Purpose Bomb

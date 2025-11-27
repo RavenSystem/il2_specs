@@ -120,8 +120,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 0.6 l/min
 	- Combat engine mode: 0.7 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Bombenlast
 
 Flügel- und Rumpfhalterungen mit Bomben

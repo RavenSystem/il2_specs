@@ -92,7 +92,6 @@ Wireless Set No. 19. HF/VHF transceiver.
 5 intercom terminals.
 
 ## 修改
-
 ### HE Mortar Rounds
 
 O-822Sh

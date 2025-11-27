@@ -69,8 +69,7 @@ Referencias:
 5) WWI Aeroplanes data, by J.M. Bruce.
 6) Various NACA reports.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

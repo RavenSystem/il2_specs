@@ -124,7 +124,6 @@ Basic data and recommended positions of the aircraft controls:
 
 ## Modifications
 
-
 ### Munitions spéciales
 
 Cartouches spécifiques: anti blindage (AB) ou explosive-brisante (EB)

@@ -52,7 +52,6 @@ References
 1) Halberstadt Fightres, Windsock Datafile Special.
 
 ## 修改
-
 ### 阿尔迪斯（Aldis）瞄准具（战利品）
 
 阿尔迪斯（Aldis）折射型直筒瞄准具

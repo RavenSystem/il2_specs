@@ -59,8 +59,7 @@ V8 Hispano-Suiza 8Ba, мощность 220 л.с.
 3) Performance of American Corp. SPAD XIII AIRFRAME DATA.
 4) Performance (Report No.5). Aeronautiqe Militare Ministre de la Guerre, 1917.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа (импорт из Великобритании)

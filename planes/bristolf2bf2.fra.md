@@ -89,8 +89,7 @@ References
 8) Various NACA reports.
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis

@@ -55,8 +55,7 @@
 2) The Sopwith Triplane. Profile publications Number 73
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

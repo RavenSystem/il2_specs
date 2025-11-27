@@ -107,7 +107,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 14.2 l/min
 
 ## Modifications
-
 ### 2 x 1000 lb M.C. bomb
 
 2 x 1000 lb Medium Capacity Bombs

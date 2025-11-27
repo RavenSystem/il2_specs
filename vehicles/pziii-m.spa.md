@@ -99,8 +99,7 @@ Mira telescópica KZF 2 en operador de radio, campo de visión de 18°
 Transmisor-receptor VHF Fu 5
 4 intercomunicadores
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes explosivos (APHE)
 
 Pzgr. 39 de 5 cm

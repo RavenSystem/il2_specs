@@ -58,8 +58,7 @@
 5) Albatros fighters in action by John F Connors.
 6) Albatros fighters, Windsock Datafile Special.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Коллиматорный прицел
 
 Коллиматорный прицел Aldis (трофейный) рефракторного типа

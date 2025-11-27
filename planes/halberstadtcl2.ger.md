@@ -71,8 +71,7 @@ Referenzen
 2) Report on the Halberstadt Fighter, October 1918, Flight.
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier

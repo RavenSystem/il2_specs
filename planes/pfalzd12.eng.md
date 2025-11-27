@@ -56,7 +56,6 @@ References
 3) WW I Aero №124, May 1989.
 
 ## Modifications
-
 ### Bullet counters
 
 Wilhelm Morell digital bullet counters for 2 machine guns

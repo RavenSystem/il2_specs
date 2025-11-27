@@ -55,7 +55,6 @@ References
 4) Fokker E.III. RFC test, 100hp gnome engine, tested may 1916.
 
 ## Modifications
-
 ### Clock
 
 Mechanical Clock

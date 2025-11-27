@@ -70,7 +70,6 @@ References
 6) Various NACA reports.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

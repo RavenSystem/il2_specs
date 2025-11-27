@@ -57,8 +57,7 @@
 4) Flight magazine, Aprel 1918.
 5) The Pfalz D.III , Profile Publications Number 43.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Высотомер
 
 Высотомер больших высот D.R.P (0-8000 м)

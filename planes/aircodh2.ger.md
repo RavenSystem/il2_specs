@@ -52,8 +52,7 @@ Referenzen:
 2) The De Haviland D.H.2. Profile publications Number 91
 3) Airco DH2. Windsock Datafile 48.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Instrumentenlicht
 
 Glühlampe zum Beleuchten des Instrumentenbrettes bei Nachteinsätzen

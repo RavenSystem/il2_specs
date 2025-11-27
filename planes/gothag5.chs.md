@@ -70,7 +70,6 @@ Tail upper position: 1 х Parabellum LMG 14/17 7,92 mm，4个弹鼓每个250发
 4) The Gotha. Flight magazine 1917.
 
 ## 修改
-
 ### P.u.W. 炸弹
 
 最多12 x 12.5 kg P.u.W. 通用炸弹

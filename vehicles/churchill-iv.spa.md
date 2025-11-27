@@ -91,8 +91,7 @@ Mira telescópica No.39 Mk IIs en ametrallador, campo de visión de 21°
 Transmisor-receptor HF/VHF <i>Wireless Set No. 19</i>
 5 intercomunicadores
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Granadas explosivas de mortero
 
 O-822Sh

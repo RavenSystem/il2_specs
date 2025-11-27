@@ -72,8 +72,7 @@ Referencias:
 2) Informe sobre el caza Halberstadt, octubre de 1918.
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (Trofeo)
 
 Colimador reflectante Aldis

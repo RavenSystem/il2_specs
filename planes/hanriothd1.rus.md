@@ -51,8 +51,7 @@ Hanriot HD.1 был разработан авиаинженером фирмы "
 Использованные источники
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Пулемёт Vickers
 
 Носовой пулемёт Vickers "Balloon" gun.

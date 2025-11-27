@@ -64,8 +64,7 @@ Sh.IIIa контр-ротативный 11-цилиндровый, 207 л.с.
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Счётчики патронов
 
 Счётчики патронов стрелочные Wilhelm Morell для двух пулемётов

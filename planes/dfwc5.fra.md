@@ -62,8 +62,7 @@ References:
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis

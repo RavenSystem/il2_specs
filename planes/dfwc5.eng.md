@@ -63,7 +63,6 @@ References:
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

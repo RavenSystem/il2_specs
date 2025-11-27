@@ -51,8 +51,7 @@ Starre Bewaffnung nach vorne: 1 х Vickers Mk.I 7.69mm, 500 Schuss pro Magazin.
 Referenzen
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Ballon Maschinengewehre
 
 Vickers "Ballon" Maschinengewehr

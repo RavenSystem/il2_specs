@@ -55,8 +55,7 @@ V8 Hispano-Suiza 8Ab, мощность 180 л.с. (1540 об/мин)
 3) SPAD 150 HP armamento, dec.1917
 4) French \Hispano Suiza\ engines tech data.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа (импорт из Великобритании)

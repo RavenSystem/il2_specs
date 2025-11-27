@@ -56,8 +56,7 @@ References:
 1) Windsock Datafile 34 - Sopwith Strutter, by J.M. Bruce.
 2) WWI Aeroplanes by J.M. Bruce.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis

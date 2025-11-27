@@ -105,8 +105,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 8.9 l/min
 	- Modo motor - Combate: 14.2 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### 2 bombas M.C. de 1000 lb
 
 2 bombas de capacidad media (M.C., Medium Capacity) de 1000 lb.

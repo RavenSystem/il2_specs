@@ -65,8 +65,7 @@ OZR-132 high explosive (HE): 288 g, 910 m/s, 13 g explosives.
 K8-T collimator gunsight with automatic correction process.
 Reserve iron sights.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Panzerbrechende Granaten
 
 BR-132

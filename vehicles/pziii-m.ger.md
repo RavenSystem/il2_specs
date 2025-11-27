@@ -99,8 +99,7 @@ KZF 2 machinegunner scope-sight, field of view 18°.
 VHF Fu 5 transceiver with additional Fu 2 receiver.
 3 intercom terminals.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Panzersprenggranaten
 
 5 cm Pzgr. 39

@@ -62,8 +62,7 @@ Referenzen:
 6) A History of No.10 Sq. RNAS in WWI. Mike Westrop, Schiffer Military History.
 7) Sopwith Camel Specification.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier

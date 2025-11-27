@@ -56,8 +56,7 @@ Referencias:
 3) Sopwith Pup Aces of World War I. Osprey Aircraft of the Aces 67.
 4) The Sopwith Pup. Profile publications Número 13.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

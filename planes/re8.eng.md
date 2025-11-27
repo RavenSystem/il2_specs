@@ -57,7 +57,6 @@ References
 3) Putnam. Paul R. Hare. The Royal Aircraft Factory.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

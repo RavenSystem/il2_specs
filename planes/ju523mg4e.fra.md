@@ -116,8 +116,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.1 l/min
 	- Combat engine mode: 10.6 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### Cargaison, 2300 kg
 
 Cargaison militaire, 2300 kg

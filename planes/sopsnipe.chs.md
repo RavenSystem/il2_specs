@@ -61,7 +61,6 @@ Only a handful of squadrons got the new aircraft in time to use it on the Wester
 4) Dolphin and Snipe Aces of Wold War I. Norman Franks, Osprey №48.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具

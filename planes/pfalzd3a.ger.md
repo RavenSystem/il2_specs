@@ -57,8 +57,7 @@ Referenzen
 4) Flight magazine, Aprel 1918.
 5) The Pfalz D.III , Profile Publications Number 43.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Kompensierter Höhenmesser,
 
 D.R.P kompensierter Höhenmesser (0-8000 m)

@@ -60,8 +60,7 @@ Referencias:
 5) Albatros fighters in action, por John F Connors.
 6) Albatros fighters, Windsock Datafile Special.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (trofeo)
 
 Colimador reflectante Aldis

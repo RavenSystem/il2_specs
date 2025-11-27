@@ -62,8 +62,7 @@ Referenzen:
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier

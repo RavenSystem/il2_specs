@@ -59,7 +59,6 @@ D.VII飞行员留意到，该机型具有良好的爬升速度、出色的驾驶
 5) Profile publications. The Fokker D.VII Number 25.
 
 ## 修改
-
 ### 高空高度计
 
 德意志帝国（D.R.P.）高度表（0-8000m）

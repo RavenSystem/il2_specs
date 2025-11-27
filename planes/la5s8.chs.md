@@ -123,7 +123,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 11.1 l/min
 
 ## 修改
-
 ### 特殊枪炮弹药装载
 
 装载种类：仅穿甲（AP）或高爆（HE）弹药

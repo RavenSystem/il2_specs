@@ -70,8 +70,7 @@
 3) The Gotha G1-G5. Profile Publications Number 115
 4) The Gotha. Flight magazine 1917.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Авиабомбы P.u.W.
 
 До 7 осколочно-фугасных авиабомб 50 kg P.u.W.

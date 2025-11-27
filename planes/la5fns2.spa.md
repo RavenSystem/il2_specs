@@ -122,7 +122,6 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Combate: 12,3 l/min
 
 ## Modificaciones
-
 ### Munición especial
 
 Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE)

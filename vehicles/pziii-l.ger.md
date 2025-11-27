@@ -89,8 +89,7 @@ Tzf 5f2 gunner scope-sight, field of view 25°.
 <b><u>ACHTUNG:</u></b>
 Dieser Panzer ist für jeden Benutzer von IL-2 Great Battles kostenlos. Die Panzer der Tank Crew - Erweiterung haben eine wesentlich detailliertere Außen- und Innenausstattung der einzelnen Stationen der Besatzung.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Panzersprenggranaten
 
 5 cm Pzgr. 39

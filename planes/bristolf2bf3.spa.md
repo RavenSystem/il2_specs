@@ -87,8 +87,7 @@ Referencias:
 8) Various NACA reports.
 9) Various RFC trial reports on Bristol Fighter, 1917-1918.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

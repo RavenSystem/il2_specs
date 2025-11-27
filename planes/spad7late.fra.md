@@ -55,8 +55,7 @@ References
 3) SPAD 150 HP armamento, dec.1917
 4) French \Hispano Suiza\ engines tech data.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)

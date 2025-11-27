@@ -59,8 +59,7 @@ Referencias:
 4) Fokker D.VII in action. Por D. Edgar Brannon Aircraft Number 166.
 5) Profile publications. The Fokker D.VII Number 25.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Altímetro de alta cota
 
 Altímetro de D.R.P (0-8000 m)

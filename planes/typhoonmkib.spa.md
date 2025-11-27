@@ -112,8 +112,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 7,7 l/min
 	- Modo motor - Combate: 12,3 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Motor Sabre IIA con impulso +11 lb
 
 Motor Sabre IIA con impulso +11 lb

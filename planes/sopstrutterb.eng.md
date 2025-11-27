@@ -56,7 +56,6 @@ References
 2) WWI Aeroplanes by J.M. Bruce.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

@@ -54,8 +54,7 @@
 1) Windsock Datafile 34 - Sopwith Strutter, by J.M. Bruce.
 2) WWI Aeroplanes by J.M. Bruce.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

@@ -111,7 +111,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.5 l/min
 
 ## Modifications
-
 ### Ammo counter
 
 NS-37 gun ammo counter

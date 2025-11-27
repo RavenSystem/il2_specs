@@ -54,8 +54,7 @@ Referenzen
 2) The Pfalz D.XII, Profile Publications Number 199.
 3) WW I Aero №124, May 1989.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Schusszähler
 
 Wilhelm Morell Schusszähler mit Sprungzahlenanzeige für 2 Maschinengewehre

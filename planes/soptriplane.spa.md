@@ -59,8 +59,7 @@ Referencias:
 2) The Sopwith Triplane. Profile publications, n.º 73
 3) Sopwith Triplane Aces of World War I. Osprey Aircraft of the Aces 62.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

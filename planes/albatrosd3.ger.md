@@ -57,8 +57,7 @@ Referenzen
 5) Albatros fighters in action by John F Connors.
 6) Albatros fighters, Windsock Datafile Special.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis (Trophäe)
 
 Aldis Teleskopvisier

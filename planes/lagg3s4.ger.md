@@ -109,8 +109,7 @@ Basic data and recommended positions of the aircraft controls:
 4. Approximate fuel consumption at 2000 m altitude:
 	- Cruise engine mode: 2.7 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 
 ### RPK-10
 

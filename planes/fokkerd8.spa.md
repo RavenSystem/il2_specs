@@ -58,8 +58,7 @@ Referencias:
 5) German Aircraft of the First World War. Por P.Gray, O.Thetford.
 6) File D 52.1/Fokker/55 McCOOK FIELD REPORT, SERIAL No. 1669.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Inclinómetro
 
 Inclinómetro Líquido D.R.G.M (indica inclinación en tierra y deslizamiento lateral en vuelo)

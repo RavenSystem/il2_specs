@@ -116,7 +116,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 10.6 l/min
 
 ## Modifications
-
 ### 2300 kg of cargo
 
 2300 kg of military cargo payload

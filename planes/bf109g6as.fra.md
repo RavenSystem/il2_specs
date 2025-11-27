@@ -137,8 +137,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 5.3 l/min
 	- Combat engine mode: 8.2 l/min
 
-## Modifications
-﻿
+## Modifications﻿
 ### DB-605ASM engine
 
 DB-605ASM engine with C3 fuel and MW-50 System tank (empty)

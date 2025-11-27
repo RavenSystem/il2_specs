@@ -53,8 +53,7 @@ Referencias
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol. 1 y vol. 2.
 3) The Nieuport 17. Profile Publications n.º 49.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)

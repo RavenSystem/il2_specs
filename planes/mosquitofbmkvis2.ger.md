@@ -126,7 +126,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 21.6 l/min
 
 ## Änderungen
-
 ### 150 grade fuel
 
 Allows +25 lb boost

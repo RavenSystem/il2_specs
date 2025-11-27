@@ -62,8 +62,7 @@ Referencias:
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 53 DFW C.V, por P.M. Grosz.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis (Trofeo)
 
 Colimador reflectante Aldis

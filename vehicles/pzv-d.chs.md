@@ -93,7 +93,6 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 4 intercom terminals.
 
 ## 修改
-
 ### 穿甲榴弹
 
 7，5 cm Pzgr.39/42

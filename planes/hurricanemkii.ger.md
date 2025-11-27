@@ -128,8 +128,7 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 6.0 l/min
 	- Combat engine mode: 9.9 l/min
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Merlin XX Motor mit +14 lb Ladedruck
 
 Merlin XX Motor mit +14 lb Ladedruck

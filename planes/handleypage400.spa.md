@@ -67,8 +67,7 @@ Referencias:
 3) Handley Page O/400 Specification.
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, página 81.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### 1 bomba pesada 1650 lb SN
 
 1 bomba de propósito general de 1650 lb (748 kg)

@@ -73,8 +73,7 @@ Referencias:
 8) The Fokker Dr.I, Profile publications, número 55.
 9) The Fokker Triplane, Magazine «FLIGHT» 14 de marzo de 1918.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras

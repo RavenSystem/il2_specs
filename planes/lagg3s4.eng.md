@@ -110,7 +110,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 2.7 l/min
 
 ## Modifications
-
 ### RPK-10
 
 Fixed loop radio compass for navigation with radio beacons

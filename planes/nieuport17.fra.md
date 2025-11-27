@@ -51,8 +51,7 @@ References
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.
 3) Profile Publications. The Nieuport 17 Number 49.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)

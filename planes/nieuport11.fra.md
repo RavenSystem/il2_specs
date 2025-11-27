@@ -50,8 +50,7 @@ References
 2) Nieuport Fighters. JM Bruce Windsock Datafile, vol.1 and vol.2.
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis
 
 Collimateur à réfraction Aldis (importé dAngleterre)

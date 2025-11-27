@@ -119,8 +119,7 @@ Mira periscópica Sfl ZF 1a en artillero, campo de visión de 8°
 Transmisor-receptor VHF Fu 5
 5 intercomunicadores
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Proyectiles perforantes explosivos (APHE)
 
 Pzgr. 39/43 de 8,8 cm

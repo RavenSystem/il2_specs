@@ -60,8 +60,7 @@ Referenzen
 3) Dolphin and Snipe Aces of Wold War I.  Norman Franks,  Osprey №48.
 4) Sopwith Dolphin Specification.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Aldis
 
 Aldis Teleskopvisier

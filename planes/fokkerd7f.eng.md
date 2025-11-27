@@ -78,7 +78,6 @@ References
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry, Directorate of Research. May, 1919.
 
 ## Modifications
-
 ### High Altimeter
 
 D.R.P Altimeter (0-8000 m)

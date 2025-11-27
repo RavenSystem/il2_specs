@@ -77,8 +77,7 @@ Referencias:
 9) NACA REPORT No.135. Performance of B.M.W. 185-horsepower airplane engine. Por S.W.Sparrow. Bureau of Standards. 1919.
 10) Report on the 230 H.P.Bayern Aero Engine. Air Ministry, Directorate of Research. Mayo de 1919.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Altímetro de alta cota
 
 Altímetro de D.R.P (0-8000 m)

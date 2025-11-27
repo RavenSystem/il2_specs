@@ -110,7 +110,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Cruise engine mode: 7.5 l/min
 
 ## 修改
-
 ### 弹药计数器
 
 NS-37机炮弹药计数器

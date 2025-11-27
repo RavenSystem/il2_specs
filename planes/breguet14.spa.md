@@ -60,8 +60,7 @@ Referencias:
 2) Windsock Datafile Special Breguet 14, por Alan D. Toelle.
 3) Profile Publications The Breguet 14, número 157.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

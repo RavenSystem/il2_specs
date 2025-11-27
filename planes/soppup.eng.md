@@ -55,7 +55,6 @@ References:
 4) The Sopwith Pup. Profile publications Number 13.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

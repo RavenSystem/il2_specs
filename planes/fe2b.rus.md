@@ -58,8 +58,7 @@
 2) Windsock Datafile 147 RAF FE 2b at War, by Paul R Hare.
 2) WWI Aeroplanes by J.M. Bruce.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Бомбы Купера / H.E.R.L. / H.E.R.F.C.
 
 До 12 осколочно-фугасных 24-фунтовых авиабомб Купера (11 кг)

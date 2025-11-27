@@ -62,8 +62,7 @@ Bentley B.R.2, ротативный 9-цилиндровый, 234 л.с.
 3) Sopwith Snipe. J.M. Bruce Windsock Datafile 46.
 4) Dolphin and Snipe Aces of Wold War I.  Norman Franks, Osprey №48.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

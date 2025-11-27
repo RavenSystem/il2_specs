@@ -55,8 +55,7 @@ Referencias:
 3) SPAD 150 CV armamento, dic.1917
 4) French «Hispano Suiza» engines tech data.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis (importado de Gran Bretaña)

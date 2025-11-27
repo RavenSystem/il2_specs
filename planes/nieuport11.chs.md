@@ -52,7 +52,6 @@ References
 3) Nieuport Aces of World War 1. Osprey Aircraft of the Aces Number 33.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)

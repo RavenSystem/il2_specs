@@ -135,7 +135,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 7.7 l/min
 
 ## Modifications
-
 ### Merlin 45 engine
 
 Merlin 45 engine. 

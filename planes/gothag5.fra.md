@@ -67,8 +67,7 @@ References:
 3) The Gotha G1-G5. Profile Publications Number 115
 4) The Gotha. Flight magazine 1917.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Bombes P.u.W.
 
 12 bombes d’emploi général 12.5 kg P.u.W

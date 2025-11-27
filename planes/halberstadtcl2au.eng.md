@@ -75,7 +75,6 @@ References
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.
 
 ## Modifications
-
 ### Aldis (Trophy)
 
 Aldis Refractor-type Collimator Sight

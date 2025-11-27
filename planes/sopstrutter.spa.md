@@ -60,8 +60,7 @@ Referencias:
 1) Windsock Datafile 34 - Sopwith Strutter, por J.M. Bruce.
 2) WWI Aeroplanes por J.M. Bruce.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

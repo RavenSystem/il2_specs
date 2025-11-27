@@ -56,7 +56,6 @@ References
 4) French \Hispano Suiza\ engines tech data.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight (imported from Britain)

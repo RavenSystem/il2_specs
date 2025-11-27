@@ -59,7 +59,6 @@ References
 4) Profile Publications, The S.E. 5A Number 1.
 
 ## Modifications
-
 ### Aldis
 
 Aldis Refractor-type Collimator Sight

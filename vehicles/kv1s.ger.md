@@ -93,8 +93,7 @@ PT4-7 gunner panoramic periscopic sight, field of view 26°.
 VHF 9-RM transceiver.
 4 intercom terminals.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Panzerbrechende Granaten
 
 BR-350BSP

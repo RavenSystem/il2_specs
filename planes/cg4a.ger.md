@@ -39,8 +39,7 @@ Eigenschaften:
 - The airplane tailwheel rotates freely and does not have a lock.
 - To provide shorter landing run drogue chute could be installed as modification. Maximum speed of drogue chute release (LAlt + D) is 225 km/h. After successfull landing and braking drogue chute should be jettisoned (LAlt + D).
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Bremsfallschirms
 
 Einbau eines Bremsfallschirms zur Reduzierung der Landestrecke

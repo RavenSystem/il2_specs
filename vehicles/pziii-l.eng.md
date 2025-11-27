@@ -90,7 +90,6 @@ Tzf 5f2 gunner scope-sight, field of view 25°.
 This tank is free to any IL-2 Great Battles user. Tank Crew expansion tanks have siginficantly more detailed exterior and interior of the crew stations.
 
 ## Modifications
-
 ### Armour Piercing High Explosive Shells
 
 5 cm Pzgr. 39

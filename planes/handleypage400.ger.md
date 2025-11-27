@@ -63,8 +63,7 @@ Literaturangaben
 3) Handley Page O/400 Specification.
 4) Aviation Enthusiast Magazine. Viewed from the Cockpit, page 81.
 
-## Änderungen
-﻿
+## Änderungen﻿
 
 ### 1650 lb SN Schwere Bombe
 

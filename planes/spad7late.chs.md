@@ -55,7 +55,6 @@ SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives
 4) French \Hispano Suiza\ engines tech data.
 
 ## 修改
-
 ### 阿尔迪斯（Alidas）瞄准具
 
 阿尔迪斯（Alidas）折射型直筒瞄准具 (从英国进口)

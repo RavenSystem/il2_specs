@@ -61,8 +61,7 @@ DFW C.V начал поступать в специальные отряды Luf
 1) Schlachtflieger by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 53 DFW C.V by P.M. Grosz.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis (Трофейный)
 
 Коллиматорный прицел Aldis рефракторного типа

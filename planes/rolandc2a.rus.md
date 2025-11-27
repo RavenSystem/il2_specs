@@ -60,8 +60,7 @@ Mercedes D.III рядный 6—цилиндровый, 162 л.с.
 1) Schlachtflieger  by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 49 LFG Roland C.II by P.M. Grosz.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis (Трофейный)
 
 Коллиматорный прицел Aldis рефракторного типа

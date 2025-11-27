@@ -61,8 +61,7 @@ Schwebekreis Visier 38 mechanical AA gunsight.
 ZF 3x8 telescopic gunsight for engaging ground targets.
 Reserve iron sights.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### Panzerbrechende Granaten
 
 2 cm Pzgr. Lspur

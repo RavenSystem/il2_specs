@@ -115,8 +115,7 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Crucero: 7.1 l/min
 	- Modo motor - Combate: 10.6 l/min
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### 2300 kg de carga en cajas
 
 2300 kg de cargamento militar en cajas

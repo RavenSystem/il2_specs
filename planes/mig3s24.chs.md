@@ -133,7 +133,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 7.2 l/min
 
 ## 修改
-
 ### AM-38 Engine
 
 The AM-38 engine modification provides more power than the AM-35A model below 4 km altitude, but exceeds the capability of the existing cooling system and may result in water and oil overheating, especially when the air temperature exceeds 15 degrees Celsius.

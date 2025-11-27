@@ -65,7 +65,6 @@ References:
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## Modifications
-
 ### Bullet Counters
 
 Wilhelm Morell needle scale Bullet Counters for 2 machine guns

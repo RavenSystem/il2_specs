@@ -77,8 +77,7 @@ Oberursel UR II  ротативный 9—цилиндровый, мощност
 7) The Fokker Dr.I, Profile publications, Number 55.
 8) The Fokker Triplane, Magazine "FLIGHT" 14 March 1918.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Счётчики патронов
 
 Счётчики патронов стрелочные Wilhelm Morell для двух пулемётов

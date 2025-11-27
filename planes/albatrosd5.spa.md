@@ -62,8 +62,7 @@ Referencias:
 4) Albatros Aces of World War I, por Norman Franks, Osprey n.º 32
 5) Albatros fighters in action, por John F Connors.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Contador de Balas
 
 Contador de balas dial de Wilhelm Morell para 2 ametralladoras

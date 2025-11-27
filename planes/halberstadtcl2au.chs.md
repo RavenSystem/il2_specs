@@ -75,7 +75,6 @@
 3) Windsock Datafile 27 Halberstadt CL.II P.M. Grosz.
 
 ## 修改
-
 ### 阿尔迪斯（Aldis）瞄准具（战利品）
 
 阿尔迪斯（Aldis）折射型直筒瞄准具

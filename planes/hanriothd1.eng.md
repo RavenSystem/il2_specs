@@ -52,7 +52,6 @@ References
 1) Windsock Datafile 12 - Hanriot HD.1, by J.M. Bruce.
 
 ## Modifications
-
 ### Balloon gun
 
 Vickers "Balloon" gun

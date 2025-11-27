@@ -129,7 +129,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 9.9 l/min
 
 ## Modifications
-
 ### Merlin XX engine with +14 lb boost
 
 Merlin XX engine with +14 lb boost

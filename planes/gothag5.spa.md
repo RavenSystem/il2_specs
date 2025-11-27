@@ -71,8 +71,7 @@ Referencias:
 3) The Gotha G1-G5. Profile Publications, número 115
 4) The Gotha. Flight magazine 1917.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Bombas P.u.W.
 
 Hasta 12 bombas de propósito general de 12,5 kg P.u.W (Prünfanstalt und der Werft Fliegertruppe)

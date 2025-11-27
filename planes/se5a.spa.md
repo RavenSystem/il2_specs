@@ -59,8 +59,7 @@ Referencias:
 3) RAF S.E.5 and S.E.5a Specification.
 4) Profile Publications, The S.E. 5A Number 1.
 
-## Modificaciones
-﻿
+## Modificaciones﻿
 ### Aldis
 
 Colimador reflectante Aldis

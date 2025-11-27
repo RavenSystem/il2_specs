@@ -91,8 +91,7 @@ No.39 Mk IIs machinegunner telescopic sight, field of view 21°.
 Wireless Set No. 19. HF/VHF transceiver.
 5 intercom terminals.
 
-## Änderungen
-﻿
+## Änderungen﻿
 ### HE Mortar Rounds
 
 O-822Sh

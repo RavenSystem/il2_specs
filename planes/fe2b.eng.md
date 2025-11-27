@@ -59,7 +59,6 @@ References
 2) WWI Aeroplanes by J.M. Bruce.
 
 ## Modifications
-
 ### Cooper / H.E.R.L. / H.E.R.F.C. bombs
 
 Up to 12 x 11 kg (24 lb) General Purpose Bombs

@@ -59,8 +59,7 @@ References
 1) Schlachtflieger  by Rick Duiven, Dan-San Abbott.
 2) Windsock Datafile 49 LFG Roland C.II by P.M. Grosz.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Aldis (Trophée)
 
 Collimateur à réfraction Aldis

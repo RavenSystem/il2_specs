@@ -58,8 +58,7 @@ References
 2) Windsock Datafile 147 RAF FE 2b at War, by Paul R Hare.
 2) WWI Aeroplanes by J.M. Bruce.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Cooper / H.E.R.L. / H.E.R.F.C. bombes
 
 12 x bombes d’emploi général 24 lb Cooper (11 kg)

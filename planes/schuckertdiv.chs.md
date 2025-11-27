@@ -60,7 +60,6 @@ SSW D.IV came very late to the Great War, too late to change Germany’s fortune
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
 ## 修改
-
 ### 弹药计数器
 
 2挺机枪的威廉·莫雷尔（Wilhelm Morell）针式刻度弹药计数器

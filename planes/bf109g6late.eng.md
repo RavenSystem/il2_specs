@@ -120,7 +120,6 @@ Basic data and recommended positions of the aircraft controls:
 	- Combat engine mode: 8.6 l/min
 
 ## Modifications
-
 ### 21 cm BR
 
 Two WGr.21 rockets in jettisonable launchers

@@ -56,8 +56,7 @@ Le Rhône 9C, ротативный, 80 л.с.
 3) Sopwith Pup Aces of World War I. Osprey Aircraft of the Aces 67.
 4) The Sopwith Pup. Profile publications Number 13.
 
-## Модификации
-﻿
+## Модификации﻿
 ### Aldis
 
 Коллиматорный прицел Aldis рефракторного типа

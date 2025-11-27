@@ -64,8 +64,7 @@ References
 5) Siemens-Schuckert Aircraft of WWI, Jack Herris.
 6) Windsock Datafile №29 SSW D.III-D.IV, P.M. Grosz.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Compteur de balles
 
 Compteur à aiguille Wilhelm Morell pour 2 mitrailleuses

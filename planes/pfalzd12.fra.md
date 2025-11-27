@@ -54,8 +54,7 @@ References
 2) The Pfalz D.XII, Profile Publications Number 199.
 3) WW I Aero №124, May 1989.
 
-## Modifications
-﻿
+## Modifications﻿
 ### Compteur de balles
 
  Compteur digital Wilhelm Morell pour 2 mitrailleuses
