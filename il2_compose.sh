@@ -28,7 +28,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
     mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
     
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
-    printf "### $VEHICLE_TYPE_U\r\n\r\n" >> "$TARGET_DIR/README.md"
+    printf "### $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
     
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
@@ -39,7 +39,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
     done
     
-    printf "\r\n\r\n" >> "$TARGET_DIR/README.md"
+    printf "\n\n" >> "$TARGET_DIR/README.md"
     
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
 done
@@ -49,7 +49,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
     mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
 
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
-    printf "## $VEHICLE_TYPE_U\r\n\r\n" >> "$TARGET_DIR/README.md"
+    printf "## $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
 
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
@@ -91,36 +91,39 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             sed -i.bak -e "s/.*&name=/# /g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-            sed -i.bak -e "s/&description=/\r\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\r\n\r\n## $IL2_DESCRIPTION\r\n\r\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             if [ -d "$VEHICLE_TYPE/$VEHICLE_NAME/modifications" ]; then
-                printf "\r\n\r\n## $IL2_MODIFICATIONS\r\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                printf "\n\n## $IL2_MODIFICATIONS\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 
                 ls -1 "$VEHICLE_TYPE/$VEHICLE_NAME/modifications" | while read MOD; do
                     cat "$VEHICLE_TYPE/$VEHICLE_NAME/modifications/$MOD/info.locale=$IL2_LOCALE.txt" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 done
 
-                sed -i.bak -e "s/&name=/\r\n\n### /g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-                sed -i.bak -e "s/&description=/\r\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e "s/&name=/\n\n### /g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e "s/&description=/\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             fi
-
+            
             sed -i.bak -e "s/[^[:print:]]*$/  &/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             sed -i.bak -e "s/\%25/\%/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            
+            sed -i.bak -e "s/\n\n\n\n/\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e "s/\n\n\n/\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             rm -f "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md.bak"
         done
 
         printf "##" >> "$TARGET_DIR/README.md"
         head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
-        printf "\r\n" >> "$TARGET_DIR/README.md"
+        printf "\n" >> "$TARGET_DIR/README.md"
 
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
         done
 
-        printf "\r\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)\r\n\r\n" >> "$TARGET_DIR/README.md"
+        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)\n\n" >> "$TARGET_DIR/README.md"
     done
 
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
