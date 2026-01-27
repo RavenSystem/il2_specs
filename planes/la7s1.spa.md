@@ -1,6 +1,6 @@
-# La-5FN ser.2  
+# La-7 ser.1  
 
-![la5fns2](../images/la5fns2.png)  
+![la7s1](../images/la7s1.png)  
 
 ## Descripción  
 
@@ -11,15 +11,12 @@ Carga de rotura máxima (en fuerzas <i>g</i>): 10 <i>g</i>
 Ángulo de ataque crítico en configuración de vuelo: 22,2°  
 Ángulo de ataque crítico en configuración de aterrizaje: 15,0°  
   
-Velocidad respecto al suelo al nivel del mar, modo motor - Continuo: 552 km/h  
-Velocidad respecto al suelo al nivel del mar, modo motor - Impulso: 583 km/h  
-Velocidad máxima respecto al suelo a 2500 m, modo motor - Continuo: 605 km/h  
-Velocidad máxima respecto al suelo a 6000 m, modo motor - Continuo: 646 km/h  
+Velocidad respecto al suelo al nivel del mar, modo motor - Continuo: 603 km/h  
+Velocidad máxima respecto al suelo a 2500 m, modo motor - Continuo: 641 km/h  
+Velocidad máxima respecto al suelo a 6000 m, modo motor - Continuo: 665 km/h  
   
-Techo de servicio: 9500 m  
-Tasa de ascenso al nivel del mar: 20 m/s  
-Tasa de ascenso a 3000 m: 16,7 m/s  
-Tasa de ascenso a 6000 m: 12,5 m/s  
+Techo de servicio: 10500 m  
+Tasa de ascenso a 1000 m: 24 m/s  
   
 Viraje de máximo rendimiento al nivel del mar: 21,0 s, a 320 km/h velocidad indicada (IAS).  
 Viraje de máximo rendimiento a 3000 m: 28,0 s, a 340 km/h velocidad indicada (IAS).  
@@ -54,25 +51,26 @@ Temperatura máxima en la culata: 250 °C
   
 Altitud conexión compresor: 3500 m  
   
-Peso vacío: 2655 kg  
-Peso mínimo (sin munición, 10% de combustible): 2929 kg  
-Peso estándar: 3305 kg  
-Peso máximo al despegue: 3544 kg  
-Carga de combustible: 334 kg / 464 l  
-Carga útil: 896 kg  
+Peso vacío: 2558 kg  
+Peso mínimo (sin munición, 10% de combustible): 2771 kg  
+Peso estándar: 3233 kg  
+Peso máximo al despegue: 3461 kg  
+Carga de combustible: 342 kg / 466 l  
+Carga útil: 783 kg  
   
 Armamento delantero:  
-2 cañones de 20 mm «ShVAK», 170 balas, 800 balas por minuto, sincronizados  
+2 cañones de 20 mm «ShVAK», 170 balas cada uno, 800 balas por minuto, sincronizados  
+3 cañones de 20 mm «B-20», 130 balas cada uno, 800 balas por minuto, sincronizados (modificación)  
   
 Bombas:  
 2 bombas de propósito general de 50 kg «FAB-50sv»  
 2 bombas de propósito general de 104 kg «FAB-100M»  
   
-Longitud: 8,672 m  
+Longitud: 8,640 m  
 Envergadura alar: 9,8 m  
 Superficie de ala: 17,51 m²  
   
-Debut en combate: junio de 1943  
+Debut en combate: mayo-junio de 1944  
   
 Características operativas:  
 - El motor tiene un modo impulso. Para activarlo, es necesario aumentar la presión del colector a 1180 mm Hg. Este modo funcionará con el compresor en la 1.ª etapa.  
@@ -122,9 +120,12 @@ Datos básicos y configuraciones recomendadas de los controles del avión:
 	- Modo motor - Combate: 12,3 l/min  
 
 ## Modificaciones  
-### Munición especial  
+### 3 cañones de 20 mm B-20  
 
-Variantes de equipamiento: balas antiblindaje (AP) o altamente explosivas (HE)  
+3 cañones de 20 mm B-20 con 130 balas por arma en lugar de los 2 cañones de 20 mm SHVAK por defecto  
+Peso adicional: 5 kg  
+Peso de munición: 87 kg  
+Peso de armas: 76,5 kg  
 
 ### 2 bombas FAB-100M  
 
@@ -154,6 +155,12 @@ Pérdida de velocidad estimada: 0 km/h
 
 Espejo para ver qué sucede detrás del avión  
 Peso adicional: 1 kg  
+Pérdida de velocidad estimada: 0 km/h  
+  ﻿
+### Mira reflectora  
+
+Mira reflectora PKI  
+Peso adicional: 0,5 kg  
 Pérdida de velocidad estimada: 0 km/h  
   ﻿
 ### RPK-10  
