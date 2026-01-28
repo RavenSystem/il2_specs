@@ -52,6 +52,15 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
     printf "## $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
 
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
+        NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
+        
+        cp -f "$VEHICLE_TYPE/$VEHICLE_NAME/preview2.png" "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+        
+        if [[ " albatrosd5 fokkerd7 fokkerd7f fokkerdr1 fw190d9 p47d28 pfalzd3a se5a sopcamel sopdolphin spad13 u2vs " == *" $NEW_VEHICLE_NAME "* ]]; then
+            sips --resampleHeightWidth 426 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+            sips --padToHeightWidth 512 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+        fi
+            
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             case "$IL2_LOCALE" in
                 "chs")
@@ -83,10 +92,6 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 IL2_MODIFICATIONS="Modificaciones"
                 ;;
             esac
-            
-            NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
-            
-            cp -f "$VEHICLE_TYPE/$VEHICLE_NAME/preview2.png" "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
 
             cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
