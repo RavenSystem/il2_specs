@@ -12,7 +12,7 @@
 
 ### Composer Configuration Data
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
-IL2_VERSION="7.003"
+IL2_VERSION="7.002"
 PILOTS_NOTES_VERSION="11.3"
 ###
 
