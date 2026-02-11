@@ -1,7 +1,8 @@
 # ЛаГГ-3 4 серии  
 
-![lagg3s4](../images/lagg3s4.png)  
-![lagg3s4](../pilots_notes/lagg3s4.png)  
+| Image | Notes  
+|:---|:---  
+| ![lagg3s4](../images/lagg3s4.png) | ![lagg3s4](../pilots_notes/lagg3s4.png)  
 
 ## Описание  
 

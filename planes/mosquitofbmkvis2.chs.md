@@ -1,7 +1,8 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-![mosquitofbmkvis2](../images/mosquitofbmkvis2.png)  
-![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)  
+| Image | Notes  
+|:---|:---  
+| ![mosquitofbmkvis2](../images/mosquitofbmkvis2.png) | ![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)  
 
 ## 描述  
 

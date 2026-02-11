@@ -1,7 +1,8 @@
 # Breguet 14.B2  
 
-![breguet14](../images/breguet14.png)  
-![breguet14](../pilots_notes/breguet14.png)  
+| Image | Notes  
+|:---|:---  
+| ![breguet14](../images/breguet14.png) | ![breguet14](../pilots_notes/breguet14.png)  
 
 ## Description  
 

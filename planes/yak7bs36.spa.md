@@ -1,7 +1,8 @@
 # Yak-7B ser.36  
 
-![yak7bs36](../images/yak7bs36.png)  
-![yak7bs36](../pilots_notes/yak7bs36.png)  
+| Image | Notes  
+|:---|:---  
+| ![yak7bs36](../images/yak7bs36.png) | ![yak7bs36](../pilots_notes/yak7bs36.png)  
 
 ## Descripción  
 

@@ -1,7 +1,8 @@
 # DFW C.V  
 
-![dfwc5](../images/dfwc5.png)  
-![dfwc5](../pilots_notes/dfwc5.png)  
+| Image | Notes  
+|:---|:---  
+| ![dfwc5](../images/dfwc5.png) | ![dfwc5](../pilots_notes/dfwc5.png)  
 
 ## Описание  
 

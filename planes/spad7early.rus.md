@@ -1,7 +1,8 @@
 # SPAD 7.C1 150 л.с.  
 
-![spad7early](../images/spad7early.png)  
-![spad7early](../pilots_notes/spad7early.png)  
+| Image | Notes  
+|:---|:---  
+| ![spad7early](../images/spad7early.png) | ![spad7early](../pilots_notes/spad7early.png)  
 
 ## Описание  
 

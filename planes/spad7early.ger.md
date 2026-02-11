@@ -1,7 +1,8 @@
 # SPAD 7.C1 150 PS  
 
-![spad7early](../images/spad7early.png)  
-![spad7early](../pilots_notes/spad7early.png)  
+| Image | Notes  
+|:---|:---  
+| ![spad7early](../images/spad7early.png) | ![spad7early](../pilots_notes/spad7early.png)  
 
 ## Beschreibung  
 

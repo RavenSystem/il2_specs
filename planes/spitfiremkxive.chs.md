@@ -1,7 +1,8 @@
 # Spitfire Mk.XIVe  
 
-![spitfiremkxive](../images/spitfiremkxive.png)  
-![spitfiremkxive](../pilots_notes/spitfiremkxive.png)  
+| Image | Notes  
+|:---|:---  
+| ![spitfiremkxive](../images/spitfiremkxive.png) | ![spitfiremkxive](../pilots_notes/spitfiremkxive.png)  
 
 ## 描述  
 

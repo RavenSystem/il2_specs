@@ -1,7 +1,8 @@
 # Bf 109 G-6 Поздний  
 
-![bf109g6late](../images/bf109g6late.png)  
-![bf109g6late](../pilots_notes/bf109g6late.png)  
+| Image | Notes  
+|:---|:---  
+| ![bf109g6late](../images/bf109g6late.png) | ![bf109g6late](../pilots_notes/bf109g6late.png)  
 
 ## Описание  
 

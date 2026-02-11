@@ -1,7 +1,8 @@
 # LaGG-3 Brh. 4  
 
-![lagg3s4](../images/lagg3s4.png)  
-![lagg3s4](../pilots_notes/lagg3s4.png)  
+| Image | Notes  
+|:---|:---  
+| ![lagg3s4](../images/lagg3s4.png) | ![lagg3s4](../pilots_notes/lagg3s4.png)  
 
 ## Beschreibung  
 

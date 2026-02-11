@@ -1,7 +1,8 @@
 # Tempest Mk.V ser.2  
 
-![tempestmkvs2](../images/tempestmkvs2.png)  
-![tempestmkvs2](../pilots_notes/tempestmkvs2.png)  
+| Image | Notes  
+|:---|:---  
+| ![tempestmkvs2](../images/tempestmkvs2.png) | ![tempestmkvs2](../pilots_notes/tempestmkvs2.png)  
 
 ## Beschreibung  
 

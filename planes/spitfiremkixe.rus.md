@@ -1,7 +1,8 @@
 # Spitfire Mk.IXe  
 
-![spitfiremkixe](../images/spitfiremkixe.png)  
-![spitfiremkixe](../pilots_notes/spitfiremkixe.png)  
+| Image | Notes  
+|:---|:---  
+| ![spitfiremkixe](../images/spitfiremkixe.png) | ![spitfiremkixe](../pilots_notes/spitfiremkixe.png)  
 
 ## Описание  
 

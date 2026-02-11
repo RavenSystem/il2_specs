@@ -1,7 +1,8 @@
 # Yak-1 ser.23  
 
-![yak1s23](../images/yak1s23.png)  
-![yak1s23](../pilots_notes/yak1s23.png)  
+| Image | Notes  
+|:---|:---  
+| ![yak1s23](../images/yak1s23.png) | ![yak1s23](../pilots_notes/yak1s23.png)  
 
 ## Descripción  
 

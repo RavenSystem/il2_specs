@@ -1,7 +1,8 @@
 # Yak-9 sér.1  
 
-![yak9s1](../images/yak9s1.png)  
-![yak9s1](../pilots_notes/yak9s1.png)  
+| Image | Notes  
+|:---|:---  
+| ![yak9s1](../images/yak9s1.png) | ![yak9s1](../pilots_notes/yak9s1.png)  
 
 ## Description  
 

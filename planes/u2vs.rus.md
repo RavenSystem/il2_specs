@@ -1,7 +1,8 @@
 # У-2ВС  
 
-![u2vs](../images/u2vs.png)  
-![u2vs](../pilots_notes/u2vs.png)  
+| Image | Notes  
+|:---|:---  
+| ![u2vs](../images/u2vs.png) | ![u2vs](../pilots_notes/u2vs.png)  
 
 ## Описание  
 

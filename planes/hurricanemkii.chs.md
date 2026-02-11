@@ -1,7 +1,8 @@
 # Hurricane Mk.II  
 
-![hurricanemkii](../images/hurricanemkii.png)  
-![hurricanemkii](../pilots_notes/hurricanemkii.png)  
+| Image | Notes  
+|:---|:---  
+| ![hurricanemkii](../images/hurricanemkii.png) | ![hurricanemkii](../pilots_notes/hurricanemkii.png)  
 
 ## 描述  
 

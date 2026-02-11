@@ -1,7 +1,8 @@
 # Spitfire Mk.XIV  
 
-![spitfiremkxiv](../images/spitfiremkxiv.png)  
-![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)  
+| Image | Notes  
+|:---|:---  
+| ![spitfiremkxiv](../images/spitfiremkxiv.png) | ![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)  
 
 ## Description  
 

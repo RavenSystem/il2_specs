@@ -1,7 +1,8 @@
 # La-5FN Brh. 2  
 
-![la5fns2](../images/la5fns2.png)  
-![la5fns2](../pilots_notes/la5fns2.png)  
+| Image | Notes  
+|:---|:---  
+| ![la5fns2](../images/la5fns2.png) | ![la5fns2](../pilots_notes/la5fns2.png)  
 
 ## Beschreibung  
 

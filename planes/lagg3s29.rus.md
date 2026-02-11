@@ -1,7 +1,8 @@
 # ЛаГГ-3 29 серии  
 
-![lagg3s29](../images/lagg3s29.png)  
-![lagg3s29](../pilots_notes/lagg3s29.png)  
+| Image | Notes  
+|:---|:---  
+| ![lagg3s29](../images/lagg3s29.png) | ![lagg3s29](../pilots_notes/lagg3s29.png)  
 
 ## Описание  
 

@@ -1,7 +1,8 @@
 # Sopwith Dolphin  
 
-![sopdolphin](../images/sopdolphin.png)  
-![sopdolphin](../pilots_notes/sopdolphin.png)  
+| Image | Notes  
+|:---|:---  
+| ![sopdolphin](../images/sopdolphin.png) | ![sopdolphin](../pilots_notes/sopdolphin.png)  
 
 ## Description  
 

@@ -1,7 +1,8 @@
 # SPAD 7.C1 180hp  
 
-![spad7late](../images/spad7late.png)  
-![spad7late](../pilots_notes/spad7late.png)  
+| Image | Notes  
+|:---|:---  
+| ![spad7late](../images/spad7late.png) | ![spad7late](../pilots_notes/spad7late.png)  
 
 ## Description  
 

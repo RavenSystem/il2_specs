@@ -1,7 +1,8 @@
 # Sopwith Snipe  
 
-![sopsnipe](../images/sopsnipe.png)  
-![sopsnipe](../pilots_notes/sopsnipe.png)  
+| Image | Notes  
+|:---|:---  
+| ![sopsnipe](../images/sopsnipe.png) | ![sopsnipe](../pilots_notes/sopsnipe.png)  
 
 ## Описание  
 

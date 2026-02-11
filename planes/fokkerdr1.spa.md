@@ -1,7 +1,8 @@
 # Fokker Dr.I  
 
-![fokkerdr1](../images/fokkerdr1.png)  
-![fokkerdr1](../pilots_notes/fokkerdr1.png)  
+| Image | Notes  
+|:---|:---  
+| ![fokkerdr1](../images/fokkerdr1.png) | ![fokkerdr1](../pilots_notes/fokkerdr1.png)  
 
 ## Descripción  
 

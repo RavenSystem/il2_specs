@@ -1,7 +1,8 @@
 # Nieuport 11.C1  
 
-![nieuport11](../images/nieuport11.png)  
-![nieuport11](../pilots_notes/nieuport11.png)  
+| Image | Notes  
+|:---|:---  
+| ![nieuport11](../images/nieuport11.png) | ![nieuport11](../pilots_notes/nieuport11.png)  
 
 ## Descripción  
 

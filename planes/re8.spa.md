@@ -1,7 +1,8 @@
 # R.E.8  
 
-![re8](../images/re8.png)  
-![re8](../pilots_notes/re8.png)  
+| Image | Notes  
+|:---|:---  
+| ![re8](../images/re8.png) | ![re8](../pilots_notes/re8.png)  
 
 ## Descripción  
 

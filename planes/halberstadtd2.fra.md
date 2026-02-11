@@ -1,7 +1,8 @@
 # Halberstadt D.II  
 
-![halberstadtd2](../images/halberstadtd2.png)  
-![halberstadtd2](../pilots_notes/halberstadtd2.png)  
+| Image | Notes  
+|:---|:---  
+| ![halberstadtd2](../images/halberstadtd2.png) | ![halberstadtd2](../pilots_notes/halberstadtd2.png)  
 
 ## Description  
 

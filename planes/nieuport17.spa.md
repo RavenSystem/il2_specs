@@ -1,7 +1,8 @@
 # Nieuport 17.C1  
 
-![nieuport17](../images/nieuport17.png)  
-![nieuport17](../pilots_notes/nieuport17.png)  
+| Image | Notes  
+|:---|:---  
+| ![nieuport17](../images/nieuport17.png) | ![nieuport17](../pilots_notes/nieuport17.png)  
 
 ## Descripción  
 

@@ -1,7 +1,8 @@
 # Ju 52/3m g4e  
 
-![ju523mg4e](../images/ju523mg4e.png)  
-![ju523mg4e](../pilots_notes/ju523mg4e.png)  
+| Image | Notes  
+|:---|:---  
+| ![ju523mg4e](../images/ju523mg4e.png) | ![ju523mg4e](../pilots_notes/ju523mg4e.png)  
 
 ## 描述  
 

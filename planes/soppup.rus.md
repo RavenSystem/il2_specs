@@ -1,7 +1,8 @@
 # Sopwith Pup  
 
-![soppup](../images/soppup.png)  
-![soppup](../pilots_notes/soppup.png)  
+| Image | Notes  
+|:---|:---  
+| ![soppup](../images/soppup.png) | ![soppup](../pilots_notes/soppup.png)  
 
 ## Описание  
 

@@ -1,7 +1,8 @@
 # Pfalz D.XII  
 
-![pfalzd12](../images/pfalzd12.png)  
-![pfalzd12](../pilots_notes/pfalzd12.png)  
+| Image | Notes  
+|:---|:---  
+| ![pfalzd12](../images/pfalzd12.png) | ![pfalzd12](../pilots_notes/pfalzd12.png)  
 
 ## Beschreibung  
 

@@ -1,7 +1,8 @@
 # Nieuport 17.C1 GBR  
 
-![nieuport17gbr](../images/nieuport17gbr.png)  
-![nieuport17gbr](../pilots_notes/nieuport17gbr.png)  
+| Image | Notes  
+|:---|:---  
+| ![nieuport17gbr](../images/nieuport17gbr.png) | ![nieuport17gbr](../pilots_notes/nieuport17gbr.png)  
 
 ## Descripción  
 

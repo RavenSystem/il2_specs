@@ -1,7 +1,8 @@
 # Sopwith Camel  
 
-![sopcamel](../images/sopcamel.png)  
-![sopcamel](../pilots_notes/sopcamel.png)  
+| Image | Notes  
+|:---|:---  
+| ![sopcamel](../images/sopcamel.png) | ![sopcamel](../pilots_notes/sopcamel.png)  
 
 ## Beschreibung  
 

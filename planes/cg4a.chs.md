@@ -1,7 +1,8 @@
 # CG-4A  
 
-![cg4a](../images/cg4a.png)  
-![cg4a](../pilots_notes/cg4a.png)  
+| Image | Notes  
+|:---|:---  
+| ![cg4a](../images/cg4a.png) | ![cg4a](../pilots_notes/cg4a.png)  
 
 ## 描述  
 

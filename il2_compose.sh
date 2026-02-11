@@ -120,7 +120,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n!\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e "s/&description=/\n| Image | Notes\n|:---|:---\n| !\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\) | !\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             else
                 sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             fi
@@ -158,14 +158,20 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
         printf "\n" >> "$TARGET_DIR/README.md"
 
+        if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
+            printf "| " >> "$TARGET_DIR/README.md"
+        fi
+        
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
         done
-
-        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
         
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "\n![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+            printf " | Notes \n" >> "$TARGET_DIR/README.md"
+            printf "|:---|:---\n" >> "$TARGET_DIR/README.md"
+            printf "| ![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png) | ![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+        else
+            printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
         fi
         
         printf " \n\n" >> "$TARGET_DIR/README.md"

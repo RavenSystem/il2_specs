@@ -1,7 +1,8 @@
 # Spitfire Mk.VB  
 
-![spitfiremkvb](../images/spitfiremkvb.png)  
-![spitfiremkvb](../pilots_notes/spitfiremkvb.png)  
+| Image | Notes  
+|:---|:---  
+| ![spitfiremkvb](../images/spitfiremkvb.png) | ![spitfiremkvb](../pilots_notes/spitfiremkvb.png)  
 
 ## Beschreibung  
 

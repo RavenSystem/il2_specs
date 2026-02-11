@@ -1,7 +1,8 @@
 # SSW D.IV  
 
-![schuckertdiv](../images/schuckertdiv.png)  
-![schuckertdiv](../pilots_notes/schuckertdiv.png)  
+| Image | Notes  
+|:---|:---  
+| ![schuckertdiv](../images/schuckertdiv.png) | ![schuckertdiv](../pilots_notes/schuckertdiv.png)  
 
 ## Descripción  
 

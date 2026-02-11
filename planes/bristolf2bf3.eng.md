@@ -1,7 +1,8 @@
 # Bristol F2B (F.III)  
 
-![bristolf2bf3](../images/bristolf2bf3.png)  
-![bristolf2bf3](../pilots_notes/bristolf2bf3.png)  
+| Image | Notes  
+|:---|:---  
+| ![bristolf2bf3](../images/bristolf2bf3.png) | ![bristolf2bf3](../pilots_notes/bristolf2bf3.png)  
 
 ## Description  
 

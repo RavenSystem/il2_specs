@@ -1,7 +1,8 @@
 # Halberstadt CL.II 200hp  
 
-![halberstadtcl2au](../images/halberstadtcl2au.png)  
-![halberstadtcl2au](../pilots_notes/halberstadtcl2au.png)  
+| Image | Notes  
+|:---|:---  
+| ![halberstadtcl2au](../images/halberstadtcl2au.png) | ![halberstadtcl2au](../pilots_notes/halberstadtcl2au.png)  
 
 ## Beschreibung  
 
