@@ -19,9 +19,9 @@ Version: 7.001 - Date: 2026-01-27
 
 ### A-20B  
 
-[ [chs](planes/a20b.chs.md) ] [ [eng](planes/a20b.eng.md) ] [ [fra](planes/a20b.fra.md) ] [ [ger](planes/a20b.ger.md) ] [ [rus](planes/a20b.rus.md) ] [ [spa](planes/a20b.spa.md) ] 
-![a20b](images/a20b.png)
-![a20b](pilots_notes/a20b.png) 
+| [ [chs](planes/a20b.chs.md) ] [ [eng](planes/a20b.eng.md) ] [ [fra](planes/a20b.fra.md) ] [ [ger](planes/a20b.ger.md) ] [ [rus](planes/a20b.rus.md) ] [ [spa](planes/a20b.spa.md) ] | Notes 
+|:---|:---
+| ![a20b](images/a20b.png) | ![a20b](pilots_notes/a20b.png) 
 
 ### Airco D.H.2  
 
