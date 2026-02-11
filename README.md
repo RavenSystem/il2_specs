@@ -1,11 +1,11 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 7.001 - Date: 2026-01-27
+Version: 7.003 - Date: 2026-02-11
 
 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots notes by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
+[ [Pilots Notes v11.3 by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
 ### Planes
 

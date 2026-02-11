@@ -12,7 +12,8 @@
 
 ### Composer Configuration Data
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
-IL2_VERSION="7.001"
+IL2_VERSION="7.003"
+PILOTS_NOTES_VERSION="11.3"
 ###
 
 mkdir -p "$TARGET_DIR/images"
@@ -33,7 +34,7 @@ Version: $IL2_VERSION - Date: $GENERATION_DATE
 
 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots notes by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
+[ [Pilots Notes v$PILOTS_NOTES_VERSION by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
 " > "$TARGET_DIR/README.md"
 
