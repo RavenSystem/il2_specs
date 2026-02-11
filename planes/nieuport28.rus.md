@@ -1,6 +1,7 @@
 # Nieuport 28.C1  
 
 ![nieuport28](../images/nieuport28.png)  
+![nieuport28](../pilots_notes/nieuport28.png)  
 
 ## Описание  
 

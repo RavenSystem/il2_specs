@@ -1,6 +1,7 @@
 # Hanriot HD.1  
 
 ![hanriothd1](../images/hanriothd1.png)  
+![hanriothd1](../pilots_notes/hanriothd1.png)  
 
 ## Description  
 

@@ -1,6 +1,7 @@
 # MiG-3 type 24  
 
 ![mig3s24](../images/mig3s24.png)  
+![mig3s24](../pilots_notes/mig3s24.png)  
 
 ## Description  
 

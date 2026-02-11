@@ -1,6 +1,7 @@
 # SPAD 7.C1 180 PS  
 
 ![spad7late](../images/spad7late.png)  
+![spad7late](../pilots_notes/spad7late.png)  
 
 ## Beschreibung  
 

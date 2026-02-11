@@ -1,6 +1,7 @@
 # Як-3 9 серии  
 
 ![yak3s9](../images/yak3s9.png)  
+![yak3s9](../pilots_notes/yak3s9.png)  
 
 ## Описание  
 

@@ -1,6 +1,7 @@
 # Bf 109 G-6 Late  
 
 ![bf109g6late](../images/bf109g6late.png)  
+![bf109g6late](../pilots_notes/bf109g6late.png)  
 
 ## Description  
 

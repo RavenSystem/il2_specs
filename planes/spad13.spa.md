@@ -1,6 +1,7 @@
 # SPAD 13.C1  
 
 ![spad13](../images/spad13.png)  
+![spad13](../pilots_notes/spad13.png)  
 
 ## Descripción  
 

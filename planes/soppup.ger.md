@@ -1,6 +1,7 @@
 # Sopwith Pup  
 
 ![soppup](../images/soppup.png)  
+![soppup](../pilots_notes/soppup.png)  
 
 ## Beschreibung  
 

@@ -1,6 +1,7 @@
 # Airco D.H.2  
 
 ![aircodh2](../images/aircodh2.png)  
+![aircodh2](../pilots_notes/aircodh2.png)  
 
 ## Description  
 

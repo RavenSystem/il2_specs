@@ -1,6 +1,7 @@
 # LaGG-3ser.29  
 
 ![lagg3s29](../images/lagg3s29.png)  
+![lagg3s29](../pilots_notes/lagg3s29.png)  
 
 ## 描述  
 

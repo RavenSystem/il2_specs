@@ -1,9 +1,13 @@
 #!/bin/sh
 #
-# IL2 Specifications Data Composer
-# (c) 2023-2025 José A. Jiménez Campos @RavenSystem
+# IL2 Specifications Data Composer Script for macOS
+# (c) 2023-2026 José A. Jiménez Campos @RavenSystem
 #
+# - Windows:
 # Use "unGTP-IL2.exe" to extract files over a copy from "swf.gtp" file.
+#
+# - macOS:
+# Unzip and copy "Another Pilots Notes for CockPit Photos official numbers v..." folder into "worldobjects" directory.
 # Copy and run this script into "worldobjects" directory.
 
 ### Composer Configuration Data
@@ -12,6 +16,13 @@ IL2_VERSION="7.001"
 ###
 
 mkdir -p "$TARGET_DIR/images"
+mkdir -p "$TARGET_DIR/pilots_notes"
+
+# Prepare Pilots Notes
+mv -f Another\ Pilots\ Notes\ for\ CockPit\ Photos\ official\ numbers\ v*/data/graphics/Planes/ ./planes_notes &&
+cd planes_notes &&
+for i in $( ls ); do mv -f $i `echo $i | tr 'A-Z' 'a-z'`; done &&
+cd ..
 
 GENERATION_DATE="`date +%Y-%m-%d`"
 
@@ -21,6 +32,8 @@ printf "
 Version: $IL2_VERSION - Date: $GENERATION_DATE
 
 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+
+[ [Pilots notes by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
 " > "$TARGET_DIR/README.md"
 
@@ -54,13 +67,22 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
         
+        # Vehicle image
         cp -f "$VEHICLE_TYPE/$VEHICLE_NAME/preview2.png" "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
         
         if [[ " albatrosd5 fokkerd7 fokkerd7f fokkerdr1 fw190d9 p47d28 pfalzd3a se5a sopcamel sopdolphin spad13 u2vs " == *" $NEW_VEHICLE_NAME "* ]]; then
             sips --resampleHeightWidth 426 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
             sips --padToHeightWidth 512 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
         fi
-            
+        
+        # Pilots notes
+        if [ -f "./planes_notes/$VEHICLE_NAME/Textures/custom_photo.dds" ]; then
+            sips --setProperty format png "./planes_notes/$VEHICLE_NAME/Textures/custom_photo.dds" -o "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png"
+            sips --resampleHeight 512 "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png"
+            sips --cropOffset 1 1 --cropToHeightWidth 512 350 "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png"
+        fi
+        
+        # Vehicle details multilanguage
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             case "$IL2_LOCALE" in
                 "chs")
@@ -96,7 +118,13 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-            sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            
+            if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
+                sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n!\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            else
+                sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            fi
+            
             sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             if [ -d "$VEHICLE_TYPE/$VEHICLE_NAME/modifications" ]; then
@@ -134,7 +162,13 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
         done
 
-        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)\n\n" >> "$TARGET_DIR/README.md"
+        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+        
+        if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
+            printf "\n![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+        fi
+        
+        printf " \n\n" >> "$TARGET_DIR/README.md"
     done
 
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*

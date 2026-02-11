@@ -1,6 +1,7 @@
 # Sopwith 1½ Strutter B  
 
 ![sopstrutterb](../images/sopstrutterb.png)  
+![sopstrutterb](../pilots_notes/sopstrutterb.png)  
 
 ## Description  
 

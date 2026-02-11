@@ -1,6 +1,7 @@
 # F.E.2b  
 
 ![fe2b](../images/fe2b.png)  
+![fe2b](../pilots_notes/fe2b.png)  
 
 ## 描述  
 

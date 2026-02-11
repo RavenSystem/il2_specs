@@ -1,6 +1,7 @@
 # Roland C.IIa  
 
 ![rolandc2a](../images/rolandc2a.png)  
+![rolandc2a](../pilots_notes/rolandc2a.png)  
 
 ## Описание  
 

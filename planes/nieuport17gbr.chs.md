@@ -1,6 +1,7 @@
 # Nieuport 17.C1 GBR  
 
 ![nieuport17gbr](../images/nieuport17gbr.png)  
+![nieuport17gbr](../pilots_notes/nieuport17gbr.png)  
 
 ## 描述  
 

@@ -1,6 +1,7 @@
 # LaGG-3 ser.4  
 
 ![lagg3s4](../images/lagg3s4.png)  
+![lagg3s4](../pilots_notes/lagg3s4.png)  
 
 ## Description  
 

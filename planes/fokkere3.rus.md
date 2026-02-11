@@ -1,6 +1,7 @@
 # Fokker E.III  
 
 ![fokkere3](../images/fokkere3.png)  
+![fokkere3](../pilots_notes/fokkere3.png)  
 
 ## Описание  
 

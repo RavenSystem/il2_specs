@@ -1,6 +1,7 @@
 # Airco D.H.4  
 
 ![aircodh4](../images/aircodh4.png)  
+![aircodh4](../pilots_notes/aircodh4.png)  
 
 ## Описание  
 

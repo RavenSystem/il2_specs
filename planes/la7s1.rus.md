@@ -1,6 +1,7 @@
 # Ла-7 1 серии  
 
 ![la7s1](../images/la7s1.png)  
+![la7s1](../pilots_notes/la7s1.png)  
 
 ## Описание  
 

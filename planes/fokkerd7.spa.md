@@ -1,6 +1,7 @@
 # Fokker D.VII  
 
 ![fokkerd7](../images/fokkerd7.png)  
+![fokkerd7](../pilots_notes/fokkerd7.png)  
 
 ## Descripción  
 

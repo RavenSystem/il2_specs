@@ -1,6 +1,7 @@
 # Handley Page O/400  
 
 ![handleypage400](../images/handleypage400.png)  
+![handleypage400](../pilots_notes/handleypage400.png)  
 
 ## Descripción  
 

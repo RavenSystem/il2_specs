@@ -1,6 +1,7 @@
 # La-7 ser.1  
 
 ![la7s1](../images/la7s1.png)  
+![la7s1](../pilots_notes/la7s1.png)  
 
 ## 描述  
 

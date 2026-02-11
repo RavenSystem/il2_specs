@@ -1,6 +1,7 @@
 # Sopwith Triplane  
 
 ![soptriplane](../images/soptriplane.png)  
+![soptriplane](../pilots_notes/soptriplane.png)  
 
 ## Описание  
 

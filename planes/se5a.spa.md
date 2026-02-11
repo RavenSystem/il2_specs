@@ -1,6 +1,7 @@
 # S.E.5a  
 
 ![se5a](../images/se5a.png)  
+![se5a](../pilots_notes/se5a.png)  
 
 ## Descripción  
 

@@ -1,6 +1,7 @@
 # МиГ-3 24 серии  
 
 ![mig3s24](../images/mig3s24.png)  
+![mig3s24](../pilots_notes/mig3s24.png)  
 
 ## Описание  
 

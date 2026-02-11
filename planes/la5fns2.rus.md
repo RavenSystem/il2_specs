@@ -1,6 +1,7 @@
 # Ла-5ФН 2 серии  
 
 ![la5fns2](../images/la5fns2.png)  
+![la5fns2](../pilots_notes/la5fns2.png)  
 
 ## Описание  
 

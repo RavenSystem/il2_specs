@@ -1,6 +1,7 @@
 # Albatros D.Va  
 
 ![albatrosd5](../images/albatrosd5.png)  
+![albatrosd5](../pilots_notes/albatrosd5.png)  
 
 ## Описание  
 

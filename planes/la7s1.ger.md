@@ -1,6 +1,7 @@
 # La-7 Brh. 1  
 
 ![la7s1](../images/la7s1.png)  
+![la7s1](../pilots_notes/la7s1.png)  
 
 ## Beschreibung  
 

@@ -1,6 +1,7 @@
 # Albatros D.II  
 
 ![albatrosd2](../images/albatrosd2.png)  
+![albatrosd2](../pilots_notes/albatrosd2.png)  
 
 ## 描述  
 

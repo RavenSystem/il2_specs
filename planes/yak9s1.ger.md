@@ -1,6 +1,7 @@
 # Yak-9 Brh.1  
 
 ![yak9s1](../images/yak9s1.png)  
+![yak9s1](../pilots_notes/yak9s1.png)  
 
 ## Beschreibung  
 

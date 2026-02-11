@@ -1,6 +1,7 @@
 # R.E.8  
 
 ![re8](../images/re8.png)  
+![re8](../pilots_notes/re8.png)  
 
 ## 描述  
 

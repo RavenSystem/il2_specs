@@ -1,6 +1,7 @@
 # Halberstadt CL.II  
 
 ![halberstadtcl2](../images/halberstadtcl2.png)  
+![halberstadtcl2](../pilots_notes/halberstadtcl2.png)  
 
 ## 描述  
 

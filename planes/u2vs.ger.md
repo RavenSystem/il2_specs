@@ -1,6 +1,7 @@
 # U-2VS  
 
 ![u2vs](../images/u2vs.png)  
+![u2vs](../pilots_notes/u2vs.png)  
 
 ## Beschreibung  
 

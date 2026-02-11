@@ -1,6 +1,7 @@
 # I.A.R. 80-B  
 
 ![iar80b](../images/iar80b.png)  
+![iar80b](../pilots_notes/iar80b.png)  
 
 ## Beschreibung  
 

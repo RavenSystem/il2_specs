@@ -1,6 +1,7 @@
 # Gotha G.V  
 
 ![gothag5](../images/gothag5.png)  
+![gothag5](../pilots_notes/gothag5.png)  
 
 ## 描述  
 

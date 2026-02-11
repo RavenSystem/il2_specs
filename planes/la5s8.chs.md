@@ -1,6 +1,7 @@
 # La-5 ser.8  
 
 ![la5s8](../images/la5s8.png)  
+![la5s8](../pilots_notes/la5s8.png)  
 
 ## 描述  
 

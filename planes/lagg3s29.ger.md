@@ -1,6 +1,7 @@
 # LaGG-3 Brh. 29  
 
 ![lagg3s29](../images/lagg3s29.png)  
+![lagg3s29](../pilots_notes/lagg3s29.png)  
 
 ## Beschreibung  
 

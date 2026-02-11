@@ -1,6 +1,7 @@
 # Fokker D.VIIF  
 
 ![fokkerd7f](../images/fokkerd7f.png)  
+![fokkerd7f](../pilots_notes/fokkerd7f.png)  
 
 ## 描述  
 

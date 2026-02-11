@@ -1,6 +1,7 @@
 # SSW D.IV  
 
 ![schuckertdiv](../images/schuckertdiv.png)  
+![schuckertdiv](../pilots_notes/schuckertdiv.png)  
 
 ## Описание  
 

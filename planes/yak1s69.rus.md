@@ -1,6 +1,7 @@
 # Як-1 69 серии  
 
 ![yak1s69](../images/yak1s69.png)  
+![yak1s69](../pilots_notes/yak1s69.png)  
 
 ## Описание  
 

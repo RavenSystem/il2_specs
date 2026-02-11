@@ -1,6 +1,7 @@
 # Bf 109 G-6AS  
 
 ![bf109g6as](../images/bf109g6as.png)  
+![bf109g6as](../pilots_notes/bf109g6as.png)  
 
 ## Description  
 

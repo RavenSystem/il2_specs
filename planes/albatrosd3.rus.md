@@ -1,6 +1,7 @@
 # Albatros D.III  
 
 ![albatrosd3](../images/albatrosd3.png)  
+![albatrosd3](../pilots_notes/albatrosd3.png)  
 
 ## Описание  
 

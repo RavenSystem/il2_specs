@@ -1,6 +1,7 @@
 # Fokker D.VIII  
 
 ![fokkerd8](../images/fokkerd8.png)  
+![fokkerd8](../pilots_notes/fokkerd8.png)  
 
 ## Description  
 

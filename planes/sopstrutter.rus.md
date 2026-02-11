@@ -1,6 +1,7 @@
 # Sopwith 1½ Strutter  
 
 ![sopstrutter](../images/sopstrutter.png)  
+![sopstrutter](../pilots_notes/sopstrutter.png)  
 
 ## Описание  
 

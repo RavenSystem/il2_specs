@@ -1,6 +1,7 @@
 # Yak-9T ser.1  
 
 ![yak9ts1](../images/yak9ts1.png)  
+![yak9ts1](../pilots_notes/yak9ts1.png)  
 
 ## Description  
 

@@ -1,6 +1,7 @@
 # Nieuport 11.C1  
 
 ![nieuport11](../images/nieuport11.png)  
+![nieuport11](../pilots_notes/nieuport11.png)  
 
 ## 描述  
 

@@ -1,6 +1,7 @@
 # SPAD 7.C1 150 CV  
 
 ![spad7early](../images/spad7early.png)  
+![spad7early](../pilots_notes/spad7early.png)  
 
 ## Descripción  
 

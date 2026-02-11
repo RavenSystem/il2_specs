@@ -1,6 +1,7 @@
 # Typhoon Mk.Ib  
 
 ![typhoonmkib](../images/typhoonmkib.png)  
+![typhoonmkib](../pilots_notes/typhoonmkib.png)  
 
 ## Description  
 

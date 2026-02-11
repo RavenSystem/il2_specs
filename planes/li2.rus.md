@@ -1,6 +1,7 @@
 # Ли-2  
 
 ![li2](../images/li2.png)  
+![li2](../pilots_notes/li2.png)  
 
 ## Описание  
 

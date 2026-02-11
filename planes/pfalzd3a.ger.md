@@ -1,6 +1,7 @@
 # Pfalz D.IIIa  
 
 ![pfalzd3a](../images/pfalzd3a.png)  
+![pfalzd3a](../pilots_notes/pfalzd3a.png)  
 
 ## Beschreibung  
 

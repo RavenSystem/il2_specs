@@ -1,6 +1,7 @@
 # Spitfire Mk.IXc  
 
 ![spitfiremkixc](../images/spitfiremkixc.png)  
+![spitfiremkixc](../pilots_notes/spitfiremkixc.png)  
 
 ## Описание  
 

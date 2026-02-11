@@ -1,6 +1,7 @@
 # Hurricane Mk.II  
 
 ![hurricanemkii](../images/hurricanemkii.png)  
+![hurricanemkii](../pilots_notes/hurricanemkii.png)  
 
 ## Description  
 
