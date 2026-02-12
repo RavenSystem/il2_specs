@@ -34,7 +34,7 @@ Version: $IL2_VERSION - Date: $GENERATION_DATE
 
 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots Notes v$PILOTS_NOTES_VERSION by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
+[ [Pilots Notes v$PILOTS_NOTES_VERSION WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
 " > "$TARGET_DIR/README.md"
 

@@ -5,7 +5,7 @@ Version: 7.002 - Date: 2026-02-11
 
 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots Notes v11.3 by lefuneste](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
+[ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
 ### Planes
 
