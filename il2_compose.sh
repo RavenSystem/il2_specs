@@ -123,10 +123,10 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
 
             sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\">!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)"
+            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\"><img src=\"..\/images\/$NEW_VEHICLE_NAME.png\">"
             
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\">!\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)"
+                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><img src=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\">"
             fi
             
             TABLE_DETAILS="$TABLE_DETAILS<\/tr>"
@@ -138,7 +138,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                     TABLE_DETAILS="$TABLE_DETAILS colspan=\"2\""
                 fi
                 
-                TABLE_DETAILS="$TABLE_DETAILS>!\[$NEW_VEHICLE_NAME\]\(..\/cockpits\/$COCKPIT_IMAGE\)"
+                TABLE_DETAILS="$TABLE_DETAILS><img src=\"..\/cockpits\/$COCKPIT_IMAGE\">"
             fi
             
             TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>"
@@ -185,16 +185,16 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         printf ">" >> "$TARGET_DIR/README.md"
         
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
-            printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
+            printf "[ <a href=\"$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md\">$IL2_LOCALE</a> ] " >> "$TARGET_DIR/README.md"
         done
         
         printf "</th></tr></thead>\n<tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+        printf "<img src=\"images/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
         printf "</td>" >> "$TARGET_DIR/README.md"
         
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
             printf "<td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-            printf "![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+            printf "<img src=\"pilots_notes/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
         fi
         
         printf "</td></tr></tbody></table>\n\n" >> "$TARGET_DIR/README.md"

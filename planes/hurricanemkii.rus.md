@@ -1,6 +1,6 @@
 # Hurricane Mk.II  
 
-<table><tbody><tr><td style="text-align: center">![hurricanemkii](../images/hurricanemkii.png)</td><td style="text-align: center">![hurricanemkii](../pilots_notes/hurricanemkii.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 132...155 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 123...144 км/ч  

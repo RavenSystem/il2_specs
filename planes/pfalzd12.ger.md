@@ -1,6 +1,6 @@
 # Pfalz D.XII  
 
-<table><tbody><tr><td style="text-align: center">![pfalzd12](../images/pfalzd12.png)</td><td style="text-align: center">![pfalzd12](../pilots_notes/pfalzd12.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd12](../cockpits/pfalzd12.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
 Während der Planung für eine Modifikation des Flugzeugs entschieden sich die Werksingeneure die Tragflächen mit einer dünneren Sektion, ähnlich der einer SPAD VII, auszustatten. Eine solche Tragfläche entsprach den Anforderungen der Angriffstaktik deutscher Piloten: Sturzflug, Feindbeschuß, Steigflug. Das neue Design brachte zugleich die gleichen Maße für die obere sowie untere Tragfläche mit sicStd. Ursprünglich war der Kühler vor dem Triebwerk angebracht, wie bei einer Fokker D.VII. Aus Zeitgründen ließ sich kein neuer Kühler entwickeln, daher nahmen die Ingeneure ein altes Modell im Rohrdesign, welches einem Zellenstrukturkühler unterlegen war. Insgesamt wurden 800 Flugzeuge gebaut.  
   

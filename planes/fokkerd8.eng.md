@@ -1,6 +1,6 @@
 # Fokker D.VIII  
 
-<table><tbody><tr><td style="text-align: center">![fokkerd8](../images/fokkerd8.png)</td><td style="text-align: center">![fokkerd8](../pilots_notes/fokkerd8.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd8](../cockpits/fokkerd8.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.eng.jpg"></td></tr></tbody></table>  
 
 This aircraft was specifically designed by the Fokker company for the Second Fighter Competition convened between May 27 and June 21, 1918 at Adlershof, the German aircraft test centre. Constructed as a monoplane fighter, it was mainly based on previous designs by Reinhold Platz. Its design was based on a tube-welded fuselage and wings covered with plywood throughout their span. The wing, which had a thick profile, was situated level with the pilot’s line of sight, which reduced upward visibility. During the Second Fighter Competition, the E.V showed good performance and offered good all-round visibility. It also has a good climb rate and good manoeuvrability, with some test pilots even preferring it to the Fokker D.VIIF. Thereafter, a contract was placed to produce 400 planes for the army, which were all powered by the Oberursel UR II.  
   

@@ -1,6 +1,6 @@
 # Sopwith Triplane  
 
-<table><tbody><tr><td style="text-align: center">![soptriplane](../images/soptriplane.png)</td><td style="text-align: center">![soptriplane](../pilots_notes/soptriplane.png)</tr><tr><td style="text-align: center" colspan="2">![soptriplane](../cockpits/soptriplane.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/soptriplane.png"></td><td style="text-align: center"><img src="../pilots_notes/soptriplane.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soptriplane.spa.jpg"></td></tr></tbody></table>  
 
 El ingeniero de Sopwith Herbert Smith, al diseñar el Triplane, buscó corregir la falta de maniobrabilidad y visibilidad de diseños anteriores empleando la bien conocida arquitectura del triplano. Los tres estrechos perfiles de las alas permitieron incrementar la velocidad aérea y el campo de visión desde la cabina. Además, las tres alas proporcionaban una increíble tasa de ascenso y permitieron una distribución compacta de piloto, tanques de combustible, armamento y motor.  
   

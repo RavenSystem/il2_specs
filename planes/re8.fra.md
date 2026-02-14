@@ -1,6 +1,6 @@
 # R.E.8  
 
-<table><tbody><tr><td style="text-align: center">![re8](../images/re8.png)</td><td style="text-align: center">![re8](../pilots_notes/re8.png)</tr><tr><td style="text-align: center" colspan="2">![re8](../cockpits/re8.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/re8.png"></td><td style="text-align: center"><img src="../pilots_notes/re8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/re8.eng.jpg"></td></tr></tbody></table>  
 
 Le R.E.8 a été conçu en remplacement dun B.E.2 désuet. Larmement a consisté en une mitrailleuse synchronisée pour lavant et un artilleur en arrière du pilote. Ceci était issu de la conception du B.E.2 qui avait lartilleur devant le pilote. Ceci avait causé quelques incidents de tir très dangereux, particulièrement vers larrière.  
 Le R.E.8 a été équipé dun 12 cylindres en V refroidi par air - le RAF4A. Lavion a été conçu pour porter une radio et un équipement photographique pour la reconnaissance et la localisation dartillerie. Il pouvait aussi porter un petit chargement de bombes sur des supports dailes inférieures.  

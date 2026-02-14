@@ -1,6 +1,6 @@
 # Pfalz D.XII  
 
-<table><tbody><tr><td style="text-align: center">![pfalzd12](../images/pfalzd12.png)</td><td style="text-align: center">![pfalzd12](../pilots_notes/pfalzd12.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd12](../cockpits/pfalzd12.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
 Конструкторы компании, создавая очередную версию истребителя, решили использовать тонкий профиль крыла, как у SPAD VII. Это крыло удачно вписывалось в тактику воздушных боев, применявшуюся немецкими пилотами: пикирование, затем удар по противнику и уход с набором высоты. К особенностям конструкции можно также отнести равную площадь нижнего и верхнего крыльев. Впервые радиатор разместили перед двигателем, аналогично Fokker D.VII. Ограничение по времени не позволило разработать новую конструкцию радиатора, поэтому конструкторы использовали трубчатый радиатор старой конструкции, который уступал в эффективности сотовому. Всего было построено около 800 экземпляров.  
   

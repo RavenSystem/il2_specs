@@ -1,6 +1,6 @@
 # Albatros D.Va  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd5](../images/albatrosd5.png)</td><td style="text-align: center">![albatrosd5](../pilots_notes/albatrosd5.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd5](../cockpits/albatrosd5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.eng.jpg"></td></tr></tbody></table>  
 
 Перед конструкторами компании Albatros Werke стояла задача создать скоростной и маневренный истребитель. Предыдущий Albatros D.III имел дефект нижнего крыла, в результате чего оно ломалось при крутом пикировании. Не зная истинную причину этого дефекта, конструкторы перенесли тяги управления элеронами c нижнего крыла на верхнее.  
 Весной 1917 года прошли испытательные полёты. Внешне Albatros D.V отличался большей площадью вертикального оперения, верхнее крыло опустили ближе к фюзеляжу, радиатор сместили вправо от пилота и корпус приобрел округлое сечение.  

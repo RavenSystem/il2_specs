@@ -1,6 +1,6 @@
 # KV-1s ChTZ (1943)  
 
-<table><tbody><tr><td style="text-align: center">![kv1s](../images/kv1s.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></tr></td></tr></tbody></table>  
 
 Der Panzer wurde im Sommer 1942 vom Konstruktionsbüro der Tscheljabinsker Panzerfabrik (ChTZ) entworfen. Die erste Kampfhandlung fand Ende 1942 an der Front von Don und Woronesch statt.  
   

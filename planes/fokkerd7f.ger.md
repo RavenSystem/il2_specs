@@ -1,6 +1,6 @@
 # Fokker D.VIIF  
 
-<table><tbody><tr><td style="text-align: center">![fokkerd7f](../images/fokkerd7f.png)</td><td style="text-align: center">![fokkerd7f](../pilots_notes/fokkerd7f.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7f](../cockpits/fokkerd7f.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.eng.jpg"></td></tr></tbody></table>  
 
 Das Flugzeug wurde von Fokker hergestellt. Der Chefkonstrukteur Reinhold Platz wurde mit der Aufgabe betreut, ein schnelles Kampfflugzeug zu entwerfen, das in der Lage war, ein konkurrenzfähiges Flugzeug gegenüber der französischen SPAD XIII und die britischen S.E.5a zu sein. Einige bemerkenswerte Daten: Stabiler Stahlrohrrahmen, mit Stoff bespannte Flügel aus Holz, Das gesamte Leitwerk war aus Stahlrohren aufgebaut und stoffbespannt.  
   

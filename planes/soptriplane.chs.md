@@ -1,6 +1,6 @@
 # Sopwith Triplane  
 
-<table><tbody><tr><td style="text-align: center">![soptriplane](../images/soptriplane.png)</td><td style="text-align: center">![soptriplane](../pilots_notes/soptriplane.png)</tr><tr><td style="text-align: center" colspan="2">![soptriplane](../cockpits/soptriplane.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/soptriplane.png"></td><td style="text-align: center"><img src="../pilots_notes/soptriplane.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soptriplane.eng.jpg"></td></tr></tbody></table>  
 
 Sopwith engineer Herbert Smith, in designing the Triplane, elected to rectify the lack of manoeuvrability and visibility in previous aircraft designs with the well-known triplane scheme. The three narrow-chord wings provided an increase in airspeed and improved the field of view from the cockpit. Furthermore, the three wings provided an outstanding climb rate and allowed for the compact placement of pilot, fuel tanks, armament, and engine.  
   

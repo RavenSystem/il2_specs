@@ -1,6 +1,6 @@
 # Fokker E.III  
 
-<table><tbody><tr><td style="text-align: center">![fokkere3](../images/fokkere3.png)</td><td style="text-align: center">![fokkere3](../pilots_notes/fokkere3.png)</tr><tr><td style="text-align: center" colspan="2">![fokkere3](../cockpits/fokkere3.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkere3.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkere3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkere3.eng.jpg"></td></tr></tbody></table>  
 
 Le Fokker E.III Eindecker est un chasseur monoplace créé par Anthony Fokker au début de l\année 1915. Le gauchissement est assuré par une déformation de l\aile entière comme pour de nombreux avions de cette période. Cette méthode sera abandonnée pour l\utilisation d\ailerons bien plus efficaces et fiables.  
   

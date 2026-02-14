@@ -1,6 +1,6 @@
 # DFW C.V  
 
-<table><tbody><tr><td style="text-align: center">![dfwc5](../images/dfwc5.png)</td><td style="text-align: center">![dfwc5](../pilots_notes/dfwc5.png)</tr><tr><td style="text-align: center" colspan="2">![dfwc5](../cockpits/dfwc5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
 Dieses Flugzeug wurde in den Deutschen Flugzeug Werken in der Nähe von Leipzig entwickelt und gebaut. Das Ziel war ein leichtes, aber ausdauerndes Flugzeug zu entwickeln. Strukturelemente dieses Flugzeugs waren: Eine metallverkleidete Hecksektion, das Triebwerk ist durch eine Metallverkleidung geschützt, zwei hohle Sparren in der Tragfläche und eine schwebende Rippenstruktur. Der Kühler wurde oberhalb des Triebwerks angebracht.  
   

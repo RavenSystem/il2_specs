@@ -1,6 +1,6 @@
 # Bristol F2B (F.III)  
 
-<table><tbody><tr><td style="text-align: center">![bristolf2bf3](../images/bristolf2bf3.png)</td><td style="text-align: center">![bristolf2bf3](../pilots_notes/bristolf2bf3.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf3](../cockpits/bristolf2bf3.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf3.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf3.eng.jpg"></td></tr></tbody></table>  
 
 Разработка данного самолёта началась в марте 1916 года, по замыслу он должен был заменить старые двуместные B.E. К тому же, новый тип должен был иметь возможность выполнять боевое патрулирование действуя против самолётов противника.  
   

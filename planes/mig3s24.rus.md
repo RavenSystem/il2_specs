@@ -1,6 +1,6 @@
 # МиГ-3 24 серии  
 
-<table><tbody><tr><td style="text-align: center">![mig3s24](../images/mig3s24.png)</td><td style="text-align: center">![mig3s24](../pilots_notes/mig3s24.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/mig3s24.png"></td><td style="text-align: center"><img src="../pilots_notes/mig3s24.png"></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 159..175 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 134..147 км/ч  

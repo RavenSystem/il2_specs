@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.L  
 
-<table><tbody><tr><td style="text-align: center">![pziii-l](../images/pziii-l.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></tr></td></tr></tbody></table>  
 
 Pz.Kpfw. III Ausf.L was equipped with 50 mm main gun that has a good armour penetration ability and additional 20 mm thick armour plates on the gun mantlet and front hull. These improvements were introduced when Germans encountered Soviet T-34 and KV tanks.  
   

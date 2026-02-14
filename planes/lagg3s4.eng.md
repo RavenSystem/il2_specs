@@ -1,6 +1,6 @@
 # LaGG-3 ser.4  
 
-<table><tbody><tr><td style="text-align: center">![lagg3s4](../images/lagg3s4.png)</td><td style="text-align: center">![lagg3s4](../pilots_notes/lagg3s4.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 167..193 km/h  
 Indicated stall speed in takeoff/landing configuration: 142..170 km/h  

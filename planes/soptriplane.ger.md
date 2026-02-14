@@ -1,6 +1,6 @@
 # Sopwith Triplane  
 
-<table><tbody><tr><td style="text-align: center">![soptriplane](../images/soptriplane.png)</td><td style="text-align: center">![soptriplane](../pilots_notes/soptriplane.png)</tr><tr><td style="text-align: center" colspan="2">![soptriplane](../cockpits/soptriplane.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/soptriplane.png"></td><td style="text-align: center"><img src="../pilots_notes/soptriplane.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soptriplane.eng.jpg"></td></tr></tbody></table>  
 
 In Anbetracht der mangelnden Manövrierfähigkeit und des schlechten Sichtfelds früherer Jagdflugzeugentwürfe entschied sich der Ingenieur Herbert Smith dazu, speziell diese Charakteristiken mit seinem berühmten Dreidecker-Entwurf zu verbessern. Ein dünnes Flügelprofil erlaubte es, die Geschwindigkeit zu erhöhen und die Sicht zu verbessern. Des Weiteren ermöglichten die drei Tragflächen außerordentliche Steigzeiten. Eine weitere Besonderheit des Designs war die kompakte Anordnung von Pilot, Treibstofftank, Bewaffnung und Motor.  
   

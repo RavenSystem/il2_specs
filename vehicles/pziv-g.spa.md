@@ -1,6 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-<table><tbody><tr><td style="text-align: center">![pziv-g](../images/pziv-g.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></tr></td></tr></tbody></table>  
 
 Este Pz.Kpfw. IV Ausf.G con cañón KwK 40/L48 de 75 mm fue fabricado en Nibelungenwerke en junio de 1943. La princpal diferencia de la modificación Ausf.G respecto a las anteriores fue su cañón, 5 calibres más largo, pero con el giro del estriado fijo en lugar de variable.   
   

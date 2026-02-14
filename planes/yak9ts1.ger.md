@@ -1,6 +1,6 @@
 # Yak-9T Brh.1  
 
-<table><tbody><tr><td style="text-align: center">![yak9ts1](../images/yak9ts1.png)</td><td style="text-align: center">![yak9ts1](../pilots_notes/yak9ts1.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak9ts1.png"></td><td style="text-align: center"><img src="../pilots_notes/yak9ts1.png"></tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 157..165 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 139..145 km/h  

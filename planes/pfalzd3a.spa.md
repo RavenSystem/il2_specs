@@ -1,6 +1,6 @@
 # Pfalz D.IIIa  
 
-<table><tbody><tr><td style="text-align: center">![pfalzd3a](../images/pfalzd3a.png)</td><td style="text-align: center">![pfalzd3a](../pilots_notes/pfalzd3a.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd3a](../cockpits/pfalzd3a.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.spa.jpg"></td></tr></tbody></table>  
 
 El Pfalz D.III fue diseñado por Pfalz Flugzeugwerke. Los ingenieros alemanes estaban impresionados por el famoso caza francés Nieuport, diseñado con alas «una y media». Por ello, el diseño de Pfalz se basó en los logros de los ingenieros franceses. El primer vuelo de prueba se realizó en mayo de 1917. El diseño se caracterizó por incluir ametralladoras montadas a ambos lados del motor y por situar los cables de control de los alerones en el ala inferior. Un año y medio después, se desarrolló el Pfalz D.IIIa. Contaba con un motor más potente, un timón de cola más grande, cambios en la forma del ala inferior y ametralladoras montadas en la línea de vista del piloto. En total se construyeron 1010 Pfalz D.III y Pfalz D.IIIa.  
   

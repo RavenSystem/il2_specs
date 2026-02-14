@@ -1,6 +1,6 @@
 # Spitfire Mk.IXe  
 
-<table><tbody><tr><td style="text-align: center">![spitfiremkixe](../images/spitfiremkixe.png)</td><td style="text-align: center">![spitfiremkixe](../pilots_notes/spitfiremkixe.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixe.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixe.png"></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 143...163 км/ч (89..101 миль/ч)  
 Приборная скорость сваливания в посадочной конфигурации: 135...154 км/ч (84..96 миль/ч)  

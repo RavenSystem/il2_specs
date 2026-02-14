@@ -1,6 +1,6 @@
 # I.A.R. 80-A  
 
-<table><tbody><tr><td style="text-align: center">![iar80a](../images/iar80a.png)</td><td style="text-align: center">![iar80a](../pilots_notes/iar80a.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/iar80a.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80a.png"></tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 151..162 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 143..151 km/h  

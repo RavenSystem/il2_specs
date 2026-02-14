@@ -1,6 +1,6 @@
 # 豹式坦克D型（Pz.Kpfw.V Ausf.D）  
 
-<table><tbody><tr><td style="text-align: center">![pzv-d](../images/pzv-d.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></tr></td></tr></tbody></table>  
 
 其于1942年由MAN公司开发，1943年首次出现在库尔斯克战役中。坦克拥有强大的主炮、厚实的正面装甲和良好的机动性，但要牺牲其他方向的防护性能作为代价。  
   

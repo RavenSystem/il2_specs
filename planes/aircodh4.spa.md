@@ -1,6 +1,6 @@
 # Airco D.H.4  
 
-<table><tbody><tr><td style="text-align: center">![aircodh4](../images/aircodh4.png)</td><td style="text-align: center">![aircodh4](../pilots_notes/aircodh4.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh4](../cockpits/aircodh4.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.spa.jpg"></td></tr></tbody></table>  
 
 El D.H.4 fue diseñado por Geoffrey de Havilland para ser un bombardero ligero biplaza propulsado por un motor BHP. El primer prototipo voló en agosto de 1916, pero se comprobó que el motor BHP no era fiable,  requiriendo un importante rediseño para ser adaptado al motor Rolls Royce Eagle. El primer pedido de 50 aviones equipados con el motor Eagle III (250 CV) fue realizado al final de 1916.  
   

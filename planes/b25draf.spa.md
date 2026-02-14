@@ -1,6 +1,6 @@
 # B-25D  
 
-<table><tbody><tr><td style="text-align: center">![b25draf](../images/b25draf.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 160..191 km/h (100..119 mph)  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 145..175 km/h (90..109 mph)  

@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center">![se5a](../images/se5a.png)</td><td style="text-align: center">![se5a](../pilots_notes/se5a.png)</tr><tr><td style="text-align: center" colspan="2">![se5a](../cockpits/se5a.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
 The S.E.5a (single-seat fighter, Scout Experimental 5a) was designed by the British company known as R.A.F. (Royal Aircraft Factory). The goal was to build a fighter around the 200hp Hispano-Suiza engine, which would make it to be fast and have a high climbing speed. To achieve this goal, engineers had to settle on a compromise. By making the wing profile thin, they simultaneously increased its surface area. This design featured ailerons in both the upper and lower wings. In total, 5269 planes were built by the end of the war.  
   

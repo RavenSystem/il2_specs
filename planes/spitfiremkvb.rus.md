@@ -1,6 +1,6 @@
 # Spitfire Mk.VB  
 
-<table><tbody><tr><td style="text-align: center">![spitfiremkvb](../images/spitfiremkvb.png)</td><td style="text-align: center">![spitfiremkvb](../pilots_notes/spitfiremkvb.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkvb.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkvb.png"></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 137..144 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 129..135 км/ч  

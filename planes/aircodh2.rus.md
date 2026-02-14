@@ -1,6 +1,6 @@
 # Airco D.H.2  
 
-<table><tbody><tr><td style="text-align: center">![aircodh2](../images/aircodh2.png)</td><td style="text-align: center">![aircodh2](../pilots_notes/aircodh2.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh2](../cockpits/aircodh2.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
 Одноместный истребитель Airco D.H.2 стал вторым проектом конструктора Джеффри де Хевилленда, воплотившим в себе развитие идеи аэроплана с двигателем с толкающим винтом, размещённым за спиной пилота: подобная конструкция позволяла разместить стреляющий вперёд пулемёт (синхронизатор пулемёта для стрельбы сквозь воздушный винт союзники начали использовать лишь в конце 1916 года, а первый полёт прототип D.H.2 совершил в июне 1915 года). Вскоре D.H.2 поступили на вооружение 24-й эскадрильи ВВС Великобритании и в феврале 1916 года приступили к боевой службе на территории Франции.  
   

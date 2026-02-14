@@ -1,6 +1,6 @@
 # Airco D.H.2  
 
-<table><tbody><tr><td style="text-align: center">![aircodh2](../images/aircodh2.png)</td><td style="text-align: center">![aircodh2](../pilots_notes/aircodh2.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh2](../cockpits/aircodh2.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
 Die Airco D.H.2 war ein einsitziger Jäger und das zweite Projekt des Entwicklers Sir Geoffrey de Havilland; beeinflußt von der Bauform des "Druck"-Propeller Konzepts, wurde die Luftschraube hinter dem Piloten angebracht. Dieses Design erlaubte es Flugzeuge zu bauen, bei denen es nicht erforderlich war ein synchronisiertes Maschinengewehr zu verwenden. Dieses wurde erst Ende 1916 implementiert. Der Prototyp der D.H.2 machte seinen Erstflug im Juli 1915. Es wurde anschließend zügig produziert und an das Royal Flying Corps, 24 Schwadron ausgeliefert. Im Februar 1916 begann sein aktiver Einsatz über französischem Territorium.  
   

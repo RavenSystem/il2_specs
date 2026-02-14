@@ -1,6 +1,6 @@
 # Sopwith Camel  
 
-<table><tbody><tr><td style="text-align: center">![sopcamel](../images/sopcamel.png)</td><td style="text-align: center">![sopcamel](../pilots_notes/sopcamel.png)</tr><tr><td style="text-align: center" colspan="2">![sopcamel](../cockpits/sopcamel.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.eng.jpg"></td></tr></tbody></table>  
 
 The Sopwith Camel\s construction was based on that of its predecessor, the Sopwith Pup. Sopwith\s chief designer Herbert Smith decided to somewhat alter the Pup’s design, since a newer, larger and heavier engine would have to be mounted. Some changes were made to the landing gear struts, the spacing of the wings and stabiliser were increased, and the fuselage acquired an extension to the cockpit\s trailing edge, which looked rather like a camel’s hump. That \hump\ is what gave the plane its name - the Sopwith Camel.  
   

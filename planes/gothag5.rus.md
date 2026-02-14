@@ -1,6 +1,6 @@
 # Gotha G.V  
 
-<table><tbody><tr><td style="text-align: center">![gothag5](../images/gothag5.png)</td><td style="text-align: center">![gothag5](../pilots_notes/gothag5.png)</tr><tr><td style="text-align: center" colspan="2">![gothag5](../cockpits/gothag5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/gothag5.png"></td><td style="text-align: center"><img src="../pilots_notes/gothag5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/gothag5.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт стал следующим шагом развития конструкции Gotha G.IV. Боевой опыт показал, что близость топливных баков к двигателю чрезвычайно опасна. Топливные баки перенесли в фюзеляж. Недостаток качественных материалов привел к увеличению веса конструкции. Нижняя часть фюзеляжа сохранила пулемётный туннель для стрельбы назад и вниз. Для увеличения устойчивости самолёта при маневрах на земле были укорочены стойки шасси, что вызвало необходимость приподнять мотогондолу над крылом. Пожалуй, это главное внешнее отличие серии V от предыдущих моделей. В октябре 1916 года было заказано 100 бомбардировщиков. В августе 1917 года завод покинули первые Gotha G.V. Самолёт выпускался фабрикой Gothaer Waggonfabrik A.G. Всего было изготовлено 205 экземпляров серии V.  
 Самолёт применялся для нанесения ударов по стратегическим целям противника и бомбардировки Лондона. К концу войны Gotha G.V использовался как ночной бомбардировщик.  

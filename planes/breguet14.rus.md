@@ -1,6 +1,6 @@
 # Breguet 14.B2  
 
-<table><tbody><tr><td style="text-align: center">![breguet14](../images/breguet14.png)</td><td style="text-align: center">![breguet14](../pilots_notes/breguet14.png)</tr><tr><td style="text-align: center" colspan="2">![breguet14](../cockpits/breguet14.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.eng.jpg"></td></tr></tbody></table>  
 
 Двухместный биплан, спроектированный одноимённой компанией во Франции. Прототип самолёта совершил первый вылет в апреле 1917 года. Конструкция планера включала дюралюминиевые и металлические конструкции - самолёт получился прочным. Он изготавливался несколькими компаниями: Michelin, Bellanger, Renault, Farman, Schmitt, Darracq. На протяжении войны выпускаемые оснащались разными двигателями: поначалу это были Renault, затем Fiat, а в последние месяцы войны - двигатель Liberty. Надёжные и мощные, они сделали "Бреге" 14 самым скоростным двухместным бомбардировщиком Первой мировой войны.  
   

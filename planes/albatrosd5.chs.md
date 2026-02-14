@@ -1,6 +1,6 @@
 # Albatros D.Va  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd5](../images/albatrosd5.png)</td><td style="text-align: center">![albatrosd5](../pilots_notes/albatrosd5.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd5](../cockpits/albatrosd5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.eng.jpg"></td></tr></tbody></table>  
 
 信天翁工厂的工程师们面临着建造一架快速并且灵敏机动的战斗机的挑战。初期的信天翁（Albatros）D.III在大角度俯冲下，其下机翼的缺陷会导致机翼损坏。由于无法找出这些故障的原因，工程师们把副翼操纵索从下翼移到上翼。1917年春天信天翁D.V进行了试飞。从外部看，信天翁D.V不同于早期的信天翁的其他型号:它有一个较大的垂尾翼面;上部机翼被放得更靠近机身;散热器被设置在中心线的右侧，并且机身更加圆润。  
   

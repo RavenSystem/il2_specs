@@ -1,6 +1,6 @@
 # La-5 ser.8  
 
-<table><tbody><tr><td style="text-align: center">![la5s8](../images/la5s8.png)</td><td style="text-align: center">![la5s8](../pilots_notes/la5s8.png)</tr><tr><td style="text-align: center" colspan="2">![la5s8](../cockpits/la5s8.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/la5s8.png"></td><td style="text-align: center"><img src="../pilots_notes/la5s8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/la5s8.eng.jpg"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：165~183 km/h  
 起降构型的失速指示空速：147~162 km/h  

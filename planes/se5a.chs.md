@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center">![se5a](../images/se5a.png)</td><td style="text-align: center">![se5a](../pilots_notes/se5a.png)</tr><tr><td style="text-align: center" colspan="2">![se5a](../cockpits/se5a.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
 S.E.5a（单座战斗机、侦察机实验型5a）是由英国R.A.F.公司（皇家飞机工厂）设计的。目标是围绕200 HP的西斯帕诺-苏伊扎（Hispano-Suiza）发动机建造一架战斗机，这将使其更快并具有较高的爬升速度。为了实现这一目标，工程师不得不妥协。使机翼剖面变薄，他们同时增加了机翼的表面积。这种设计在上下机翼上都装有副翼。到战争结束时，总共制造了5269架飞机。   
   

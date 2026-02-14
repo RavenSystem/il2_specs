@@ -1,6 +1,6 @@
 # Albatros D.III  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd3](../images/albatrosd3.png)</td><td style="text-align: center">![albatrosd3](../pilots_notes/albatrosd3.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd3](../cockpits/albatrosd3.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.spa.jpg"></td></tr></tbody></table>  
 
 Tras investigar la construcción de un Nieuport capturado, los ingenieros alemanes diseñaron el ala inferior de su nuevo avión más corto y estrecho que el superior. Los extremos de las alas fueron limados para intentar eliminar las vibraciones en las alas. Entre otras soluciones de diseño se pueden mencionar: las varillas del control del alerón se llevaron a lo largo del ala inferior, el radiador fue desplazado del lateral del fuselaje al centro del ala superior, y las alas fueron soportadas por estructuras en V. La reducción del peso fue uno de los objetivos principales de este particular avión. Fue fabricado por Albatros Werke y Ostdeutsche Albatros Werke. En total se fabricaron 1346 unidades del Albatros D.III.  
   

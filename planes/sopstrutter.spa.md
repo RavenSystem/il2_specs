@@ -1,6 +1,6 @@
 # Sopwith 1½ Strutter  
 
-<table><tbody><tr><td style="text-align: center">![sopstrutter](../images/sopstrutter.png)</td><td style="text-align: center">![sopstrutter](../pilots_notes/sopstrutter.png)</tr><tr><td style="text-align: center" colspan="2">![sopstrutter](../cockpits/sopstrutter.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutter.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutter.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutter.spa.jpg"></td></tr></tbody></table>  
 
 Diseñado y construido por el Almirantazgo británico, el Sopwith 1½ Strutter (tomó su nombre de la sujección de la sección central del ala superior: parejas de arriostramientos largos y cortos, «uno y medio», que soportaban el ala superior) fue el primer caza biplaza en entrar en servicio y, de hecho, el primer aeroplano británico armado con una ametralladora sincronizada. Propulsado por un motor rotativo Clerget de 110 o 130 CV, el avión estaba equipado con una ametralladora fija Vickers de .303 pulgadas (7,69 mm) de disparo frontal sincronizado y una ametralladora simple (algunas veces doble) Lewis de .303 pulgadas en el puesto del artillero. El 1½ Strutter estuvo en servicio tanto con el <i>Royal Naval Air Service</i> (RNAS) como con el <i>Royal Flying Corps</i> (RFC).  
   

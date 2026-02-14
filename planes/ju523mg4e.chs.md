@@ -1,6 +1,6 @@
 # Ju 52/3m g4e  
 
-<table><tbody><tr><td style="text-align: center">![ju523mg4e](../images/ju523mg4e.png)</td><td style="text-align: center">![ju523mg4e](../pilots_notes/ju523mg4e.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：105~117 km/h  
 起降构型的失速指示空速：92~109 km/h  

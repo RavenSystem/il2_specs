@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center">![se5a](../images/se5a.png)</td><td style="text-align: center">![se5a](../pilots_notes/se5a.png)</tr><tr><td style="text-align: center" colspan="2">![se5a](../cockpits/se5a.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.spa.jpg"></td></tr></tbody></table>  
 
 El avión monoplaza S.E.5a (Scout Experimental 5a) fue diseñado por la compañía británica R.A.F. (Royal Aircraft Factory). El propósito era construir un caza con un motor Hispano-Suiza de 200 CV, que le proporcionaría velocidad y una alta tasa de ascenso. Con el fin de alcanzar este fin, los ingenieros tuvieron que establecer un compromiso. Al crear un perfil de ala delgado, debieron aumentar su superficie alar. Este diseño también incluyó alerones en el ala superior e inferior. Al final de la guerra un total de 5269 aeroplanos habían sido construidos.  
   

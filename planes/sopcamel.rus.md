@@ -1,6 +1,6 @@
 # Sopwith Camel  
 
-<table><tbody><tr><td style="text-align: center">![sopcamel](../images/sopcamel.png)</td><td style="text-align: center">![sopcamel](../pilots_notes/sopcamel.png)</tr><tr><td style="text-align: center" colspan="2">![sopcamel](../cockpits/sopcamel.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.eng.jpg"></td></tr></tbody></table>  
 
 За основу конструкции самолёта был взят его предшественник Sopwith Pup. Учитывая, что предстояло установить более крупный и тяжелый двигатель, генеральный конструктор Герберт Смит (Herbert Smith) пошёл на ряд переделок. В частности, они коснулись стоек шасси, увеличения площади крыльев и стабилизатора; фюзеляж приобрел наплыв, повторяющий горб верблюда. Это обусловило название истребителя - Sopwith Camel. Из особенностей конструкции можно выделить компактное размещение пилота, топливных баков, вооружения и двигателя.  
   

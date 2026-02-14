@@ -1,6 +1,6 @@
 # Hanriot HD.1  
 
-<table><tbody><tr><td style="text-align: center">![hanriothd1](../images/hanriothd1.png)</td><td style="text-align: center">![hanriothd1](../pilots_notes/hanriothd1.png)</tr><tr><td style="text-align: center" colspan="2">![hanriothd1](../cockpits/hanriothd1.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.eng.jpg"></td></tr></tbody></table>  
 
 Hanriot HD.1 был разработан авиаинженером фирмы "Анрио" (Hanriot) Пьером Дюпоном летом 1916 года и представлял собой классический биплан с двухлонжеронными крыльями смешанной конструкции, в которой преобладало дерево (носовая часть до пожарной перегородки, а также каркас хвостового оперения были металлическими). Верхнее крыло имело небольшую вогнутость, а нижнее было прямым. В фюзеляже размещалось три бака: два за двигателем, один за спиной пилота.  
   

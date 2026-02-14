@@ -1,6 +1,6 @@
 # Fokker E.III  
 
-<table><tbody><tr><td style="text-align: center">![fokkere3](../images/fokkere3.png)</td><td style="text-align: center">![fokkere3](../pilots_notes/fokkere3.png)</tr><tr><td style="text-align: center" colspan="2">![fokkere3](../cockpits/fokkere3.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkere3.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkere3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkere3.eng.jpg"></td></tr></tbody></table>  
 
 The Fokker E.III Eindecker was a single-seat monoplane fighter designed by Anthony Fokker at the beginning of 1915. Typical for all early aircraft, roll control was implemented by physically deforming the whole surface of the wings (\wing-warping\). Later on, the unreliable and ineffective wing-warping function was replaced by ailerons, or control surfaces.  
   

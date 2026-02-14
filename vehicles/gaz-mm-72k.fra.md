@@ -1,6 +1,6 @@
 # GAZ-MM 72-K  
 
-<table><tbody><tr><td style="text-align: center">![gaz-mm-72k](../images/gaz-mm-72k.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></tr></td></tr></tbody></table>  
 
 GAZ-MM truck made at the Molotov automobile factory in Gorky in 1943 with 25 mm 72-K automatic anti-air gun installed on the special wooden platform. This truck was an improved model of GAZ-AA with more powerful engine, better steering mechanism and reinforced suspension.  
   

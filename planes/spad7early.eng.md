@@ -1,6 +1,6 @@
 # SPAD 7.C1 150hp  
 
-<table><tbody><tr><td style="text-align: center">![spad7early](../images/spad7early.png)</td><td style="text-align: center">![spad7early](../pilots_notes/spad7early.png)</tr><tr><td style="text-align: center" colspan="2">![spad7early](../cockpits/spad7early.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.eng.jpg"></td></tr></tbody></table>  
 
 The SPAD S.VII was a single-seat fighter developed by Louis Bechereau of the Societe Pour L\Aviation et ses Derives in early 1916. Much of the design of the aircraft was drawn from SPAD’s development of the rotary-powered SPAD Type A. The initial engine to equip the SPAD S.VII, the 150-horsepower Hispano-Suiza 8A, was originally developed by Swiss engineer Marc Birkigt in February 1915.  
   

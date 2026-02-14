@@ -1,6 +1,6 @@
 # Hurricane Mk.II  
 
-<table><tbody><tr><td style="text-align: center">![hurricanemkii](../images/hurricanemkii.png)</td><td style="text-align: center">![hurricanemkii](../pilots_notes/hurricanemkii.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 132...155 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 123...144 km/h  

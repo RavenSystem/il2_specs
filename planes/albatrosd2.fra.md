@@ -1,6 +1,6 @@
 # Albatros D.II  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd2](../images/albatrosd2.png)</td><td style="text-align: center">![albatrosd2](../pilots_notes/albatrosd2.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd2](../cockpits/albatrosd2.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd2.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd2.eng.jpg"></td></tr></tbody></table>  
 
 Né sous le nom des légendaires chasseurs Albatros, le DII est rapidement devenu une icône de la grande guerre. Lingénieur Robert Thelen donna au DII toutes les dernières technologies pour en faire la nouvelle référence des chasseurs. Gardant la ligne profilée de lAlbatros D.I le DII fut équipé de montant centraux en N. Laile supérieure fut descendue plus près du fuselage au niveau de vue du pilote. Les premières versions furent équipées de radiateurs Windhoff de chaque côté du fuselage.  
 Lavion était construit dans les usines de Albatros Werke, Ostdeutsche Albatros Werke, Luft-Verkehrs-Gesellschaft mbH.768 Albatros D.II furent construits.  

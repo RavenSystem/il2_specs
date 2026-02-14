@@ -1,6 +1,6 @@
 # Sopwith 1½ Strutter B  
 
-<table><tbody><tr><td style="text-align: center">![sopstrutterb](../images/sopstrutterb.png)</td><td style="text-align: center">![sopstrutterb](../pilots_notes/sopstrutterb.png)</tr><tr><td style="text-align: center" colspan="2">![sopstrutterb](../cockpits/sopstrutterb.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutterb.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutterb.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutterb.spa.jpg"></td></tr></tbody></table>  
 
 Diseñado y construido por el Almirantazgo británico, el Sopwith 1½ Strutter (tomó su nombre de la sujección de la sección central del ala superior: parejas de arriostramientos largos y cortos, «uno y medio», que soportaban el ala superior) fue el primer caza biplaza en entrar en servicio y, de hecho, el primer aeroplano británico armado con una ametralladora sincronizada. Propulsado por un motor rotativo Clerget de 110 o 130 CV, esta variante de bombardero monoplaza prescindía del puesto de artillero para poder cargar más combustible y estaba equipada con una ametralladora fija Vickers de .303 pulgadas (7,69 mm) de disparo frontal sincronizado, pudiendo llevar 4 bombas de 65 lb (29 kg) en su bodega interna. La variante de bombardero monoplaza del 1½ Strutter entró en servicio con el <i>Royal Naval Air Service</i> (RNAS).  
   

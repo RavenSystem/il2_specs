@@ -1,6 +1,6 @@
 # Pfalz D.XII  
 
-<table><tbody><tr><td style="text-align: center">![pfalzd12](../images/pfalzd12.png)</td><td style="text-align: center">![pfalzd12](../pilots_notes/pfalzd12.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd12](../cockpits/pfalzd12.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.spa.jpg"></td></tr></tbody></table>  
 
 En el diseño de la siguiente modificación del Pfalz, los ingenieros de la compañía decidieron utilizar un ala de sección delgada similar a la del SPAD VII. Este ala satisfizo las necesidades de las tácticas de combate utilizadas por los pilotos alemanes: Caer en picado, disparar al enemigo y ascender a la anterior altitud. El diseño también incluyó áreas de superficie iguales en las alas superior e inferior. Además, el avión estaba equipado con un radiador montado en el morro del avión, similar al Fokker D.VII. y fue el primer caza equipado con un radiador de tubo (que posteriormente sería rediseñado debido a problemas de refrigeración). Se construyeron un total de 800 aviones de este modelo.  
   

@@ -1,6 +1,6 @@
 # Bf 109 G-6 Late  
 
-<table><tbody><tr><td style="text-align: center">![bf109g6late](../images/bf109g6late.png)</td><td style="text-align: center">![bf109g6late](../pilots_notes/bf109g6late.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 161..179 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 153..170 km/h  

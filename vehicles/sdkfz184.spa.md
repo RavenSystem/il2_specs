@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center">![sdkfz184](../images/sdkfz184.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></tr></td></tr></tbody></table>  
 
 El «destructor de carros pesados», el cazacarros Sd.Kfz.184 se fabricó en Nibelungenwerke en 1943. Esta versión inicial, sin cúpula de mando ni ametralladora se conoce como «Ferdinand», mientras que una posterior, equipada con estas mejoras, se conoce como «Elefant». En total, se produjeron 91 vehículos de todas las variantes.  
   

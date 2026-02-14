@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center">![se5a](../images/se5a.png)</td><td style="text-align: center">![se5a](../pilots_notes/se5a.png)</tr><tr><td style="text-align: center" colspan="2">![se5a](../cockpits/se5a.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
 L\avion a été conçu par la société britannique R.A.F. (Royal Aircraft Factory). S.E. — Patrouilleur expérimental (chasseurs monoplaces). L\objectif était de construire un chasseur autur d\un moteur Hispano—Suiza de 200 hp, qui serait rapide avec une haute vitesse de montée. Pour atteindre ces objectifs, les ingénieurs ont du trouver un compromis. En faisant des profils d\ailes minces, ils en ont augmenté la surface. Ce design comportait des ailes supérieures et inférieures. 5269 avions ont été construits à la fin de la guerre.  
   

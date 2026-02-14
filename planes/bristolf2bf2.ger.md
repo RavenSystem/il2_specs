@@ -1,6 +1,6 @@
 # Bristol F2B (F.II)  
 
-<table><tbody><tr><td style="text-align: center">![bristolf2bf2](../images/bristolf2bf2.png)</td><td style="text-align: center">![bristolf2bf2](../pilots_notes/bristolf2bf2.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf2](../cockpits/bristolf2bf2.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.eng.jpg"></td></tr></tbody></table>  
 
 Der Entwurf der Bristol hat seinen Ursprung im März 1916, als Nachfolger der B.E. Zweisitzer -Serie. Das Flugzeug war als Aufklärungsflugzeug ausgelegt, sollte aber zusätzlich auch in der Lage sein, in der Jägerrolle eingesetzt zu werden. Es war mit Doppelsteuerung, Funkgerät, Photoausrüstung, einem unter der Motorabdeckung befindlichen nach vorne feuerndem Vickers Maschinengewehr sowie mit einem oder zwei Lewis Maschinengewehren ausgerüstet.  
   

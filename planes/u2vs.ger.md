@@ -1,6 +1,6 @@
 # U-2VS  
 
-<table><tbody><tr><td style="text-align: center">![u2vs](../images/u2vs.png)</td><td style="text-align: center">![u2vs](../pilots_notes/u2vs.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/u2vs.png"></td><td style="text-align: center"><img src="../pilots_notes/u2vs.png"></tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 63..70 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 240 km/h  

@@ -1,6 +1,6 @@
 # Li-2  
 
-<table><tbody><tr><td style="text-align: center">![li2](../images/li2.png)</td><td style="text-align: center">![li2](../pilots_notes/li2.png)</tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 115...135 km/h  
 Indicated stall speed in takeoff/landing configuration: 105...120 km/h  

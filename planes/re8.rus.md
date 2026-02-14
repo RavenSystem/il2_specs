@@ -1,6 +1,6 @@
 # R.E.8  
 
-<table><tbody><tr><td style="text-align: center">![re8](../images/re8.png)</td><td style="text-align: center">![re8](../pilots_notes/re8.png)</tr><tr><td style="text-align: center" colspan="2">![re8](../cockpits/re8.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/re8.png"></td><td style="text-align: center"><img src="../pilots_notes/re8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/re8.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт разрабатывался как замена морально устаревшему к тому времени B.E.2. Вооружение состояло из однорго курсового синхронизированного пулемёта, а позиция стрелка-наблюдателя была перенесена назад от пилота (на B.E.2 он сидел перед пилотом).  
 Устанавливался V-образный 12-ти циллиндровый двигатель воздушного охлаждения  RAF4a. Изначально было предусмотрено место для установки радио и фото обородования, так же самолёт мог нести бомбовое вооружение на подкрыльевых бомбодержателях.  

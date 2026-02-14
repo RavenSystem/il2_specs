@@ -1,6 +1,6 @@
 # Pfalz D.IIIa  
 
-<table><tbody><tr><td style="text-align: center">![pfalzd3a](../images/pfalzd3a.png)</td><td style="text-align: center">![pfalzd3a](../pilots_notes/pfalzd3a.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd3a](../cockpits/pfalzd3a.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
 The Pfalz D.III was designed by Pfalz Flugzeugwerke. German engineers were impressed by the famous French Nieuport fighters, which were designed with “one-and-a-half” wings. As such, Pfalz’s design was based on the achievements of French engineers. The first trial flight was carried out in May 1917. The plane’s design featured machine guns mounted on the sides of the engine and aileron control wires situated in the lower wing. Half a year later, the Pfalz D.IIIa was introduced. It featured a more powerful engine, a larger tail fin, a modified shape of the lower wing and machine guns mounted at the pilots line of sight. In all, 1010 Pfalz D.III and Pfalz D.IIIa aircraft were built.  
   

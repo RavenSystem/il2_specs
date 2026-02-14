@@ -1,6 +1,6 @@
 # Airco D.H.4  
 
-<table><tbody><tr><td style="text-align: center">![aircodh4](../images/aircodh4.png)</td><td style="text-align: center">![aircodh4](../pilots_notes/aircodh4.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh4](../cockpits/aircodh4.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.eng.jpg"></td></tr></tbody></table>  
 
 &这是一款由 BHP 发动机提供动力的双座轻型轰炸机，由 Geoffrey de Havilland 设计。 第一架原型机于 1916 年 8 月试飞，但由于 BHP 发动机被证明不符合战争需要，因此进行重新设计，DH.4 型被装备了劳斯莱斯 Eagle 发动机。 1916 年底，该机型获得了 50 架的订单（配备Eagle III 发动机（250 马力））。  
   

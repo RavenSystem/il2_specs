@@ -1,6 +1,6 @@
 # Hanriot HD.1  
 
-<table><tbody><tr><td style="text-align: center">![hanriothd1](../images/hanriothd1.png)</td><td style="text-align: center">![hanriothd1](../pilots_notes/hanriothd1.png)</tr><tr><td style="text-align: center" colspan="2">![hanriothd1](../cockpits/hanriothd1.spa.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.spa.jpg"></td></tr></tbody></table>  
 
 El avión fue desarrollado por Pierre Dupont para la compañía Hanriot en verano de 1916 y estaba construido como un biplano clásico hecho principalmente de madera; solo la estructura del timón y parte del morro eran metálicos. Tenía alas soportadas por dos largueros y arriostradas: la superior con un pequeño ángulo en V, las inferiores rectas. Contaba con 3 depósitos de combustible en el fuselaje: dos detrás del motor y uno más detrás de la espalda del piloto.  
   

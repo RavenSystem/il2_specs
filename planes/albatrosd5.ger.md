@@ -1,6 +1,6 @@
 # Albatros D.Va  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd5](../images/albatrosd5.png)</td><td style="text-align: center">![albatrosd5](../pilots_notes/albatrosd5.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd5](../cockpits/albatrosd5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.eng.jpg"></td></tr></tbody></table>  
 
 Ingenieure der Albatros Werke wurden vor die Aufgabe gestellt, ein schnelles und höchst manövrierfähiges Kampfflugzeug zu entwickeln. Das bisherige Modell Albatros D.III hatte zu schwache Tragflächen, diese konnten bei längerem steilen Sturzflug brechen. Da der eigentliche Schwachpunkt nicht wirklich auszumachen war, verlegten die Ingenieure die Seilzüge des Querruders von der unteren auf die obere Tragfläche.  
   

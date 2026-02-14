@@ -1,6 +1,6 @@
 # Albatros D.Va  
 
-<table><tbody><tr><td style="text-align: center">![albatrosd5](../images/albatrosd5.png)</td><td style="text-align: center">![albatrosd5](../pilots_notes/albatrosd5.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd5](../cockpits/albatrosd5.eng.jpg)</td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.eng.jpg"></td></tr></tbody></table>  
 
 The engineers of Albatros Werke faced the task of building a fast and manoeuvrable fighter plane. The older Albatros D.III had a lower wing defect that led to failure of the wing in a steep dive. Having been unable to find out the reason of these failures, the engineers moved the aileron control wires from the lower wing to the top wing.  
 Test flights were carried out in the spring of 1917. Externally, the Albatros D.V differed from earlier Albatros models: it had a larger tail fin surface; the top wing was lowered closer to the fuselage; the radiator was set to starboard of the centreline, and the fuselage was more rounded.  
