@@ -17,7 +17,7 @@ Version: 7.002 - Date: 2026-02-11 [ [Sponsor this project](https://paypal.me/rav
 
 ### A-20B  
 
-<table><thead><tr><th style="text-align: left" colspan="2">[ [chs](planes/a20b.chs.md) ] [ <a href="planes/a20b.eng.md">eng</a> ] [ <a href="planes/a20b.fra.md">fra</a> ] [ <a href="planes/a20b.ger.md">ger</a> ] [ <a href="planes/a20b.rus.md">rus</a> ] [ <a href="planes/a20b.spa.md">spa</a> ] </th></tr></thead>
+<table><thead><tr><th style="text-align: left" colspan="2">[ <pre>[chs](planes/a20b.chs.md)</pre> ] [ <a href="planes/a20b.eng.md">eng</a> ] [ <a href="planes/a20b.fra.md">fra</a> ] [ <a href="planes/a20b.ger.md">ger</a> ] [ <a href="planes/a20b.rus.md">rus</a> ] [ <a href="planes/a20b.spa.md">spa</a> ] </th></tr></thead>
 <tbody><tr><td style="text-align: center"><img src="images/a20b.png"></td><td style="text-align: center"><img src="pilots_notes/a20b.png"></td></tr></tbody></table>
 
 ### Airco D.H.2  
