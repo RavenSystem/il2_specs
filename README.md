@@ -832,5 +832,5 @@ Version: 7.002 - Date: 2026-02-14 [ [Sponsor this project](https://paypal.me/rav
 - Il-2 Great Battles: Operators [ [eng](manuals/IL2GB_Operators_Manual_v4702_Release.pdf) ] 
 - Il-2 Great Battles: Purchase and Install [ [eng](manuals/IL2GB_Purchase_&_Install_Manual_v4702_Release.pdf) ] 
 - Il-2 Battle of Stalingrad [ [eng](manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
-- Il-2 Mission Editor and Multiplayer Server [ [eng](manuals/IL-2 Sturmovik Mission Editor and Multiplayer Server Manual.pdf) ] [ [spa](manuals/Manual del Editor de Misiones y Servidor Multijugador.pdf) ] 
+- Il-2 Mission Editor and Multiplayer Server [ [eng](IL-2_Sturmovik_Mission_Editor_and_Multiplayer_Server_Manual.pdf) ] [ [spa](manuals/Manual_del_Editor_de_Misiones_y_Servidor_Multijugador.pdf) ] 
 - Rise of Flight [ [eng](manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra](manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger](manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus](manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa](manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
