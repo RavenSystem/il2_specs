@@ -3,7 +3,7 @@
 
 Version: 7.002 - Date: 2026-02-14 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
+[ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
 ### Planes
 
@@ -827,3 +827,10 @@ Version: 7.002 - Date: 2026-02-14 [ [Sponsor this project](https://paypal.me/rav
 
 <table><tbody><tr><td style="text-align: center"><img src="images/t34-76uvz-43.png"></td></tr></tbody></table>
 
+## Game Manuals
+
+- Il-2 Great Battles: Operators [ [eng](manuals/IL2GB_Operators_Manual_v4702_Release.pdf) ] 
+- Il-2 Great Battles: Purchase and Install [ [eng](manuals/IL2GB_Purchase_&_Install_Manual_v4702_Release.pdf) ] 
+- Il-2 Battle of Stalingrad [ [eng](manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
+- Il-2 Mission Editor and Multiplayer Server [ [eng](manuals/IL-2 Sturmovik Mission Editor and Multiplayer Server Manual.pdf) ] [ [spa](manuals/Manual del Editor de Misiones y Servidor Multijugador.pdf) ] 
+- Rise of Flight [ [eng](manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra](manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger](manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus](manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa](manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
