@@ -1,6 +1,6 @@
 # Airco D.H.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.spa.jpg"></td></tr></tbody></table>  
 
 El Airco D.H.2, un caza monoplaza, fue el segundo proyecto del diseñador Sir Geoffrey de Havilland, que mejoraba el concepto de la hélice propulsora, situada tras el piloto. Este diseño permitia construir el avión sin la necesidad de sincronizar la ametralladora, que no sería implementada hasta finales de 1916. El prototipo del D.H.2 realizó su primer vuelo en julio de 1915. Poco después entró en servicio y fue entregado al Escuadrón n.º 24 del <i>Royal Flying Corps</i>, con el que inició su servicio activo en territorio francés en febrero de 1916.  
   

@@ -1,6 +1,6 @@
 # Yak-1ser.69  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s69.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s69.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/yak1s69.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s69.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s69.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/yak1s69.eng.jpg"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：155~171 km/h  
 起降构型的失速指示空速：133~146 km/h  

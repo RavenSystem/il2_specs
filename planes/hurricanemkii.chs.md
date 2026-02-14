@@ -1,6 +1,6 @@
 # Hurricane Mk.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></td></tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：132...155 km/h  
 着陆构型的失速指示空速： 123...144 km/h  

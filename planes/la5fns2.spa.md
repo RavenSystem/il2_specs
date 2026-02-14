@@ -1,6 +1,6 @@
 # La-5FN ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/la5fns2.png"></td><td style="text-align: center"><img src="../pilots_notes/la5fns2.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/la5fns2.png"></td><td style="text-align: center"><img src="../pilots_notes/la5fns2.png"></td></tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 168..185 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 147..159 km/h  

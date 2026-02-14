@@ -1,6 +1,6 @@
 # F.E.2b  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.spa.jpg"></td></tr></tbody></table>  
 
 El F.E.2 era un biplano con una hélice de empuje y un tren de aterrizaje amortiguado con una rueda de apoyo delantera para minimizar el riesgo de vuelco durante un mal aterrizaje. En su modelo F.E.2a, toda la parte posterior de la sección superior central estaba articulada a lo largo del larguero trasero y podía ser bajada para actuar como una especie de aerofreno tipo flaps. El artillero observador ocupaba la cabina delantera, mientras que el piloto se situaba detrás de él en una posición más elevada. El motor poseía una cubierta que lo ocultaba casi en su totalidad y accionaba a una hélice de empuje de dos palas.  
   

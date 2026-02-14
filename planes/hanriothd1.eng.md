@@ -1,6 +1,6 @@
 # Hanriot HD.1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.eng.jpg"></td></tr></tbody></table>  
 
 The Hanriot HD.1 was developed by Pierre Dupont in the summer of 1916 for the Hanriot company as a classical biplane made mostly of wood with two-spar wings (the rudder frame and the nose part were metal). The upper wing had a small V-angle while the lower one was straight. There were 3 fuel tanks in the fuselage: two behind the engine and one more behind the pilots back.  
   

@@ -1,6 +1,6 @@
 # Halberstadt D.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtd2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtd2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtd2.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtd2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtd2.eng.jpg"></td></tr></tbody></table>  
 
 Первый прототип аэроплана, оснащённый двигателем Mercedes D.I, поднялся в воздух в конце осени 1915 года. Позже машину оснастили двигателем Mercedes D.II мощностью 120 л.с. и начали массовое производство под обозначением D.II, чтобы заменить морально устаревшие к тому времени монопланы Фоккера. Первые аэропланы начали поступать в строевые части уже в июне 1916 года.  
   

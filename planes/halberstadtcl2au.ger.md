@@ -1,6 +1,6 @@
 # Halberstadt CL.II 200hp  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.eng.jpg"></td></tr></tbody></table>  
 
 Die Entwicklung der Halberstadt CL.II war eine Antwort auf eine im August 1916 herausgegebene Anforderung der Idflieg (Inspektion der Fliegertruppen) für einen neuen "leichten C-Typen" mit einem 160 bis 180 PS starken Motor.  
   

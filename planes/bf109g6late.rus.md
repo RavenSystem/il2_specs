@@ -1,6 +1,6 @@
 # Bf 109 G-6 Поздний  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 161..179 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 153..170 км/ч  

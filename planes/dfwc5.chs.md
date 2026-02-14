@@ -1,6 +1,6 @@
 # DFW C.V  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
 The DFW C.V was a two-seater biplane plane designed and produced at the Deutsche Flugzeug Werke near Leipzig. In designing the aircraft, DFW\s designers aimed to create a light but durable airframe. Its structural features included a metal-covered strut in the tail section, a metal cowl protecting the engine, two hollow spars in the wings, and floating ribs. The radiator was mounted above the engine.  
   

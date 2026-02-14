@@ -1,6 +1,6 @@
 # Sopwith Camel  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.spa.jpg"></td></tr></tbody></table>  
 
 La construcción del Sopwith Camel se basó en la de su predecesor, el Sopwith Pup. El diseñador jefe de Sopwith, Herbert Smith, decidió que había que modificar algo del diseño del Pup, puesto que el nuevo motor que tenía que ser montado era más grande y pesado. Se realización cambios en las riostras del tren de aterrizaje, el espacio de las alas y estabilizadores fueron aumentados, y el fuselaje adquirió una extensión hasta el borde posterior de la cabina con forma de joroba de camello, de ahí su nombre - Sopwith Camel. Un detalle notable de la construcción del avión fue su compacidad: el asiento del piloto, tanques de combustible, ametralladoras y motor estaban instalados muy juntos.  
   

@@ -1,6 +1,6 @@
 # Fokker D.VII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт спроектирован в конструкторском бюро Энтони Фоккера. Перед конструктором стояла задача создать скоростной истребитель, который мог бы составить конкуренцию французскому Spad—XIII и английскому S.E.5a. Из особенностей конструкции можно упомянуть: металлический каркас фюзеляжа; крыло с толстым профилем; отсутствие расчалок.  
   

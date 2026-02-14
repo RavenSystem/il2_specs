@@ -1,6 +1,6 @@
 # Roland C.IIa  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/rolandc2a.png"></td><td style="text-align: center"><img src="../pilots_notes/rolandc2a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/rolandc2a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/rolandc2a.png"></td><td style="text-align: center"><img src="../pilots_notes/rolandc2a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/rolandc2a.eng.jpg"></td></tr></tbody></table>  
 
 Одной из наиболее продвинутых разработок в авиационной промышленности 1915 года был самолёт L.F.G. Роланд C.II, разработаный при участии инженера Танцена (Tantzen), который недавно перешел на работу в Luftfahrzeug Gesellschaft ("Самолётная компания") как инженер-разработчик. Оснавная идея Танцена заключалась в том, чтобы убрать все выступающие части аэроплана внутрь фюзеляжа и использовать как можно меньше внешних растяжек на крыле. Обтекаемый фюзеляж и тонкий профиль крыла дали машине отличные скоростные характеристики, сделав его одним из самых быстрых аэропланов своего времени: в момент поступления на фронт практически ни один из истребителей союзников не мог угнаться за ним.  
   

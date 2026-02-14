@@ -1,6 +1,6 @@
 # LaGG-3 ser.29  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s29.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s29.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/lagg3s29.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s29.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s29.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/lagg3s29.eng.jpg"></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 163..189 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 138..168 km/h  

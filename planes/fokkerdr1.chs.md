@@ -1,6 +1,6 @@
 # Fokker Dr.I  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
 
 1917年春天，安东尼·福克（Anthony Fokker）在访问第11中队期间检查了被俘英国战斗机，索普维斯（Sopwith）三翼机的建造结构。曼弗雷德·冯·里希特霍芬（Manfred von Richthofen）向福克讲述了他与这架新飞机格斗的细节。正是由于他丰富的经验，红男爵才设法避免了失败。   
 F.I（Dr.I当时的名字）三翼机的原型机已于1917年8月准备就绪。其结构的一些显著细节如下：钢管机身框架，以及用于安定面和垂直尾翼的金属框架；没有支撑桁架；以及副翼的位置在上翼。这架飞机比英国的索普维斯三翼机更紧凑和坚固。一共有320架Dr.I三翼机被制造出来。   

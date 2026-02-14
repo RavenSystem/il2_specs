@@ -1,6 +1,6 @@
 # 三号坦克M型（Pz.Kpfw.III Ausf.M）  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></td></tr></tbody></table>  
 
 三号坦克M型根据先前类似的的L型进行了改进。根据服役经验，对某些内部结构，底盘，发动机舱和其他元件进行了更改。  
   

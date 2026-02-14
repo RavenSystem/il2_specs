@@ -1,6 +1,6 @@
 # Nieuport 17.C1 GBR  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17gbr.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17gbr.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17gbr.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17gbr.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17gbr.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17gbr.eng.jpg"></td></tr></tbody></table>  
 
 The Nieuport 17 was intended to be a further development of the Nieuport 11 fighter. When the Nieuport 17 arrived on the battlefield in March 1916, it swiftly replaced the Nieuport 11. By the end of 1916, every squadron in the French Aviation Militaire had Nieuport 17s. Compared to its predecessor, it had a larger wingspan and surface area, a more powerful engine, a Vickers machine gun, and metal aileron control wires. The plane was initially built in several French factories, but licenses were soon purchased by other countries: Great Britain, Russia, Italy, Finland and Japan.  
   

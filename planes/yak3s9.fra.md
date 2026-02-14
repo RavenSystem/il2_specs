@@ -1,6 +1,6 @@
 # Yak-3 sér.9  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak3s9.png"></td><td style="text-align: center"><img src="../pilots_notes/yak3s9.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak3s9.png"></td><td style="text-align: center"><img src="../pilots_notes/yak3s9.png"></td></tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 152..160 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 136..141 km/h  

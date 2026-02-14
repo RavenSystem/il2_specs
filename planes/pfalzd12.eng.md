@@ -1,6 +1,6 @@
 # Pfalz D.XII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
 In designing the next modification of the Pfalz fighter aircraft, the company\s engineers decided to use a thin-sectioned wing similar to that found on the SPAD VII. Such a wing satisfied the needs of combat tactics used by German pilots: diving, firing at the enemy, then climbing back to altitude. The design also featured equal surface areas of both the upper and the lower wings. In addition, aircraft was fitted with a nose radiator similar to the Fokker D.VII and was the first fighter fitted with a tube radiator (which subsequently was redesigned due to cooling issues). In all, 800 planes of the type were built.  
   

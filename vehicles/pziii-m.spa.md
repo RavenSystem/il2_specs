@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.M  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></td></tr></tbody></table>  
 
 El Pz.Kpfw. III Ausf.M era un carro de combate similar a su modificación anterior, Ausf.L. Se modificaron algunos elementos internos, chasis, compartimento del motor y otras cuestiones menores, de acuerdo a la experiencia adquirida durante el periodo de servicio de la versión anterior.  
   

@@ -1,6 +1,6 @@
 # Airco D.H.4  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.eng.jpg"></td></tr></tbody></table>  
 
 Разработан под руководством Джеффри де Хэвиленда как легкий бомбардировщик под двигатель BHP. Полёт первого прототипа состоялся в 1916 году, но на тот момент в связи с недоведенностью двигателя BHP конструкция самолёта была адаптирована под двигатель Rolls Royce Eagle. Заказ на первые 50 серийных машин под двигатель Eagle III (250 л.с.) был размещён уже в конце 1916 года.  
   

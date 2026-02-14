@@ -1,6 +1,6 @@
 # Yak-1 sér.23  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 156..172 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 134..147 km/h  

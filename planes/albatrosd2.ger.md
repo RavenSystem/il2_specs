@@ -1,6 +1,6 @@
 # Albatros D.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd2.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd2.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd2.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd2.eng.jpg"></td></tr></tbody></table>  
 
 Als erstgeborenes Mitglied der Ruhmeshalle der Albatros Jagdflugzeuge wurde der Name Symbol und Sinnbild für Jagdeinsitzer des ersten Weltkrieges. Das Flugzeug stellte die nächste Evolutionsstufe im Flugzeugbau dar und wurde unter der Leitung von Robert Thelen entwickelt. Zusätzlich zu der vorhandenen klaren aerodynamischen Form wurde das neue Model zusätzlich mit mittigen N-förmigen Streben ausgerüstet. Die obere Tragfläche wurde näher zum Rumpf installiert, auf Augenhöhe des Piloten. Fruhe Versionen dieses Typs waren mit kastenformigen Windhoff-Kuhlern ausgestattet, auf beiden Seiten des Rumpfes.  
 Das Flugzeug wurde von Fabriken der folgenden Herstellern produziert: Albatros Werke , Ostdeutsche Albatros Werke , Luft-Verkehrs-Gesellschaft mbH. Insgesammt wurden 768 Albatros D.II gebaut.  

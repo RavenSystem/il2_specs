@@ -1,6 +1,6 @@
 # I.A.R. 80-A  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/iar80a.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80a.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/iar80a.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80a.png"></td></tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：151~162 km/h  
 起降构型的失速指示空速：143~151 km/h  

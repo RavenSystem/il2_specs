@@ -1,6 +1,6 @@
 # SPAD 7.C1 150hp  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.eng.jpg"></td></tr></tbody></table>  
 
 SPAD S.VII 是一种单座战斗机，由 Societe Pour L\Aviation et ses Derives 的 Louis Bechereau 于 1916 年初开发。该飞机的大部分设计都借鉴了 SPAD 开发的螺旋桨动力战斗机 SPAD A 型。SPAD S.VII 的初始发动机是 150 马力的 Hispano-Suiza 8A，最初由瑞士工程师 Marc Birkigt 于 1915 年 2 月开发。  
   

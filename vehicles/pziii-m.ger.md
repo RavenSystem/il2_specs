@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.M  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></td></tr></tbody></table>  
 
 Der Pz.Kpfw. III Ausf.M war der vorherigen Modifikation Ausf.L ähnlich. Einige Innen-, Fahrwerks-, Motorraum- und andere Elemente wurden aufgrund der Wartungserfahrung geändert.  
   

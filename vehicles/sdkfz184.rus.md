@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></td></tr></tbody></table>  
 
 Тяжёлая самоходная артиллерийская установка - истребитель танков Sd.Kfz.184 выпуска завода Nibelungenwerke 1943 года. Ранняя версия без командирской башенки и пулеметной установки, известная как "Фердинанд", в отличие от более поздней модификации "Элефант", имевшей данное оборудование. Всего было произведено 91 САУ всех модификаций.  
   

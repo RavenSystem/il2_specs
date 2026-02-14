@@ -129,7 +129,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><img src=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\">"
             fi
             
-            TABLE_DETAILS="$TABLE_DETAILS<\/tr>"
+            TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr>"
             
             if [ -f "$TARGET_DIR/cockpits/$COCKPIT_IMAGE" ]; then
                 TABLE_DETAILS="$TABLE_DETAILS<tr><td style=\"text-align: center\""

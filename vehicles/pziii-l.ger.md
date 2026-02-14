@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.L  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></td></tr></tbody></table>  
 
 Der Pz.Kpfw. III Ausf.L wurde mit einer 50 mm Hauptkanone ausgestattet, die eine gute Panzerdurchschlagskraft und zusätzliche 20 mm dicke Panzerplatten auf der Kanonenblende und dem vorderen Rumpf aufweist. Diese Verbesserungen wurden eingeführt, als die Deutschen auf sowjetische T-34 und KV Panzer trafen.  
   

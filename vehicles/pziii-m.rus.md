@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.M  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></td></tr></tbody></table>  
 
 Танк Pz.Kpfw. III Ausf.M с 50мм пушкой KwK 39/L60. Данная модификация танка (Ausf.M) незначительно отличалась от предыдущей модификации Ausf.L.  
 В основном изменения коснулись некоторых внутренних конструктивных деталей танка, ходовой части, моторного отсека, герметизации корпуса и т.п., в целом обусловленных опытом эксплуатации предыдущих модификаций танка.  

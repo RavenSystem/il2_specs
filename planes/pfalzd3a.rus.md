@@ -1,6 +1,6 @@
 # Pfalz D.IIIa  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт разработан компанией Pfalz Flugzeugwerke. На немецких конструкторов произвел впечатление знаменитый французский истребитель Ньюпор, выполненный по схеме полутораплана. Поэтому при разработке своего истребителя они опирались на достижения французских инженеров. Первый испытательный полёт совершен в мае 1917 года. Из особенностей конструкции можно упомянуть размещение пулемётов по сторонам от двигателя и размещение тяги управления элеронами в нижнем крыле. Спустя полгода выходит Pfalz D.IIIa, который отличался от предшественника более мощным двигателем, увеличенной площадью хвостового оперения, измененной формой нижнего крыла и пулемётами, установленными на уровне глаз пилота. Всего было выпущено 1010 экземпляров Pfalz D.III и Pfalz D.IIIa.  
   

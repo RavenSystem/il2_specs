@@ -1,6 +1,6 @@
 # B-25D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></td></tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 160..191 км/ч (100..119 миль/ч)  
 Приборная скорость сваливания в посадочной конфигурации: 145..175 км/ч (90..109 миль/ч)  

@@ -1,6 +1,6 @@
 # Halberstadt CL.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
 
 Halberstadt CL.II design was a response to an Idflieg (Inspectorate of Aviation Troops) specification issued in august of 1916 for a new "light C-type" with 160-180 engine.  
   

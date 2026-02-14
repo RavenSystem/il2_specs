@@ -1,6 +1,6 @@
 # Fokker D.VIII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.spa.jpg"></td></tr></tbody></table>  
 
 Este avión fue especialmente diseñado por la compañía Fokker para la segunda competición de cazas, convocada entre el 27 de mayo y el 21 de junio de 1918 en el centro alemán de pruebas de Adlershof. Era un caza monoplano, basado principalmente en diseños previos de Reinhold Platz. Contaba con un fuselaje tubular soldado y alas en parasol cubiertas de madera contrachapada en toda su envergadura. El ala, de perfil grueso, estaba ubicada a la altura de los ojos del piloto, lo que reducía su visibilidad hacia arriba. Durante estas pruebas, el E.V mostró un buen rendimiento y una buena visibilidad alrededor. También tenía una buena tasa de ascenso y buena maniobrabilidad. Algunos pilotos de pruebas incluso lo prefirieron al Fokker D.VIIF. El concurso se saldó con un contrato para producir 400 aviones para el ejército, propulsados por el motor Oberursel UR II.  
   

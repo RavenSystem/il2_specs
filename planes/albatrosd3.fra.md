@@ -1,6 +1,6 @@
 # Albatros D.III  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
 
 Après avoir enquêtés sur la construction du chasseur Nieuport, les ingénieurs allemands ont conçu une aile inférieure de leur nouvel avion plus étroite et plus courteque celle de dessus. Les bouts d\ailes sont devenus balayés, ce qui a aidé à éviter les vibrations des ailes.  Parmi les autres solutions remarquables de conception, celles-ci peuvent être mentionnées: les barres de commande d\aileron ont été établies grâce à l\aile inférieure, le radiateur a été déplace de du coté du fuselage vers le milieu de l\aile supérieure, et les ailes sont supportées par des pièces en V. La réduction du poids était l\une des tâches principales pour ce moment.   
   

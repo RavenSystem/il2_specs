@@ -1,6 +1,6 @@
 # Fokker Dr.I  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
 
 Au printemps 1917 lors d\une visite au Jasta 11, Anthony Fokker observa la construction d\un chasseur anglais qui avait été capturé, le Sopwith Triplane. Manfred von Richthofen décrivit les détails de son combat avec ce nouvel avion au fabricant. C\était seulement en raison de sa grande expérience que le Baron Rouge réussi à éviter la défaite.  
 Le prototype du triplan F.I fut réalisé en août 1917. Quelques détails remarquables de sa construction étaient : un cadre de fuselage tubulaire en acier, tout comme des cadres en métal pour le stabilisateur et et la dérive; une absence de croisillons; et pour cet appareil les ailerons étaient situés sur l\aile haute. L\avion était plus compact et robuste que le triplan Sopwith britannique. Au total, 320 triplans Dr.I furent construits.  

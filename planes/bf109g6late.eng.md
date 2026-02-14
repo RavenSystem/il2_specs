@@ -1,6 +1,6 @@
 # Bf 109 G-6 Late  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 161..179 km/h  
 Indicated stall speed in takeoff/landing configuration: 153..170 km/h  

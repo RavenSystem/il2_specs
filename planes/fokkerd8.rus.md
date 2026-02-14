@@ -1,6 +1,6 @@
 # Fokker D.VIII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт был спроектирован в конструкторском бюро Энтони Фоккера специально для Вторых Истребительных Соревнований, которые прошли в испытательном центре в Адлерсхофе (Adlershof) с 27 мая по 21 июня 1918 г. В ходе работ был учтён опыт предыдущих разработок инженера Рейнольда Платца (Reinhold Platz). Из особенностей конструкции можно упомянуть ставший уже фирменным металлический каркас фюзеляжа и полностью деревянное крыло, которому больше не требовалось капризной полотняной обшивки. Оно имело толстый профиль и размещалось на уровне глаз пилота, предоставляя свободный обзор вверх и вперед вниз. На соревнованиях истребитель E.V продемонстрировал лучшие показатели в скорости, скороподъёмности и пикировании и было заказано около 400 экземпляров с двигателем Oberursel UR II. Вариант с двигателем Oberursel UR III именовался Fokker E.Ve.  
   

@@ -1,6 +1,6 @@
 # Sopwith Dolphin  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
 
 索普维斯“海豚”（Sopwith Dolphin）是由英国的索普维斯航空公司设计的。飞机在设计时，考虑到了索普维斯“骆驼”（Sopwith Camel）的缺陷。这些问题包括向前和向上的视野差以及操作转缸发动机飞机的困难。针对后一个问题，工程师们选择为新飞机安装直列发动机。设计特点是驾驶舱、油箱、机枪和发动机布置紧凑。这导致飞行员的头部与上机翼的缺口齐平。散热器移至机身侧面驾驶舱后方。1917年5月进行了首次试飞。除了索普维斯航空公司外，其他几家公司也生产此飞机：达拉克（Darracq）、胡珀（Hooper）和SACA。到战争结束时，已经建造了1532架这种飞机。   
   

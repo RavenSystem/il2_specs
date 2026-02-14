@@ -1,6 +1,6 @@
 # Albatros D.III  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
 
 Having investigated the construction of captured Nieuport fighter aircraft, German engineers designed the lower wing of their new plane to be narrower and shorter than the upper one. The wing tips were swept in an effort to eliminate wing vibration. Among other remarkable design solutions, the following can be mentioned: the aileron control rods were drawn through the lower wing, the radiator was moved from the side of the fuselage to the middle of the upper wing, and the wings were now supported by V-shaped struts. Weight reduction was one of the primary tasks for this particular aircraft.  
   

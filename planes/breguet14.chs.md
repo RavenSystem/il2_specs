@@ -1,6 +1,6 @@
 # Breguet 14.B2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.eng.jpg"></td></tr></tbody></table>  
 
 Breguet 14 是一款两座双翼飞机，由法国Breguet航空公司设计。 原型机于 1917 年 4 月首飞。为保证更好的耐用性，该机机身结构由硬铝和钢部分组成。 包括米其林、贝朗格、雷诺、法曼、施密特和达拉克在内的几家公司制造了这架飞机。 在战争期间，量产型飞机配备了多种发动机类型。 雷诺发动机是最先安装的，随后是菲亚特发动机，随后几个月又是自由发动机。 这些可靠而强大的发动机使Breguet 14 成为第一次世界大战中最快的两座轰炸机。  
   

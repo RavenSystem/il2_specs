@@ -1,6 +1,6 @@
 # F.E.2b  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.eng.jpg"></td></tr></tbody></table>  
 
 The F.E.2 was a biplane with a pusher propeller and a sprung landing gear with a front support wheel to minimize the risk of overturning during a bad landing. The entire trailing edge of the upper center section was hinged along the rear spar and could be lowered to act as a flap-type air brake. The forward cockpit was occupied by the observer gunner, with the pilot sitting behind him at a higher level. The engine was almost completely cowled and drove a two-blade pusher propeller.  
   

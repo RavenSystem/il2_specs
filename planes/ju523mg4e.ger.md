@@ -1,6 +1,6 @@
 # Ju 52/3m g4e  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 105..117 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 92..109 km/h  

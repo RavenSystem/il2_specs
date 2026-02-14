@@ -1,6 +1,6 @@
 # Airco D.H.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
 The Airco D.H.2 was a single-seat fighter and the second project of designer Sir Geoffrey de Havilland. With this design, he capitalized on the development of the "pusher" propeller concept, where the propeller is situated behind the pilot. This design eliminated the need for a synchronised machine gun, which was introduced only at the end of 1916: the prototype of the D.H.2 made its first flight in July 1915. In February 1916, No. 24 Squadron of the Royal Flying Corps became the first unit to be equipped with the type, when it began active service in France.  
   

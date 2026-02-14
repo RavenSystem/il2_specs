@@ -1,6 +1,6 @@
 # Fokker D.VIIF  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.eng.jpg"></td></tr></tbody></table>  
 
 L\avion a été conçu dans le département de design d\Anthony Fokker. Le chef designer a reçu pour missiion de créer un chasseur rapide, capable de battre le Spad-XIII français et le S.E.5a britannique. Quelques caractéristiques de productuin: structure de la cellule en métal, aile épaisse sectionnée, absence de câbles d\arrimage.  
   

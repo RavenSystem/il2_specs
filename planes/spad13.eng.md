@@ -1,6 +1,6 @@
 # SPAD 13.C1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.eng.jpg"></td></tr></tbody></table>  
 
 The SPAD S.XIII was designed as an improved version of the SPAD S.VII. While appearing externally similar to its predecessor, it was in fact a completely new design. A second machine gun and more a powerful engine were fitted. In addition, an auxiliary fuel tank was placed in the central section of the upper wing. The main fuel tank had outlines of the lower fuselage section. To the left and behind the cockpit was an installation for a reconnaissance camera or a bomb load. The aircraft’s first flight was made on the 4th of April 1917. The plane was manufactured by Bleriot, Levasseur, Bernard, Kellner, Safca, Borel, and Nieuport. In all, 8472 planes of the type were built.  
 The S.XIII first appeared at the front in late summer-early fall 1917, being initially supplied to French fighter squadrons. It was mainly used for engaging enemy planes, escorting bombers, aerial mapping, and recon; rarely was it used for the bombing of ground targets near the front lines.  

@@ -1,6 +1,6 @@
 # La-7 sér.1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 168..185 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 147..159 km/h  

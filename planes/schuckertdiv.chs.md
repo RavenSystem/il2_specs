@@ -1,6 +1,6 @@
 # SSW D.IV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/schuckertdiv.png"></td><td style="text-align: center"><img src="../pilots_notes/schuckertdiv.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/schuckertdiv.png"></td><td style="text-align: center"><img src="../pilots_notes/schuckertdiv.png"></td></tr></td></tr></tbody></table>  
 
 SSW D.IV came very late to the Great War, too late to change Germany’s fortunes, but what machines did make it to front-line squadrons acquitted themselves well. This airplane was the end result of a robust line of Siemens-Schuckert aircraft that saw service in the war and it came with a unique feature. The 207-hp Siemens-Halske Sh.IIIa rotary engine had a crankshaft that rotated opposite of the engine and the propeller\s rotation in an attempt to reduce the torque. The four-bladed propeller gave it a fast rate of climb and a high speed. The SSW D.IV was even faster than Germany’s mainstay front-line fighter, the very successful Fokker D.VII. It was also very maneuverable, but reportedly had sudden stall without warning when pushed too far. It was armed with two 7.92 mm machine guns.  
   

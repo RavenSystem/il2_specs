@@ -1,6 +1,6 @@
 # Fokker D.VIII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd8.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd8.eng.jpg"></td></tr></tbody></table>  
 
 L\avion fut spécialement conçu par Fokker pour les tests comparatifs du chasseur de seconde génération qui se déroula du 27 mai au 21 juin au centre d\essais d\Adlershof. Il fut principalement élaboré sur la base des anciens modèles de Reinhold Platz. La formule retenue fut celle du monoplan. Le fuselage est de type tubulaire soudé et les ailes sont recouvertes de contreplaqué sur toute l\envergure . L\aile possède un profil épais et est placée au niveau des yeux du pilote ce qui réduit la visibilité vers l\avant. Durant les tests le E.V démontra d\excellentes performances ainsi qu\une visibilité globale d\excellente facture, les performances en montée et manœuvrabilité furent jugées bonnes elles aussi, au point que certains pilotes le préféraient au Fokker D.VIIF. Un contrat avec l\Oberursel UR II pour la production de 400 avions fut signé par la suite.  
   

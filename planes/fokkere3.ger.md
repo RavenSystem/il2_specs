@@ -1,6 +1,6 @@
 # Fokker E.III  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkere3.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkere3.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkere3.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkere3.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkere3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkere3.eng.jpg"></td></tr></tbody></table>  
 
 Der Fokker E.III ist ein einisitziger Jagdeindecker. Entworfen wurde das Flugzeug Anfang 1915 durch Anton Herman Gerard (Anthony) Fokker. Die Rollsteuerung wurde durch verdrehen des Anstellwinkels der Tragflächen implementiert, der sogenannten Flügelverwindung. Diese Art der Steuerung war typisch für alle frühen Luftfahrzeuge. Später wurde die unzuverlässige und ineffektive Flügelversteifung durch Rollsteuerung über die Querruder ersetzt.  
   

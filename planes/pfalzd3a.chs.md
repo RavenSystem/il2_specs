@@ -1,6 +1,6 @@
 # Pfalz D.IIIa  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
 柏法茨（Pfalz）D.III由柏法茨飞机制造公司（Pfalz Flugzeugwerke）设计。著名的法国纽波特（Nieuport）战斗机给德国工程师留下了深刻的印象，这些战斗机的设计是“一个半”的机翼。因此，柏法茨的设计是基于法国工程师的成就。1917年5月进行了首次试飞。飞机的设计特点是机枪安装在发动机的侧面，副翼操纵索位于下机翼。半年后，推出了柏法茨D.IIIa。它具有更强大的发动机、更大的垂直尾翼、改进的下翼形状以及基于飞行员视线内安装的机枪。总共制造了1010架柏法茨D.III和柏法茨D.IIIa飞机。   
   

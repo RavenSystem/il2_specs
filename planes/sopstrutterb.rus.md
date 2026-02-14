@@ -1,6 +1,6 @@
 # Sopwith 1½ Strutter B  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutterb.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutterb.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutterb.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutterb.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutterb.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutterb.eng.jpg"></td></tr></tbody></table>  
 
 Разработанный и построенный по заказу британского Адмиралтейства, Сопвич 1½ Страттер ("полуторастоечный") получил это название по форме опорных стоек крыла на фюзеляже - "одна стойка с половинками". Он был по сути первым самолетом Британских ВВС, оснащённым синхронизатором пулемёта для стрельбы сквозь диск воздушного винта. Движимый ротативным двигателем Клерже мощностью 110 или 130 л.с., аэроплан был вооружён курсовым пулемётом Виккерс калибра 7,69 мм, а также турельным пулемётом Льюис того же калибра у стрелка-наблюдателя. "Полуторастоечный" поступал на вооружение как королевских военно-морских воздушных сил, так и в армейские эскадрильи королевского военно-воздушного корпуса.  
   

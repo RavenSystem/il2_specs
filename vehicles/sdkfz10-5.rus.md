@@ -1,6 +1,6 @@
 # Sd.Kfz.10/5  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz10-5.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz10-5.png"></td></tr></td></tr></tbody></table>  
 
 Модификация полугусеничного тягача Sd.Kfz.10/5 производства фирмы Demag, специально разработанная как мобильное малокалиберное зенитное орудие с пушкой Flak 38. Производство данной модификации началось в 1939 году.  
   

@@ -1,6 +1,6 @@
 # SPAD 7.C1 180 л.с.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad7late.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7late.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7late.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad7late.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7late.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7late.eng.jpg"></td></tr></tbody></table>  
 
 SPAD S.VII - одноместный истребитель, разработанный Луи Бешеро в начале 1916 года. Большая часть конструкции самолёта была взята из разработок ротативного SPAD типа А. Первоначальный двигатель для SPAD C.VII, 150-ти сильный Hispano-Suiza 8A, был разработан швейцарским инженером Марком Биркигтом в феврале 1915 г.  
   

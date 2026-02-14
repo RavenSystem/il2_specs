@@ -1,6 +1,6 @@
 # KV-1s ChTZ (1943)  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></td></tr></tbody></table>  
 
 El carro de combate fue creado por la oficina de diseño de la <i>Chelyabinskogo Traktornogo Zavoda</i> (ChTZ) durante el verano de 1942. Entró por primera vez en combate a finales de 1942 en el Frente del Don y Voronezh.  
   

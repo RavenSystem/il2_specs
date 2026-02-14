@@ -1,6 +1,6 @@
 # Sopwith Dolphin  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт создан британской компанией Sopwith Aviation Co. Приняв во внимание недостатки модели Sopwith Camel - плохой обзор вперед и вверх, трудность пилотирования самолёта с ротативным двигателем, - конструкторам поставили задачу создать истребитель с рядным двигателем. Из особенностей конструкции можно выделить компактное размещение пилота, топливных баков, вооружения и двигателя. Радиаторы пришлось разместить по обе стороны фюзеляжа позади кабины пилота, голова пилота была в проеме центральной секции верхнего крыла. Первый испытательный полёт был совершен в мае 1917 года. Одновременно с головным предприятием сборкой самолёта занимались компании Darracq, Hooper, SACA. До конца боевых действий было построено около 1532 самолётов.  
   

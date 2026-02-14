@@ -1,6 +1,6 @@
 # Tempest Mk.V ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 150...174 km/h  
 Indicated stall speed in takeoff/landing configuration: 128...149 km/h  

@@ -1,6 +1,6 @@
 # Sopwith Pup  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/soppup.png"></td><td style="text-align: center"><img src="../pilots_notes/soppup.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soppup.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/soppup.png"></td><td style="text-align: center"><img src="../pilots_notes/soppup.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soppup.spa.jpg"></td></tr></tbody></table>  
 
 El Sopwith Pup fue un caza monoplaza diseñado por el talentoso ingeniero Herbert Smith de la Sopwith Aviation Company. El primer vuelo del prototipo se realizó en febrero de 1916. El aeroplano se ganó rápidamente el favor de sus pilotos gracias a sus buenas características de vuelo y maniobrabilidad. En marzo de 1916, después de una serie de mejoras, el aeroplano fue transferido a unidades del Royal Naval Service (RNAS) para ser probado en servicio operativo. El avión fue llamado oficialmente «Sopwith Scout», pero los pilotos lo apodaron «Pup»(cachorro) por la similitud con el Sopwith 1½ Strutter, aunque de menores proporciones. Aunque el apodo «Pup» nunca fue reconocido oficialmente, así empezó la costumbre de la Sopwith de poner nombres de aves o animales a los aviones posteriores.  
   

@@ -1,6 +1,6 @@
 # Handley Page O/400  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.spa.jpg"></td></tr></tbody></table>  
 
 El O/400 fue el siguiente paso en la mejora del diseño del HP O/100. Dos tanques de combustible fueron desplazados desde las barquillas del motor al fuselaje, y otro tanque de combustible de tamaño medio se montó encima de estos dos tanques en la parte superior del fuselaje. Se montaron travesaños huecos en las alas; el tren de aterrizaje fue equipado con enganches para remolque; las rejillas del radiador se montaron ya de fábrica. Se incluyeron placas blindadas para proteger los motores. El empuje diferencial entre los dos motores se compensó con una aleta central en la cola. Los nuevos motores Eagle VIII hicieron posible aumentar la carga máxima de bombas.  
   

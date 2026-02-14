@@ -1,6 +1,6 @@
 # DFW C.V  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
 L\avion a été conçu et réalisé à la Deutsche Flugzeug Werke près de Leipzig. Les designers visait à créer un avion léger mais durable.Les caratéristiques structurelles inculaient: jambe de queue recouverte de métal, moteur protégé par un capot en métal, deux longerons creux dans les ailes, cêtes flottantes. Le radiateur était monté sur le moteur.  
   

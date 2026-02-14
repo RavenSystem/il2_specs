@@ -1,6 +1,6 @@
 # Sopwith Snipe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopsnipe.png"></td><td style="text-align: center"><img src="../pilots_notes/sopsnipe.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopsnipe.png"></td><td style="text-align: center"><img src="../pilots_notes/sopsnipe.png"></td></tr></td></tr></tbody></table>  
 
 The Sopwith Snipe was created as a replacement for the Camel in response to the appearance of new enemy fighters. At the design stage, the Camels engines (for instance, the Clerget 9B or Bentley B.R.1) were considered for use, as well as the newer and more powerful Bentley B.R.2. The decision was finally made after successful tests of the latter that confirmed its exceptional performance (234 HP). The early prototype’s fuselage and wings were similar to its predecessor, but later on its look became final. The rectangular fuselage got rounded edges, the biplane wings were reinforced by an additional pair of struts per side and the vertical stabilizer got the bigger surface rudder thanks to the compensator.  
   

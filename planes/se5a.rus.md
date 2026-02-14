@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
 Самолёт разработан Британской компанией R.A.F. (Royal Aircraft Factory).S.E. — Scout Experimental (одноместный истребитель).  Перед конструкторами стояла задача создать истребитель под двигатель Hispano—Suiza мощностью 200 л.с. c достаточной скоростью и скороподъемностью. Для этого конструкторам пришлось пойти на компромисс. Сделав профиль крыла тонким, они одновременно увеличили его площадь. К особенностям конструкции можно отнести размещение элеронов на верхнем и нижнем крыльях. До конца войны было построено 5269 экземпляров.  
   

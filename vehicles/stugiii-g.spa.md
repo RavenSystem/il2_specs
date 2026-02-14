@@ -1,6 +1,6 @@
 # StuG III Ausf.G  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/stugiii-g.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/stugiii-g.png"></td></tr></td></tr></tbody></table>  
 
 El cañón de asalto autopropulsado <i>Sturmgeschütz</i> III <i>Ausführung</i> G estaba armado con un cañón StuK 40 L/48 de 75 mm. El Ausf.G fue una de las últimas modificaciones, pero la más numerosa: 7800 unidades desde diciembre de 1942 hasta abril de 1945. En comparación con la anterior variante, tenía un cañón más largo (L/48, en lugar de L/43) y láminas de blindaje adicionales instaladas en el casco y la parte frontal del habitáculo de la tripulación (cabina). El modelo empleado en la simulación fue construido en la fábrica MIAG utilizando el chasis Pz.Kpfw. Ausf.M producido por la fábrica MAN.  
   

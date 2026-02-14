@@ -1,6 +1,6 @@
 # КВ-1с ЧТЗ (1943)  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></td></tr></tbody></table>  
 
 Разработан коллективом конструкторского бюро Челябинского Тракторного Завода летом 1942 года. Впервые применён в бою в конце 1942-го года на Донском и Воронежском фронтах.  
   
