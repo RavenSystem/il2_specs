@@ -1,6 +1,6 @@
 # Bf 109 G-6AS  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6as.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6as.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6as.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6as.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：163~180 km/h  
 起降构型的失速指示空速：151~163 km/h  

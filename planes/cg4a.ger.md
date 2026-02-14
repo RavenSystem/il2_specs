@@ -1,6 +1,6 @@
 # CG-4A  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 65..86 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 241 km/h  

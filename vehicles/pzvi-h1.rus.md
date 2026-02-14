@@ -1,6 +1,6 @@
 # Pz.Kpfw.VI Ausf.H1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
 
 Разработан фирмой "Хеншель" в 1942-ом году. Дебютировал в бою на Ленинградском фронте в августе 1942-го года. Танк стал известным благодаря мощному для своего времени бронированию и характерному "квадратному" внешнему виду.  
   

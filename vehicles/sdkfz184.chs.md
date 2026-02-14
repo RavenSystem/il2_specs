@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></tbody></table>  
 
 Heavy tank destroyer Sd.Kfz.184 built at Nibelungenwerke in 1943. This early version lacking commander cupola and a machine gun is known as "Ferdinand", while a later one equipped with these is known as "Elefant". 91 vehicles of all modifications were produced in total.  
   

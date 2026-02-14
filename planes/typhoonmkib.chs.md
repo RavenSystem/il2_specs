@@ -1,6 +1,6 @@
 # Typhoon Mk.Ib  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：152~182 km/h  
 起降构型的失速指示空速：126~151 km/h  

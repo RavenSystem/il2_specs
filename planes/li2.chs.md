@@ -1,6 +1,6 @@
 # Li-2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速： 115...135 km/h  
 起降构型的失速指示空速： 105...120 km/h  

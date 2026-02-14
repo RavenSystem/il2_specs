@@ -1,6 +1,6 @@
 # Bf 109 G-6 Late  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：161~179 km/h  
 起降构型的失速指示空速：153~170 km/h  

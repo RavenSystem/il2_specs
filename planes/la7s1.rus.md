@@ -1,6 +1,6 @@
 # Ла-7 1 серии  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 168..185 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 147..159 км/ч  

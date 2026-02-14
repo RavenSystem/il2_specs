@@ -1,6 +1,6 @@
 # Pz.Kpfw.V Ausf.D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
 Разработан фирмой "Ман" в 1942-ом году и дебютировал в боях на Курской Дуге летом 1943-го года. Особенностью танка является совокупность могущества главного орудия, лобового бронирования и подвижности в ущерб бронированию с остальных ракурсов.  
   

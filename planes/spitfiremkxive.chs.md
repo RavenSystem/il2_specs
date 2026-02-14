@@ -1,6 +1,6 @@
 # Spitfire Mk.XIVe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：153~173 km/h  
 起降构型的失速指示空速：145~164 km/h  

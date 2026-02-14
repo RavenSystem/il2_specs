@@ -1,6 +1,6 @@
 # Як-7Б 36 серии  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 155..172 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 139..154 км/ч  

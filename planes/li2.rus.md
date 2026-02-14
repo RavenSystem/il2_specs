@@ -1,6 +1,6 @@
 # Ли-2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 115...135 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 105...120 км/ч  

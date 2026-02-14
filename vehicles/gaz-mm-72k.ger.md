@@ -1,6 +1,6 @@
 # GAZ-MM 72-K  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
 
 GAZ-MM-LKW, hergestellt in der Gorki-Automobilfabrik im Jahr 1943, mit der 25 mm 72-K automatischen Luftabwehrkanone, installiert auf der speziellen Holzplattform. Dieser LKW war ein verbessertes Modell des GAZ-AA mit stärkerem Motor, besserem Lenkmechanismus und verstärkter Aufhängung.  
   

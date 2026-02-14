@@ -1,6 +1,6 @@
 # Pz.Kpfw.V Ausf.D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
 Developed by MAN company in 1942, it first saw action in the Kursk battle in 1943. The tank had a powerful main gun, thick frontal armor and good mobility at the price of protection from other sides.  
   

@@ -1,6 +1,6 @@
 # Spitfire Mk.XIVe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 153..173 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 145..164 км/ч  

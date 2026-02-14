@@ -1,6 +1,6 @@
 # B-25D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 160..191 km/h (100..119 mph)  
 Indicated stall speed in takeoff/landing configuration: 145..175 km/h (90..109 mph)  

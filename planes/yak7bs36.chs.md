@@ -1,6 +1,6 @@
 # Yak-7B series 36  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：155~172 km/h  
 起降构型的失速指示空速：139~154 km/h  

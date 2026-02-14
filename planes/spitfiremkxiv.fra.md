@@ -1,6 +1,6 @@
 # Spitfire Mk.XIV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxiv.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxiv.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxiv.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxiv.png"></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 152..172 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 145..163 km/h  

@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></tbody></table>  
 
 1943 von den Nibelungenwerken gebauter schwerer Panzerzerstörer Sd.Kfz.184. Diese frühe Version ohne Kommandantenkuppel und Maschinengewehr wird als "Ferdinand" bezeichnet, während eine spätere, damit ausgerüstete Version als "Elefant" bezeichnet wird. Insgesamt wurden 91 Fahrzeuge aller Modifikationen hergestellt.  
   

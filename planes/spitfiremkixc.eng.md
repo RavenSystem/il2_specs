@@ -1,6 +1,6 @@
 # Spitfire Mk.IXc  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixc.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixc.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixc.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixc.png"></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 143...163 km/h (89..101 mph)  
 Indicated stall speed in takeoff/landing configuration: 135...154 km/h (84..96 mph)  

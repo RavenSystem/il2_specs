@@ -1,6 +1,6 @@
 # Pz.Kpfw.V Ausf.D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
 Desarrollado por la compañía MAN en 1942, entró en acción durante la batalla de Kursk en 1943. El carro de combate contaba con un poderoso cañón principal, un grueso blindaje frontal y buena movilidad a costa de la protección en sus laterales.  
   

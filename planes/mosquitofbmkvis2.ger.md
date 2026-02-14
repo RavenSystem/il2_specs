@@ -1,6 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 179...208 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 157...183 km/h  

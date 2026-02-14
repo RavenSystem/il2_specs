@@ -1,6 +1,6 @@
 # Pz.Kpfw.VI Ausf.H1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
 
 Developed by Henschel company in 1942, first combat action took place on Leningrad front in August 1942.  
   

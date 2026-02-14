@@ -1,6 +1,6 @@
 # Li-2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 115...135 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 105...120 km/h  

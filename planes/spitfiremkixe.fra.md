@@ -1,6 +1,6 @@
 # Spitfire Mk.IXe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixe.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixe.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixe.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixe.png"></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 143...163 km/h (89..101 mph)  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 135...154 km/h (84..96 mph)  

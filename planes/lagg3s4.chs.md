@@ -1,6 +1,6 @@
 # LaGG-3ser.4  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：167~193 km/h  
 起降构型的失速指示空速：142~170 km/h  

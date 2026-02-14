@@ -1,6 +1,6 @@
 # Як-9 1 серии  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak9s1.png"></td><td style="text-align: center"><img src="../pilots_notes/yak9s1.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak9s1.png"></td><td style="text-align: center"><img src="../pilots_notes/yak9s1.png"></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 152..160 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 136..141 км/ч  

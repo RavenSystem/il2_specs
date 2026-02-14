@@ -1,6 +1,6 @@
 # Yak-1 ser.23  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 156..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 134..147 km/h  

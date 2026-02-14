@@ -1,6 +1,6 @@
 # Tempest Mk.V ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 150...174 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 128...149 km/h  

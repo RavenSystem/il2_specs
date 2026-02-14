@@ -1,6 +1,6 @@
 # CG-4A  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：65~86 km/h  
 俯冲极速：241 km/h  
