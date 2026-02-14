@@ -177,23 +177,16 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         printf "##" >> "$TARGET_DIR/README.md"
         head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
         printf "\n" >> "$TARGET_DIR/README.md"
-
-        printf "<table><thead><tr><th style=\"text-align: left\"" >> "$TARGET_DIR/README.md"
-        if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf " colspan=\"2\"" >> "$TARGET_DIR/README.md"
-        fi
-        printf ">" >> "$TARGET_DIR/README.md"
         
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
-            printf "[ <a href=\"$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md\">$IL2_LOCALE</a> ] " >> "$TARGET_DIR/README.md"
+            printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
         done
         
-        printf "</th></tr></thead>\n<tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
+        printf "\n\n<table><tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
         printf "<img src=\"images/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
-        printf "</td>" >> "$TARGET_DIR/README.md"
         
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "<td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
+            printf "</td><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
             printf "<img src=\"pilots_notes/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
         fi
         
