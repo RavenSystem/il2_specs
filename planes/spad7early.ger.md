@@ -1,10 +1,6 @@
 # SPAD 7.C1 150 PS  
 
-| Image | Notes  
-|:---|:---  
-| ![spad7early](../images/spad7early.png) | ![spad7early](../pilots_notes/spad7early.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![spad7early](../images/spad7early.png)</td><td style="text-align: center">![spad7early](../pilots_notes/spad7early.png)</tr><tr><td style="text-align: center" colspan="2">![spad7early](../cockpits/spad7early.eng.jpg)</td></tr></tbody></table>  
 
 Die SPAD S.VII wurde als einsitziges Jagdflugzeug durch Louis Bechereau von der Societe Pour LAviation et ses Derives Anfang 1916 entwickelt. Der Entwurf hat seine Wurzeln in der SPAD-eigenen Entwicklung der mit einem Umlaufmotor angetriebenen SPAD Typ A. Zu Beginn war als Motor für die SPAD S.VII der 150 PS starke Hispano-Suiza 8A vorgesehen, entwickelt vom Schweizer Ingenieur Marc Birkigt im Februar 1915.  
   

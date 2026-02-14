@@ -1,10 +1,6 @@
 # Bf 109 G-6AS  
 
-| Image | Notes  
-|:---|:---  
-| ![bf109g6as](../images/bf109g6as.png) | ![bf109g6as](../pilots_notes/bf109g6as.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![bf109g6as](../images/bf109g6as.png)</td><td style="text-align: center">![bf109g6as](../pilots_notes/bf109g6as.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 163..180 km/h  
 Indicated stall speed in takeoff/landing configuration: 151..163 km/h  

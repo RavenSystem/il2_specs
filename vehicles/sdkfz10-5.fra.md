@@ -1,8 +1,6 @@
 # Sd.Kfz.10/5  
 
-![sdkfz10-5](../images/sdkfz10-5.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![sdkfz10-5](../images/sdkfz10-5.png)</tr></td></tr></tbody></table>  
 
 One of the many Sd.Kfz.10 half-track modifications produced by Demag company as mobile Flak 38 anti-air gun platform since 1939.  
   

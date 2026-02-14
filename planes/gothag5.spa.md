@@ -1,10 +1,6 @@
 # Gotha G.V  
 
-| Image | Notes  
-|:---|:---  
-| ![gothag5](../images/gothag5.png) | ![gothag5](../pilots_notes/gothag5.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![gothag5](../images/gothag5.png)</td><td style="text-align: center">![gothag5](../pilots_notes/gothag5.png)</tr><tr><td style="text-align: center" colspan="2">![gothag5](../cockpits/gothag5.spa.jpg)</td></tr></tbody></table>  
 
 El Gotha G.V fue la evolución del Gotha G.IV. La experiencia en combate demostró que la cercanía de los tanques de combustible a los motores era fatal. Los tanques de combustible fueron desplazados al fuselaje. La falta de materiales de calidad conllevó un aumento en el peso de la estructura. La parte inferior del fuselaje mantenía el hueco para disparar por debajo hacia atrás. Para mejorar la estabilidad durante el desplazamiento en tierra, los soportes de los trenes de aterrizaje fueron acortados, lo que obligó a recolocar las barquillas de los motores por encima del ala inferior. Esta última modificación es la característica externa más importante para distinguir la serie V de los modelos previos. En octubre de 1916 se hicieron encargos para la fabricación de 100 bombarderos. En agosto de 1917, el primer Gotha G.V salió de la fábrica. El avión fue fabricado por Gothaer Waggonfabrik A.G. En total, se produjeron 205 unidades de la serie V.  
   

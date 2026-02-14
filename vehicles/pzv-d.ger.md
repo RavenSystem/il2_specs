@@ -1,8 +1,6 @@
 # Pz.Kpfw.V Ausf.D  
 
-![pzv-d](../images/pzv-d.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![pzv-d](../images/pzv-d.png)</tr></td></tr></tbody></table>  
 
 1942 von der Firma MAN entwickelt, wurde er erstmals 1943 in der Schlacht von Kursk eingesetzt. Der Panzer hatte ein starkes Hauptgeschütz, eine dicke Frontpanzerung und eine gute Beweglichkeit auf Kosten des Schutzes der anderen Seiten.  
   

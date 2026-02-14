@@ -1,10 +1,6 @@
 # Yak-1 Brh. 69  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s69](../images/yak1s69.png) | ![yak1s69](../pilots_notes/yak1s69.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![yak1s69](../images/yak1s69.png)</td><td style="text-align: center">![yak1s69](../pilots_notes/yak1s69.png)</tr><tr><td style="text-align: center" colspan="2">![yak1s69](../cockpits/yak1s69.eng.jpg)</td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 155..171 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 133..146 km/h  

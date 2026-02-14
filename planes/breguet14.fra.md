@@ -1,10 +1,6 @@
 # Breguet 14.B2  
 
-| Image | Notes  
-|:---|:---  
-| ![breguet14](../images/breguet14.png) | ![breguet14](../pilots_notes/breguet14.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![breguet14](../images/breguet14.png)</td><td style="text-align: center">![breguet14](../pilots_notes/breguet14.png)</tr><tr><td style="text-align: center" colspan="2">![breguet14](../cockpits/breguet14.eng.jpg)</td></tr></tbody></table>  
 
 Biplan à deux places conçu par la compagnie française de même nom. Le prototype a effectué son premier vol en avril 1917. La strucure de l\enveloppe contient du duraluminium et de l\acier qui assurent une durabilité exceptionnelle. Plusieurs sociétés ont fabriqué cet avion: Michelin, Bellanger, Renault, Farman, Schmitt, Darracq. Au cours d\une période de guerre, les avions étaient équipés de différents moteurs. En premier il s\agissait de moteurs Renault, ensuite Fiat, et dans les derniers mois des moteurs Liberty. La fiabilité et l\équipement de moteurs puissants font du Breguet 14 le bombardier à deux places le plus rapide de la première guerre mondiale.  
   

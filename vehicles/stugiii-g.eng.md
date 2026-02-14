@@ -1,8 +1,6 @@
 # StuG III Ausf.G  
 
-![stugiii-g](../images/stugiii-g.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![stugiii-g](../images/stugiii-g.png)</tr></td></tr></tbody></table>  
 
 This self-propelled assault gun Sturmgeschütz III Ausführung G was armed with 75 mm StuK 40 L/48 gun. Ausf.G was one of the last modifications, but the most numerous: 7800 SPG in total since December 1942 till April 1945. Compared to the previous one, it had a longer gun barrel (L/48 instead of L/43) and additional armour sheets installed in the hull and cabin front. The SPG modeled in our sim was built at MIAG factory using the Pz.Kpfw. Ausf.M chassis produced by MAN factory.  
   

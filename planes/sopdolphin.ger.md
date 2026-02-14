@@ -1,10 +1,6 @@
 # Sopwith Dolphin  
 
-| Image | Notes  
-|:---|:---  
-| ![sopdolphin](../images/sopdolphin.png) | ![sopdolphin](../pilots_notes/sopdolphin.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![sopdolphin](../images/sopdolphin.png)</td><td style="text-align: center">![sopdolphin](../pilots_notes/sopdolphin.png)</tr><tr><td style="text-align: center" colspan="2">![sopdolphin](../cockpits/sopdolphin.eng.jpg)</td></tr></tbody></table>  
 
 Das Flugzeug wurde von der British Sopwith Aviation Co. entwickelt. Es offenbarte jedoch Schwächen wie bei der Sopwith Camel: Schlechte Sicht nach vorn und oben und eine schwierige Flug-Kontrolle des Flugzeugs durch den Kreiskolbenmotor. Nun sollte ein Flugzeug mit Reihenmotor entwicklet werden. Das Design zeigte ein kompaktes Cockpit, Tanks, Maschinengewehre und Motor. Die Kühler wurden hinter das Cockpit an die Rumpfseite gelegt. Der Kopf des Piloten ragte nun aus einer Luke der oberen Tragfläche. Der erste Testflug fand im Mai 1917 statt. Neben den Hauptwerken wurde das Flugzeug auch in folgenden Werken produziert: Darracq, Hooper, SACA. Bis zum Ende des Krieges wurden 1.532 Flugzeuge gebaut.  
   

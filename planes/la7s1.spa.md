@@ -1,10 +1,6 @@
 # La-7 ser.1  
 
-| Image | Notes  
-|:---|:---  
-| ![la7s1](../images/la7s1.png) | ![la7s1](../pilots_notes/la7s1.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![la7s1](../images/la7s1.png)</td><td style="text-align: center">![la7s1](../pilots_notes/la7s1.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 168..185 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 147..159 km/h  

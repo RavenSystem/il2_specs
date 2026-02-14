@@ -1,10 +1,6 @@
 # Fokker Dr.I  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerdr1](../images/fokkerdr1.png) | ![fokkerdr1](../pilots_notes/fokkerdr1.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![fokkerdr1](../images/fokkerdr1.png)</td><td style="text-align: center">![fokkerdr1](../pilots_notes/fokkerdr1.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerdr1](../cockpits/fokkerdr1.eng.jpg)</td></tr></tbody></table>  
 
 Весной 1917 года во время посещения Jasta 11, Энтони Фоккер ознакомился с конструкцией трофейного английского истребителя Sopwith Triplane.   
 Манфред фон Рихтгофен подробно рассказал о воздушном бое с этим новым английским истребителем. Лишь благодаря своему опыту ему удалось избежать поражения.   

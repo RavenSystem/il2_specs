@@ -1,10 +1,6 @@
 # Sopwith Triplane  
 
-| Image | Notes  
-|:---|:---  
-| ![soptriplane](../images/soptriplane.png) | ![soptriplane](../pilots_notes/soptriplane.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![soptriplane](../images/soptriplane.png)</td><td style="text-align: center">![soptriplane](../pilots_notes/soptriplane.png)</tr><tr><td style="text-align: center" colspan="2">![soptriplane](../cockpits/soptriplane.eng.jpg)</td></tr></tbody></table>  
 
 Принимая во внимание недостаточную маневренность и обзор из кабины на прежних моделях истребителей, конструктор Герберт Смит (Herbert Smith) решил достичь требуемых показателей в хорошо известной ранее схеме - триплан. Тонкий профиль крыла позволил увеличить скорость и обзор из кабины, а три крыла в сумме обеспечили феноменальную для того времени скороподъемность. Из особенностей конструкции можно выделить компактное размещение пилота, топливных баков, вооружения и двигателя.  
   

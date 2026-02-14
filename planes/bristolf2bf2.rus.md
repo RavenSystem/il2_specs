@@ -1,10 +1,6 @@
 # Bristol F2B (F.II)  
 
-| Image | Notes  
-|:---|:---  
-| ![bristolf2bf2](../images/bristolf2bf2.png) | ![bristolf2bf2](../pilots_notes/bristolf2bf2.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![bristolf2bf2](../images/bristolf2bf2.png)</td><td style="text-align: center">![bristolf2bf2](../pilots_notes/bristolf2bf2.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf2](../cockpits/bristolf2bf2.eng.jpg)</td></tr></tbody></table>  
 
 Разработка данного самолёта началась в марте 1916 года, по замыслу он должен был заменить старые двуместные B.E. К тому же, новый тип должен был иметь возможность выполнять боевое патрулирование действуя против самолётов противника.  
   

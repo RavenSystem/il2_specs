@@ -1,10 +1,6 @@
 # Fokker D.VIIF  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerd7f](../images/fokkerd7f.png) | ![fokkerd7f](../pilots_notes/fokkerd7f.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![fokkerd7f](../images/fokkerd7f.png)</td><td style="text-align: center">![fokkerd7f](../pilots_notes/fokkerd7f.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7f](../cockpits/fokkerd7f.spa.jpg)</td></tr></tbody></table>  
 
 El Fokker D.VII fue diseñado por Reinhold Platz, del Departamento de Diseño de Anthony Fokker. Su objetivo fue crear un caza capaz de vencer al SPAD XIII francés y al S.E.5a británico. Algunas características notables de diseño incluyeron una estructura metálica del fuselaje, ala de sección gruesa, y la ausencia de cables de refuerzo.  
   

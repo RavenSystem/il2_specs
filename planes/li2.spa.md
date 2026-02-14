@@ -1,10 +1,6 @@
 # Li-2  
 
-| Image | Notes  
-|:---|:---  
-| ![li2](../images/li2.png) | ![li2](../pilots_notes/li2.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![li2](../images/li2.png)</td><td style="text-align: center">![li2](../pilots_notes/li2.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 115..135 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 105..120 km/h  

@@ -1,10 +1,6 @@
 # SPAD 13.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![spad13](../images/spad13.png) | ![spad13](../pilots_notes/spad13.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![spad13](../images/spad13.png)</td><td style="text-align: center">![spad13](../pilots_notes/spad13.png)</tr><tr><td style="text-align: center" colspan="2">![spad13](../cockpits/spad13.spa.jpg)</td></tr></tbody></table>  
 
 El SPAD S.XIII fue diseñado como una versión mejorada del SPAD S.VII. De similar apariencia externa a su predecesor, era en realidad un diseño completamente nuevo. Se incluyó una segunda ametralladora y un motor más potente; asimismo, se instaló un tanque de combustible auxiliar en la sección central del ala superior, y el tanque de combustible principal estaba dispuesto en la sección inferior del fuselaje. En la parte izquierda posterior a la cabina había un espacio para una cámara de fotos o una carga de bombas. El primer vuelo se realizó el 4 de abril de 1917. La aeronave fue fabricada por  Bleriot, Levasseur, Bernard, Kellner, Safca, Borel y Nieuport. En total se construyeron 8472 aviones de este modelo.  
   

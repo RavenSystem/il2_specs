@@ -1,10 +1,6 @@
 # Bristol F2B (F.III)  
 
-| Image | Notes  
-|:---|:---  
-| ![bristolf2bf3](../images/bristolf2bf3.png) | ![bristolf2bf3](../pilots_notes/bristolf2bf3.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![bristolf2bf3](../images/bristolf2bf3.png)</td><td style="text-align: center">![bristolf2bf3](../pilots_notes/bristolf2bf3.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf3](../cockpits/bristolf2bf3.eng.jpg)</td></tr></tbody></table>  
 
 Design of the Bristol started in March of 1916 as an intended replacement for the B.E. two seater Series. It was designed as a reconnaissance aircraft, but additionally the new type was also going to have to be capable of carrying out scout patrols.  
 It was supplied with dual controls, wireless radio, camera equipment and armed with a fixed Vickers gun firing through the cowling and a rear turret with one or two Lewis guns.  

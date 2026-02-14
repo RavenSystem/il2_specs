@@ -1,10 +1,6 @@
 # Bristol F2B (F.II)  
 
-| Image | Notes  
-|:---|:---  
-| ![bristolf2bf2](../images/bristolf2bf2.png) | ![bristolf2bf2](../pilots_notes/bristolf2bf2.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![bristolf2bf2](../images/bristolf2bf2.png)</td><td style="text-align: center">![bristolf2bf2](../pilots_notes/bristolf2bf2.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf2](../cockpits/bristolf2bf2.spa.jpg)</td></tr></tbody></table>  
 
 El diseño del Bristol se inició en marzo de 1916 con el propósito de reemplazar las series del biplaza B.E. Fue diseñado como avión de reconocimiento, pero también iba a tener que ser capaz de realizar patrullas de caza. Para tales fines fue suministrado con controles duales, radio inalámbrica y cámara, y armado con una ametralladora fija Vickers capaz de disparar a través de la cubierta del motor y un puesto de artillero trasero con una o dos ametralladoras Lewis.  
   

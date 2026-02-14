@@ -1,10 +1,6 @@
 # Typhoon Mk.Ib  
 
-| Image | Notes  
-|:---|:---  
-| ![typhoonmkib](../images/typhoonmkib.png) | ![typhoonmkib](../pilots_notes/typhoonmkib.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![typhoonmkib](../images/typhoonmkib.png)</td><td style="text-align: center">![typhoonmkib](../pilots_notes/typhoonmkib.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 152...182 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 126...151 km/h  

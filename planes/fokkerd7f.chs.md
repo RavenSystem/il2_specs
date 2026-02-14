@@ -1,10 +1,6 @@
 # Fokker D.VIIF  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerd7f](../images/fokkerd7f.png) | ![fokkerd7f](../pilots_notes/fokkerd7f.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![fokkerd7f](../images/fokkerd7f.png)</td><td style="text-align: center">![fokkerd7f](../pilots_notes/fokkerd7f.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7f](../cockpits/fokkerd7f.eng.jpg)</td></tr></tbody></table>  
 
 福克（Fokker）D.VII是由福克飞机制造公司（Fokker-Flugzeugwerke）的雷因霍尔德·普拉茨（Reinhold Platz）设计的。他的任务是制造一款能够击败法国SPAD XIII和英国S.E.5a战斗机的战斗机。该机型的一些显著设计特点包括金属机身结构、厚截面机翼和缺乏支撑线。   
   

@@ -1,10 +1,6 @@
 # La-7 ser.1  
 
-| Image | Notes  
-|:---|:---  
-| ![la7s1](../images/la7s1.png) | ![la7s1](../pilots_notes/la7s1.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![la7s1](../images/la7s1.png)</td><td style="text-align: center">![la7s1](../pilots_notes/la7s1.png)</tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：168~185 km/h  
 起降构型的失速指示空速：147~159 km/h  

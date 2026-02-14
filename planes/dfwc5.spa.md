@@ -1,10 +1,6 @@
 # DFW C.V  
 
-| Image | Notes  
-|:---|:---  
-| ![dfwc5](../images/dfwc5.png) | ![dfwc5](../pilots_notes/dfwc5.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![dfwc5](../images/dfwc5.png)</td><td style="text-align: center">![dfwc5](../pilots_notes/dfwc5.png)</tr><tr><td style="text-align: center" colspan="2">![dfwc5](../cockpits/dfwc5.spa.jpg)</td></tr></tbody></table>  
 
 El DFW C.V fue un biplano biplaza diseñado y producido en la <i>Deutsche Flugzeug Werke</i> (DFW) cerca de Leipzig. Para diseñar el avión, los ingenieros se propusieron crear un avión ligero, pero con un fuselaje duradero. Sus características estructurales incluían un recubrimiento metálico para las riostras de la sección de cola, una cubierta metálica protegiendo el motor, dos travesaños huecos en las alas y nervios flotantes. El radiador estaba montado encima del motor.  
   

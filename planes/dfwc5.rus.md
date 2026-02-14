@@ -1,10 +1,6 @@
 # DFW C.V  
 
-| Image | Notes  
-|:---|:---  
-| ![dfwc5](../images/dfwc5.png) | ![dfwc5](../pilots_notes/dfwc5.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![dfwc5](../images/dfwc5.png)</td><td style="text-align: center">![dfwc5](../pilots_notes/dfwc5.png)</tr><tr><td style="text-align: center" colspan="2">![dfwc5](../cockpits/dfwc5.eng.jpg)</td></tr></tbody></table>  
 
 Самолёт был спроектирован и выпускался на заводах Deutsche Flugzeug Werke под Лейпцигом. Конструкторы поставили перед собой задачу создать достаточно лёгкий и в то же время прочный самолёт. Из особенностей конструкции можно отметить хвостовую балку, покрытую металлом, двигатель, защищённый металлическим обтекателем, два полых лонжерона в крыле и плавающие нервюры. Радиатор был размещён над двигателем.  
   

@@ -1,8 +1,6 @@
 # GAZ-MM 72-K  
 
-![gaz-mm-72k](../images/gaz-mm-72k.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![gaz-mm-72k](../images/gaz-mm-72k.png)</tr></td></tr></tbody></table>  
 
 高尔基汽车厂于1943年生产的GAZ-MM卡车，其在特制的木平台上安装了25 mm 72-K自动高炮。该型卡车是基于GAZ-AA卡车改进而来，装备有更强劲的发动机，更好的转向机构以及加强的悬挂系统。  
   

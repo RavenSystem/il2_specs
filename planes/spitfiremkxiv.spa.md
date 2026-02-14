@@ -1,10 +1,6 @@
 # Spitfire Mk.XIV  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkxiv](../images/spitfiremkxiv.png) | ![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![spitfiremkxiv](../images/spitfiremkxiv.png)</td><td style="text-align: center">![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 152..172 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 145..163 km/h  

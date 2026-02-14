@@ -1,10 +1,6 @@
 # LaGG-3 sér.29  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s29](../images/lagg3s29.png) | ![lagg3s29](../pilots_notes/lagg3s29.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![lagg3s29](../images/lagg3s29.png)</td><td style="text-align: center">![lagg3s29](../pilots_notes/lagg3s29.png)</tr><tr><td style="text-align: center" colspan="2">![lagg3s29](../cockpits/lagg3s29.eng.jpg)</td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 163..189 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 138..168 km/h  

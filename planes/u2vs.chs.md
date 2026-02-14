@@ -1,10 +1,6 @@
 # U-2VS  
 
-| Image | Notes  
-|:---|:---  
-| ![u2vs](../images/u2vs.png) | ![u2vs](../pilots_notes/u2vs.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![u2vs](../images/u2vs.png)</td><td style="text-align: center">![u2vs](../pilots_notes/u2vs.png)</tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：63~70 km/h  
 俯冲极速：240 km/h  

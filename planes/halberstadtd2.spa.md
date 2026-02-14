@@ -1,10 +1,6 @@
 # Halberstadt D.II  
 
-| Image | Notes  
-|:---|:---  
-| ![halberstadtd2](../images/halberstadtd2.png) | ![halberstadtd2](../pilots_notes/halberstadtd2.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![halberstadtd2](../images/halberstadtd2.png)</td><td style="text-align: center">![halberstadtd2](../pilots_notes/halberstadtd2.png)</tr><tr><td style="text-align: center" colspan="2">![halberstadtd2](../cockpits/halberstadtd2.spa.jpg)</td></tr></tbody></table>  
 
 El primer prototipo del Halberstadt D.I, equipado con un motor Mercedes D.I de 100 CV, voló a finales del otoño de 1915. Más tarde sería equipado con un motor Mercedes D.II de 120 CV, entrando en producción con la designación D.II. Estaba pensado para complementar a los biplanos Fokker tipo D, que en aquellos momentos estaban reemplazando a los obsoletos monoplanos Fokker de la serie E. Los primeros aparatos fueron enviados a las unidades del frente en junio de 1916.  
   

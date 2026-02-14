@@ -1,10 +1,6 @@
 # Roland C.IIa  
 
-| Image | Notes  
-|:---|:---  
-| ![rolandc2a](../images/rolandc2a.png) | ![rolandc2a](../pilots_notes/rolandc2a.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![rolandc2a](../images/rolandc2a.png)</td><td style="text-align: center">![rolandc2a](../pilots_notes/rolandc2a.png)</tr><tr><td style="text-align: center" colspan="2">![rolandc2a](../cockpits/rolandc2a.eng.jpg)</td></tr></tbody></table>  
 
 One of the most original trends of thought in aircraft design during 1915 was seen in the L.F.G. Roland C.II, which had been evolved by Dipl. Ing. Tantzen, who had recently joined Luftfahrzeug Gesellschaft as a design engineer. Tantzens ambition was to present a drastically cleaned-up airframe, eliminating as much as possible of the "built-in" drag of interplane, center section strut arrangements and attendant bracing. Streamlined design of fuselage, thin wings profile resulted in great performance for its time: it was one of the fastest airplanes at front able to outrun any enemy fighter plane.  
   

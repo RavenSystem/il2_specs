@@ -1,10 +1,6 @@
 # У-2ВС  
 
-| Image | Notes  
-|:---|:---  
-| ![u2vs](../images/u2vs.png) | ![u2vs](../pilots_notes/u2vs.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![u2vs](../images/u2vs.png)</td><td style="text-align: center">![u2vs](../pilots_notes/u2vs.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 63..70 км/ч  
 Предельная скорость в пикировании: 240 км/ч  

@@ -1,10 +1,6 @@
 # I.A.R. 80-A  
 
-| Image | Notes  
-|:---|:---  
-| ![iar80a](../images/iar80a.png) | ![iar80a](../pilots_notes/iar80a.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![iar80a](../images/iar80a.png)</td><td style="text-align: center">![iar80a](../pilots_notes/iar80a.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 151..162 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 143..151 км/ч  

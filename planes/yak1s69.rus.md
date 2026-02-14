@@ -1,10 +1,6 @@
 # Як-1 69 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s69](../images/yak1s69.png) | ![yak1s69](../pilots_notes/yak1s69.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![yak1s69](../images/yak1s69.png)</td><td style="text-align: center">![yak1s69](../pilots_notes/yak1s69.png)</tr><tr><td style="text-align: center" colspan="2">![yak1s69](../cockpits/yak1s69.eng.jpg)</td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 155..171 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 133..146 км/ч  

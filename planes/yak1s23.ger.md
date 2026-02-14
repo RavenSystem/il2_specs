@@ -1,10 +1,6 @@
 # Yak-1 Brh. 23  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s23](../images/yak1s23.png) | ![yak1s23](../pilots_notes/yak1s23.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![yak1s23](../images/yak1s23.png)</td><td style="text-align: center">![yak1s23](../pilots_notes/yak1s23.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 156..172 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 134..147 km/h  

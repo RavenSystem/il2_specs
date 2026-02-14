@@ -1,10 +1,6 @@
 # Spitfire Mk.IXc  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkixc](../images/spitfiremkixc.png) | ![spitfiremkixc](../pilots_notes/spitfiremkixc.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![spitfiremkixc](../images/spitfiremkixc.png)</td><td style="text-align: center">![spitfiremkixc](../pilots_notes/spitfiremkixc.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 143...163 км/ч (89..101 миль/ч)  
 Приборная скорость сваливания в посадочной конфигурации: 135...154 км/ч (84..96 миль/ч)  

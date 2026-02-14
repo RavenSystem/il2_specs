@@ -30,9 +30,7 @@ GENERATION_DATE="`date +%Y-%m-%d`"
 printf "
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: $IL2_VERSION - Date: $GENERATION_DATE
-
-[ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Pilots Notes v$PILOTS_NOTES_VERSION WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ]
 
@@ -115,16 +113,37 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 IL2_MODIFICATIONS="Modificaciones"
                 ;;
             esac
+            
+            COCKPIT_IMAGE="$VEHICLE_NAME.$IL2_LOCALE.jpg"
+            if [ ! -f "$TARGET_DIR/cockpits/$COCKPIT_IMAGE" ]; then
+                COCKPIT_IMAGE="$VEHICLE_NAME.eng.jpg"
+            fi
 
             cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
+            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\">!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)"
+            
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                sed -i.bak -e "s/&description=/\n| Image | Notes\n|:---|:---\n| !\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\) | !\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-            else
-                sed -i.bak -e "s/&description=/\n!\[$NEW_VEHICLE_NAME\]\(..\/images\/$NEW_VEHICLE_NAME.png\)\n\n## $IL2_DESCRIPTION\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\">!\[$NEW_VEHICLE_NAME\]\(..\/pilots_notes\/$NEW_VEHICLE_NAME.png\)"
             fi
+            
+            TABLE_DETAILS="$TABLE_DETAILS<\/tr>"
+            
+            if [ -f "$TARGET_DIR/cockpits/$COCKPIT_IMAGE" ]; then
+                TABLE_DETAILS="$TABLE_DETAILS<tr><td style=\"text-align: center\""
+                
+                if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
+                    TABLE_DETAILS="$TABLE_DETAILS colspan=\"2\""
+                fi
+                
+                TABLE_DETAILS="$TABLE_DETAILS>!\[$NEW_VEHICLE_NAME\]\(..\/cockpits\/$COCKPIT_IMAGE\)"
+            fi
+            
+            TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>"
+            
+            sed -i.bak -e "s/&description=/\n$TABLE_DETAILS\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
             sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
@@ -159,23 +178,26 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
         printf "\n" >> "$TARGET_DIR/README.md"
 
+        printf "<table><thead><tr><th style=\"text-align: left\"" >> "$TARGET_DIR/README.md"
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "| " >> "$TARGET_DIR/README.md"
+            printf " colspan=\"2\"" >> "$TARGET_DIR/README.md"
         fi
+        printf ">" >> "$TARGET_DIR/README.md"
         
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
         done
         
+        printf "</th></tr></thead>\n<tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
+        printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+        printf "</td>" >> "$TARGET_DIR/README.md"
+        
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf " | Notes \n" >> "$TARGET_DIR/README.md"
-            printf "|:---|:---\n" >> "$TARGET_DIR/README.md"
-            printf "| ![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png) | ![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
-        else
-            printf "\n![$NEW_VEHICLE_NAME](images/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
+            printf "<td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
+            printf "![$NEW_VEHICLE_NAME](pilots_notes/$NEW_VEHICLE_NAME.png)" >> "$TARGET_DIR/README.md"
         fi
         
-        printf " \n\n" >> "$TARGET_DIR/README.md"
+        printf "</td></tr></tbody></table>\n\n" >> "$TARGET_DIR/README.md"
     done
 
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*

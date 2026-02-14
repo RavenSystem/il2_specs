@@ -1,10 +1,6 @@
 # MiG-3 ser.24  
 
-| Image | Notes  
-|:---|:---  
-| ![mig3s24](../images/mig3s24.png) | ![mig3s24](../pilots_notes/mig3s24.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![mig3s24](../images/mig3s24.png)</td><td style="text-align: center">![mig3s24](../pilots_notes/mig3s24.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 159..175 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 134..147 km/h  

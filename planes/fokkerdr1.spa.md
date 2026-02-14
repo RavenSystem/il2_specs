@@ -1,10 +1,6 @@
 # Fokker Dr.I  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerdr1](../images/fokkerdr1.png) | ![fokkerdr1](../pilots_notes/fokkerdr1.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![fokkerdr1](../images/fokkerdr1.png)</td><td style="text-align: center">![fokkerdr1](../pilots_notes/fokkerdr1.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerdr1](../cockpits/fokkerdr1.spa.jpg)</td></tr></tbody></table>  
 
 En la primavera de 1917, durante una visita al Jasta 11, Anthony Fokker inspeccionó la construcción de un avión británico capturado, el Sopwith Triplane. Manfred von Richthofen explicó los detalles de su pelea con este nuevo aeroplano al constructor. Concluyeron que el Barón Rojo salió invicto solo gracias su gran experiencia en combate.  
   

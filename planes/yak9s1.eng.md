@@ -1,10 +1,6 @@
 # Yak-9 ser.1  
 
-| Image | Notes  
-|:---|:---  
-| ![yak9s1](../images/yak9s1.png) | ![yak9s1](../pilots_notes/yak9s1.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![yak9s1](../images/yak9s1.png)</td><td style="text-align: center">![yak9s1](../pilots_notes/yak9s1.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 152..160 km/h  
 Indicated stall speed in takeoff/landing configuration: 136..141 km/h  

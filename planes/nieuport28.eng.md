@@ -1,10 +1,6 @@
 # Nieuport 28.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport28](../images/nieuport28.png) | ![nieuport28](../pilots_notes/nieuport28.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![nieuport28](../images/nieuport28.png)</td><td style="text-align: center">![nieuport28](../pilots_notes/nieuport28.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport28](../cockpits/nieuport28.eng.jpg)</td></tr></tbody></table>  
 
 The next evolution in the line of fighters made by Nieuport S.A.d E. (Societe Anonyme des Etablissements) Company was the Nieuport 28. Its designers knew that their previous designs were now obsolete and did not allow for better flight characteristics. Therefore, it was decided to use structural features of the SPAD XIII in the design of the new fighter. Some of these features are as follows: larger surface area of the lower wing (a second spar was fitted to it, thus making it a true biplane); a second machine gun was placed left of the centreline behind the engine; and ailerons were fitted to the lower wing instead of the top wing. Its first trial flight occurred on June 5, 1917. Unfortunately, the new fighter could not exceed the flight characteristics of the already-employed SPAD XIII. As a result, French pilots refused to fly it. In all, 208 fighters of this type were built, after which the Nieuport S.A.d E. Company switched to manufacturing the SPAD XIII.  
   

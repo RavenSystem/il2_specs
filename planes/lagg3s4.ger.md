@@ -1,10 +1,6 @@
 # LaGG-3 Brh. 4  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s4](../images/lagg3s4.png) | ![lagg3s4](../pilots_notes/lagg3s4.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![lagg3s4](../images/lagg3s4.png)</td><td style="text-align: center">![lagg3s4](../pilots_notes/lagg3s4.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 167..193 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 142..170 km/h  

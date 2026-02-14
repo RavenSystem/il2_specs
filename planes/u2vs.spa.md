@@ -1,10 +1,6 @@
 # U-2VS  
 
-| Image | Notes  
-|:---|:---  
-| ![u2vs](../images/u2vs.png) | ![u2vs](../pilots_notes/u2vs.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![u2vs](../images/u2vs.png)</td><td style="text-align: center">![u2vs](../pilots_notes/u2vs.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 63..70 km/h  
 Velocidad de picado límite: 240 km/h  

@@ -1,10 +1,6 @@
 # Albatros D.II  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd2](../images/albatrosd2.png) | ![albatrosd2](../pilots_notes/albatrosd2.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![albatrosd2](../images/albatrosd2.png)</td><td style="text-align: center">![albatrosd2](../pilots_notes/albatrosd2.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd2](../cockpits/albatrosd2.eng.jpg)</td></tr></tbody></table>  
 
 First in the pantheon of the legendary Albatros fighter planes, the D.II became a symbol and icon of the fighter plane in the Great War. Under the guidance of engineer Robert Thelen, the plane incorporated new features in design and development. While retaining the clean aerodynamic shape of the D.I model’s fuselage, new central N-shaped struts were added to the wings. The upper wing was moved closer to the fuselage, and early models of the aircraft were fitted with Windhoff box-type radiators on both sides of the fuselage.  
 The Albatros Werke, Ostdeutsche Albatros Werke, and Luft-Verkehrs-Gesellschaft mbH factories manufactured the aircraft. In all, 768 Albatros D.IIs were produced.  

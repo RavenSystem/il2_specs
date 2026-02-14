@@ -1,10 +1,6 @@
 # Sopwith 1½ Strutter B  
 
-| Image | Notes  
-|:---|:---  
-| ![sopstrutterb](../images/sopstrutterb.png) | ![sopstrutterb](../pilots_notes/sopstrutterb.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![sopstrutterb](../images/sopstrutterb.png)</td><td style="text-align: center">![sopstrutterb](../pilots_notes/sopstrutterb.png)</tr><tr><td style="text-align: center" colspan="2">![sopstrutterb](../cockpits/sopstrutterb.eng.jpg)</td></tr></tbody></table>  
 
 Designed and built for the British Admiralty, the Sopwith 1½ Strutter (which took its name from the arrangement of the upper wing center section - "one-and-a-half" (long and short) pairs of cabane struts supporting the top wing) was the first true two-seat fighter to enter service and actually the first British airplane armed with synchronised machine gun. Powered by a 110 hp or 130 hp Clerget rotary engine, the aircraft was armed with a fixed synchronized forward firing Vickers .303 machine gun and a single (sometimes double) Lewis .303 machine gun in the rear cockpit. The 1½ Strutter entered service with both the RNAS and the Royal Flying Corps.  
   

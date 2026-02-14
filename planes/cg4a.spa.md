@@ -1,10 +1,6 @@
 # CG-4A  
 
-| Image | Notes  
-|:---|:---  
-| ![cg4a](../images/cg4a.png) | ![cg4a](../pilots_notes/cg4a.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![cg4a](../images/cg4a.png)</td><td style="text-align: center">![cg4a](../pilots_notes/cg4a.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 65..86 km/h  
 Velocidad de picado límite: 241 km/h  

@@ -1,10 +1,6 @@
 # Hurricane Mk.II  
 
-| Image | Notes  
-|:---|:---  
-| ![hurricanemkii](../images/hurricanemkii.png) | ![hurricanemkii](../pilots_notes/hurricanemkii.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![hurricanemkii](../images/hurricanemkii.png)</td><td style="text-align: center">![hurricanemkii](../pilots_notes/hurricanemkii.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 132..155 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 123..144 km/h  

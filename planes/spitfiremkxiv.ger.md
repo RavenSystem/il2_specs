@@ -1,10 +1,6 @@
 # Spitfire Mk.XIV  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkxiv](../images/spitfiremkxiv.png) | ![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![spitfiremkxiv](../images/spitfiremkxiv.png)</td><td style="text-align: center">![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 152..172 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 145..163 km/h  

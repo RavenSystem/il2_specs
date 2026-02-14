@@ -1,10 +1,6 @@
 # Як-3 9 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![yak3s9](../images/yak3s9.png) | ![yak3s9](../pilots_notes/yak3s9.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![yak3s9](../images/yak3s9.png)</td><td style="text-align: center">![yak3s9](../pilots_notes/yak3s9.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 152..160 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 136..141 км/ч  

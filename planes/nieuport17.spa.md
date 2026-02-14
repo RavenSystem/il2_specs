@@ -1,10 +1,6 @@
 # Nieuport 17.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport17](../images/nieuport17.png) | ![nieuport17](../pilots_notes/nieuport17.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![nieuport17](../images/nieuport17.png)</td><td style="text-align: center">![nieuport17](../pilots_notes/nieuport17.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport17](../cockpits/nieuport17.spa.jpg)</td></tr></tbody></table>  
 
 El Nieuport 17 fue concebido como un desarrollo mejorado del Nieuport 11, así que cuando llegó al campo de batalla en marzo de 1916, reemplazó rápidamente a este último. A finales de 1916, todos los escuadrones de la Aviación Militar francesa estaban equipados con los Nieuport 17. Comparado con su predecesor, tenía una envergadura de ala y superficie alar mayor, un motor más potente, una ametralladora Vickers instalada delante de la cabina, y cables metálicos para el control de los alerones. Inicialmente, el aeroplano fue construido en diversas fábricas francesas, pero pronto su licencia fue adquirida por otros países, como Gran Bretaña, Rusia, Italia, Finlandia y Japón.  
   

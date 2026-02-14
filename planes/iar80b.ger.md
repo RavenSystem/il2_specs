@@ -1,10 +1,6 @@
 # I.A.R. 80-B  
 
-| Image | Notes  
-|:---|:---  
-| ![iar80b](../images/iar80b.png) | ![iar80b](../pilots_notes/iar80b.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![iar80b](../images/iar80b.png)</td><td style="text-align: center">![iar80b](../pilots_notes/iar80b.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 151..162 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 143..151 km/h  

@@ -1,10 +1,6 @@
 # Bf 109 G-6AS  
 
-| Image | Notes  
-|:---|:---  
-| ![bf109g6as](../images/bf109g6as.png) | ![bf109g6as](../pilots_notes/bf109g6as.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![bf109g6as](../images/bf109g6as.png)</td><td style="text-align: center">![bf109g6as](../pilots_notes/bf109g6as.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 163..180 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 151..163 км/ч  

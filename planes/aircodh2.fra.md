@@ -1,10 +1,6 @@
 # Airco D.H.2  
 
-| Image | Notes  
-|:---|:---  
-| ![aircodh2](../images/aircodh2.png) | ![aircodh2](../pilots_notes/aircodh2.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![aircodh2](../images/aircodh2.png)</td><td style="text-align: center">![aircodh2](../pilots_notes/aircodh2.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh2](../cockpits/aircodh2.eng.jpg)</td></tr></tbody></table>  
 
 Le chasseur monoplace Airco D.H.2 fut le second projet de Sir Geoffrey de Havilland matérialisant les avancées réalisées dans le domaine des hélices propulsives, situées derrière le pilote. Ce type de configuration permettait de placer un armement sans synchronisation, technique qui ne fut implantée que vers la fin 1916. Le prototype du D.H.2 vola pour la première fois en Juillet 1915 et fut déployé dans 24 Squadrons du Royal Flying Corps où il commença sa carrière au dessus de la France dès Février 1916.  
   

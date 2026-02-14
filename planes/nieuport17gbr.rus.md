@@ -1,10 +1,6 @@
 # Nieuport 17.C1 GBR  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport17gbr](../images/nieuport17gbr.png) | ![nieuport17gbr](../pilots_notes/nieuport17gbr.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![nieuport17gbr](../images/nieuport17gbr.png)</td><td style="text-align: center">![nieuport17gbr](../pilots_notes/nieuport17gbr.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport17gbr](../cockpits/nieuport17gbr.eng.jpg)</td></tr></tbody></table>  
 
 Аэроплан Ньюпор 17 рассматривался как дальнейшее развитие Ньюпор 11: по сравнению с предшественником были увеличены размах и площадь крыльев, установлен более мощный двигатель, пулемёта Vickers, а также металлические тяги, передававшие усилие от штурвала на элероны. Когда в марте 1916 г. на фронт прибыли Ньюпоры 17, они быстро заменили Ньюпоры 11 - к концу года все французские эскадрильи были перевооружены на них. Его начали выпускать во Франции на нескольких заводах, но вскоре лицензию на его производство приобрели и другие страны — Британия, Россия, Италия, Финляндия, Япония.  
   

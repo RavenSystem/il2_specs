@@ -1,8 +1,6 @@
 # B-25D  
 
-![b25draf](../images/b25draf.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![b25draf](../images/b25draf.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 160..191 km/h (100..119 mph)  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 145..175 km/h (90..109 mph)  

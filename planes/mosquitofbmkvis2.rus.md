@@ -1,10 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-| Image | Notes  
-|:---|:---  
-| ![mosquitofbmkvis2](../images/mosquitofbmkvis2.png) | ![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![mosquitofbmkvis2](../images/mosquitofbmkvis2.png)</td><td style="text-align: center">![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 179...208 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 157...183 км/ч  

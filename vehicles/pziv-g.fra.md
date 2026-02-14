@@ -1,8 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-![pziv-g](../images/pziv-g.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![pziv-g](../images/pziv-g.png)</tr></td></tr></tbody></table>  
 
 This Pz.Kpfw. IV Ausf.G with 75 mm KwK 40/L48 gun was made at Nibelungenwerke in June 1943. The main difference of the "Ausf.G" modification compared to previous ones was a new gun - longer (+5 calibers) barrel, but with the fixed turn of rifling instead of variable one.  
   

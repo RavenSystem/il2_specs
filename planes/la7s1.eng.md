@@ -1,10 +1,6 @@
 # La-7 ser.1  
 
-| Image | Notes  
-|:---|:---  
-| ![la7s1](../images/la7s1.png) | ![la7s1](../pilots_notes/la7s1.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![la7s1](../images/la7s1.png)</td><td style="text-align: center">![la7s1](../pilots_notes/la7s1.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 168..185 km/h  
 Indicated stall speed in takeoff/landing configuration: 147..159 km/h  

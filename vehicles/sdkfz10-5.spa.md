@@ -1,8 +1,6 @@
 # Sd.Kfz.10/5  
 
-![sdkfz10-5](../images/sdkfz10-5.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![sdkfz10-5](../images/sdkfz10-5.png)</tr></td></tr></tbody></table>  
 
 Modificación del semioruga Sd.Kfz.10, una de las  muchas fabricadas por la compañía Demag, como plataforma móvil del cañón antiaéreo Flak 38 desde 1939.  
   

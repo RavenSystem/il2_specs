@@ -1,10 +1,6 @@
 # SSW D.IV  
 
-| Image | Notes  
-|:---|:---  
-| ![schuckertdiv](../images/schuckertdiv.png) | ![schuckertdiv](../pilots_notes/schuckertdiv.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![schuckertdiv](../images/schuckertdiv.png)</td><td style="text-align: center">![schuckertdiv](../pilots_notes/schuckertdiv.png)</tr></td></tr></tbody></table>  
 
 El Siemens-Schuckert (SSW) D.IV entró en servicio en la Gran Guerra demasiado tarde para cambiar la suerte de Alemania, pero los aparatos que llegaron a los escuadrones de primera línea se desenvolvieron bien. Este avión fue el resultado final de una robusta serie de aviones Siemens-Schuckert que entraron en servicio durante la guerra y poseía una característica única: el motor rotativo Siemens-Halske Sh.IIIa de 207 CV tenía un cigüeñal que giraba en sentido contrario al del motor y la hélice, para reducir el par motor. La hélice de cuatro palas le proporcionaba una rápida tasa de ascenso y una gran velocidad. El SSW D.IV era incluso más rápido que el principal caza de primera línea alemán, el exitoso Fokker D.VII. También era muy maniobrable, pero los pilotos informaban que entraba en pérdida de forma repentina cuando se le forzaba demasiado. Iba armado con dos ametralladoras de 7,92 mm.  
   

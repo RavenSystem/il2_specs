@@ -1,10 +1,6 @@
 # Halberstadt CL.II  
 
-| Image | Notes  
-|:---|:---  
-| ![halberstadtcl2](../images/halberstadtcl2.png) | ![halberstadtcl2](../pilots_notes/halberstadtcl2.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![halberstadtcl2](../images/halberstadtcl2.png)</td><td style="text-align: center">![halberstadtcl2](../pilots_notes/halberstadtcl2.png)</tr><tr><td style="text-align: center" colspan="2">![halberstadtcl2](../cockpits/halberstadtcl2.eng.jpg)</td></tr></tbody></table>  
 
 哈尔伯施塔特（Halberstadt）CL.II的设计是对1916年8月德意志帝国空中力量管理局发布招标规格的回应，该规格是针对新型160-180 HP发动机的“轻型C型”。   
   

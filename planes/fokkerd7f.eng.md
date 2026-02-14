@@ -1,10 +1,6 @@
 # Fokker D.VIIF  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerd7f](../images/fokkerd7f.png) | ![fokkerd7f](../pilots_notes/fokkerd7f.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![fokkerd7f](../images/fokkerd7f.png)</td><td style="text-align: center">![fokkerd7f](../pilots_notes/fokkerd7f.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7f](../cockpits/fokkerd7f.eng.jpg)</td></tr></tbody></table>  
 
 The Fokker D.VII was designed by Reinhold Platz of the Fokker-Flugzeugwerke. His task was to create a fighter capable of beating the French SPAD XIII and British S.E.5a fighters. Some notable design features of the type included a metal airframe structure, a thick-sectioned wing, and a lack of bracing wires.  
   

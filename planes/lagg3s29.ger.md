@@ -1,10 +1,6 @@
 # LaGG-3 Brh. 29  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s29](../images/lagg3s29.png) | ![lagg3s29](../pilots_notes/lagg3s29.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![lagg3s29](../images/lagg3s29.png)</td><td style="text-align: center">![lagg3s29](../pilots_notes/lagg3s29.png)</tr><tr><td style="text-align: center" colspan="2">![lagg3s29](../cockpits/lagg3s29.eng.jpg)</td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 163..189 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 138..168 km/h  

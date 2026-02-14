@@ -1,8 +1,6 @@
 # KV-1S ChTZ（1943型）  
 
-![kv1s](../images/kv1s.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![kv1s](../images/kv1s.png)</tr></td></tr></tbody></table>  
 
 该型坦克由车里雅宾斯克坦克厂设计局在1942年夏季设计。1942年末在顿河和沃罗涅日方面军中首次参加战斗。  
   

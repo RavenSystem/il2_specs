@@ -1,8 +1,6 @@
 # Pz.Kpfw.VI Ausf.H1  
 
-![pzvi-h1](../images/pzvi-h1.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![pzvi-h1](../images/pzvi-h1.png)</tr></td></tr></tbody></table>  
 
 Desarrollado por la compañía Henschel en 1942, su primera acción de combate tuvo lugar en el Frente de Leningrado en agosto de 1942.  
   

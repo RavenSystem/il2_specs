@@ -1,10 +1,6 @@
 # Sopwith Camel  
 
-| Image | Notes  
-|:---|:---  
-| ![sopcamel](../images/sopcamel.png) | ![sopcamel](../pilots_notes/sopcamel.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![sopcamel](../images/sopcamel.png)</td><td style="text-align: center">![sopcamel](../pilots_notes/sopcamel.png)</tr><tr><td style="text-align: center" colspan="2">![sopcamel](../cockpits/sopcamel.eng.jpg)</td></tr></tbody></table>  
 
 索普维斯“骆驼”（Sopwith Camel）的结构基于其前身索普维斯“幼犬”（Sopwith Pup）的构造。索普维斯的首席设计师赫伯特·史密斯（Herbert Smith）决定略微改变幼犬的设计，因为必须安装更新、更大、更重的发动机。起落架支柱做了一些改动，机翼和安定面的间距增加，机身延伸到驾驶舱的后缘，看起来有点像骆驼的驼峰。那个“驼峰”就是飞机的名字——索普维斯“骆驼”。   
   

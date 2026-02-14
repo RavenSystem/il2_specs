@@ -1,10 +1,6 @@
 # CG-4A  
 
-| Image | Notes  
-|:---|:---  
-| ![cg4a](../images/cg4a.png) | ![cg4a](../pilots_notes/cg4a.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![cg4a](../images/cg4a.png)</td><td style="text-align: center">![cg4a](../pilots_notes/cg4a.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 65..86 км/ч  
 Предельная скорость в пикировании: 241 км/ч  

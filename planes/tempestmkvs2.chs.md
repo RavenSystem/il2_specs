@@ -1,10 +1,6 @@
 # Tempest Mk.V ser.2  
 
-| Image | Notes  
-|:---|:---  
-| ![tempestmkvs2](../images/tempestmkvs2.png) | ![tempestmkvs2](../pilots_notes/tempestmkvs2.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![tempestmkvs2](../images/tempestmkvs2.png)</td><td style="text-align: center">![tempestmkvs2](../pilots_notes/tempestmkvs2.png)</tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：150~174 km/h  
 起降构型的失速指示空速：128~149 km/h  

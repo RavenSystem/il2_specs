@@ -1,8 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-![pziv-g](../images/pziv-g.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![pziv-g](../images/pziv-g.png)</tr></td></tr></tbody></table>  
 
 Танк Pz.Kpfw. IV Ausf.G с 75мм пушкой KwK 40/L48 завода Nibelungenwerke выпуска июня 1943 года. Главным отличием модификации "Ausf.G" от предыдущих было новое орудие с большей на 5 калибров длиной ствола при использовании постоянного шага нарезки.  
   

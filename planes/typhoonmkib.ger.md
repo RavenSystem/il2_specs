@@ -1,10 +1,6 @@
 # Typhoon Mk.Ib  
 
-| Image | Notes  
-|:---|:---  
-| ![typhoonmkib](../images/typhoonmkib.png) | ![typhoonmkib](../pilots_notes/typhoonmkib.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![typhoonmkib](../images/typhoonmkib.png)</td><td style="text-align: center">![typhoonmkib](../pilots_notes/typhoonmkib.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 152...182 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 126...151 km/h  

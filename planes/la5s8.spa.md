@@ -1,10 +1,6 @@
 # La-5 ser.8  
 
-| Image | Notes  
-|:---|:---  
-| ![la5s8](../images/la5s8.png) | ![la5s8](../pilots_notes/la5s8.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![la5s8](../images/la5s8.png)</td><td style="text-align: center">![la5s8](../pilots_notes/la5s8.png)</tr><tr><td style="text-align: center" colspan="2">![la5s8](../cockpits/la5s8.eng.jpg)</td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 165..183 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 147..162 km/h  

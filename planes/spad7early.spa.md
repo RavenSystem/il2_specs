@@ -1,10 +1,6 @@
 # SPAD 7.C1 150 CV  
 
-| Image | Notes  
-|:---|:---  
-| ![spad7early](../images/spad7early.png) | ![spad7early](../pilots_notes/spad7early.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![spad7early](../images/spad7early.png)</td><td style="text-align: center">![spad7early](../pilots_notes/spad7early.png)</tr><tr><td style="text-align: center" colspan="2">![spad7early](../cockpits/spad7early.spa.jpg)</td></tr></tbody></table>  
 
 El SPAD S.VII fue un caza monoplaza desarrollado por Louis Bechereau de la Société Pour L\Aviation et ses Dérivés a principios de 1916. Buena parte de su diseño fue tomado del desarrollo del SPAD de motor rotativo, el SPAD tipo A. El motor inicial para equipar el SPAD S.VII, el Hispano-Suiza 8A de 150 CV, fue desarrollado inicialmente por el ingeniero suizo Marc Birkigt en febrero de 1915.  
   

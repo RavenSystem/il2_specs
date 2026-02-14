@@ -1,10 +1,6 @@
 # Yak-7B ser.36  
 
-| Image | Notes  
-|:---|:---  
-| ![yak7bs36](../images/yak7bs36.png) | ![yak7bs36](../pilots_notes/yak7bs36.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![yak7bs36](../images/yak7bs36.png)</td><td style="text-align: center">![yak7bs36](../pilots_notes/yak7bs36.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 155..172 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 139..154 km/h  

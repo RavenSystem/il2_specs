@@ -1,8 +1,6 @@
 # KV-1s ChTZ (1943)  
 
-![kv1s](../images/kv1s.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![kv1s](../images/kv1s.png)</tr></td></tr></tbody></table>  
 
 The tank was created by thedesign bureau of Chelyabinsk Tank Factory (ChTZ) during Summer 1942. It saw first combat action at the end of 1942 on Don and Voronezh front.  
   

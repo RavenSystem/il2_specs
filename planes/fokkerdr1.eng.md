@@ -1,10 +1,6 @@
 # Fokker Dr.I  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerdr1](../images/fokkerdr1.png) | ![fokkerdr1](../pilots_notes/fokkerdr1.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![fokkerdr1](../images/fokkerdr1.png)</td><td style="text-align: center">![fokkerdr1](../pilots_notes/fokkerdr1.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerdr1](../cockpits/fokkerdr1.eng.jpg)</td></tr></tbody></table>  
 
 In the spring of 1917, during a visit to Jasta 11, Anthony Fokker inspected the construction of a captured British fighter, the Sopwith Triplane. Manfred von Richthofen related to Fokker the details of his dogfight with this new aeroplane. It was only due to his great experience that the Red Baron managed to avoid defeat.  
 The prototype of the F.I (the name at the time of the Dr.I) triplane was made ready by August 1917. Some remarkable details of its construction were as follows: a steel tube fuselage frame, as well as metal frames for the stabilizer and tail fin; an absence of bracing trusses; and the placement of the ailerons on the upper wing. The plane was more compact and robust than the British Sopwith Triplane. In total, 320 Dr.I triplanes were built.  

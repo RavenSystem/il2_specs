@@ -1,10 +1,6 @@
 # Pfalz D.XII  
 
-| Image | Notes  
-|:---|:---  
-| ![pfalzd12](../images/pfalzd12.png) | ![pfalzd12](../pilots_notes/pfalzd12.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![pfalzd12](../images/pfalzd12.png)</td><td style="text-align: center">![pfalzd12](../pilots_notes/pfalzd12.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd12](../cockpits/pfalzd12.eng.jpg)</td></tr></tbody></table>  
 
 Les ingénieurs de la compagnie ont décidé d\utiliser une aile de section mince semblale au SPAD VII lors de la conception de la modification du chasseur. Cette aile a satisfait les besoins des tactiques de combat utilisées par les pilots allemands: plongée, tirs contre l\ennemi et remontée. La conception avait également le fait d\acoir des surfaces d\aile supérieure et inférieure égales. Initialement, le radiateur a été monté à l\avant du moteur comme sur le Fokker D.VII. Les délais ne permettant pas de concevoir de nouveaux radiateurs les ingénieurs ont donc utilisé un vieux radiateur de la structure en tube qui était inférieure à la cellule du radiateur. 800 avions ont été construits au total.  
   

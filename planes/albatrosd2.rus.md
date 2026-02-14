@@ -1,10 +1,6 @@
 # Albatros D.II  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd2](../images/albatrosd2.png) | ![albatrosd2](../pilots_notes/albatrosd2.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![albatrosd2](../images/albatrosd2.png)</td><td style="text-align: center">![albatrosd2](../pilots_notes/albatrosd2.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd2](../cockpits/albatrosd2.eng.jpg)</td></tr></tbody></table>  
 
 Первенец в легендарной плеяде истребителей Albatros, чье имя станет символом и синонимом истребителя Великой Войны. Самолёт стал следующим шагом в развитии конструкции под руководством инженера Роберта Телена (Robert Thelen). К существующим на Albatros D.I чистым аэродинамическим формам фюзеляжа, новая модель получила центральные стойки N-образной формы. Верхнее крыло было перемещено ближе к фюзеляжу, на уровень глаз пилота. Ранняя модификация самолёта оснащалась коробчатыми радиаторами Windhoff, крепившиеся по бокам фюзеляжа.  
 Самолёт выпускался на фабриках Albatros Werke, Ostdeutsche Albatros Werke, Luft-Verkehrs-Gesellschaft mbH. Всего было выпущено 768 экземпляров Albatros D.II.  

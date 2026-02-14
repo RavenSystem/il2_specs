@@ -1,10 +1,6 @@
 # Albatros D.III  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd3](../images/albatrosd3.png) | ![albatrosd3](../pilots_notes/albatrosd3.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![albatrosd3](../images/albatrosd3.png)</td><td style="text-align: center">![albatrosd3](../pilots_notes/albatrosd3.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd3](../cockpits/albatrosd3.eng.jpg)</td></tr></tbody></table>  
 
 Ознакомившись с конструкцией истребителя фирмы Ньюпор, немецкие авиаинженеры спроектировали нижнее крыло нового аэроплана более узким и меньшего размаха, чем верхнее. Концы крыльев приобрели стреловидную форму, что позволило уменьшить их вибрацию. Из особенностей конструкции можно упомянуть следующее: тяга элеронов проходила через нижнее крыло, радиатор был перенесен с борта фюзеляжа на середину верхнего крыла, а крылья получили V—образные стойки. Снижение веса машины стало на тот момент важнейшим достижением.  
   

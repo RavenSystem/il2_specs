@@ -1,10 +1,6 @@
 # Spitfire Mk.IXc  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkixc](../images/spitfiremkixc.png) | ![spitfiremkixc](../pilots_notes/spitfiremkixc.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![spitfiremkixc](../images/spitfiremkixc.png)</td><td style="text-align: center">![spitfiremkixc](../pilots_notes/spitfiremkixc.png)</tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：143~163 km/h(89~101 mph)  
 起降构型的失速指示空速：135~154 km/h(84~96 mph)  

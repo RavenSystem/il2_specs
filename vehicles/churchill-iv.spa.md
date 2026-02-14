@@ -1,8 +1,6 @@
 # Churchill IV  
 
-![churchill-iv](../images/churchill-iv.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![churchill-iv](../images/churchill-iv.png)</tr></td></tr></tbody></table>  
 
 El tanque Churchill pertenecía a la clase de tanques de infantería desarrollados por el ejército británico. Según esta clasificación, el Churchill tenía poca movilidad y no contaba con el armamento más potente, pero estaba protegido con un potente blindaje, por lo que pertenecía a la clase de tanques pesados. El tanque se fabricó en Inglaterra durante los años de la guerra y fue uno de los vehículos blindados más numerosos de las fuerzas armadas de Su Majestad. El modelo que aparece en la simulación fue producido por la fábrica Leyland.  
   

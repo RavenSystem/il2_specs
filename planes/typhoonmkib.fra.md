@@ -1,10 +1,6 @@
 # Typhoon Mk.Ib  
 
-| Image | Notes  
-|:---|:---  
-| ![typhoonmkib](../images/typhoonmkib.png) | ![typhoonmkib](../pilots_notes/typhoonmkib.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![typhoonmkib](../images/typhoonmkib.png)</td><td style="text-align: center">![typhoonmkib](../pilots_notes/typhoonmkib.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 152...182 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 126...151 km/h  

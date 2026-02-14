@@ -1,10 +1,6 @@
 # Yak-1ser.23  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s23](../images/yak1s23.png) | ![yak1s23](../pilots_notes/yak1s23.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![yak1s23](../images/yak1s23.png)</td><td style="text-align: center">![yak1s23](../pilots_notes/yak1s23.png)</tr></td></tr></tbody></table>  
 
 飞行构型的失速指示空速：156~172 km/h  
 起降构型的失速指示空速：134~147 km/h  

@@ -1,10 +1,6 @@
 # Nieuport 11.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport11](../images/nieuport11.png) | ![nieuport11](../pilots_notes/nieuport11.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![nieuport11](../images/nieuport11.png)</td><td style="text-align: center">![nieuport11](../pilots_notes/nieuport11.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport11](../cockpits/nieuport11.eng.jpg)</td></tr></tbody></table>  
 
 Ньюпор 11 Bebe ("Малыш") был изначально спроектирован как одноместный истребитель-полутораплан и явился дальнейшим развитием концепции, предложенной Густавом Делажем в Nieuport 10. Нижнее однолонжеронное крыло, обладающее значительно меньшей хордой, скреплялось с верхним крылом посредством V-образных стоек. Недостатком конструкции являлось невысокая прочность нижнего крыла, подверженного повышенным нагрузкам на кручение и изгиб. Подобные проблемы были свойственны и другим полуторапланам – всему семейству Ньюпоров 10 – 23, Альбатросам D.III, D.V и др.  
   

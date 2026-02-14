@@ -1,8 +1,6 @@
 # Sd.Kfz.10/5  
 
-![sdkfz10-5](../images/sdkfz10-5.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![sdkfz10-5](../images/sdkfz10-5.png)</tr></td></tr></tbody></table>  
 
 自 1939 年开始，Demag公司生产的众多 Sd.Kfz.10 半履带车改装型之一，该改装型作为机动的 Flak 38 防空炮平台。  
   

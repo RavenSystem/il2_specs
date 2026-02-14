@@ -1,10 +1,6 @@
 # S.E.5a  
 
-| Image | Notes  
-|:---|:---  
-| ![se5a](../images/se5a.png) | ![se5a](../pilots_notes/se5a.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![se5a](../images/se5a.png)</td><td style="text-align: center">![se5a](../pilots_notes/se5a.png)</tr><tr><td style="text-align: center" colspan="2">![se5a](../cockpits/se5a.eng.jpg)</td></tr></tbody></table>  
 
 Das Flugzeug wurde von der britischen Firma RAF (Royal Aircraft Factory) entworfen. Ziel war, ein Kampflugzeug um das Hispano—Suiza Triebwerk mit 200 PS zu bauen, um eine hohe Steiggeschwindigkeit und Top-Speed zu erhalten. Um dieses Ziel zu erreichen, mußten die Ingenieure einen Kompromiss eingehen. Sie machten das Flügelprofil dünner, gleichzeitig wurde die Flügelfläche vergrößert. Das Design beinhaltete Querruder in der oberen und unteren Tragfläche. Bis zum Kriegsende wurde 5.269 Flugzeuge gebaut.  
   

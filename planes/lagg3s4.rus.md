@@ -1,10 +1,6 @@
 # ЛаГГ-3 4 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s4](../images/lagg3s4.png) | ![lagg3s4](../pilots_notes/lagg3s4.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![lagg3s4](../images/lagg3s4.png)</td><td style="text-align: center">![lagg3s4](../pilots_notes/lagg3s4.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 167..193 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 142..170 км/ч  

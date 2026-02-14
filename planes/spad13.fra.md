@@ -1,10 +1,6 @@
 # SPAD 13.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![spad13](../images/spad13.png) | ![spad13](../pilots_notes/spad13.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![spad13](../images/spad13.png)</td><td style="text-align: center">![spad13](../pilots_notes/spad13.png)</tr><tr><td style="text-align: center" colspan="2">![spad13](../cockpits/spad13.eng.jpg)</td></tr></tbody></table>  
 
 L\avion a été conçu comme une version améliorée du SPAD VII. Malgré l\extérieur semblable à son prédecesseur, c\était entièrement un nouvel avion. Une deuxième mitrailleuse et un moteur plus puissant ont été montés; ainsi qu\un réservoir de carburant auxiliaire a été placé dans la section centrale de la partie supérieure de l\aile, le réservoir de carburant principal avait des contours de la section inférieure du fuselage. A l\arrière gauche du cockpit il y\avait l\emplacement pour un appareil photo ou une charge de bombe. Le premier vol a été effectué le 4 avril 1917. L\avion a été fabriqué par: Bleriot, Levasseur, Bernard, Kellner, Safca, Borel, Nieuport. 8472 avions ont été construits au total.  
 La première apparition sur le front est datée de l\été—automne 1917. L\avion a fourni les escadrons de chasse français. il a été utilisé principalement contre les avions ennemis, l\escorte de bombardiers, la cartographie aérienne et la reconnaissance, rarement pour des bombardements de séparations de cibles autour du front.  

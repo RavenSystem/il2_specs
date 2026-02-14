@@ -1,8 +1,6 @@
 # Pz.Kpfw.VI Ausf.H1  
 
-![pzvi-h1](../images/pzvi-h1.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![pzvi-h1](../images/pzvi-h1.png)</tr></td></tr></tbody></table>  
 
 1942 von der Firma Henschel entwickelt, fand im August 1942 der erste Kampfeinsatz an der Leningrader Front statt.  
   

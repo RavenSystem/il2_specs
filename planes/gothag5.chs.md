@@ -1,10 +1,6 @@
 # Gotha G.V  
 
-| Image | Notes  
-|:---|:---  
-| ![gothag5](../images/gothag5.png) | ![gothag5](../pilots_notes/gothag5.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![gothag5](../images/gothag5.png)</td><td style="text-align: center">![gothag5](../pilots_notes/gothag5.png)</tr><tr><td style="text-align: center" colspan="2">![gothag5](../cockpits/gothag5.eng.jpg)</td></tr></tbody></table>  
 
 The Gotha G.V was a subsequent development of the Gotha G.IV. Combat experience showed that the close proximity of the fuel tanks to the engines could lead to disastrous results. As a result, the fuel tanks were moved to the fuselage. A shortage of quality materials led to an increased weight of the airframe. The lower part of the fuselage retained the gun tunnel for firing rearward and downward. To improve stability while taxiing on the ground, the undercarriage legs were shortened, which required the engine nacelles to be repositioned above the lower wing. This latter modification is the most important external feature distinguishing the V series from previous models. Orders were placed in October 1916 for the production of 100 aircraft. In August 1917, first Gotha G.V left the factory. The plane was manufactured by Gothaer Waggonfabrik A.G. In all, 205 planes of the V series were built.  
 The G.V was used to bomb strategically important ground targets and cities such as London. By war’s end, the plane was being employed as a night bomber.  

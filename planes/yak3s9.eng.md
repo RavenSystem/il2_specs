@@ -1,10 +1,6 @@
 # Yak-3 ser.9  
 
-| Image | Notes  
-|:---|:---  
-| ![yak3s9](../images/yak3s9.png) | ![yak3s9](../pilots_notes/yak3s9.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![yak3s9](../images/yak3s9.png)</td><td style="text-align: center">![yak3s9](../pilots_notes/yak3s9.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 152..160 km/h  
 Indicated stall speed in takeoff/landing configuration: 136..141 km/h  

@@ -1,10 +1,6 @@
 # Airco D.H.4  
 
-| Image | Notes  
-|:---|:---  
-| ![aircodh4](../images/aircodh4.png) | ![aircodh4](../pilots_notes/aircodh4.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![aircodh4](../images/aircodh4.png)</td><td style="text-align: center">![aircodh4](../pilots_notes/aircodh4.png)</tr><tr><td style="text-align: center" colspan="2">![aircodh4](../cockpits/aircodh4.eng.jpg)</td></tr></tbody></table>  
 
 Designed by Geoffrey de Havilland to be a two-seat light bomber powered by a BHP engine. First prototype flew in August 1916, but as the BHP engine proved to be weak it required a major redesign and DH.4 was adapted to be equipped with a Rolls Royce Eagle engine. First order for 50 planes powered by Eagle III engine (250hp) was placed at the end of 1916.  
   

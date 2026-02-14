@@ -1,10 +1,6 @@
 # Spitfire Mk.IXc  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkixc](../images/spitfiremkixc.png) | ![spitfiremkixc](../pilots_notes/spitfiremkixc.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![spitfiremkixc](../images/spitfiremkixc.png)</td><td style="text-align: center">![spitfiremkixc](../pilots_notes/spitfiremkixc.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 143...163 km/h (89..101 mph)  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 135...154 km/h (84..96 mph)  

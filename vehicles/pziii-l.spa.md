@@ -1,8 +1,6 @@
 # Pz.Kpfw.III Ausf.L  
 
-![pziii-l](../images/pziii-l.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![pziii-l](../images/pziii-l.png)</tr></td></tr></tbody></table>  
 
 El Pz.Kpfw. III Ausf.L estaba equipado con un cañón de 50 mm con buena capacidad de penetración en blindaje y unas planchas adicionales de 20 mm de grosor en el mantelete y en la parte frontal del casco. Estas mejoras fueron introducidas después de que los alemanes capturaran carros de combate T-34 y KV.  
   

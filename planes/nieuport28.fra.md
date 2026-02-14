@@ -1,10 +1,6 @@
 # Nieuport 28.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport28](../images/nieuport28.png) | ![nieuport28](../pilots_notes/nieuport28.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![nieuport28](../images/nieuport28.png)</td><td style="text-align: center">![nieuport28](../pilots_notes/nieuport28.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport28](../cockpits/nieuport28.eng.jpg)</td></tr></tbody></table>  
 
 L\étape suivante dans l\évolution de la ligne de chasseurs faite par la Nieuport S.A.d.E (Société Anonyme des Etablissements) a été le Nieuport 28. Les ingénieurs savaient que la conception précédente était devenue obsolète et ne permettait pas de parvenir à de meilleures caractéristiques de vol. Par conséquent, il a été décidé d\utiliser la strucutre du SPAD XIII pour concevoir le nouveau chasseur. On peut noter certaines caractéristiques: plus grande surface d\aile inférieure (un deuxième longeron a été monté sur l\avion qui est devenu un véritable biplan; une deuxième mitrailleuse a été placée ) gauche de l\axe à l\arrière du moteur; les ailerons ont été installés à la partie inférieure des ailes au lieu de la partie supérieure. Le premier vol d\essai a eu lieu le 5 juin 1917. Malheureusement, le nouveau chasseur ne pouvait pas dépasser les caractéristiques de vol du SPAD XIII déja en service. Pour cette raison, les pilotes français refusèrent de voler avec. 208 chasseurs ont été contruits. Après cela, la Nieuport S.A.d.E est passée à la fabrication du SPAD XIII.  
   

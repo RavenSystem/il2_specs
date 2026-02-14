@@ -1,10 +1,6 @@
 # Fokker E.III  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkere3](../images/fokkere3.png) | ![fokkere3](../pilots_notes/fokkere3.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![fokkere3](../images/fokkere3.png)</td><td style="text-align: center">![fokkere3](../pilots_notes/fokkere3.png)</tr><tr><td style="text-align: center" colspan="2">![fokkere3](../cockpits/fokkere3.spa.jpg)</td></tr></tbody></table>  
 
 El Fokker E.III Eindecker era un caza monoplano para un único piloto. El avión fue diseñado por Anthony Fokker a principios de 1915. El alabeo fue implementado mediante la deformación de todo el ala (<i>wing-warping</i>). Este sistema de control era típico en todos los aviones de la época. Más tarde, este poco confiable e inefectivo sistema de control fue sustituido por el control mediante alerones o superficies de control.  
   

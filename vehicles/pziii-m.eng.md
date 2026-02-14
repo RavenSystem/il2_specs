@@ -1,8 +1,6 @@
 # Pz.Kpfw.III Ausf.M  
 
-![pziii-m](../images/pziii-m.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![pziii-m](../images/pziii-m.png)</tr></td></tr></tbody></table>  
 
 Pz.Kpfw. III Ausf.M was similar to the previous modification Ausf.L. Some internal, chassis, engine compartment and other elements were altered based on the service experience.  
   

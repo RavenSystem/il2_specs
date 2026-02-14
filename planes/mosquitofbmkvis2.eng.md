@@ -1,10 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-| Image | Notes  
-|:---|:---  
-| ![mosquitofbmkvis2](../images/mosquitofbmkvis2.png) | ![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![mosquitofbmkvis2](../images/mosquitofbmkvis2.png)</td><td style="text-align: center">![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 179...208 km/h  
 Indicated stall speed in landing configuration: 157...183 km/h  

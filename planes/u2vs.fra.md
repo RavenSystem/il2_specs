@@ -1,10 +1,6 @@
 # U-2VS  
 
-| Image | Notes  
-|:---|:---  
-| ![u2vs](../images/u2vs.png) | ![u2vs](../pilots_notes/u2vs.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![u2vs](../images/u2vs.png)</td><td style="text-align: center">![u2vs](../pilots_notes/u2vs.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 63..70 km/h  
 Dive speed limit: 240 km/h  

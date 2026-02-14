@@ -1,10 +1,6 @@
 # ЛаГГ-3 29 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s29](../images/lagg3s29.png) | ![lagg3s29](../pilots_notes/lagg3s29.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![lagg3s29](../images/lagg3s29.png)</td><td style="text-align: center">![lagg3s29](../pilots_notes/lagg3s29.png)</tr><tr><td style="text-align: center" colspan="2">![lagg3s29](../cockpits/lagg3s29.eng.jpg)</td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 163..189 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 138..168 км/ч  

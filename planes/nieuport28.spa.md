@@ -1,10 +1,6 @@
 # Nieuport 28.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport28](../images/nieuport28.png) | ![nieuport28](../pilots_notes/nieuport28.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![nieuport28](../images/nieuport28.png)</td><td style="text-align: center">![nieuport28](../pilots_notes/nieuport28.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport28](../cockpits/nieuport28.spa.jpg)</td></tr></tbody></table>  
 
 La siguiente evolución en la línea de cazas construidos por Nieuport  S. A. d E. (<i>Societe Anonyme des Etablissements</i>) fue el Nieuport 28. Sus diseñadores sabían que sus anteriores diseños estaban ya obsoletos y que no permitían mejorar las características de vuelo. Por lo tanto, se decidió utilizar la estructura del SPAD XIII para diseñar el nuevo caza: un mayor área de superficie para el ala inferior (se incorporó un segundo larguero, convirtiéndose en un verdadero biplano); una segunda ametralladora se colocó a la izquierda de la línea central, por detrás del motor; los alerones se montaron en el ala inferior en vez del ala superior. El primer vuelo de prueba se realizó el 5 de junio de 1917. Desafortunadamente, el nuevo caza no pudo superar las características de vuelo del SPAD XIII, que ya estaba en servicio. Por esta razón, los pilotos franceses se negaron a volar con él. En total, se construyeron 208 cazas, antes de que Nieuport S.A.d E. cambiara su producción por la del SPAD XIII.  
   

@@ -1,10 +1,6 @@
 # MiG-3 ser.24  
 
-| Image | Notes  
-|:---|:---  
-| ![mig3s24](../images/mig3s24.png) | ![mig3s24](../pilots_notes/mig3s24.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![mig3s24](../images/mig3s24.png)</td><td style="text-align: center">![mig3s24](../pilots_notes/mig3s24.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 159..175 km/h  
 Indicated stall speed in takeoff/landing configuration: 134..147 km/h  

@@ -1,10 +1,6 @@
 # LaGG-3ser.29  
 
-| Image | Notes  
-|:---|:---  
-| ![lagg3s29](../images/lagg3s29.png) | ![lagg3s29](../pilots_notes/lagg3s29.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![lagg3s29](../images/lagg3s29.png)</td><td style="text-align: center">![lagg3s29](../pilots_notes/lagg3s29.png)</tr><tr><td style="text-align: center" colspan="2">![lagg3s29](../cockpits/lagg3s29.eng.jpg)</td></tr></tbody></table>  
 
 飞行构型的失速指示空速：163~189 km/h  
 起降构型的失速指示空速：138~168 km/h  

@@ -1,10 +1,6 @@
 # Yak-7B series 36  
 
-| Image | Notes  
-|:---|:---  
-| ![yak7bs36](../images/yak7bs36.png) | ![yak7bs36](../pilots_notes/yak7bs36.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![yak7bs36](../images/yak7bs36.png)</td><td style="text-align: center">![yak7bs36](../pilots_notes/yak7bs36.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 155..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 139..154 km/h  

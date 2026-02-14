@@ -1,10 +1,6 @@
 # Fokker D.VII  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerd7](../images/fokkerd7.png) | ![fokkerd7](../pilots_notes/fokkerd7.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![fokkerd7](../images/fokkerd7.png)</td><td style="text-align: center">![fokkerd7](../pilots_notes/fokkerd7.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7](../cockpits/fokkerd7.eng.jpg)</td></tr></tbody></table>  
 
 Das Flugzeug wurde von Fokker hergestellt. Der Chefkonstrukteur Reinhold Platz wurde mit der Aufgabe betreut, ein schnelles Kampfflugzeug zu entwerfen, das in der Lage war, ein konkurrenzfähiges Flugzeug gegenüber der französischen SPAD XIII und die britischen S.E.5a zu sein. Einige bemerkenswerte Daten: Stabiler Stahlrohrrahmen, mit Stoff bespannte Flügel aus Holz, Das gesamte Leitwerk war aus Stahlrohren aufgebaut und stoffbespannt.  
   

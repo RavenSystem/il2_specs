@@ -1,10 +1,6 @@
 # Fokker D.VIIF  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkerd7f](../images/fokkerd7f.png) | ![fokkerd7f](../pilots_notes/fokkerd7f.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![fokkerd7f](../images/fokkerd7f.png)</td><td style="text-align: center">![fokkerd7f](../pilots_notes/fokkerd7f.png)</tr><tr><td style="text-align: center" colspan="2">![fokkerd7f](../cockpits/fokkerd7f.eng.jpg)</td></tr></tbody></table>  
 
 Самолёт спроектирован в конструкторском бюро Энтони Фоккера. Перед конструктором стояла задача создать скоростной истребитель, который мог бы составить конкуренцию французскому Spad—XIII и английскому S.E.5a. Из особенностей конструкции можно упомянуть: металлический каркас фюзеляжа, крыло с толстым профилем и  отсутствие расчалок.  
   

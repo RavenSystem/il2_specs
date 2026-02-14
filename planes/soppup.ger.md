@@ -1,10 +1,6 @@
 # Sopwith Pup  
 
-| Image | Notes  
-|:---|:---  
-| ![soppup](../images/soppup.png) | ![soppup](../pilots_notes/soppup.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![soppup](../images/soppup.png)</td><td style="text-align: center">![soppup](../pilots_notes/soppup.png)</tr><tr><td style="text-align: center" colspan="2">![soppup](../cockpits/soppup.eng.jpg)</td></tr></tbody></table>  
 
 Entworfen vom talentierten Ingenieur Herbert Smith von der Sopwith Aviation Company ist die Sopwith Pup ein Jagdeinsitzer. Mit ihren guten Flugeigenschaften und Manövrierfähigkeit fand sie sehr schnell Gefallen bei ihren Piloten. Der erste Prototyp flog im Februar 1916. Nach einer Anzahl von Verbesserungen am Prototyp kam es zu den ersten Fronteinsätzen der Pup beim Royal Naval Air Service (RNAS), den britischen Marinefliegern. Der offizielle Name des Flugzeuges lautete “Sopwith Scout”, jedoch erlangte es bald den Spitznamen “Pup” (Welpe) aufgrund der Ähnlichkeit zur Sopwith “1½ Strutter”, die Pup verfügte jedoch über kleinere Proportionen und wirkte daher wie ein Welpe. Obwohl der Spitznamen "Pup" niemals offiziell anerkannt wurde, läutete sie die Tradition ein, nachfolgende Sopwithflugzeuge nach einem Vogel oder Tier zu benennen.  
   

@@ -1,8 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-![pziv-g](../images/pziv-g.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![pziv-g](../images/pziv-g.png)</tr></td></tr></tbody></table>  
 
 Dieser Pz.Kpfw. IV Ausf.G mit 75 mm KwK 40/L48 Kanone wurde im Juni 1943 in den Nibelungenwerken hergestellt. Der Hauptunterschied der "Ausf.G"-Modifikation gegenüber den Vorgängermodellen war eine neue Kanone - längerer (+5 Kaliber) Lauf, aber mit festem Drall anstelle des variablen.  
   

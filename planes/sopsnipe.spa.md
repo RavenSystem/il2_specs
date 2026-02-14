@@ -1,10 +1,6 @@
 # Sopwith Snipe  
 
-| Image | Notes  
-|:---|:---  
-| ![sopsnipe](../images/sopsnipe.png) | ![sopsnipe](../pilots_notes/sopsnipe.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![sopsnipe](../images/sopsnipe.png)</td><td style="text-align: center">![sopsnipe](../pilots_notes/sopsnipe.png)</tr></td></tr></tbody></table>  
 
 El Sopwith Snipe fue creado para reemplazar a su predecesor, el Camel, en respuesta a la llegada de nuevos cazas enemigos. En la fase de diseño se barajaron varias posibilidades para su motor, desde los equipados en el Camel (el Clerget 9B o el Bentley B.R.1) como el nuevo y más potente Bentley B.R.2. El éxito de las pruebas de este último, que confirmaron su extraordinaria potencia (234 CV), redujo finalmente la elección a un solo motor. El primer prototipo de avión era similar a su predecesor, tanto en la forma del fuselaje como en la estructura del soporte de las alas (un par de puntales interplano por lado). Pero más tarde, se formó la imagen final del avión: el armazón rectangular del fuselaje se transformó en un armazón exterior redondeado, la estructura del soporte de las alas se reforzó con un par adicional de puntales interplano por lado, y se aumentó la superficie del timón de cola gracias al compensador.  
   

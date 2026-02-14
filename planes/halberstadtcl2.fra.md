@@ -1,10 +1,6 @@
 # Halberstadt CL.II  
 
-| Image | Notes  
-|:---|:---  
-| ![halberstadtcl2](../images/halberstadtcl2.png) | ![halberstadtcl2](../pilots_notes/halberstadtcl2.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![halberstadtcl2](../images/halberstadtcl2.png)</td><td style="text-align: center">![halberstadtcl2](../pilots_notes/halberstadtcl2.png)</tr><tr><td style="text-align: center" colspan="2">![halberstadtcl2](../cockpits/halberstadtcl2.eng.jpg)</td></tr></tbody></table>  
 
 L\Halberstadt CL.II fut imaginé en réponse aux spécifications demandées par l\Idflieg (Inspection des Troupes Aériennes) en Août 1916 pour un nouveau "type C léger" équipé d\un moteur de 160-180 cv.  
 Le but était de créer un chasseur escorteur bi-place pour protéger les avions d\observation plus lourds d\éventuelles attaques de chasseurs Alliés. En Novembre 1916 l\Idflieg commanda trois prototypes de l\Halberstadt CL.II avec moteur Mercedes D.III, ainsi le premier avion achevé sortit en avril 1917, et après quelques changements de conception d\aile, il subissait les tests finaux à Adlesdorf du 2-7 Mai 1917.  

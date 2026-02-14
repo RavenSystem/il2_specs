@@ -1,8 +1,6 @@
 # 三号坦克L型（Pz.Kpfw.III Ausf.L）  
 
-![pziii-l](../images/pziii-l.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![pziii-l](../images/pziii-l.png)</tr></td></tr></tbody></table>  
 
 三号坦克L型装有50mm主炮，该炮具有良好的装甲穿透能力，并且在炮架和前车体上还装有20mm厚的附加装甲板。这些改进是在德国人遇到苏联的T-34和KV坦克时加入的。  
   

@@ -1,10 +1,6 @@
 # Sopwith Camel  
 
-| Image | Notes  
-|:---|:---  
-| ![sopcamel](../images/sopcamel.png) | ![sopcamel](../pilots_notes/sopcamel.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![sopcamel](../images/sopcamel.png)</td><td style="text-align: center">![sopcamel](../pilots_notes/sopcamel.png)</tr><tr><td style="text-align: center" colspan="2">![sopcamel](../cockpits/sopcamel.eng.jpg)</td></tr></tbody></table>  
 
 La construction du Sopwith Camel était basée sura construction de son prédécesseur — e Sopwith Pup. Prenant en compte qu\un moteur plus gros et plusourd devait être installé,e chef designer Herbert Smith décida d\effectuer des changements dansa conception. Quelques changements furent effectués sures jambes de train,a surface des ailes ete stabilisateur furent accrus,e fuselage profita d\une extension ressemblant à une bosse de chameau. Ce genre de choses donne son nom à un avion — Sopwith Camel (chameau).  
   

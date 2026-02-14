@@ -1,10 +1,6 @@
 # Ла-5ФН 2 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![la5fns2](../images/la5fns2.png) | ![la5fns2](../pilots_notes/la5fns2.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![la5fns2](../images/la5fns2.png)</td><td style="text-align: center">![la5fns2](../pilots_notes/la5fns2.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 168..185 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 147..159 км/ч  

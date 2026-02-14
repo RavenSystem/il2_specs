@@ -1,10 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-| Image | Notes  
-|:---|:---  
-| ![mosquitofbmkvis2](../images/mosquitofbmkvis2.png) | ![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![mosquitofbmkvis2](../images/mosquitofbmkvis2.png)</td><td style="text-align: center">![mosquitofbmkvis2](../pilots_notes/mosquitofbmkvis2.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 179...208 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 157...183 km/h  

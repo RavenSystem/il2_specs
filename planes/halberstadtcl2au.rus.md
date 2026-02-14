@@ -1,10 +1,6 @@
 # Halberstadt CL.II 200hp  
 
-| Image | Notes  
-|:---|:---  
-| ![halberstadtcl2au](../images/halberstadtcl2au.png) | ![halberstadtcl2au](../pilots_notes/halberstadtcl2au.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![halberstadtcl2au](../images/halberstadtcl2au.png)</td><td style="text-align: center">![halberstadtcl2au](../pilots_notes/halberstadtcl2au.png)</tr><tr><td style="text-align: center" colspan="2">![halberstadtcl2au](../cockpits/halberstadtcl2au.eng.jpg)</td></tr></tbody></table>  
 
 Разработка Halberstadt CL.II была ответом на спецификацию «idflieg» (инспекция войсковой авиации), выпущенную в августе 1916 года для нового «лёгкого  самолёта типа С» под двигатель мощностью 160-180 л.с.  
   

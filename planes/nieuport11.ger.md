@@ -1,10 +1,6 @@
 # Nieuport 11.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![nieuport11](../images/nieuport11.png) | ![nieuport11](../pilots_notes/nieuport11.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![nieuport11](../images/nieuport11.png)</td><td style="text-align: center">![nieuport11](../pilots_notes/nieuport11.png)</tr><tr><td style="text-align: center" colspan="2">![nieuport11](../cockpits/nieuport11.eng.jpg)</td></tr></tbody></table>  
 
 Die Nieuport 11 "Baby" war eine Weiterentwicklung des von Gustav Delage erstellten Konzepts und wurde ursprünglich im Nieuport 10 Design präsentiert. Im Allgemeinen wurde die "Baby" als einsitziges Doppeldecker-Jagflugzeug entwickelt. Der einholmige untere Flügel, welcher ein deutlich tieferes Flügelprofil hatte, wurde an dem oberen Flügel mit einem V-förmigen Gestänge befestigt. Ein Manko dieses Designs war die geringe Festigkeit der Konstruktion des unteren Flüges. Sie machte ihn anfällig für ein Verdrehen und Verkrümmen wenn er hohen Belastungen ausgesetzt wurde. Ähnliche Probleme hatten ebenfalls andere Doppeldecker - die gesamte Familie der Nieuport 10-23, die Albatros D.III, Albatros DV, und so weiter.  
 Die ersten Nieuports 11 erreichten die französische Front im Januar 1916. Das Baby wurde schnell ein ernstzunehmender Gegner für die Fokker-Eindecker, sie übertraf diese in beinahe allen Parametern. Das Vorhandensein eines Querruders, sowie eines Höhenleitwerkes, welches konventionell an einem Heck-gesteuerten Flugeug mit vertikaler Stabilisierung und abgelenktem Ruder verbunden wurde, erzeugten eine großartig verbesserte Manövrierbarkeit und Präzision gegenüber älteren Flugzeugen, die mit Drehflügeln und abgestimmten "Moräne-Type" Höhenrudern ausgerüstet waren. Das Auftauchen der Nieuport 11 an der Front leitete das Ende der Ära der Fokker-Eindecker ein, welche unter dem Namen "Fokker-Geißel" bekannt war. Während der Schlacht um Verdun im Februar 1916, waren die Neuport 11 für schwere Schäden an den Luftstreitkräften ihrer Gegner verantwortlich und zwangen das Deutsche Oberkommando ihre Taktiken für Luftkampfflugzeuge zu überdenken. Viele berühmte Asse des Ersten Weltkrieges, inklusive Georges Guynemer hatten ihre ersten Großerfolge während eines Fluges mit der Baby.  

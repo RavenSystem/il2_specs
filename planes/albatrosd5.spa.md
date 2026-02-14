@@ -1,10 +1,6 @@
 # Albatros D.Va  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd5](../images/albatrosd5.png) | ![albatrosd5](../pilots_notes/albatrosd5.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![albatrosd5](../images/albatrosd5.png)</td><td style="text-align: center">![albatrosd5](../pilots_notes/albatrosd5.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd5](../cockpits/albatrosd5.spa.jpg)</td></tr></tbody></table>  
 
 Los ingenieros de Albatros Werke aceptaron el desafío de construir un caza rápido y maniobrable. El viejo Albatros D.III tenía un defecto en el ala inferior que provocaba su rotura durante un picado fuerte. Incapaces de encontrar la razón de este problema , los ingenieros trasladaron los cables de control de los alerones desde el ala inferior al ala superior.  
   

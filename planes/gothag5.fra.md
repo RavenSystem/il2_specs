@@ -1,10 +1,6 @@
 # Gotha G.V  
 
-| Image | Notes  
-|:---|:---  
-| ![gothag5](../images/gothag5.png) | ![gothag5](../pilots_notes/gothag5.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![gothag5](../images/gothag5.png)</td><td style="text-align: center">![gothag5](../pilots_notes/gothag5.png)</tr><tr><td style="text-align: center" colspan="2">![gothag5](../cockpits/gothag5.eng.jpg)</td></tr></tbody></table>  
 
 Cet avion est devenu la prochaine étape dans le développement du Gotha G.IV. L\expréience du combat a montré que la proximité de réservoirs de carburant près du moteur est fatal. Les réservoirs de carburant ont été déplace vers le fuselage. La pénurie de matériaux de qualité a conduit à l\augmentation du poids de la structure. La partie basse du fuselage a été retenue pour le tube de tir de fusil avant et arrière. Pour améliorer la stabilité du roulage sur le sol les trains ont été raccourci ce qui a conduit à lever la nacelle moteur au dessus de l\aile. C\est le signe distinctif le plus important de la série V depuis les modèles précédents. En octobre 1916 100 bombardiers ont été commandé. En août 1917 le premier Gotha G.V a quitté l\usine. L\avion a été fabriqué par Gothaer Waggonfabrik A.G. IL y a eu 205 avions de la série V produit au total.  
 L\avion a été utilisé pour bombarder des cibles importantes au sol et pour le bombardement de Londres. En fin de guerre le Gotha G.V a été utilisé comme bombardier de nuit.   

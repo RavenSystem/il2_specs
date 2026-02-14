@@ -1,10 +1,6 @@
 # Ju 52/3m g4e  
 
-| Image | Notes  
-|:---|:---  
-| ![ju523mg4e](../images/ju523mg4e.png) | ![ju523mg4e](../pilots_notes/ju523mg4e.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![ju523mg4e](../images/ju523mg4e.png)</td><td style="text-align: center">![ju523mg4e](../pilots_notes/ju523mg4e.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 105..117 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 92..109 km/h  

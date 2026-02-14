@@ -1,10 +1,6 @@
 # Li-2  
 
-| Image | Notes  
-|:---|:---  
-| ![li2](../images/li2.png) | ![li2](../pilots_notes/li2.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![li2](../images/li2.png)</td><td style="text-align: center">![li2](../pilots_notes/li2.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 115...135 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 105...120 km/h  

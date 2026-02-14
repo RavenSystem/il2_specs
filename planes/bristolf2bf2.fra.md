@@ -1,10 +1,6 @@
 # Bristol F2B (F.II)  
 
-| Image | Notes  
-|:---|:---  
-| ![bristolf2bf2](../images/bristolf2bf2.png) | ![bristolf2bf2](../pilots_notes/bristolf2bf2.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![bristolf2bf2](../images/bristolf2bf2.png)</td><td style="text-align: center">![bristolf2bf2](../pilots_notes/bristolf2bf2.png)</tr><tr><td style="text-align: center" colspan="2">![bristolf2bf2](../cockpits/bristolf2bf2.eng.jpg)</td></tr></tbody></table>  
 
 La conception du Bristol F.2B débuta en mars 1916, avec pour but de remplacer les vieux biplaces de reconnaissance du type BE. En outre, le nouveau type d\avion devait aussi pouvoir être utilisé pour des patrouilles de combat. Muni de double commandes, d\une TSF et d\un équipement photographique, l\avion était armé d\une mitrailleuse Vickers fixe traversant le radiateur et d\un arceau-tourelle arrière doté d\une ou deux mitrailleuses Lewis.  
   

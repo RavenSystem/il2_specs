@@ -1,10 +1,6 @@
 # Spitfire Mk.XIV  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkxiv](../images/spitfiremkxiv.png) | ![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![spitfiremkxiv](../images/spitfiremkxiv.png)</td><td style="text-align: center">![spitfiremkxiv](../pilots_notes/spitfiremkxiv.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 152..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 145..163 km/h  

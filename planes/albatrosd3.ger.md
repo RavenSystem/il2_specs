@@ -1,10 +1,6 @@
 # Albatros D.III  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd3](../images/albatrosd3.png) | ![albatrosd3](../pilots_notes/albatrosd3.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![albatrosd3](../images/albatrosd3.png)</td><td style="text-align: center">![albatrosd3](../pilots_notes/albatrosd3.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd3](../cockpits/albatrosd3.eng.jpg)</td></tr></tbody></table>  
 
 Nachdem man sich die Konstruktion der Nieuport angesehen hatte, gestalteten die deutschen Ingenieure die untere Tragfläche schmaler und kürzer als die obere. Die Flügelspitzen wurden gebogen, um Vibrationen zu vermeiden. Hier ein kurzer Überblick wichtiger Designveränderungen: Querruderleinen wurden durch die untere Tragfläche gezogen, der Kühler wurde vom Rumpf auf die Mitte der oberen Tragfläche versetzt und die Tragflächen durch V—förmige Strukturen ersetzt. Eine Gewichtsreduzierung stand zu dieser Zeit im Vordergrund.  
   

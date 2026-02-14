@@ -1,10 +1,6 @@
 # CG-4A  
 
-| Image | Notes  
-|:---|:---  
-| ![cg4a](../images/cg4a.png) | ![cg4a](../pilots_notes/cg4a.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![cg4a](../images/cg4a.png)</td><td style="text-align: center">![cg4a](../pilots_notes/cg4a.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 65..86 km/h  
 Vitesse limite de piqué : 241 km/h  

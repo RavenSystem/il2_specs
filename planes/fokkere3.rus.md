@@ -1,10 +1,6 @@
 # Fokker E.III  
 
-| Image | Notes  
-|:---|:---  
-| ![fokkere3](../images/fokkere3.png) | ![fokkere3](../pilots_notes/fokkere3.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![fokkere3](../images/fokkere3.png)</td><td style="text-align: center">![fokkere3](../pilots_notes/fokkere3.png)</tr><tr><td style="text-align: center" colspan="2">![fokkere3](../cockpits/fokkere3.eng.jpg)</td></tr></tbody></table>  
 
 Фоккер Е.III «Айндеккер» - одноместный истребитель-моноплан, разработанный конструктором Энтони Фоккером в начале 1915 года. Управление аэропланом по крену осуществлялось перекосом крыла (т.н. гошированием). Данная система управления была характерна для всех ранних машин. Впоследствии на смену ненадёжной и малоэффективной системе гоширования пришло управление по крену с помощью элеронов.  
   

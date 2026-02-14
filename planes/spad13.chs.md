@@ -1,10 +1,6 @@
 # SPAD 13.C1  
 
-| Image | Notes  
-|:---|:---  
-| ![spad13](../images/spad13.png) | ![spad13](../pilots_notes/spad13.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![spad13](../images/spad13.png)</td><td style="text-align: center">![spad13](../pilots_notes/spad13.png)</tr><tr><td style="text-align: center" colspan="2">![spad13](../cockpits/spad13.eng.jpg)</td></tr></tbody></table>  
 
 SPAD S.XIII是SPAD S.VII的改进版。尽管在外观上与其前身相似，但实际上它是一个全新的设计。安装了第二挺机枪和更强劲的发动机。此外，一个辅助油箱被放置在上翼的中央部分。主油箱勾画出了机身下部的轮廓。在驾驶舱的左后方是侦察摄像机或炸弹装载装置。该飞机的首次飞行是在1917年4月4日进行的。该飞机是由布莱里奥特（Bleriot）、莱瓦瑟尔（Levasseur）、伯纳德（Bernard）、凯尔纳（Kellner）、萨夫卡（Safca）、博雷尔（Borel）和纽波特厂（Nieuport）制造的。总共建造了8472架此类飞机。  
 S.XIII于1917年夏末秋初首次出现在前线，最初供应给法国战斗机中队。它主要用于与敌机交战、护航轰炸机、空中测绘和侦察；很少用于轰炸前线附近的地面目标。  

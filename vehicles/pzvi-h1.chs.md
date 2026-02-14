@@ -1,8 +1,6 @@
 # 虎式坦克H1型（Pz.Kpfw.VI Ausf.H1）  
 
-![pzvi-h1](../images/pzvi-h1.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![pzvi-h1](../images/pzvi-h1.png)</tr></td></tr></tbody></table>  
 
 本坦克于1942年由亨舍尔公司研发，于1942年八月在列宁格勒首次参加战斗。  
   

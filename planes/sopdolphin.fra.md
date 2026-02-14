@@ -1,10 +1,6 @@
 # Sopwith Dolphin  
 
-| Image | Notes  
-|:---|:---  
-| ![sopdolphin](../images/sopdolphin.png) | ![sopdolphin](../pilots_notes/sopdolphin.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![sopdolphin](../images/sopdolphin.png)</td><td style="text-align: center">![sopdolphin](../pilots_notes/sopdolphin.png)</tr><tr><td style="text-align: center" colspan="2">![sopdolphin](../cockpits/sopdolphin.eng.jpg)</td></tr></tbody></table>  
 
 L\avion a été conçu par la Brtitish Sopwith Aviation Co. Prenant en compte les défauts du Sopwith Camel: mauvaise visibilité à l\avant et au dessus, des difficultés de manipulation de l\avion à poteur rotatif, les ingénieurs ont eu la tâche de construire un chasseur avec moteur en ligne. Le design comportait la mise en place de sièges pilote, des réservoirs de carburant, des mitrailleuses et des moteurs. Les radiateurs ont été déplacés sur les côtés du fuselage derrière le cockpit. La tête du pilote était dans la trappe de l\aile supérieure. Le premier vol d\essai a été fait en mai 1917. En dehors de l\usine de tête de fabrication, plusieurs autres le fabriquaient: Darracq, Hooper, SACA. A la fin de la guerre, 1532 avions ont été construits.  
   

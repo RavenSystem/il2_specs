@@ -1,10 +1,6 @@
 # Як-1 23 серии  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s23](../images/yak1s23.png) | ![yak1s23](../pilots_notes/yak1s23.png)  
-
-## Описание  
+<table><tbody><tr><td style="text-align: center">![yak1s23](../images/yak1s23.png)</td><td style="text-align: center">![yak1s23](../pilots_notes/yak1s23.png)</tr></td></tr></tbody></table>  
 
 Приборная скорость сваливания в полётной конфигурации: 156..172 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 134..147 км/ч  

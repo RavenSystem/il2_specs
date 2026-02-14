@@ -1,10 +1,6 @@
 # Sopwith Triplane  
 
-| Image | Notes  
-|:---|:---  
-| ![soptriplane](../images/soptriplane.png) | ![soptriplane](../pilots_notes/soptriplane.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![soptriplane](../images/soptriplane.png)</td><td style="text-align: center">![soptriplane](../pilots_notes/soptriplane.png)</tr><tr><td style="text-align: center" colspan="2">![soptriplane](../cockpits/soptriplane.eng.jpg)</td></tr></tbody></table>  
 
 Constatant le manque de manœuvrabilité et de vision dans le cockpit des précédents avions, l\ingénieur Herbert Smith décida d\adopter la formule triplan pour y remédier. Un profil d\aile fin permettait une grande vitesse de pointe et une bonne visibilité depuis le cockpit tandis que les trois ailes assuraient un taux de montée impressionnant pour l\époque. Une autre particularité de la formule était le placement compact du pilote, des réservoirs, de l\armement et du moteur.  
   

@@ -1,10 +1,6 @@
 # Spitfire Mk.VB  
 
-| Image | Notes  
-|:---|:---  
-| ![spitfiremkvb](../images/spitfiremkvb.png) | ![spitfiremkvb](../pilots_notes/spitfiremkvb.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![spitfiremkvb](../images/spitfiremkvb.png)</td><td style="text-align: center">![spitfiremkvb](../pilots_notes/spitfiremkvb.png)</tr></td></tr></tbody></table>  
 
 Indicated stall speed in flight configuration: 137..144 km/h  
 Indicated stall speed in takeoff/landing configuration: 129..135 km/h  

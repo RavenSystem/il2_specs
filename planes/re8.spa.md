@@ -1,10 +1,6 @@
 # R.E.8  
 
-| Image | Notes  
-|:---|:---  
-| ![re8](../images/re8.png) | ![re8](../pilots_notes/re8.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![re8](../images/re8.png)</td><td style="text-align: center">![re8](../pilots_notes/re8.png)</tr><tr><td style="text-align: center" colspan="2">![re8](../cockpits/re8.spa.jpg)</td></tr></tbody></table>  
 
 El R.E.8 fue diseñado como reemplazo para el obsoleto B.E.2. Su armamento consistía en una ametralladora sincronizada apuntando hacia delante y una posición de artillero trasero detrás del piloto. Esto suponía una diferencia respecto al diseño del B.E.2, que tenía el artillero enfrente del piloto, situación que había provocado posiciones de tiro difíciles y peligrosas, especialmente hacia atrás.  
   

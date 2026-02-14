@@ -1,10 +1,6 @@
 # La-7 Brh. 1  
 
-| Image | Notes  
-|:---|:---  
-| ![la7s1](../images/la7s1.png) | ![la7s1](../pilots_notes/la7s1.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![la7s1](../images/la7s1.png)</td><td style="text-align: center">![la7s1](../pilots_notes/la7s1.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 168..185 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 147..159 km/h  

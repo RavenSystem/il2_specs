@@ -1,10 +1,6 @@
 # Albatros D.II  
 
-| Image | Notes  
-|:---|:---  
-| ![albatrosd2](../images/albatrosd2.png) | ![albatrosd2](../pilots_notes/albatrosd2.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![albatrosd2](../images/albatrosd2.png)</td><td style="text-align: center">![albatrosd2](../pilots_notes/albatrosd2.png)</tr><tr><td style="text-align: center" colspan="2">![albatrosd2](../cockpits/albatrosd2.spa.jpg)</td></tr></tbody></table>  
 
 El Albatros D.II, primogénito en el grupo de los legendarios cazas Albatros, se convirtió en un símbolo e icono del avión de combate de la Gran Guerra. Bajo la dirección del ingeniero Robert Thelen, el avión supuso un paso adelante en el diseño y desarrollo aeronaútico incorporando nuevas características. Manteniendo la forma aerodinámica bien definida del fuselaje del modelo D.I, se añadieron nuevos refuerzos centrales en forma de N a las alas del plano superior, que se acercó más al fuselaje. Los primeros modelos del avión montaron radiadores tipo caja Windhoff a ambos lados del fuselaje.  
   

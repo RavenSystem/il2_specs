@@ -1,10 +1,6 @@
 # Hurricane Mk.II  
 
-| Image | Notes  
-|:---|:---  
-| ![hurricanemkii](../images/hurricanemkii.png) | ![hurricanemkii](../pilots_notes/hurricanemkii.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![hurricanemkii](../images/hurricanemkii.png)</td><td style="text-align: center">![hurricanemkii](../pilots_notes/hurricanemkii.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 132...155 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 123...144 km/h  

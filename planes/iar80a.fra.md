@@ -1,10 +1,6 @@
 # I.A.R. 80-A  
 
-| Image | Notes  
-|:---|:---  
-| ![iar80a](../images/iar80a.png) | ![iar80a](../pilots_notes/iar80a.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![iar80a](../images/iar80a.png)</td><td style="text-align: center">![iar80a](../pilots_notes/iar80a.png)</tr></td></tr></tbody></table>  
 
 Vitesse de décrochage indiquée en configuration de vol : 151..162 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 143..151 km/h  

@@ -1,10 +1,6 @@
 # Pfalz D.IIIa  
 
-| Image | Notes  
-|:---|:---  
-| ![pfalzd3a](../images/pfalzd3a.png) | ![pfalzd3a](../pilots_notes/pfalzd3a.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![pfalzd3a](../images/pfalzd3a.png)</td><td style="text-align: center">![pfalzd3a](../pilots_notes/pfalzd3a.png)</tr><tr><td style="text-align: center" colspan="2">![pfalzd3a](../cockpits/pfalzd3a.eng.jpg)</td></tr></tbody></table>  
 
 L\avion a été conçu par Pfalz Flugzeugwerke. Les ingénieurs allemands été impressionnés par le célèbre chasseur français Neuport conçu comme un avion et demi. Leur conception était basée sur les réalisations des ingénieurs français. Le premier vol d\essai a été effectué en mai 1917. Le design comportait des mitrailleuses montées sur les cotés du moteur, le cable de controle d\aileron a été placé dans l\aile inférieure. Une moitié d\année après le Pfalz D IIIa a été fait avec a un moteur plus puissant, une queue plus fine, la forme de l\aile inférieure modifiée et les mitrailleuses dans la ligne de l\oeil du pilote. 1010 Pfalz D.III et D.IIIa ont été construits au total.  
   

@@ -1,8 +1,6 @@
 # 四号坦克G型（Pz.Kpfw.IV Ausf.G）  
 
-![pziv-g](../images/pziv-g.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![pziv-g](../images/pziv-g.png)</tr></td></tr></tbody></table>  
 
 此安装了75mmKwK 40/L48炮的四号坦克G型是在尼伯龙根工厂于1943年6月制造的。G型改型与以前的改型相比，主要区别在于新的炮管更长（+5口径），但使用固定膛线而不是可变的。  
   

@@ -1,10 +1,6 @@
 # Yak-1 ser.23  
 
-| Image | Notes  
-|:---|:---  
-| ![yak1s23](../images/yak1s23.png) | ![yak1s23](../pilots_notes/yak1s23.png)  
-
-## Descripción  
+<table><tbody><tr><td style="text-align: center">![yak1s23](../images/yak1s23.png)</td><td style="text-align: center">![yak1s23](../pilots_notes/yak1s23.png)</tr></td></tr></tbody></table>  
 
 Velocidad indicada de pérdida en configuración de vuelo: 156..172 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 134..147 km/h  

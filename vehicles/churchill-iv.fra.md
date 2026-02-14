@@ -1,8 +1,6 @@
 # Churchill IV  
 
-![churchill-iv](../images/churchill-iv.png)  
-
-## Description  
+<table><tbody><tr><td style="text-align: center">![churchill-iv](../images/churchill-iv.png)</tr></td></tr></tbody></table>  
 
 The Churchill tank belonged to the class of infantry tanks developed by the British Army. According to this classification, the Churchill had low mobility and hardly the most powerful weaponry, but it was protected with powerful armor, and thus belonged to the class of heavy tanks. The tank was produced in England throughout the war years and was one of the most numerous armored vehicles in His Majesty’s armed forces. The model featured in the game was produced by the Leyland factory.  
   

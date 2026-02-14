@@ -1,10 +1,6 @@
 # Sopwith Pup  
 
-| Image | Notes  
-|:---|:---  
-| ![soppup](../images/soppup.png) | ![soppup](../pilots_notes/soppup.png)  
-
-## 描述  
+<table><tbody><tr><td style="text-align: center">![soppup](../images/soppup.png)</td><td style="text-align: center">![soppup](../pilots_notes/soppup.png)</tr><tr><td style="text-align: center" colspan="2">![soppup](../cockpits/soppup.eng.jpg)</td></tr></tbody></table>  
 
 The Sopwith Pup was a single seat fighter designed by the talented engineer Herbert Smith of the Sopwith Aviation Company. The first prototype flew in February 1916, whereby its good flying characteristics and manoeuvrability quickly won it favour from its pilots. After a number of improvements, it was transferred to operational service in March 1916 with the Royal Naval Air Service (RNAS). The aircraft was officially called the \Sopwith Scout\, but soon its nickname became the \Pup\ due to its similarity to the 1½ Strutter (but with smaller proportions). The Pup nickname was never officially recognised, but it started the tradition of naming all later Sopwith aircraft after a bird or an animal.  
   

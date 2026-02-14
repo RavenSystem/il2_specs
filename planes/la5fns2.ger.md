@@ -1,10 +1,6 @@
 # La-5FN Brh. 2  
 
-| Image | Notes  
-|:---|:---  
-| ![la5fns2](../images/la5fns2.png) | ![la5fns2](../pilots_notes/la5fns2.png)  
-
-## Beschreibung  
+<table><tbody><tr><td style="text-align: center">![la5fns2](../images/la5fns2.png)</td><td style="text-align: center">![la5fns2](../pilots_notes/la5fns2.png)</tr></td></tr></tbody></table>  
 
 Überziehgeschwindigkeit in Flugkonfiguration: 168..185 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 147..159 km/h  
