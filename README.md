@@ -1,7 +1,7 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 7.002 - Date: 2026-02-14 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Version: 7.002 - Date: 2026-02-15 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
@@ -826,6 +826,7 @@ Version: 7.002 - Date: 2026-02-14 [ [Sponsor this project](https://paypal.me/rav
 [ [chs](vehicles/t34-76uvz-43.chs.md) ] [ [eng](vehicles/t34-76uvz-43.eng.md) ] [ [fra](vehicles/t34-76uvz-43.fra.md) ] [ [ger](vehicles/t34-76uvz-43.ger.md) ] [ [rus](vehicles/t34-76uvz-43.rus.md) ] [ [spa](vehicles/t34-76uvz-43.spa.md) ] 
 
 <table><tbody><tr><td style="text-align: center"><img src="images/t34-76uvz-43.png"></td></tr></tbody></table>
+
 
 ## Game Manuals
 
