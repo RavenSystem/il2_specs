@@ -18,6 +18,8 @@ PILOTS_NOTES_VERSION="11.3"
 
 mkdir -p "$TARGET_DIR/images"
 mkdir -p "$TARGET_DIR/pilots_notes"
+mkdir -p "$TARGET_DIR/cockpits"
+mkdir -p "$TARGET_DIR/manuals"
 
 # Prepare Pilots Notes
 mv -f Another\ Pilots\ Notes\ for\ CockPit\ Photos\ official\ numbers\ v*/data/graphics/Planes/ ./planes_notes &&
@@ -199,7 +201,17 @@ printf "
 
 - Il-2 Great Battles: Operators [ [eng](manuals/IL2GB_Operators_Manual_v4702_Release.pdf) ] 
 - Il-2 Great Battles: Purchase and Install [ [eng](manuals/IL2GB_Purchase_&_Install_Manual_v4702_Release.pdf) ] 
-- Il-2 Battle of Stalingrad: User Manual [ [eng](manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
 - Il-2 Great Battles: Mission Editor and Multiplayer Server [ [eng](manuals/IL-2_Sturmovik_Mission_Editor_and_Multiplayer_Server_Manual.pdf) ] [ [spa](manuals/Manual_del_Editor_de_Misiones_y_Servidor_Multijugador.pdf) ] 
+- Il-2 Battle of Stalingrad: User Manual [ [eng](manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
 - Rise of Flight: User Manual [ [eng](manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra](manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger](manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus](manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa](manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
+
+
+## Credits
+
+- Planes and vehicles specifications texts are taken directly from in-game data of [Il-2 Sturmovik Great Battles](https://il2-series.com).
+- Pilot Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
+- Pilot Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
+- Cockpits images of WWII planes are from Il-2 Battle of Stalingrad: User Manual and [Luke \"LukeFF\" Wallace](https://forum.il2-series.com/profile/5-lukeff/).
+- Cockpits images of WWI planes are from Rise of Flight: User Manual.
+
 " >> "$TARGET_DIR/README.md"
