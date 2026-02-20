@@ -1,6 +1,6 @@
 # Bristol F2B (F.II)  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

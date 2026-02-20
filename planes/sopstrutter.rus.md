@@ -1,6 +1,6 @@
 # Sopwith 1½ Strutter  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutter.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutter.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutter.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutter.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutter.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutter.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

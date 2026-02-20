@@ -1,6 +1,6 @@
 # Gotha G.V  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/gothag5.png"></td><td style="text-align: center"><img src="../pilots_notes/gothag5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/gothag5.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/gothag5.png"></td><td style="text-align: center"><img src="../pilots_notes/gothag5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/gothag5.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

@@ -1,6 +1,6 @@
 # Halberstadt CL.II 200hp  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

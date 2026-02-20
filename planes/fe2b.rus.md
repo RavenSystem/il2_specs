@@ -1,6 +1,6 @@
 # F.E.2b  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

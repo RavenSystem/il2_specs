@@ -1,6 +1,6 @@
 # Handley Page O/400  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

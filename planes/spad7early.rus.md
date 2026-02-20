@@ -1,6 +1,6 @@
 # SPAD 7.C1 150 л.с.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

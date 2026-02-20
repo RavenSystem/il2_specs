@@ -1,6 +1,6 @@
 # Nieuport 11.C1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport11.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport11.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport11.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport11.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport11.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport11.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

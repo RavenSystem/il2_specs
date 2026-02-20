@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

@@ -1,6 +1,6 @@
 # Roland C.IIa  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/rolandc2a.png"></td><td style="text-align: center"><img src="../pilots_notes/rolandc2a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/rolandc2a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/rolandc2a.png"></td><td style="text-align: center"><img src="../pilots_notes/rolandc2a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/rolandc2a.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

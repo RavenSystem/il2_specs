@@ -1,6 +1,6 @@
 # Hanriot HD.1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

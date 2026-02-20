@@ -1,6 +1,6 @@
 # Fokker D.VIIF  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

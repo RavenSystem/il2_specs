@@ -1,6 +1,6 @@
 # SPAD 13.C1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

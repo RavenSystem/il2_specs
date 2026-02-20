@@ -1,6 +1,6 @@
 # Airco D.H.4  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  

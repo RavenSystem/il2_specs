@@ -1,6 +1,6 @@
 # Pfalz D.IIIa  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.rus.jpg"></td></tr></tbody></table>  
 
 
 ## Описание  
