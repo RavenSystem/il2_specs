@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></tbody></table>  
 
+- 文档 01 [ [eng](../real_manuals/tempestmkvs2.01.eng.pdf) ]   
 
 ## 描述  
 

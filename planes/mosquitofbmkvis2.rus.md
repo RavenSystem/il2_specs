@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
 
+- документ 01 [ [eng](../real_manuals/mosquitofbmkvis2.01.eng.pdf) ]   
 
 ## Описание  
 

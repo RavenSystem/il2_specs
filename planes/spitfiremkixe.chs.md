@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixe.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixe.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spitfiremkixe.eng.jpg"></td></tr></tbody></table>  
 
+- 文档 01 [ [eng](../real_manuals/spitfiremkixe.01.eng.pdf) ]   
 
 ## 描述  
 

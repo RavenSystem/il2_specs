@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></tbody></table>  
 
+- Document 01 [ [eng](../real_manuals/spitfiremkxive.01.eng.pdf) ]   
 
 ## Description  
 

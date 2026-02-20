@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></tbody></table>  
 
+- Document 01 [ [rus](../real_manuals/lagg3s4.01.rus.pdf) ]   
 
 ## Description  
 

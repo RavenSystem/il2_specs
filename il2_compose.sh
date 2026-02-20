@@ -151,17 +151,19 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>\n"
             
             # Real Manuals
-            for NUMBER in {01..99}; do
-                IS_FIRST_MANUAL=1
-                for IL2_MANUAL_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
-                    if [ -f "$TARGET_DIR/real_manuals/$NEW_VEHICLE_NAME.$NUMBER.$IL2_MANUAL_LOCALE.pdf" ]; then
-                        if [ $IS_FIRST_MANUAL -eq 1 ]; then
-                            IS_FIRST_MANUAL=0
-                            TABLE_DETAILS="$TABLE_DETAILS\n- $IL2_MANUAL $NUMBER "
+            for NUMBER_F in {0..9}; do
+                for NUMBER_L in {0..9}; do
+                    IS_FIRST_MANUAL=1
+                    for IL2_MANUAL_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
+                        if [ -f "$TARGET_DIR/real_manuals/$NEW_VEHICLE_NAME.$NUMBER_F$NUMBER_L.$IL2_MANUAL_LOCALE.pdf" ]; then
+                            if [ $IS_FIRST_MANUAL -eq 1 ]; then
+                                IS_FIRST_MANUAL=0
+                                TABLE_DETAILS="$TABLE_DETAILS\n- $IL2_MANUAL $NUMBER_F$NUMBER_L "
+                            fi
+                            
+                            TABLE_DETAILS="$TABLE_DETAILS[ [$IL2_MANUAL_LOCALE](..\/real_manuals\/$NEW_VEHICLE_NAME.$NUMBER_F$NUMBER_L.$IL2_MANUAL_LOCALE.pdf) ] "
                         fi
-                        
-                        TABLE_DETAILS="$TABLE_DETAILS[ [$IL2_MANUAL_LOCALE](..\/real_manuals\/$NEW_VEHICLE_NAME.$NUMBER.$IL2_MANUAL_LOCALE.pdf) ] "
-                    fi
+                    done
                 done
             done
             

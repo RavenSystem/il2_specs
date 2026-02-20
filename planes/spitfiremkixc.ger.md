@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixc.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixc.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spitfiremkixc.eng.jpg"></td></tr></tbody></table>  
 
+- Dokument 01 [ [eng](../real_manuals/spitfiremkixc.01.eng.pdf) ]   
 
 ## Beschreibung  
 

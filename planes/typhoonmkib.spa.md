@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></tbody></table>  
 
+- Documento 01 [ [eng](../real_manuals/typhoonmkib.01.eng.pdf) ]   
 
 ## Descripción  
 

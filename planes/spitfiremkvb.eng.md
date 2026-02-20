@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkvb.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkvb.png"></td></tr></tbody></table>  
 
+- Document 01 [ [eng](../real_manuals/spitfiremkvb.01.eng.pdf) ]   
 
 ## Description  
 
