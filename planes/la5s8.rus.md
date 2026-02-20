@@ -2,7 +2,6 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/la5s8.png"></td><td style="text-align: center"><img src="../pilots_notes/la5s8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/la5s8.eng.jpg"></td></tr></tbody></table>  
 
-- документ 01 [ [rus](../real_manuals/la5s8.01.rus.pdf) ]   
 
 ## Описание  
 

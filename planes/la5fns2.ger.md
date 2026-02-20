@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/la5fns2.png"></td><td style="text-align: center"><img src="../pilots_notes/la5fns2.png"></td></tr></tbody></table>  
 
+- Dokument 01 [ [rus](../real_manuals/la5fns2.01.rus.pdf) ]   
 
 ## Beschreibung  
 
