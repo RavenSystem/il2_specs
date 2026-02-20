@@ -2,6 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/yak3s9.png"></td><td style="text-align: center"><img src="../pilots_notes/yak3s9.png"></td></tr></tbody></table>  
 
+- Dokument 01 [ [rus](../real_manuals/yak3s9.01.rus.pdf) ]   
 
 ## Beschreibung  
 
