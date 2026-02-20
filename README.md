@@ -1,7 +1,7 @@
 
 # IL-2: Sturmovik Great Battles: Vehicle Specifications
 
-Version: 7.002 - Date: 2026-02-16 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Version: 7.002 - Date: 2026-02-20 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
@@ -840,8 +840,9 @@ Version: 7.002 - Date: 2026-02-16 [ [Sponsor this project](https://paypal.me/rav
 ## Credits
 
 - Planes and vehicles specifications texts are taken directly from in-game data of [Il-2 Sturmovik Great Battles](https://il2-series.com).
-- Pilot Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
-- Pilot Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
+- Pilots Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
+- Pilots Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
 - Cockpits images of WWII planes are from Il-2 Battle of Stalingrad: User Manual and [Luke "LukeFF" Wallace](https://forum.il2-series.com/profile/5-lukeff/).
 - Cockpits images of WWI planes are from Rise of Flight: User Manual.
+- Historical documents are from archive.org, scribd.com and internet forums.
 

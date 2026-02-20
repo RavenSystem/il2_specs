@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Pz.Kpfw. III Ausf.L estaba equipado con un cañón de 50 mm con buena capacidad de penetración en blindaje y unas planchas adicionales de 20 mm de grosor en el mantelete y en la parte frontal del casco. Estas mejoras fueron introducidas después de que los alemanes capturaran carros de combate T-34 y KV.  
   
 Esta modificación (Ausf.L) estuvo en producción desde abril hasta agosto de 1942, con un total de unas 700 unidades fabricadas.  

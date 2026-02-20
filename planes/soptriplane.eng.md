@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/soptriplane.png"></td><td style="text-align: center"><img src="../pilots_notes/soptriplane.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soptriplane.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Sopwith engineer Herbert Smith, in designing the Triplane, elected to rectify the lack of manoeuvrability and visibility in previous aircraft designs with the well-known triplane scheme. The three narrow-chord wings provided an increase in airspeed and improved the field of view from the cockpit. Furthermore, the three wings provided an outstanding climb rate and allowed for the compact placement of pilot, fuel tanks, armament, and engine.  
   
 The first test flight was performed on May 26, 1916. In addition to Sopwith, aircraft were also manufactured by Clayton & Shuttleworth Ltd. and Lincoln Oakley Ltd. However, a contract with France was soon agreed to that would supply British squadrons with SPAD VII fighters, thus ending the demand for Triplanes. About 180 Sopwith Triplanes in all were manufactured.  

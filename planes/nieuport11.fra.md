@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport11.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport11.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport11.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Le Nieuport 11"Bébé" est un développement du Nieuport 10 proposé par Gustave Delage.Le "Bébé" fut conçu comme un sesquiplan. L\aile mono-longeron inférieure disposait d\une corde beaucoup moins importante que l\aile supérieure et était reliée à celle ci via des montants en V. Un des défauts principaux de cette formule était la faible rigidité structurelle de l\aile inférieure qui se déformait en torsion et flexion durant les manoeuvres sous facteur de charge. Ces problèmes se retrouvaient sur la plupart des autres sesquiplans - La famille des Nieuport 10 à 23, Albatros D. III, Albatros DV, etc.  
 Les premiers Nieuport 11 arrivèrent sur le front en Janvier 1916. Le "Bébé" devint rapidement un formidable adversaire pour le monoplan Fokker Eindecker, étant supérieur dans presque tous les domaines. La présence d\ailerons, d\élevons attachés à la queue de l\avion avec un gouverne de dérive permit au Nieuport II d\obtenir une bien meilleure maneuvrabilité par rapport au système de contrôle par flexion des ailes et au élevons type "Morane" rencontrés sur ces adversaires. La présence du N11 mit finalement fin à la domination des Fokker monoplans connue sous le nom du "Fléau Fokker". During Durant la bataille de Verdun en février 1916, le N11 infligea d\énormes pertes aux avions Allemands forçant l\Etat Major à revoir ces tactiques d\emploi de ses avions. De nombreux As comme Georges Guynemer obtinrent leur premier succès sur le "Bébé".  
   

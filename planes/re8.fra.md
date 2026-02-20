@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/re8.png"></td><td style="text-align: center"><img src="../pilots_notes/re8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/re8.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Le R.E.8 a été conçu en remplacement dun B.E.2 désuet. Larmement a consisté en une mitrailleuse synchronisée pour lavant et un artilleur en arrière du pilote. Ceci était issu de la conception du B.E.2 qui avait lartilleur devant le pilote. Ceci avait causé quelques incidents de tir très dangereux, particulièrement vers larrière.  
 Le R.E.8 a été équipé dun 12 cylindres en V refroidi par air - le RAF4A. Lavion a été conçu pour porter une radio et un équipement photographique pour la reconnaissance et la localisation dartillerie. Il pouvait aussi porter un petit chargement de bombes sur des supports dailes inférieures.  
 Cétait un avion très polyvalent en son temps. Les premières versions de cet avion ont commencé à parvenir au front à la fin de 1916, mais il na pas éveillé beaucoup denthousiasme parmi ses pilotes. Lavion était difficile à voler et il pardonnait peu. Les erreurs de pilotage pouvaient mener à la vrille mortelle. Les premiers escadrons du front à recevoir le R.E.8 retournèrent à lancien B.E.2 qui avait donné quelques preuves. Finalement le R.E.8 a vraiment vu le combat mais son début nétait pas très encourageant.  

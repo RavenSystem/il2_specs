@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Der Panzer wurde im Sommer 1942 vom Konstruktionsbüro der Tscheljabinsker Panzerfabrik (ChTZ) entworfen. Die erste Kampfhandlung fand Ende 1942 an der Front von Don und Woronesch statt.  
   
 Der Panzer basiert auf seinem Vorgänger, dem schweren Panzer KV-1. Wegen seiner geringen Mobilität und Zuverlässigkeit wurde der KV-1s (\s\ bedeutet \skorostnoy\ - schnell) weniger gepanzert, aber mobiler und zuverlässiger konzipiert.  

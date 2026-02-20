@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/gothag5.png"></td><td style="text-align: center"><img src="../pilots_notes/gothag5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/gothag5.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Cet avion est devenu la prochaine étape dans le développement du Gotha G.IV. L\expréience du combat a montré que la proximité de réservoirs de carburant près du moteur est fatal. Les réservoirs de carburant ont été déplace vers le fuselage. La pénurie de matériaux de qualité a conduit à l\augmentation du poids de la structure. La partie basse du fuselage a été retenue pour le tube de tir de fusil avant et arrière. Pour améliorer la stabilité du roulage sur le sol les trains ont été raccourci ce qui a conduit à lever la nacelle moteur au dessus de l\aile. C\est le signe distinctif le plus important de la série V depuis les modèles précédents. En octobre 1916 100 bombardiers ont été commandé. En août 1917 le premier Gotha G.V a quitté l\usine. L\avion a été fabriqué par Gothaer Waggonfabrik A.G. IL y a eu 205 avions de la série V produit au total.  
 L\avion a été utilisé pour bombarder des cibles importantes au sol et pour le bombardement de Londres. En fin de guerre le Gotha G.V a été utilisé comme bombardier de nuit.   
 Avec une charge maximale de bombes l\avion était très stable en vol, mais lors du retour à la base il avait un minimum de stabilité et une lourdeur désagréable à la dérive. Pour remédier à ce défaut de queu l\atilleur était assis à proximité des pilotes, plus tard, les ailes one été simplement déplacées de 20 cm vers l\arrière. A l\atterrissage l\avion avait tendance à tourner jusqu\au contact complet avec le sol. En février 1918 les trains ont été suréquipés afin de rendre l\atterrissage plus sûr. L\avion a pris part à des batailles sur le front de l\ouest.  

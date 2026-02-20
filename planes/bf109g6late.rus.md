@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 161..179 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 153..170 км/ч  
 Предельная скорость в пикировании: 850 км/ч  

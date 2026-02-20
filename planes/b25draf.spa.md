@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 160..191 km/h (100..119 mph)  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 145..175 km/h (90..109 mph)  
 Velocidad de picado límite: 544 km/h (340 mph)  

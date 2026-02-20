@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 Heavy tank destroyer Sd.Kfz.184 built at Nibelungenwerke in 1943. This early version lacking commander cupola and a machine gun is known as "Ferdinand", while a later one equipped with these is known as "Elefant". 91 vehicles of all modifications were produced in total.  
   
 This self-propelled artillery was created to make use of the numerous "Tiger (P)" tanks chassis that were built for a new German heavy tank, but were left unused when the German authorities chose a competing design. This chassis had a unique electromechanical transmission, which, while being cutting-edge for its time, had many disadvantages - a significant drop in efficiency as the speed increased was the main one. This led to a very limited operational range and driving speed. However, "Ferdinand" was the most armored combat vehicle at the time of the Kursk battle. Its only weapon was long 88mm KwK 43 main gun designed on the basis of Flak 41 AA gun - its muzzle energy was more than 1.5 times higher than the muzzle energy of KwK 39 installed on Tiger tanks. As a result, armor-piercing rounds fired from it could knock out any armored vehicle of its time at any distance up to the maximum aiming distance. The early production vehicles had serious problems with the field of vision: the gunner used a periscopic gunsight with a very limited field of view while the commander had no optical visors usable with a closed hatch. Two loaders had periscopes for looking backward (in the game they can be used by the gunner and commander).  

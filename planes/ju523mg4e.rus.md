@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 105..117 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 92..109 км/ч  
 Предельная скорость в пикировании: 330 км/ч  

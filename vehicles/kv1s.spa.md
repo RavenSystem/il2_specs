@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El carro de combate fue creado por la oficina de diseño de la <i>Chelyabinskogo Traktornogo Zavoda</i> (ChTZ) durante el verano de 1942. Entró por primera vez en combate a finales de 1942 en el Frente del Don y Voronezh.  
   
 El carro se basaba en el diseño de su predecesor, el pesado KV-1. Debido a la baja fiabilidad y movilidad del KV-1, el KV-1s —«s» de <i>skorostnoy</i>, veloz— fue diseñado con un menor espesor de blindaje y mejores componentes para ser más fiable y móvil.  

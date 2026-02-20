@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 This Pz.Kpfw. IV Ausf.G with 75 mm KwK 40/L48 gun was made at Nibelungenwerke in June 1943. The main difference of the "Ausf.G" modification compared to previous ones was a new gun - longer (+5 calibers) barrel, but with the fixed turn of rifling instead of variable one.  
   
 The most apparent visual difference was the addition of side armor plates, "Schürzen", which were attached to the hull and turret sides. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  

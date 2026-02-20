@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 161..179 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 153..170 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 850 km/h  

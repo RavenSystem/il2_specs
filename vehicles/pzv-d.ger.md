@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 1942 von der Firma MAN entwickelt, wurde er erstmals 1943 in der Schlacht von Kursk eingesetzt. Der Panzer hatte ein starkes Hauptgeschütz, eine dicke Frontpanzerung und eine gute Beweglichkeit auf Kosten des Schutzes der anderen Seiten.  
   
 Zur besseren Gewichtsverteilung und zum Schutz der Seiten wurden seine Räder schachbrettartig angeordnet, was die Reparatur des Fahrwerks sehr schwierig machte - im Kampf führte dessen Beschädigung oft zum Verlust des Panzers. Der Einfederungshub der Federung war sehr groß und sie war deutlich weicher als bei anderen Panzern, was zu einem hohen Fahrkomfort führte. Eine Federung umfasste zwei Torsionsstäbe (insgesamt 32 Stäbe). Die Zuverlässigkeit dieser Maschinen, besonders zu Beginn der Produktion, war miserabel - nur 4 von 174 wurden bis April 1943 an die Fronteinheiten geschickt, die anderen wurden zur Nacharbeit an die Herstellerwerke zurückgeschickt.  

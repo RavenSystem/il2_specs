@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Les ingénieurs de la compagnie ont décidé d\utiliser une aile de section mince semblale au SPAD VII lors de la conception de la modification du chasseur. Cette aile a satisfait les besoins des tactiques de combat utilisées par les pilots allemands: plongée, tirs contre l\ennemi et remontée. La conception avait également le fait d\acoir des surfaces d\aile supérieure et inférieure égales. Initialement, le radiateur a été monté à l\avant du moteur comme sur le Fokker D.VII. Les délais ne permettant pas de concevoir de nouveaux radiateurs les ingénieurs ont donc utilisé un vieux radiateur de la structure en tube qui était inférieure à la cellule du radiateur. 800 avions ont été construits au total.  
   
 Le premier vol a été effectué à la fin février 1918 à Adlershof. En juin 1918 lors des copétitions de chasseurs d\Adlershof l\avion équipé d\un moteur BMW IIIa a été classé deuxième en vitesse de montée: 5 kms eb 17.6 minutes! Après cela il est passé au front pour des test de combat. Les pilotes ont noté une bonne visibilité du cockpit, en particulier en descente, en plongée l\avion était plus rapide que le Fokker D.II, mais moins maniable, ses contrôles étaient un peu lourds. Le 30 juin 1918, l\avion est entré en service avec des escadrons de combat. Il est souvent utilisé en combinaison avec le Fokker D.VII, avec le quel il volait généralement plus bas. Il a surtout été attribué aux pilotes recrue et aux escadrons de soutien.  

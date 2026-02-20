@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 179...208 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 157...183 km/h  
 Velocidad de picado límite: 690 km/h  

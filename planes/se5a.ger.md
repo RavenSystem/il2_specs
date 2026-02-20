@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Das Flugzeug wurde von der britischen Firma RAF (Royal Aircraft Factory) entworfen. Ziel war, ein Kampflugzeug um das Hispano—Suiza Triebwerk mit 200 PS zu bauen, um eine hohe Steiggeschwindigkeit und Top-Speed zu erhalten. Um dieses Ziel zu erreichen, mußten die Ingenieure einen Kompromiss eingehen. Sie machten das Flügelprofil dünner, gleichzeitig wurde die Flügelfläche vergrößert. Das Design beinhaltete Querruder in der oberen und unteren Tragfläche. Bis zum Kriegsende wurde 5.269 Flugzeuge gebaut.  
   
 Der erste Testflug fand im Januar 1917 statt. Im Juni 1917 flog die britische Squadron N56 die ersten Kampfeinsätze mit diesem Flugzeugtyp. Die S.E.5a wurde im Kampf gegen gegnerische Flugzeuge, Ballons, Bomber, als Eskorte aber nur selten zur Bombardierung von Zielen eingesetzt. Piloten lobten die Stabilität des Rahmens, die Manövrierfähigkeit, die Sturzflugfähigkeit und den Einsatz der beiden Maschinengewehre, die exzellente Steuerung und dessen Sensibilität bei niedrigen Geschwindigkeiten. Bei zu hohen Geschwindigkeiten konnte das Flugzeug jedoch nicht landen. Interessanterweise flogen die meisten britischen Asse diesen Flugzeugtyp. Dieses führte zum Spitznamen der S.E.5a: "Ace—Maker".  

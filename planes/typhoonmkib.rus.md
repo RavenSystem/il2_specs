@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 152...182 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 126...151 км/ч  
   

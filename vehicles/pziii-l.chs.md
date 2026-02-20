@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 三号坦克L型装有50mm主炮，该炮具有良好的装甲穿透能力，并且在炮架和前车体上还装有20mm厚的附加装甲板。这些改进是在德国人遇到苏联的T-34和KV坦克时加入的。  
   
 该型号从1942年四月开始生产，同年八月结束生产，期间总共有大约700辆被制造。  

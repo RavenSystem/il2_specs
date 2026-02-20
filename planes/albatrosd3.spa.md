@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Tras investigar la construcción de un Nieuport capturado, los ingenieros alemanes diseñaron el ala inferior de su nuevo avión más corto y estrecho que el superior. Los extremos de las alas fueron limados para intentar eliminar las vibraciones en las alas. Entre otras soluciones de diseño se pueden mencionar: las varillas del control del alerón se llevaron a lo largo del ala inferior, el radiador fue desplazado del lateral del fuselaje al centro del ala superior, y las alas fueron soportadas por estructuras en V. La reducción del peso fue uno de los objetivos principales de este particular avión. Fue fabricado por Albatros Werke y Ostdeutsche Albatros Werke. En total se fabricaron 1346 unidades del Albatros D.III.  
   
 Los vuelos de prueba comenzaron a finales de agosto o  primeros de septiembre de 1916, y en diciembre de 1916, el avión fue entregado a los escuadrones. Algunos meses de acción en combate revelaron que el avión tenía tendencia a perder su ala inferior en un picado pronunciado o en un giro muy cerrado. El depósito de agua del radiador, que se había ubicado en el ala superior, se filtraba dentro de las ametralladoras haciendo imposible su uso. Para corregir este problema, el radiador fue recolocado en el lado derecho del piloto. Desde junio de 1917, los ingenieros comenzaron a utilizar el nuevo radiador celular de Daimler, que ayudó a resolver los problemas de sobrecalentamiento del motor.  

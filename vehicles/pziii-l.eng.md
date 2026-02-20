@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Pz.Kpfw. III Ausf.L was equipped with 50 mm main gun that has a good armour penetration ability and additional 20 mm thick armour plates on the gun mantlet and front hull. These improvements were introduced when Germans encountered Soviet T-34 and KV tanks.  
   
 This tank modification has been in production since April till August 1942, with around 700 units produced.  

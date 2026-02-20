@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spad7late.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7late.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7late.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El SPAD S.VII fue un caza monoplaza desarrollado por Louis Bechereau de la Société Pour L\Aviation et ses Dérivés a principios de 1916. Buena parte de su diseño fue tomado del desarrollo del SPAD de motor rotativo, el SPAD tipo A. El motor inicial para equipar el SPAD S.VII, el Hispano-Suiza 8A de 150 CV, fue desarrollado inicialmente por el ingeniero suizo Marc Birkigt en febrero de 1915.  
   
 El prototipo de avión, que fue llamado SPAD V, voló por primera vez en abril de 1916. Este avión tenía inicialmente un rotor cónico con una apertura central que estaba combinada con una cubierta y radiador circulares. Aunque finalmente el rotor cónico fue eliminado, el radiador circular así como la cubierta quedaron como características que definían este modelo. Los test de vuelo mostraron que el avión poseía una excelente velocidad máxima y tasa de ascenso. Además, la sólida construcción del fuselaje dotaba al avión con un rendimiento de picado mayor que los Nieuport, de construcción más ligera, conocidos por su tendencia a perder el ala inferior en fuertes picados. Con estas prometedoras características en mente, el avión fue enviado a producción como el SPAD S.VII el 10 de mayo de 1916.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Lavion a été positionné comme un développement du chasseur Nieuport 11. Par rapport à son prédécesseur, il a une plus grande envergure et surface daile, il a également un moteur plus puissant qui a conduit à des modificationa au capot moteur. Certaines caractéristiques de conception sont les mitrailleuses Vickers montées en face du cockpit et des fils de contrôle des ailerons en métal. Laile basse continue à être soutenue par un longeron en haut, doù lappellation du design de  "laile et demie". Lavion a dabord été fabriqué dans plusieurs usines en France mais très rapidement la license a été vendue à dautres pays: Grande Bretagne, Russie, Itale, Finlande, Japon. Au total, 7200 avions Nieuport avec moteur Rhone ont été construits.  
 Sa première apparition en combat est datée de mai 1916. Le Nieuport 17 est arrivé dans lescadron français N57. Il était utilisé contre des ballons, des bombardiers et des chasseurs. Les piots ont souligné une bonne vitesse de montée et une bonne visibilité, ainsi quune maniabilité excellente. Lintroduction de la mitrailleuse Vickers a rencontré quelques difficultés. Certains pilotes lont enlevé et ont placé à la palce une mitrailleuse Lewis sur laile. Dautres en revanche ont utilisé les deux simultanément bien que ça diminuait la maniabilité de lappareil.  
 La puissance du moteur et la haute vitesse ont démontré le principal inconvénient de lavion "un et demi": voilures inférieure faible à cause dun unique longeron. Il y a eu deux cas connus où les pilotes ont réalisé avec succès un atterrissage après la perte des ailes inférieures.  

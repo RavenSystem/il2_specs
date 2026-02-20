@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 179...208 km/h  
 Indicated stall speed in landing configuration: 157...183 km/h  
   

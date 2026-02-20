@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Breguet 14 fue un avión biplaza francés diseñado por la compañía Breguet Aviation. El prototipo realizó su primer vuelo en abril de 1917. Para asegurar una durabilidad excepcional, la estructura del fuselaje estaba compuesta por secciones de acero y duraluminio. Varias compañías fabricaron el aeroplano, incluyendo Michelin, Bellanger, Renault, Farman, Schmitt y Darracq. Durante la guerra, este aeroplano fue equipado con diversos motores. Al principio los motores eran Renault, después le siguieron los modelos de Fiat y en los últimos meses, motores Liberty. Estos fiables y potentes motores hicieron del Breguet 14 el bombardero biplaza más rápido de la Primera Guerra Mundial.  
   
 La primera serie de este avión entró en servicio con el Cuerpo del Ejército Francés en mayo de 1917, donde terminó sustituyendo al Sopwith 1½ Strutter. El Breguet 14 era más rápido, poseía una mejor velocidad de ascenso, una carga mayor de bombas y una estructura más duradera. En abril de 1918, 225 aeroplanos de este modelo estaban en servicio en 50 escuadrones franceses y 1 estadounidense.  

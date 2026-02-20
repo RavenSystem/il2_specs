@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/mig3s24.png"></td><td style="text-align: center"><img src="../pilots_notes/mig3s24.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/mig3s24.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 159..175 km/h  
 Indicated stall speed in takeoff/landing configuration: 134..147 km/h  
 Dive speed limit: 750 km/h  

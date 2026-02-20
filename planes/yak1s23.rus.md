@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 156..172 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 134..147 км/ч  
 Предельная скорость в пикировании: 720 км/ч  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz10-5.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 One of the many Sd.Kfz.10 half-track modifications produced by Demag company as mobile Flak 38 anti-air gun platform since 1939.  
   
 This fully metallic integral body half-track was propelled by a double differential tracked chassis with brakes (forward steering wheels don\t have brakes) and had a custom metallic platform where the gun was installed.  

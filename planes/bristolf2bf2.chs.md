@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 布里斯托尔（Bristol）的设计开始于1916年3月，是为了取代B.E.双座机系列而产生的。它原先被设计为侦察机，但除此之外，新型飞机还必须能够执行侦察巡逻。 它配备了双联操纵装置、无线电、摄像设备，并配备了穿过整流罩射击的固定维克斯（Vickers）机枪，后部炮塔装有一或两把刘易斯（Lewis）机枪。   
   
 布里斯托尔F.2A的第一架原型机于1916年9月试飞，并配备了劳斯莱斯（Rolls Royce）Mk.1发动机。 试飞成功后，飞机投入生产。第一支装备布里斯托尔抵达法国的战斗部队是第48中队，该中队于1917年3月8日抵达前线。   

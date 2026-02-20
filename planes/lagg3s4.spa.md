@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 167..193 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 142..170 km/h  
 Velocidad de picado límite: 750 km/h  

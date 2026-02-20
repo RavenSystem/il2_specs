@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Le chasseur monoplace Airco D.H.2 fut le second projet de Sir Geoffrey de Havilland matérialisant les avancées réalisées dans le domaine des hélices propulsives, situées derrière le pilote. Ce type de configuration permettait de placer un armement sans synchronisation, technique qui ne fut implantée que vers la fin 1916. Le prototype du D.H.2 vola pour la première fois en Juillet 1915 et fut déployé dans 24 Squadrons du Royal Flying Corps où il commença sa carrière au dessus de la France dès Février 1916.  
   
 La mitrailleuse Lewis était montée dans le nez de l\avion ce qui posa d\ailleurs beaucoup de problèmes au début. Le fait qu\elle fut mobile forçait le pilote durant un combat non seulement à manoeuvrer l\avion mais aussi à viser avec la mitrailleuse ce qui rendait les combats encore plus difficiles. Plus tard, les pilotes fixèrent la mitrailleuse dans l\axe de vol ce qui, en manoeuvrant l\avion leur permettait d\obtenir de biens meilleurs résultats.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 1942 von der Firma Henschel entwickelt, fand im August 1942 der erste Kampfeinsatz an der Leningrader Front statt.  
   
 Der Panzer war berühmt für seine kraftvolle Panzerung und sein quadratisches Aussehen. Die Räder sind in einem Schachbrettmuster angeordnet, um den Bodendruck zu optimieren und die Rumpfseiten zusätzlich zu schützen, aber das machte die Reparatur des Fahrgestells kompliziert und führte oft zum Verlust eines beschädigten Panzers.  

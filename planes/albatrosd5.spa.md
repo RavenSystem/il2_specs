@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Los ingenieros de Albatros Werke aceptaron el desafío de construir un caza rápido y maniobrable. El viejo Albatros D.III tenía un defecto en el ala inferior que provocaba su rotura durante un picado fuerte. Incapaces de encontrar la razón de este problema , los ingenieros trasladaron los cables de control de los alerones desde el ala inferior al ala superior.  
   
 Los vuelos de prueba se llevaron a cabo en el primavera de 1917. Externamente, el Albatros D.V difería de los anteriores Albatros en lo siguiente: tenía una mayor superficie de cola; el ala superior se acercó más al fuselaje; el radiador fue colocado a estribor de la línea central y el fuselaje era más redondeado.  

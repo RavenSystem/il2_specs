@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Nachdem man sich die Konstruktion der Nieuport angesehen hatte, gestalteten die deutschen Ingenieure die untere Tragfläche schmaler und kürzer als die obere. Die Flügelspitzen wurden gebogen, um Vibrationen zu vermeiden. Hier ein kurzer Überblick wichtiger Designveränderungen: Querruderleinen wurden durch die untere Tragfläche gezogen, der Kühler wurde vom Rumpf auf die Mitte der oberen Tragfläche versetzt und die Tragflächen durch V—förmige Strukturen ersetzt. Eine Gewichtsreduzierung stand zu dieser Zeit im Vordergrund.  
   
 Die Testflüge begannen im August/September 1916. Im Dezember 1916 wurde das Flugzeug an die Flug-Staffeln ausgeliefert. In den ersten Monaten der Kampfeinsätze wurde deutlich, dass das Flugzeug die untere Tragfläche bei starken Sturzflügen und scharfen Turns verliert. Auch tropfte Kühlwasser von der oberen Tragfläche auf die MGs, die dadurch gefechtsunfähig wurden. Der Kühler wurde daraufhin außen rechts am Flugzeugrumpf in Höhe des Pilotensitzes angebracht. Im Juni 1917 bauten Ingenieure den Zellenstrukturkühler von Daimler ein, der wesentlich effektiver arbeitete.  

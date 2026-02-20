@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz10-5.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 自 1939 年开始，Demag公司生产的众多 Sd.Kfz.10 半履带车改装型之一，该改装型作为机动的 Flak 38 防空炮平台。  
   
 这种全金属整体式半履带车由带传动装置的双差速履带底盘（前轮胎无动力）推动，并有一个安装高射炮的定制金属平台。  

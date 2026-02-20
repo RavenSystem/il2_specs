@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Das Flugzeug war als Weiterentwicklung der Nieuport 16 gedacht. In Vergleich zu seinem Vorgänger hatte es eine größere Spannweite und Flügelfläche. Außerdem wurde ein stärkeres Triebwerk eingebaut und die Abdeckung modifiziert. Einige Besonderheiten sind die Vickers Maschinengewehre vor dem Cockpit und die Querruder-Steuerzüge aus Stahl. Die untere Tragfläche war mit einem, die obere mit zwei Sparren versehen. Das ganze nannte man "eineinhalb Flügel-Design". Das Flugzeug wurde zunächst in in mehreren Werken in Frankreich produziert und anschließend für andere Länder lizensiert: Großbritannien, Russland, Italien, Finnland, Japan. Insgesamt wurden 7200 Nieuport Flugzeuge mit dem Le Rhone Triebwerk produziert.  
 Die ersten Kampfhandlungen mit diesem Typ wurden im Mai 1916 erwähnt. Die Nieuport 17 wurde von der Squadron N57 geflogen. Sie wird gegen Ballons, Bomber und Kampfflugzeuge eingesetzt. Piloten lobten die gute Steiggeschwindigkeit, die gute Sicht und die hervorragende Manövrierfähigkeit. Die Einführung von Vickers Maschinengewehren wurde zwiespältig aufgenommen. Einige Piloten entfernten diese wieder und ersetzten sie mit Lewis Maschinengewehren. Diese brachten sie auf den oberen Tragflächen an. Einige benutzten sogar beide Fabrikate gleichzeitig, obwohl das die Manövrierfähigkeit einschränkte.  
 Ein leistungsstarkes Triebwerk und hohe Sturzfluggeschwindigkeiten brachten aber den Schwachpunkt des "eineinhalb Flügel-Designs" zu Tage. Eine sehr schwache, untere Tragfläche mit nur einem Sparren. Es gibt jedoch zwei bekannte Berichte von Piloten, die ihr Flugzeug trotz verlorener unterer Tragfläche sicher landen konnten.  

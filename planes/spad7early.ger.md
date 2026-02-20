@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Die SPAD S.VII wurde als einsitziges Jagdflugzeug durch Louis Bechereau von der Societe Pour LAviation et ses Derives Anfang 1916 entwickelt. Der Entwurf hat seine Wurzeln in der SPAD-eigenen Entwicklung der mit einem Umlaufmotor angetriebenen SPAD Typ A. Zu Beginn war als Motor für die SPAD S.VII der 150 PS starke Hispano-Suiza 8A vorgesehen, entwickelt vom Schweizer Ingenieur Marc Birkigt im Februar 1915.  
   
 Der Prototyp, als SPAD V bezeichnet, wurde erstmals im April 1916 geflogen. Ursprünglich hatte das Flugzeug eine große kegelförmige Propellerhaube mit einer Öffnung in der Nabe, die nahtlos in einen kreisförmigen Kühler und die Motorhaube überging. Obwohl diese Propellerhaube bald verworfen wurde, blieben der Ringkühler und die runde Motorhaube markante Kennzeichen dieses Flugzeugtyps. Die Flugerprobungen ergaben eine herausragende Höchstgeschwindigkeit sowie Steigrate. Zusätzlich ermöglichte die solide Konstruktion der Zelle dem Flugzeug den leicht gebauten Nieuport, bei denen in steilen Stürzen oft die unteren Flügel abmontierten, überlegene Sturzflugeigenschaften. Aufgrund dieser vielversprechenden Eigenschaften wurde am 10. Mai 1916 die Produktion des Flugzeuges als SPAD S.VII angeordnet.  

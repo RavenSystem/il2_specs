@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 The tank was created by thedesign bureau of Chelyabinsk Tank Factory (ChTZ) during Summer 1942. It saw first combat action at the end of 1942 on Don and Voronezh front.  
   
 The tank was based on its predecessor, KV-1 heavy tank. Because of its low mobility and reliability, KV-1s (\s\ means \skorostnoy\ - speedy) was designed to be less armoured, but more mobile and reliable.  

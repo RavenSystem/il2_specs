@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 在设计 Pfalz 战斗机的下一个改装时，该公司的工程师决定使用类似于 SPAD VII 上的薄截面机翼。 这样的机翼满足了德国飞行员使用的作战战术的需要：俯冲、向敌人开火、然后爬回高空。 该设计还具有上翼和下翼的相等表面积的特点。 此外，该飞机配备了类似于福克 D.VII 的机头散热器，并且是第一架配备管式散热器的战斗机（随后由于冷却问题进行了重新设计）。 总共建造了 800 架该型号的飞机。  
   
 这架飞机于 1918 年 2 月下旬在 Adlershof首飞。 在 1918 年 6 月在 Adlershof 举行的第二次战斗机比赛中，这架飞机（配备 BMW IIIa 发动机）在爬升速度挑战中获得第二名 - 爬升5 公里，耗时 17.6 分钟！ 之后，它被送到前线进行战斗测试。 一位飞行员注意到驾驶舱能见度很好，尤其是向下的视野，在俯冲时，它比 Fokker D.VII 更快。 然而，它的机动性较差，控制装置比福克 D.VII 重。 1918 年 6 月 30 日，这架飞机进入作战中队服役。 它经常与 Fokker D.VII 结合使用，通常在比更好攀爬的 Fokker D.VII 更低的高度运行。 它主要分配给菜鸟飞行员和支援中队。  

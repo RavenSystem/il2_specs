@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/re8.png"></td><td style="text-align: center"><img src="../pilots_notes/re8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/re8.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 The R.E.8 was designed as a replacement for the obsolete B.E.2. Armament consisted of one synchronized machine gun facing forward and a rear gunner position aft of the pilot. This was a departure from the B.E.2 design which had the gunner in front of the pilot. This caused some awkward and dangerous firing positions, especially to the rear.  
 The R.E.8 was equipped with V-shaped 12-cylinder air- cooled engine the RAF4a. The aircraft was designed to carry a radio and photographic equipment for recon and artillery spotting duty. It could also carry a small bombload on underwing racks.  
 A very versatile aircraft for its time. The first versions of this aircraft began to arrive at the front in late 1916, but it did not arouse much enthusiasm among its pilots. The aircraft was difficult to fly and it was not very forgiving. Piloting mistakes could lead to a deadly tailspin. The first front-line squadrons to receive the R.E.8 reverted back to the old, but combat proven B.E.2. Eventually the R.E.8 did see combat and its debut was not very encouraging.  

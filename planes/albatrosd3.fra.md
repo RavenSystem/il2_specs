@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd3.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd3.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Après avoir enquêtés sur la construction du chasseur Nieuport, les ingénieurs allemands ont conçu une aile inférieure de leur nouvel avion plus étroite et plus courteque celle de dessus. Les bouts d\ailes sont devenus balayés, ce qui a aidé à éviter les vibrations des ailes.  Parmi les autres solutions remarquables de conception, celles-ci peuvent être mentionnées: les barres de commande d\aileron ont été établies grâce à l\aile inférieure, le radiateur a été déplace de du coté du fuselage vers le milieu de l\aile supérieure, et les ailes sont supportées par des pièces en V. La réduction du poids était l\une des tâches principales pour ce moment.   
   
 Les vols test ont débuté en Août — Septembre 1916, et en Decembre 1916 l\avion a été livré aux escadrons de chasse. De sérieux mois de combats ont révélé que l\avion perd son aile inférieure lors de plongées et de virages accentués. L\au du radiateur, placé sur l\aile supérieure, se répandait sur la mitrailleuse rendait le tir impossible. Après cela, le radiateur a été placé sur le coté droit du pilote. Depuis Juin 1917 les ingénieurs ont commencé à utiliser le nouveau radiateur cellulaire Daimler qui aida à résoudre le problème avec la surchauffe du moteur.  

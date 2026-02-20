@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 The Breguet 14 was a two-seater biplane designed by the French company known as Breguet Aviation. The prototype made its first flight in April 1917. To ensure exceptional durability, the airframe structure was composed of duralumin and steel sections. Several companies manufactured this plane, including Michelin, Bellanger, Renault, Farman, Schmitt, and Darracq. During the war, production aircraft were fitted with a variety of engine types. Renault engines were the first to be installed and were subsequently followed by Fiat models and, in later months, Liberty engines. These reliable and powerful engines made the Breguet 14 the fastest two-seat bomber of WWI.  
   
 The first series of planes entered service with the French Army Corps in May 1917, where it eventually replaced the Sopwith 1½ Strutter. The Breguet 14 was faster, had a higher climb speed, could carry a higher bomb load and possessed a more durable structure. In April 1918, 225 aircraft of this type were in service with 1 American and 50 French squadrons.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 The DFW C.V was a two-seater biplane plane designed and produced at the Deutsche Flugzeug Werke near Leipzig. In designing the aircraft, DFW\s designers aimed to create a light but durable airframe. Its structural features included a metal-covered strut in the tail section, a metal cowl protecting the engine, two hollow spars in the wings, and floating ribs. The radiator was mounted above the engine.  
   
 The aircraft\s first flight occurred on July 11, 1916. After its official trials were completed, the aircraft was sent to the front line where it received perfect reviews. At this point, mass production commenced at other factories, including Aviatik, LVG, and Halberstadt. By the end of the war, 3955 planes of the type had been produced. The C.V became the most numerous German aircraft in its class in WWI.  

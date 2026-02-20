@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 SPAD S.XIII是SPAD S.VII的改进版。尽管在外观上与其前身相似，但实际上它是一个全新的设计。安装了第二挺机枪和更强劲的发动机。此外，一个辅助油箱被放置在上翼的中央部分。主油箱勾画出了机身下部的轮廓。在驾驶舱的左后方是侦察摄像机或炸弹装载装置。该飞机的首次飞行是在1917年4月4日进行的。该飞机是由布莱里奥特（Bleriot）、莱瓦瑟尔（Levasseur）、伯纳德（Bernard）、凯尔纳（Kellner）、萨夫卡（Safca）、博雷尔（Borel）和纽波特厂（Nieuport）制造的。总共建造了8472架此类飞机。  
 S.XIII于1917年夏末秋初首次出现在前线，最初供应给法国战斗机中队。它主要用于与敌机交战、护航轰炸机、空中测绘和侦察；很少用于轰炸前线附近的地面目标。  
 法国飞行员渴望得到S.XIII。第二挺机枪提供了更大的火力，而新发动机使它的飞行和爬升速度比其前身更快。即使在高空，其操纵仍然有效。仅存的一个缺点是，由于它的单薄机翼剖面，它在低速时的操纵灵敏度降低，这常常导致失速。在俯冲和平飞时，SPAD S.XIII是当时速度最快的飞机之一。驾驶它的飞行员说：“它俯冲比风还快！“在第一次世界大战期间，它参加了各条战线的战斗。法国、英国、美国和意大利的部队都装备了这种型号。  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El avión fue desarrollado por Pierre Dupont para la compañía Hanriot en verano de 1916 y estaba construido como un biplano clásico hecho principalmente de madera; solo la estructura del timón y parte del morro eran metálicos. Tenía alas soportadas por dos largueros y arriostradas: la superior con un pequeño ángulo en V, las inferiores rectas. Contaba con 3 depósitos de combustible en el fuselaje: dos detrás del motor y uno más detrás de la espalda del piloto.  
   
 Inicialmente el HD.1 debía sustituir a los antiguos Nieuport 11 y 17. Pero el nuevo Spad 7 ya había sido desplegado en el frente, habiendo tenido una buena acogida entre los pilotos por su motor en línea, mientras que el motor Le Rhône instalado en el Hanriot todavía era usado en los escuadrones de Nieuport. Así que el mando de la fuerza aérea francesa, <i>Aviation Militaire</i>, pensó que no sería rentable el cambio a los HD.1 y canceló la adquisición. Sin embargo, el resto de aliados de la Entente se interesaron por este avión, ya que era más firme, maniobrable, y en general, sensiblemente mejor que el Nieuport.  

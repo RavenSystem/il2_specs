@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 65..86 km/h  
 Dive speed limit: 241 km/h  
 Maximum load factor: 3.5 G  

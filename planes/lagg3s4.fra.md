@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Vitesse de décrochage indiquée en configuration de vol : 167..193 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 142..170 km/h  
 Vitesse limite de piqué : 750 km/h  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El DFW C.V fue un biplano biplaza diseñado y producido en la <i>Deutsche Flugzeug Werke</i> (DFW) cerca de Leipzig. Para diseñar el avión, los ingenieros se propusieron crear un avión ligero, pero con un fuselaje duradero. Sus características estructurales incluían un recubrimiento metálico para las riostras de la sección de cola, una cubierta metálica protegiendo el motor, dos travesaños huecos en las alas y nervios flotantes. El radiador estaba montado encima del motor.  
   
 Su primer vuelo aconteció el 11 de julio de 1916. Después de las pruebas oficiales, el avión fue enviado al frente, donde recibió muy buenas opiniones. A partir de ese momento la aeronave fue producida masivamente en otras fábricas, incluyendo Aviatik, LVG y Halberstadt. Al final de guerra, se habían construido 3955 unidades. El C.V se convirtió en el avión alemán más numeroso en su clase durante la Primera Guerra Mundial.  

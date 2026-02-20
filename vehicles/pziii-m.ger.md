@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Der Pz.Kpfw. III Ausf.M war der vorherigen Modifikation Ausf.L ähnlich. Einige Innen-, Fahrwerks-, Motorraum- und andere Elemente wurden aufgrund der Wartungserfahrung geändert.  
   
 Der offensichtlichste optische Unterschied war das Hinzufügen von Seitenpanzerplatten, "Schürzen", die an der Wannen- und Turmseite angebracht wurden. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem Anti-Panzer-Gewehrfeuer zu schützen, was für die dünner gepanzerten Seiten gefährlich war. Da sie ein panzerbrechendes Geschoss nicht aufhalten konnte, destabilisierte diese zusätzliche Panzerung es oder verursachte seine Fragmentierung, bevor es auf den Hauptpanzer treffen konnte.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 L\avion a été conçu par la Brtitish Sopwith Aviation Co. Prenant en compte les défauts du Sopwith Camel: mauvaise visibilité à l\avant et au dessus, des difficultés de manipulation de l\avion à poteur rotatif, les ingénieurs ont eu la tâche de construire un chasseur avec moteur en ligne. Le design comportait la mise en place de sièges pilote, des réservoirs de carburant, des mitrailleuses et des moteurs. Les radiateurs ont été déplacés sur les côtés du fuselage derrière le cockpit. La tête du pilote était dans la trappe de l\aile supérieure. Le premier vol d\essai a été fait en mai 1917. En dehors de l\usine de tête de fabrication, plusieurs autres le fabriquaient: Darracq, Hooper, SACA. A la fin de la guerre, 1532 avions ont été construits.  
   
 Les premiers test en combat ont été menés par l\escadron britannique N56 le 13 juin 1917. Plusieurs améliorations de la conception ont suivi. En janvier 1918 l\escadron N19 a reçu les premiers exemplaires. Le Dolphin a été utilisé contre les chasseurs et ballons ennemis, notamment à haute altitude, où il était supérieur au Sopwith Camel. Il a également été utilisé pour bombarder des cibles au sol.  

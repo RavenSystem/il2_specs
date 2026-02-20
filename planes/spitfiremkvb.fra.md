@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkvb.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkvb.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Vitesse de décrochage indiquée en configuration de vol : 137..144 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 129..135 km/h  
   

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Die Airco D.H.2 war ein einsitziger Jäger und das zweite Projekt des Entwicklers Sir Geoffrey de Havilland; beeinflußt von der Bauform des "Druck"-Propeller Konzepts, wurde die Luftschraube hinter dem Piloten angebracht. Dieses Design erlaubte es Flugzeuge zu bauen, bei denen es nicht erforderlich war ein synchronisiertes Maschinengewehr zu verwenden. Dieses wurde erst Ende 1916 implementiert. Der Prototyp der D.H.2 machte seinen Erstflug im Juli 1915. Es wurde anschließend zügig produziert und an das Royal Flying Corps, 24 Schwadron ausgeliefert. Im Februar 1916 begann sein aktiver Einsatz über französischem Territorium.  
   
 Das Lewis Maschinengewehr war auf einem Gestell an der Rumpfnase befestigt und sorgte am Anfang für viel Probleme. Das bewegliche MG sowie die Kontrolle des Flugzeuges forderten den Piloten. Darüberhinaus machte das Zielen mit dem Maschinengewehr den Luftkampf noch schwieriger. Die späteren Piloten fixierten nun das MG auf die Sichtachse des Flugzeuges. Sie zielten nun indem sie das Zielen mit dem gesamten Flugzeug erflogen, was sich als wesentlich wirkunsvoller erwieß als mit einem beweglichen MG.  

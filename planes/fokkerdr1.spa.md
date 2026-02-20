@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 En la primavera de 1917, durante una visita al Jasta 11, Anthony Fokker inspeccionó la construcción de un avión británico capturado, el Sopwith Triplane. Manfred von Richthofen explicó los detalles de su pelea con este nuevo aeroplano al constructor. Concluyeron que el Barón Rojo salió invicto solo gracias su gran experiencia en combate.  
   
 El prototipo del triplano F.I (el nombre por entonces del Dr.I) estuvo listo en agosto de 1917. Los detalles más reseñables de este avión fueron: estructura del fuselaje en tubos de acero así como láminas metálicas para la cola y estabilizadores; ausencia de cables de refuerzo; y la ubicación de los alerones en el ala superior. El avión era más compacto y robusto que el Sopwith Triplane británico. En total, 320 Dr.I fueron construidos.  

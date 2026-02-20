@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 L\avion a été conçu et réalisé à la Deutsche Flugzeug Werke près de Leipzig. Les designers visait à créer un avion léger mais durable.Les caratéristiques structurelles inculaient: jambe de queue recouverte de métal, moteur protégé par un capot en métal, deux longerons creux dans les ailes, cêtes flottantes. Le radiateur était monté sur le moteur.  
   
 Son premier vol a eu lieu 11 Juillet 1916. Après l\essai officiel, l\avion a été envoyé au front où il a reçu des critiques parfaites. Dès ce moment, la production de masse a commencé à d\autres usines:  Aviatik,  LVG, Halberstadt.À la fin de la guerre, il y avait 3955 avions produits. L\avion était le plus répandu de sa classe dans l\aviation allemande.  

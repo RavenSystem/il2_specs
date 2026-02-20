@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/rolandc2a.png"></td><td style="text-align: center"><img src="../pilots_notes/rolandc2a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/rolandc2a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 One of the most original trends of thought in aircraft design during 1915 was seen in the L.F.G. Roland C.II, which had been evolved by Dipl. Ing. Tantzen, who had recently joined Luftfahrzeug Gesellschaft as a design engineer. Tantzens ambition was to present a drastically cleaned-up airframe, eliminating as much as possible of the "built-in" drag of interplane, center section strut arrangements and attendant bracing. Streamlined design of fuselage, thin wings profile resulted in great performance for its time: it was one of the fastest airplanes at front able to outrun any enemy fighter plane.  
   
 Upper wing was placed on the top edge of fuselage providing great forward and up view for the pilot. But due to its wide oval fuselage and pilot position towards the back, it was a very unforgiving airplane to land: very few pilots which flew this airplane did not crash or damage it during landing. In time, some minor modifications where added, such as forward firing gun for the pilot, internal wings structire change and ailerons controls moved into upper wing with addition of a control rod instead of cables in the lower wing on early machines. Also wing trailing edge wire was replaced with wooden stringer. New version became Roland C.IIa: first prototype powered by Mercedes D.III engine flew October 25-26 of 1915, and on December 23, 1915 the first production order for 50 machines was placed.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 150...174 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 128...149 км/ч  
   

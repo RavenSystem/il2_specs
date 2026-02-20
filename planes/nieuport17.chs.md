@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 The Nieuport 17 was intended to be a further development of the Nieuport 11 fighter. When the Nieuport 17 arrived on the battlefield in March 1916, it swiftly replaced the Nieuport 11. By the end of 1916, every squadron in the French Aviation Militaire had Nieuport 17s. Compared to its predecessor, it had a larger wingspan and surface area, a more powerful engine, a Vickers machine gun, and metal aileron control wires. The plane was initially built in several French factories, but licenses were soon purchased by other countries: Great Britain, Russia, Italy, Finland and Japan.  
   
 Pilots noted its good climb rate and visibility, as well as its excellent maneuverability. The planes powerful engine and high dive speed exposed the main drawback of the "one and a half wing" design - a weak lower wing due to only one spar. There are two known occasions when pilots made successful landings after losing their lower wings. The introduction of the Vickers machine gun was met with ambiguity: some pilots removed and replaced it with a Lewis machine gun mounted on the upper wing. Others, however, used both machine guns simultaneously, although this somewhat decreased manoeuvrability.  

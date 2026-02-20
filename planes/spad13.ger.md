@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spad13.png"></td><td style="text-align: center"><img src="../pilots_notes/spad13.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad13.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Das Flugzeug wurde als eine verbesserte Version der SPAD VII entwickelt. Trotz fast gleichen Aussehens, war es ein komplett neues Flugzeug. Ein zweites Maschinengewehr und ein neues Triebwerk wurden eingebaut; zudem wurde ein Zusatztank in der Mitte der oberen Tragfläche angebracht. Der Haupttank wurde im unteren Rumpf eingelassen. Links vom Cockpit und auch dahinter war Platz für einen Kamera oder sogar für eine Bombe. Der Erstflug fand am 4. April 1917 statt. Das Flugzeug wurde gebaut von: Bleriot, Levasseur, Bernard, Kellner, Safca, Borel, Nieuport. Insgesamt wurden 8.472 Flugzeuge gebaut.  
 An der Front wurde das Flugzeug erstmals im Sommer/Herbst 1917 gesichtet. Das Flugzeug wurde an französische Schwadrone ausgeliefert und hauptsächlich für den Kampf gegen feindliche Flugzeuge sowie als Eskorte eingesetzt. In seltenen Fällen auch für Bombeneinsätze von verschiedenen Bodenzielen.  
 Französische Piloten konnten nicht erwarten, dieses Flugzeug zu fliegen. Das zweite Maschinengewehr erhöhte die Feuerkraft und das neue Triebwerk ließ die SPAD schneller steigen. Die Steuerung war sehr effektiv, auch in großen Höhen. Der einzige negative Aspekt war die schwierige Kontrolle beim Langsamflug. Im Sturzflug war die SPAD XIII eine der schnellsten Flugzeuge. So behaupteten die Piloten: "Fällt schneller als der Wind". Dieser Flugzeugtyp wurde an allen Fronten des 1. Weltkrieges eingesetzt. Franzosen, Briten, Amerikaner und Italiener  wurden mit diesem Flugzeug ausgerüstet.  

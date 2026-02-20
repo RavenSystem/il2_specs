@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf3.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf3.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Der Entwurf der Bristol hat seinen Ursprung im März 1916, als Nachfolger der B.E. Zweisitzer -Serie. Das Flugzeug war als Aufklärungsflugzeug ausgelegt, sollte aber zusätzlich auch in der Lage sein, in der Jägerrolle eingesetzt zu werden. Es war mit Doppelsteuerung, Funkgerät, Photoausrüstung, einem unter der Motorabdeckung befindlichen nach vorne feuerndem Vickers Maschinengewehr sowie mit einem oder zwei Lewis Maschinengewehren ausgerüstet.  
   
 Der erste Prototyp Bristol F.2A flog im September 1916, ausgestattet mit einem Rolls Royce Mk.1 als Triebwerk. Die erste offensive Patrouille wurde am 5. April 1917 geflogen, diese sollte sich allerdings als ein desaströses Debüt für die Bristol erweisen. Die Patrouille bestand aus sechs F.2A und wurde von Captain I.V. Leefe-Robinson, V.C., angeführt. Als sie Douai überflogen wurden sie von fünf Albatros D.III angegriffen, geführt von Manfred von Richthofen, welcher selbst zwei der Bristols abschoss, sein fünfundreizigster und sechundreißigster Abschuss. Zwei weitere Bristols, eine davon die Maschine von Leefe- Robinson selbst, wurden ebenfalls durch Richthofens Piloten abgeschossen.  

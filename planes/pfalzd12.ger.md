@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Während der Planung für eine Modifikation des Flugzeugs entschieden sich die Werksingeneure die Tragflächen mit einer dünneren Sektion, ähnlich der einer SPAD VII, auszustatten. Eine solche Tragfläche entsprach den Anforderungen der Angriffstaktik deutscher Piloten: Sturzflug, Feindbeschuß, Steigflug. Das neue Design brachte zugleich die gleichen Maße für die obere sowie untere Tragfläche mit sicStd. Ursprünglich war der Kühler vor dem Triebwerk angebracht, wie bei einer Fokker D.VII. Aus Zeitgründen ließ sich kein neuer Kühler entwickeln, daher nahmen die Ingeneure ein altes Modell im Rohrdesign, welches einem Zellenstrukturkühler unterlegen war. Insgesamt wurden 800 Flugzeuge gebaut.  
   
 Der Erstflug fand Ende Februar 1918 in Adlershof statt. Im Juni 1918 während der Kampfflugwettbewerbe in Adlershof wurde das Flugzeug mit einem BMW IIIa Triebwerk ausgestattet. Damit erreichte das Flugzeug die zweitschnellste Steiggeschwindigkeit: 5 km in 17,6 Minuten! Anschließend ging es an die Front zur Kampferprobung. Piloten lobten die hervorragende Cockpitsicht, besonders vertikal nach unten. Im Sturzflug war das Flugzeug schneller als die Fokker D.VII, war jedoch nicht so manövrierfähig und die Steuerung war schwergängig. Am 30. Juni 1918 wurde das Flugzeug an einige Staffeln ausgeliefert. Es wurde oft in Kombination mit der Fokker D.VII eingesetzt, da die Pfalz D.XII normalerweise tiefer flog als die schneller steigende Fokker D.VII. Meist wurde es von Piloten mit geringerer Flugerfahrung und von unterstützenden Staffeln geflogen.  

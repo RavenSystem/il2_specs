@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Der Pz.Kpfw. III Ausf.L wurde mit einer 50 mm Hauptkanone ausgestattet, die eine gute Panzerdurchschlagskraft und zusätzliche 20 mm dicke Panzerplatten auf der Kanonenblende und dem vorderen Rumpf aufweist. Diese Verbesserungen wurden eingeführt, als die Deutschen auf sowjetische T-34 und KV Panzer trafen.  
   
 Diese Panzermodifikation wird von April bis August 1942 mit ca. 700 Stück produziert.  

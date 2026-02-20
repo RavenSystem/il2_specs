@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/dfwc5.png"></td><td style="text-align: center"><img src="../pilots_notes/dfwc5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/dfwc5.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Dieses Flugzeug wurde in den Deutschen Flugzeug Werken in der Nähe von Leipzig entwickelt und gebaut. Das Ziel war ein leichtes, aber ausdauerndes Flugzeug zu entwickeln. Strukturelemente dieses Flugzeugs waren: Eine metallverkleidete Hecksektion, das Triebwerk ist durch eine Metallverkleidung geschützt, zwei hohle Sparren in der Tragfläche und eine schwebende Rippenstruktur. Der Kühler wurde oberhalb des Triebwerks angebracht.  
   
 Der erste Flug fand am 11. Juli 1916 statt. Nach einer offiziellen Erprobungsphase wurde das Flugzeug an die Front entsandt, wo es zugleich positive Kritiken erntete. Ab diesem Zeitpunkt fand die Massenfertigung in mehreren Werken statt:  Aviatik,  LVG, Halberstadt. Bis zum Ende des Kriegs wurden 3.955 Flugzeuge gebaut. Dieses Flugzeugmodell wurde am häufigsten in der deutschen Aviation gebaut.  

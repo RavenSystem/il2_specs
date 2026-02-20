@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/iar80b.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80b.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 飞行构型的失速指示空速：151~162 km/h  
 起降构型的失速指示空速：143~151 km/h  
 俯冲极速：750 km/h  

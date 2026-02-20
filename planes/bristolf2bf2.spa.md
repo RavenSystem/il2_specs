@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El diseño del Bristol se inició en marzo de 1916 con el propósito de reemplazar las series del biplaza B.E. Fue diseñado como avión de reconocimiento, pero también iba a tener que ser capaz de realizar patrullas de caza. Para tales fines fue suministrado con controles duales, radio inalámbrica y cámara, y armado con una ametralladora fija Vickers capaz de disparar a través de la cubierta del motor y un puesto de artillero trasero con una o dos ametralladoras Lewis.  
   
 El primer prototipo del Bristol F.2A voló en septiembre de 1916, equipado con un motor Rolls Royce Mk.1. Después de completar con éxito sus pruebas, el modelo entró en producción. La primera unidad de combate en Francia que recibió F.2As fue el No. 48 Squadron, que comenzó a recibir el modelo el 8 de marzo de 1917.  

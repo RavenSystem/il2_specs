@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 L\avion a été conçu par la société britannique R.A.F. (Royal Aircraft Factory). S.E. — Patrouilleur expérimental (chasseurs monoplaces). L\objectif était de construire un chasseur autur d\un moteur Hispano—Suiza de 200 hp, qui serait rapide avec une haute vitesse de montée. Pour atteindre ces objectifs, les ingénieurs ont du trouver un compromis. En faisant des profils d\ailes minces, ils en ont augmenté la surface. Ce design comportait des ailes supérieures et inférieures. 5269 avions ont été construits à la fin de la guerre.  
   
 Le premier vol d\essai a été réalisé en janvier 1917. L\avion a été vu pour la première fois au combat en juin1917 dans l\escadron anglais N 56. Il était utilisé contre les chasseurs et ballons ennemis, l\escorte de bombardiers, très rarement contre des cibles au sol sur la ligne de front. Les discussions des pilotes mentionnaient la durabilité de la structure, une maniabilité suffisante, une stabilité en plongée et pendant les tirs de mitrailleuses, de prise en main fine, et d\une bonne sensibilité de contrôle à basse vitesse. Lors d\atterrissage à haute vitesse l\avion ne pouvait pas toucher le sol à cause d\une forte portance de l\aile. Il est intéressant que la plupart des as britanniques ont volé sur ce type d\avion. Son surnom était même "faiseur d\as".  

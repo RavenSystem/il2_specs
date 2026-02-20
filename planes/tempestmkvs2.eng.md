@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/tempestmkvs2.png"></td><td style="text-align: center"><img src="../pilots_notes/tempestmkvs2.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 150...174 km/h  
 Indicated stall speed in takeoff/landing configuration: 128...149 km/h  
   

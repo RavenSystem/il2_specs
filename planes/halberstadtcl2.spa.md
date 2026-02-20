@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El diseño del Halberstadt CL.II fue una respuesta a la especificación del Idflieg (<i>Inspektion der Fliegertruppen</i>) emitida en agosto de 1916 para un nuevo "tipo ligero C" con un motor de 160-180 caballos.  
   
 El propósito era crear un biplaza tipo caza/escolta para proteger aviones de observación más pesados de ataques de aviones aliados. En noviembre de 1916 el idflieg ordenó tres prototipos del Halberstadt CL.II, todos con motor Mercedes D.III. El primero de estos aviones estuvo preparado en abril de 1917, y tras realizar algunos cambios en el diseño del ala pasó las pruebas finales en Aldershof entre el 2 y el 7 de mayo de 1917.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 152...182 km/h  
 Indicated stall speed in takeoff/landing configuration: 126...151 km/h  
   

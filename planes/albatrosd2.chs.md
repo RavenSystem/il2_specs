@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd2.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd2.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 First in the pantheon of the legendary Albatros fighter planes, the D.II became a symbol and icon of the fighter plane in the Great War. Under the guidance of engineer Robert Thelen, the plane incorporated new features in design and development. While retaining the clean aerodynamic shape of the D.I model’s fuselage, new central N-shaped struts were added to the wings. The upper wing was moved closer to the fuselage, and early models of the aircraft were fitted with Windhoff box-type radiators on both sides of the fuselage.  
 The Albatros Werke, Ostdeutsche Albatros Werke, and Luft-Verkehrs-Gesellschaft mbH factories manufactured the aircraft. In all, 768 Albatros D.IIs were produced.  
 In August 1916, the first detachment of Albatros D.I and D. II fighters arrived at the front. Starting with these two models of aircraft, two Spandau machine guns became standard equipment for all German fighters. In the hands of experienced pilots, who were already battle hardened and experienced in aerobatics, the D.II made for huge gains in air superiority. The rapid mass production of Albatros fighter planes allowed Germany to maintain air superiority all the way through April 1917. "Bloody April" has become synonymous with the great losses of British aircraft in 1917.  

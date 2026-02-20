@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Designed by Geoffrey de Havilland to be a two-seat light bomber powered by a BHP engine. First prototype flew in August 1916, but as the BHP engine proved to be weak it required a major redesign and DH.4 was adapted to be equipped with a Rolls Royce Eagle engine. First order for 50 planes powered by Eagle III engine (250hp) was placed at the end of 1916.  
   
 Basically an all-wooden construction tractor biplane, Airplane armament consisted of one forward-firing Vickers synchronized machine gun and one or two Lewis guns on the Scarff ring mount at the observer position. It could carry up to 460 pounds of bombs on external racks on wings or central position.  

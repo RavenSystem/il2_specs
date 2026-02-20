@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 105..117 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 92..109 km/h  
 Velocidad de picado límite: 330 km/h  

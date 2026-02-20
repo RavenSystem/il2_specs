@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 156..172 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 134..147 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 720 km/h  

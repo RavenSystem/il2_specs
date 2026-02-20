@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/yak3s9.png"></td><td style="text-align: center"><img src="../pilots_notes/yak3s9.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Vitesse de décrochage indiquée en configuration de vol : 152..160 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 136..141 km/h  
 Vitesse limite de piqué : 750 km/h  

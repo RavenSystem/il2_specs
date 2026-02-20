@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtd2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtd2.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 The first Halberstadt D.I prototype equipped with 100hp Mercedes D.I engine had its maiden flight during the late autumn of 1915. Later it was fitted with 120hp Mercedes D.II engine and went into production designated as D.II to supplement the Fokker D type biplanes, which were then replacing the old Fokker monoplanes. The first machines arrived at the frontline in June 1916.  
   
 Most of the pilots where impressed by its better performance compared to the older Fokker monoplanes, especially its better climb and speed and very quick, easy and responsitive controls which gave it good maneverability in the hands of the experienced German pilots.  

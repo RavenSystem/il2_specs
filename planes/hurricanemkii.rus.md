@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 132...155 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 123...144 км/ч  
   

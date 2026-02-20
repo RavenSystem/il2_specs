@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Fokker D.VII fue diseñado por Reinhold Platz, del Departamento de Diseño de Anthony Fokker. Su objetivo fue crear un caza capaz de vencer al SPAD XIII francés y al S.E.5a británico. Algunas características notables de diseño incluyeron una estructura metálica del fuselaje, ala de sección gruesa, y la ausencia de cables de refuerzo.  
   
 Durante el concurso de nuevos cazas, celebrado en Adlershof del 21 de enero al 12 de febrero de 1918, este caza demostró ser el más rápido, durable y con la tasa de ascenso más alta. Manfred von Richthofen, amigo íntimo de Anthony Fokker, también evaluó el prototipo y observó algunos defectos menores, en particular su inestabilidad en picados prolongados, que fue posteriormente corregido. El éxito del diseño provocó que fuera construido en varias fábricas, incluyendo Fokker Flugzeug-Werke, Albatros Werke y Ostdeutsche Albatros Werke. El Fokker D.VII se convertiría en uno de los mejores cazas –si no el mejor- al final de la guerra. En total, 2029 aviones fueron fabricados y enviados al frente hasta finales de 1918.  

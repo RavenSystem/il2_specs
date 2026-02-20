@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopsnipe.png"></td><td style="text-align: center"><img src="../pilots_notes/sopsnipe.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 The Sopwith Snipe was created as a replacement for the Camel in response to the appearance of new enemy fighters. At the design stage, the Camels engines (for instance, the Clerget 9B or Bentley B.R.1) were considered for use, as well as the newer and more powerful Bentley B.R.2. The decision was finally made after successful tests of the latter that confirmed its exceptional performance (234 HP). The early prototype’s fuselage and wings were similar to its predecessor, but later on its look became final. The rectangular fuselage got rounded edges, the biplane wings were reinforced by an additional pair of struts per side and the vertical stabilizer got the bigger surface rudder thanks to the compensator.  
   
 Seven contracts for producing the first 1700 aircraft were assigned to Sopwith, Boulton & Paul, Coventry Ordnance Works, Napier, Nieuport & General, Portholme Aerodrome and Ruston Proctor companies. The first shipments began during the summer of 1918, but the production rate was lagging behind schedule. Only 77 airplanes were completed by the end of August instead of the planned 200. The total number of aircraft produced is not known, but at least 1567 Snipes were delivered. There were several improvements made to the design during the production run - for instance, the vertical stabilizer and upper wing ailerons surfaces have been increased even more. A more powerful (320 HP) radial engine, the "Dragonfly" was installed on some machines. The airplanes equipped with this engine became the ancestors of the new Sopwith Dragon after some additional changes in design.  

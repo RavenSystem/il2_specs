@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport28.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport28.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport28.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 The next evolution in the line of fighters made by Nieuport S.A.d E. (Societe Anonyme des Etablissements) Company was the Nieuport 28. Its designers knew that their previous designs were now obsolete and did not allow for better flight characteristics. Therefore, it was decided to use structural features of the SPAD XIII in the design of the new fighter. Some of these features are as follows: larger surface area of the lower wing (a second spar was fitted to it, thus making it a true biplane); a second machine gun was placed left of the centreline behind the engine; and ailerons were fitted to the lower wing instead of the top wing. Its first trial flight occurred on June 5, 1917. Unfortunately, the new fighter could not exceed the flight characteristics of the already-employed SPAD XIII. As a result, French pilots refused to fly it. In all, 208 fighters of this type were built, after which the Nieuport S.A.d E. Company switched to manufacturing the SPAD XIII.  
   
 The Nieuport 28 entered service with American squadrons in February 1918. Due to an insufficient supply of Vickers machine guns, combat use of the fighter did not begin until the following month. It was primarily used for engaging enemy fighters and balloons but rarely for bomber escort or recon missions behind enemy lines. Pilots noted good climb speed, manoeuvrability, and the sensitivity of its controls. In the course of its combat service, it was found that the plane tended to lose its top wing covering in prolonged dives. There were several incidents of this described by pilots who managed to land despite experiencing such severe damage.  

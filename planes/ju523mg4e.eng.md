@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 105..117 km/h  
 Indicated stall speed in takeoff/landing configuration: 92..109 km/h  
 Dive speed limit: 330 km/h  

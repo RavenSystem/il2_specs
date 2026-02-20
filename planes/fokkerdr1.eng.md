@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 In the spring of 1917, during a visit to Jasta 11, Anthony Fokker inspected the construction of a captured British fighter, the Sopwith Triplane. Manfred von Richthofen related to Fokker the details of his dogfight with this new aeroplane. It was only due to his great experience that the Red Baron managed to avoid defeat.  
 The prototype of the F.I (the name at the time of the Dr.I) triplane was made ready by August 1917. Some remarkable details of its construction were as follows: a steel tube fuselage frame, as well as metal frames for the stabilizer and tail fin; an absence of bracing trusses; and the placement of the ailerons on the upper wing. The plane was more compact and robust than the British Sopwith Triplane. In total, 320 Dr.I triplanes were built.  
 On the 23rd of September 1917, Werner Voss shot down two British fighters while piloting an experimental version of the plane. Soon afterwards, he was attacked by six SE5s of the Royal Flying Corps. Each British plane was damaged in the course of this dramatic and historic fight, which forced two of their number to retire from the battle. It was only because he was outnumbered that the ace Voss unfortunately lost his life.  

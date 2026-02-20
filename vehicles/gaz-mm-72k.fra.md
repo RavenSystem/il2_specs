@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 GAZ-MM truck made at the Molotov automobile factory in Gorky in 1943 with 25 mm 72-K automatic anti-air gun installed on the special wooden platform. This truck was an improved model of GAZ-AA with more powerful engine, better steering mechanism and reinforced suspension.  
   
 The development of the 25 mm automatic regimental AA gun began at the Kalinin factory in Leningrad in 1939. It was accepted into service in 1940 and its mass production begun in 1941. However, the production of towed platforms for these guns was problematic, so 72-K guns were installed on armoured train platforms, three-axle trucks GAZ-AAA and then on two-axle GAZ-MM ones.  

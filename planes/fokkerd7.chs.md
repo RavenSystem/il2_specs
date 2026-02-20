@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 福克（Fokker）D.VII是由福克飞机制造公司（Fokker-Flugzeugwerke）的雷因霍尔德·普拉茨（Reinhold Platz）设计的。他的任务是制造一款能够击败法国SPAD XIII和英国S.E.5a战斗机的战斗机。该机型的一些显著设计特点包括金属机身结构、厚截面机翼和缺乏支撑线。   
   
 1918年1月21日至2月12日，各种新型战斗机在阿德勒斯霍夫（Adlershof）举行了一场比赛，在比赛中，D.VII原型机被证明是速度最快、最耐用、爬升性能最好的飞机。安东尼·福克（Anthony Fokker）的密友曼弗雷德·冯·里希特霍芬（Manfred von Richthofen）也对原型机进行了评估，并指出了一些小瑕疵。他特别指出，飞机在长时间俯冲中表现出不稳定，后来得到了修正。设计的成功导致它在许多工厂生产，包括福克飞机制造公司、信天翁工厂和东德意志信天翁工厂。到战争结束时，即使不是终极战斗机，福克D.VII也将成为最好的战斗机之一。到1918年底，总共生产了2029架飞机并派往前线。   

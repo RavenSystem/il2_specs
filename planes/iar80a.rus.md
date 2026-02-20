@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/iar80a.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80a.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 151..162 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 143..151 км/ч  
 Предельная скорость в пикировании: 750 км/ч  

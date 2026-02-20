@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Dieses Flugzeug wurde von den Pfalz Flugzeugwerken in Speyer am Rhein entwickelt. Deutsche Ingeneure ware fasziniert vom berühmten französischem Nieuport 11 Kampfflugzeug, entwickelt als ein Flugzeug mit eineinhalb Tragflächen. Ihr Design basierte nun auf der Leistung der französischen Ingeneure. Erste Testflüge fanden im Mai 1917 statt. Das Design: Maschinengewehre zu beiden Seiten des Triebwerks, die Querruder-Seilzüge wurden in der unteren Tragfläche angebracht. Ein halbes Jahr nach Baubeginn bekam die Pfalz D.IIIa ein leistungsstärkeres Triebwerk, ein größeres Leitwerk, eine modifizierte untere Tragfläche und die Maschinengewehre  wurde etwa in Augenhöhe des Piloten angebracht. Stückzahlen: 1.010 Pfalz D.III und Pfalz D.IIIa wurden insgesamt gebaut.  
   
 Im Juni 1917 wurden die ersten Maschinen in Dienst gestellt. Die Pfalz wurde als Bombereskorte und als Kampfflugzeug gegen feindliche Flugzeuge und Ballons eingesetzt. Piloten lobten die gute Sicht, die exzellente Manövrierfähigkeit, stabile Lage beim Feuern und auch die Steiggeschwindigkeit. Manche Piloten behaupteten sogar, das die Steuerung besser sei als die der ALbatros D.V. Steile Sturzflüge und harte Landungen bestätigten die Strukturfestigkeit. Diese Flugzeug nahm an Kämpfen an der Westfront sowie an der türkischen Front teil.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 哈尔伯施塔特（Halberstadt）CL.II的设计是对1916年8月德意志帝国空中力量管理局发布招标规格的回应，该规格是针对新型160-180 HP发动机的“轻型C型”。   
   
 其目的是创造一种双座护航战斗机，以保护更重的观测飞机免受协约国战斗机的攻击。1916年11月，管理局订购了三架采用梅赛德斯（Mercedes）D.III发动机的哈尔伯施塔特CL.II原型机，并于1917年4月推出了第一架成机。经过几次机翼设计的变更后，该型飞机于1917年5月2日至7日在阿德尔斯多夫（Adlesdorf）进行了最终测试。   

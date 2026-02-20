@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/breguet14.png"></td><td style="text-align: center"><img src="../pilots_notes/breguet14.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/breguet14.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Ein zweisitziger Doppeldecker entwickelt von der gleichnamigen Firma. Der Prototyp flog erstmals im April 1917. Die Rumpfstruktur war teils aus Duralumin teils aus Stahl, damit wurde eine  enorme Festigkeit erreicht. Mehrere Fabriken bauten dieses Flugzeug: Michelin, Bellanger, Renault, Farman, Schmitt, Darracq, wobei auch verschiedene Triebwerke verbaut wurden. Zuerst gab es Triebwerke von Renault, dann Fiat und später Liberty-Triebwerke. Diese zuverlässigen Triebwerke machten die Breguet 14 zum schnellsten zweisitzigen Bomber des 1. Weltkrieges.  
   
 Die erste Serie des Flugzeugs wurde dem französischen Army Corps im Mai 1917 zur Verfügung gestellt. Im Vergleich mit der Sopwith-Strutter war die Breguet 14.B2 schneller, konnte schneller steigen, mehr Bomben tragen und hatte eine bessere Struktur. Im April 1918 taten 225 Flugzeuge dieses Typs ihren Dienst in 50 französischen und in einer amerikanischen Squadron.  

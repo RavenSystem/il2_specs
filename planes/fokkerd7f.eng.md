@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7f.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7f.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7f.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 The Fokker D.VII was designed by Reinhold Platz of the Fokker-Flugzeugwerke. His task was to create a fighter capable of beating the French SPAD XIII and British S.E.5a fighters. Some notable design features of the type included a metal airframe structure, a thick-sectioned wing, and a lack of bracing wires.  
   
 A competition among various new fighters took place in Adlershof from January 21st to February 12th, 1918, during the course of which the D.VII prototype proved to be the fastest, most durable, and the best-climbing aircraft. Manfred von Richthofen, a close friend of Anthony Fokker, also evaluated the prototype and noted some minor flaws. In particular, he noted the aircraft exhibited instability in a long dive, which was later corrected. The success of the design led to it being produced at a number of factories, including Fokker Flugzeugwerke, Albatros Werke, and the Ostdeutsche Albatros Werke. The Fokker D.VII would become one of the best - if not ultimately the best - fighter by the end of the war. In total, 2029 planes were produced and sent to the front by the end of 1918.  

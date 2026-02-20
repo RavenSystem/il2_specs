@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 La construcción del Sopwith Camel se basó en la de su predecesor, el Sopwith Pup. El diseñador jefe de Sopwith, Herbert Smith, decidió que había que modificar algo del diseño del Pup, puesto que el nuevo motor que tenía que ser montado era más grande y pesado. Se realización cambios en las riostras del tren de aterrizaje, el espacio de las alas y estabilizadores fueron aumentados, y el fuselaje adquirió una extensión hasta el borde posterior de la cabina con forma de joroba de camello, de ahí su nombre - Sopwith Camel. Un detalle notable de la construcción del avión fue su compacidad: el asiento del piloto, tanques de combustible, ametralladoras y motor estaban instalados muy juntos.  
   
 Paralelamente al trabajo en la principal fábrica de Sopwith, el avión fue también ensamblado por otras compañías como Ruston Proctor Co, Portholme Aerodrome Ltd, Boulton & Paul Ltd, British Caudron Co. Ltd, Clayton & Shuttleworth Ltd, Hooper & Co. Ltd y otras. En total, cerca de 5490 Camel fueron construidos. Las primeras pruebas fueron realizadas por el escuadrón británico No. 60, en marzo de 1917, seguidas de algunas mejoras en la construcción del avión. La producción del avión fue destinada a los escuadrones de cazas en mayo de 1917. Se utilizó principalmente para destruir aviones enemigos y globos; y de vez en cuando para ataques a objetivos en tierra. Los periodistas ingleses se referían a él como una «pequeña y ágil bestia».  

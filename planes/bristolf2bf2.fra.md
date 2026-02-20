@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bristolf2bf2.png"></td><td style="text-align: center"><img src="../pilots_notes/bristolf2bf2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/bristolf2bf2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 La conception du Bristol F.2B débuta en mars 1916, avec pour but de remplacer les vieux biplaces de reconnaissance du type BE. En outre, le nouveau type d\avion devait aussi pouvoir être utilisé pour des patrouilles de combat. Muni de double commandes, d\une TSF et d\un équipement photographique, l\avion était armé d\une mitrailleuse Vickers fixe traversant le radiateur et d\un arceau-tourelle arrière doté d\une ou deux mitrailleuses Lewis.  
   
 Le premier prototype Bristol F.2A vola en septembre 1916, équipé d\un moteur Rolls Royce Mk.1. Après des essais en vol réussis, la mise en production fut décidée. L\escadrille N°48 fut la première unité opérationnelle en France équipée de Bristols, qui débarquèrent au front le 8 mars 1917.  

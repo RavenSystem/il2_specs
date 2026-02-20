@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 飞行构型的失速指示空速：168~185 km/h  
 起降构型的失速指示空速：147~159 km/h  
 俯冲极速：720 km/h  

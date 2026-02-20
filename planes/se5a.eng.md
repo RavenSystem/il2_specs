@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 The S.E.5a (single-seat fighter, Scout Experimental 5a) was designed by the British company known as R.A.F. (Royal Aircraft Factory). The goal was to build a fighter around the 200hp Hispano-Suiza engine, which would make it to be fast and have a high climbing speed. To achieve this goal, engineers had to settle on a compromise. By making the wing profile thin, they simultaneously increased its surface area. This design featured ailerons in both the upper and lower wings. In total, 5269 planes were built by the end of the war.  
   
 The plane’s first trial flight was performed in January 1917, and it saw action in June 1917 at the British No. 56 Squadron RFC. It was used to engage enemy fighters and balloons and to escort bombers; only rarely was it used to engage ground targets near the front lines. In evaluating the aircraft, pilots mentioned its structural durability, sufficient manoeuvrability, stability in dives and when firing machine guns, fine handling, and good sensitivity of controls at low speeds. When landing at high speed, the plane could not touch down due to its high wing lift. It is notable that most of the top British aces flew this type of plane. It was even given a nickname - “ace-maker.”  

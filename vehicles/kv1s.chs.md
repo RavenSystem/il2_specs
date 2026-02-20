@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 该型坦克由车里雅宾斯克坦克厂设计局在1942年夏季设计。1942年末在顿河和沃罗涅日方面军中首次参加战斗。  
   
 该坦克设计基于其前身KV-1重型坦克。由于KV-1较低的机动性和可靠性，KV-1s（“s”的意思是“skorostnoy”-快速）被设计以减少的装甲防护为代价换取更好的可靠性和机动性。  

@@ -89,30 +89,37 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 "chs")
                 IL2_DESCRIPTION="描述"
                 IL2_MODIFICATIONS="修改"
+                IL2_MANUAL="文档"
                 ;;
                 "eng")
                 IL2_DESCRIPTION="Description"
                 IL2_MODIFICATIONS="Modifications"
+                IL2_MANUAL="Document"
                 ;;
                 "fra")
                 IL2_DESCRIPTION="Description"
                 IL2_MODIFICATIONS="Modifications"
+                IL2_MANUAL="Document"
                 ;;
                 "ger")
                 IL2_DESCRIPTION="Beschreibung"
                 IL2_MODIFICATIONS="Änderungen"
+                IL2_MANUAL="Dokument"
                 ;;
                 "pol")
                 IL2_DESCRIPTION="Opis"
                 IL2_MODIFICATIONS="Modyfikacje"
+                IL2_MANUAL="Dokument"
                 ;;
                 "rus")
                 IL2_DESCRIPTION="Описание"
                 IL2_MODIFICATIONS="Модификации"
+                IL2_MANUAL="документ"
                 ;;
                 "spa")
                 IL2_DESCRIPTION="Descripción"
                 IL2_MODIFICATIONS="Modificaciones"
+                IL2_MANUAL="Documento"
                 ;;
             esac
             
@@ -141,7 +148,24 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 TABLE_DETAILS="$TABLE_DETAILS><img src=\"..\/cockpits\/$COCKPIT_IMAGE\">"
             fi
             
-            TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>"
+            TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>\n"
+            
+            # Real Manuals
+            for NUMBER in {01..99}; do
+                IS_FIRST_MANUAL=1
+                for IL2_MANUAL_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
+                    if [ -f "$TARGET_DIR/real_manuals/$NEW_VEHICLE_NAME.$NUMBER.$IL2_MANUAL_LOCALE.pdf" ]; then
+                        if [ $IS_FIRST_MANUAL -eq 1 ]; then
+                            IS_FIRST_MANUAL=0
+                            TABLE_DETAILS="$TABLE_DETAILS\n- $IL2_MANUAL $NUMBER "
+                        fi
+                        
+                        TABLE_DETAILS="$TABLE_DETAILS[ [$IL2_MANUAL_LOCALE](..\/real_manuals\/$NEW_VEHICLE_NAME.$NUMBER.$IL2_MANUAL_LOCALE.pdf) ] "
+                    fi
+                done
+            done
+            
+            TABLE_DETAILS="$TABLE_DETAILS\n\n## $IL2_DESCRIPTION"
             
             sed -i.bak -e "s/&description=/\n$TABLE_DETAILS\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
@@ -209,9 +233,10 @@ printf "
 ## Credits
 
 - Planes and vehicles specifications texts are taken directly from in-game data of [Il-2 Sturmovik Great Battles](https://il2-series.com).
-- Pilot Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
-- Pilot Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
+- Pilots Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
+- Pilots Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
 - Cockpits images of WWII planes are from Il-2 Battle of Stalingrad: User Manual and [Luke \"LukeFF\" Wallace](https://forum.il2-series.com/profile/5-lukeff/).
 - Cockpits images of WWI planes are from Rise of Flight: User Manual.
+- Historical documents are from archive.org, scribd.com and internet forums.
 
 " >> "$TARGET_DIR/README.md"

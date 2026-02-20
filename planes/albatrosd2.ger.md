@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd2.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Als erstgeborenes Mitglied der Ruhmeshalle der Albatros Jagdflugzeuge wurde der Name Symbol und Sinnbild für Jagdeinsitzer des ersten Weltkrieges. Das Flugzeug stellte die nächste Evolutionsstufe im Flugzeugbau dar und wurde unter der Leitung von Robert Thelen entwickelt. Zusätzlich zu der vorhandenen klaren aerodynamischen Form wurde das neue Model zusätzlich mit mittigen N-förmigen Streben ausgerüstet. Die obere Tragfläche wurde näher zum Rumpf installiert, auf Augenhöhe des Piloten. Fruhe Versionen dieses Typs waren mit kastenformigen Windhoff-Kuhlern ausgestattet, auf beiden Seiten des Rumpfes.  
 Das Flugzeug wurde von Fabriken der folgenden Herstellern produziert: Albatros Werke , Ostdeutsche Albatros Werke , Luft-Verkehrs-Gesellschaft mbH. Insgesammt wurden 768 Albatros D.II gebaut.  
 Im August 1916 erreichten die ersten Chargen von Albatros D.I und D.II Jagdeinsitzern die Front. Zwei Spandau Mgs wurden zur Standardbewaffnung für alle nachfolgenden Deutschen Jagdflugzeuge. Als Piloten mit Luftkampf- und Kunstflugerfahrung diese Maschinen in die Hände bekamen, errang die D.II große Erfolge in der Lufthoheit. Die rapide Massenproduktion der Albatros Jagdeinsitzer ermöglichte die Überlegenheit der Deutschen Luftstreitkräfte die bis zum April 1917 andauerte. "Bloody April" wurde zum Synonym für die schweren Britischen Verluste an Piloten und Flugzeugen im Jahr 1917.  

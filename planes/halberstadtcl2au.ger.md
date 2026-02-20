@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Die Entwicklung der Halberstadt CL.II war eine Antwort auf eine im August 1916 herausgegebene Anforderung der Idflieg (Inspektion der Fliegertruppen) für einen neuen "leichten C-Typen" mit einem 160 bis 180 PS starken Motor.  
   
 Zweck war es, ein zweisitziges Begleitjagdflugzeug zum Schutze schwerer Aufklärer vor Angriffen alliierter Jäger zu entwickeln. Im November 1916 ordnete die Idflieg den Bau dreier Prototypen der Halberstadt CL.II mit Mercedes D.III als Motor an, sodass das erste fertige Flugzeug im April 1917 die Montagehalle verließ. Nach geringen Veränderungen im Aufbau der Flügel ging der Typ vom 2. zum 7. Mai 1917 nach Adlesdorf in die abschließende Erprobung.  

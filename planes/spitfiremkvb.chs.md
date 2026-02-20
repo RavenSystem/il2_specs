@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkvb.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkvb.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 飞行构型的失速指示空速：137~144 km/h  
 起降构型的失速指示空速：129~135 km/h  
   

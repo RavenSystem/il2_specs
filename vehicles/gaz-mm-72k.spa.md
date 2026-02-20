@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Camión GAZ-MM fabricado en la Planta de Automóviles Molotov de Gorki (GAZ, <i>Gorkovsky Avtomobilny Zavod</i>) en 1943 con cañón automático antiaéreo de 25 mm modelo 72-K instalado en la plataforma especial de madera. Este camión era un modelo mejorado del GAZ-AA con un motor más potente, mejor sistema de dirección y suspensión reforzada.  
   
 El desarrollo del cañón automático antiaéreo de 25 mm para regimientos comenzó en la fábrica Kalinin de Leningrado en 1939. Fue aprobado para entrar en servicio en 1940 y su producción en masa comenzó en 1941. Sin embargo, la producción de remolques para estos cañones era problemática, por lo que estos 72-K se instalaban en plataformas  blindadas de trenes, camiones de tres ejes GAZ-AAA y posteriormente en los GAZ-MM de dos ejes.  

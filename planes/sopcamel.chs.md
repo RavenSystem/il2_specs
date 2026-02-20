@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 索普维斯“骆驼”（Sopwith Camel）的结构基于其前身索普维斯“幼犬”（Sopwith Pup）的构造。索普维斯的首席设计师赫伯特·史密斯（Herbert Smith）决定略微改变幼犬的设计，因为必须安装更新、更大、更重的发动机。起落架支柱做了一些改动，机翼和安定面的间距增加，机身延伸到驾驶舱的后缘，看起来有点像骆驼的驼峰。那个“驼峰”就是飞机的名字——索普维斯“骆驼”。   
   
 飞机结构的一个显著细节是它的紧凑性：飞行员的座椅、油箱、机枪和发动机都安装得非常紧密。除了主要的索普维斯工厂之外，该飞机也由其他一些公司组装，如拉斯顿普罗克特公司（Ruston Proctor Co）、波特霍尔姆机场有限公司（Portholme Aerodrome Ltd）、博尔顿&保罗有限公司（Boulton & Paul Ltd）、英国高登有限公司（British Caudron Co. Ltd）、克莱顿&沙特尔沃思有限公司（Clayton & Shuttleworth Ltd）、胡珀有限公司（Hooper & Co. Ltd）等。总共建造了约5490架骆驼。1917年3月，英国第60中队进行了骆驼的首次飞行试验，随后对飞机的结构进行了一系列小的改进。量产飞机于1917年5月首次交付给战斗机中队。它主要用于摧毁敌机和空中气球，同时还不时的用于对地攻击行动。英国记者称这架飞机为“小巧灵活的野兽”。   

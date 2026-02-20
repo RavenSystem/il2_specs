@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Vitesse de décrochage indiquée en configuration de vol : 161..179 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 153..170 km/h  
 Vitesse limite de piqué : 850 km/h  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.eng.jpg"></td></tr></tbody></table>  
 
+
+## 描述  
+
 The Airco D.H.2 was a single-seat fighter and the second project of designer Sir Geoffrey de Havilland. With this design, he capitalized on the development of the "pusher" propeller concept, where the propeller is situated behind the pilot. This design eliminated the need for a synchronised machine gun, which was introduced only at the end of 1916: the prototype of the D.H.2 made its first flight in July 1915. In February 1916, No. 24 Squadron of the Royal Flying Corps became the first unit to be equipped with the type, when it began active service in France.  
   
 The Lewis machine gun was mounted in a nacelle and was initially difficult to aim. The movable gun mount forced the pilot to simultaneously control the aircraft and aim the machine gun by hand, which made combat even more difficult. Later on, pilots began to lock the gun down in a fixed position pointing forward. As a result, pilots could aim the weapon by manoeuvring the aircraft, which was found to be more effective than attempting to aim the machine gun manually during combat.  

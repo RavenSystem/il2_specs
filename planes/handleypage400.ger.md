@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Diese Flugzeug war die Weiterentwicklung des HP O/100-Designs. Zwei Treibstofftanks wurden von den Triebwerksgondeln entfernt und in den Rumpf gebaut. Mittlere Tanks wurden oberhalb des Rumpfs installiert. Hohle Sparren wurden für die Tragflächen benutzt, das Fahrwerk wurde mit Zugschlaufen versehen und die Triebwerke mit Panzerplatten versehen. Differentialschub für  das linke und das rechte Triebwerk wurde durch die zentrale Flosse ausgeglichen. New Eagle VIII Triebwerke ließen zudem eine höhere Bombenladung zu. Neben der Muttergesellschaft wurde das Flugzeug noch von weiteren Werken gebaut: Royal Aircraft Factory, Boulton and Paul, Metropolitan Carriage Wagon, Birmingham Carriage Co. Insgesamt 554 Flugzeuge wurden bis zum Ende des Krieges in England gebaut.  
 Das Flugzeug wurde im September 1917 zum erstenmal an der Front eingesetzt. Es wurden damit  Bahnhöfe, Vorratslager, Fabriken und Häfen während der Nacht bombardiert. Piloten lobten die einfache Handhabung, den einfachen Startvorgang, die Steuerung war etwas hart und verzögert.  
 Dieses Flugzeug wurde an der Westfront und in Palästina eingesetzt.  

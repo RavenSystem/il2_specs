@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/u2vs.png"></td><td style="text-align: center"><img src="../pilots_notes/u2vs.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 63..70 km/h  
 Velocidad de picado límite: 240 km/h  
 Carga de rotura máxima (en fuerzas <i>g</i>): 6,5 <i>g</i>  

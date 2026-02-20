@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh2.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh2.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Airco D.H.2, un caza monoplaza, fue el segundo proyecto del diseñador Sir Geoffrey de Havilland, que mejoraba el concepto de la hélice propulsora, situada tras el piloto. Este diseño permitia construir el avión sin la necesidad de sincronizar la ametralladora, que no sería implementada hasta finales de 1916. El prototipo del D.H.2 realizó su primer vuelo en julio de 1915. Poco después entró en servicio y fue entregado al Escuadrón n.º 24 del <i>Royal Flying Corps</i>, con el que inició su servicio activo en territorio francés en febrero de 1916.  
   
 La ametralladora Lewis se instaló en una góndola móvil con la que era dificil apuntar. Al ser móvil obligaba al piloto a tener que preocuparse de la posición del arma al mismo tiempo que pilotaba el avión, lo que dificultaba aún más el combate. Más tarde los pilotos comenzaron a fijar la ametralladora en una posición fija apuntando hacia delante. Como resultado, los pilotos podían apuntar el arma maniobrando el avión, lo que resultó ser más eficaz que intentar apuntar la ametralladora manualmente durante el combate.  

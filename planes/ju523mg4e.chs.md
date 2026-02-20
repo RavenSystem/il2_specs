@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></tbody></table>  
 
+
+## 描述  
+
 飞行构型的失速指示空速：105~117 km/h  
 起降构型的失速指示空速：92~109 km/h  
 俯冲极速：330 km/h  

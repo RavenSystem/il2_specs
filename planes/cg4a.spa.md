@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 65..86 km/h  
 Velocidad de picado límite: 241 km/h  
 Carga de rotura máxima (en fuerzas <i>g</i>): 3,5 <i>g</i>  

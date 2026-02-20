@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/re8.png"></td><td style="text-align: center"><img src="../pilots_notes/re8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/re8.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Die R.E.8 wurde als Nachfolger für die veraltete B.E.2c entworfen. Die Bewaffnung bestand aus einem synchronisierten Maschinengewehr nach vorn und einem Beobachtersitz hinter dem Piloten. Dies war eine Abkehr vom Konzept der B.E.2, bei der der Beobachter vor dem Piloten untergebracht war. Das ergab einige umständliche und gefährliche MG-Positionen, besonders beim Feuern nach hinten.  
 Die R.E.8 war mit einem luftgekühlten 12-Zylinder-V-Motor, dem RAF4a, ausgestattet. Das Flugzeug war bestimmt zum Aufnehmen eines Funkgerätes und photographischem Zubehör zu Aufklärungs- und Artilleriefeuerleitaufgaben. Ebenso konnte eine kleine Ladung Bomben unter den Flügeln mitgenommen werden.  
 Für ihre Zeit ein sehr vielseitiges Flugzeug. Die ersten Ausführungen erreichten die Front Ende 1916, wurden von den Piloten jedoch nicht mit großem Enthusiasmus angenommen. Sie war schwierig zu fliegen und verzeihte nur wenige Fehler. Ungeschickte Handhabung im Flug konnte sie in tödliches Flachtrudeln bringen. Die ersten Einheiten an der Front, die die R.E.8 bekamen, griffen wieder auf die kampferprobte B.E.2 zurück. Nach und nach gelangte die R.E.8 in den Fronteinsatz, ihr Debut war jedoch nicht ermutigend.  

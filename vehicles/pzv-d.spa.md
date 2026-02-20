@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Desarrollado por la compañía MAN en 1942, entró en acción durante la batalla de Kursk en 1943. El carro de combate contaba con un poderoso cañón principal, un grueso blindaje frontal y buena movilidad a costa de la protección en sus laterales.  
   
 Para lograr una mejor distribución del peso y proteger sus laterales, sus ruedas estaban intercaladas y solapadas entre sí, haciendo muy difícil las reparaciones del tren de rodaje, lo que en condiciones de combate real llevaba a menudo a la pérdida del tanque. El recorrido de comprensión de la suspensión era muy grande y significativamente más suave que en otros carros, por lo que los viajes resultaban más confortables. Una unidad de suspensión incluía dos barras de torsión (32 barras en total). La fiabilidad de estas máquinas, especialmente al principio de su producción, era pésima: solo 4 de 174 carros fueron enviados a la línea del frente en abril de 1943; el resto fue devuelto a las fábricas de origen para su revisión.  

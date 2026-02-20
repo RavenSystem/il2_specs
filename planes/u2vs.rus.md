@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/u2vs.png"></td><td style="text-align: center"><img src="../pilots_notes/u2vs.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 63..70 км/ч  
 Предельная скорость в пикировании: 240 км/ч  
 Разрушающая перегрузка: 6,5 единиц  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17gbr.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17gbr.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17gbr.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Nieuport 17 fue concebido como un desarrollo mejorado del Nieuport 11, así que cuando llegó al campo de batalla en marzo de 1916, reemplazó rápidamente a este último. A finales de 1916, todos los escuadrones de la Aviación Militar francesa estaban equipados con los Nieuport 17. Comparado con su predecesor, tenía una envergadura de ala y superficie alar mayor, un motor más potente, una ametralladora Vickers instalada delante de la cabina, y cables metálicos para el control de los alerones. Inicialmente, el aeroplano fue construido en diversas fábricas francesas, pero pronto su licencia fue adquirida por otros países, como Gran Bretaña, Rusia, Italia, Finlandia y Japón.  
   
 Los pilotos destacaron su buena velocidad de ascenso y visibilidad, así como su excelente maniobrabilidad. El potente motor del avión y su alta velocidad de picado evidenciaron el principal inconveniente del diseño de «ala y media», que contaba tan solo con un larguero en el ala inferior, por dos del ala superior. Existen dos casos conocidos de pilotos que lograron aterrizar después de haber perdido las alas inferiores. La introducción de la ametralladora Vickers fue recibida con ambigüedad. Algunos pilotos la quitaron y la reemplazaron por una Lewis montada en el ala superior. Otros, en cambio, utilizaron ambas simultáneamente, aunque esto disminuyese de alguna manera la maniobrabilidad del avión.  

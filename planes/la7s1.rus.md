@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Приборная скорость сваливания в полётной конфигурации: 168..185 км/ч  
 Приборная скорость сваливания в посадочной конфигурации: 147..159 км/ч  
 Предельная скорость в пикировании: 720 км/ч  

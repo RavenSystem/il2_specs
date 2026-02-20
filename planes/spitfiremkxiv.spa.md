@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxiv.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxiv.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 152..172 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 145..163 km/h  
   

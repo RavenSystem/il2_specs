@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 L\Halberstadt CL.II fut imaginé en réponse aux spécifications demandées par l\Idflieg (Inspection des Troupes Aériennes) en Août 1916 pour un nouveau "type C léger" équipé d\un moteur de 160-180 cv.  
 Le but était de créer un chasseur escorteur bi-place pour protéger les avions d\observation plus lourds d\éventuelles attaques de chasseurs Alliés. En Novembre 1916 l\Idflieg commanda trois prototypes de l\Halberstadt CL.II avec moteur Mercedes D.III, ainsi le premier avion achevé sortit en avril 1917, et après quelques changements de conception d\aile, il subissait les tests finaux à Adlesdorf du 2-7 Mai 1917.  
 Les premières machines livrées en service au front débuta en Août 1917, étant fournies principalement au Schutzstaffeln (vol de protection), et au Schlachtstaffeln (vol d\attaque au sol). Son taux de grimpée et sa manœuvrabilité était excellente, et de l\avis de ses équipages, très proche des chasseurs comme les Albatros D.III/V. Alors que l\avion était équipé d\installations photographiques et radio, et principalement utilisé comme chasseur escorteur, il fut aussi utilisé comme avion d\attaque au sol. Grâce à sa bonne manœuvrabilité et son aptitude à changer rapidement de niveau de vol, il était capable d\éviter les tirs ennemis du sol en infligeant des dégâts aux troupes ennemies et autres installations du front.   

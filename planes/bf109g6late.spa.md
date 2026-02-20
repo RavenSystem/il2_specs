@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Velocidad indicada de pérdida en configuración de vuelo: 161..179 km/h  
 Velocidad indicada de pérdida en configuración de despegue/aterrizaje: 153..170 km/h  
 Velocidad de picado límite: 850 km/h  

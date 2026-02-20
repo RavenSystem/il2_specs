@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/iar80b.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80b.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 154..162 km/h  
 Indicated stall speed in takeoff/landing configuration: 143..151 km/h  
 Dive speed limit: 750 km/h  

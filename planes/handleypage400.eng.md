@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 This aircraft was the next step in improving of HP O/100 design. Two fuel tanks were moved from engine nacelles into the fuselage and the alternate tank was mounted in the upper section above them. Hollow spars were used in wings, gears were fitted with towing lugs and radiator shutters were fitted in the factory. The engines were covered by armor plates. Differential thrust of the engines was compensated by central tail fin. New Eagle VIII engines allowed an increased bomb load. Besides the head company, this bomber was manufactured by: Royal Aircraft Factory, Boulton and Paul, Metropolitan Carriage Wagon, Birmingham Carriage Co. 554 planes were built in GB by the end of the war.  
 This aircraft appeared on the frontline in September 1917. These planes were used to bomb railway stations, supply depots, factories and ports during night. Pilots mentioned that the plane handled nicely, was easy on takeoff, controls were a little stiff and felt a little delayed.  
 Aircraft of this type participated in combat on Western and Palestinian fronts.  

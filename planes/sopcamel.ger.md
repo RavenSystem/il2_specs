@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Die Sopwith Camel basierte auf der Konstruktion des Vorgängers der Sopwith Pup. Unter der Vorgabe, dass eine neues und auch schwereres Triebwerk eingebaut werden sollte, nahm Chefdesigner Herbert Smith einige Änderungen an dem Design vor. Veränderungen wurden am Fahrwerk, an den Tragflächen, am Stabilisator und auch am Rumpf mit dem sogenannten Kamelhöcker vorgenommen. Dieser gab dem Flugzeug dann auch seinen Namen — Sopwith Camel. Ein bemerkenswertes Merkmal war die Kompaktheit: Pilotensitz, Tanks, Maschinengewehre und Triebwerk waren alle kompakt untergebracht. Neben dem Hauptwerk, wurde das Flugzeug gleichzeitig in weiteren Werken gebaut, Ruston Proctor Co, Portholme Aerodrome Ltd, Boulton & Paul Ltd, British Caudron Co. Ltd, Clayton & Shuttleworth Ltd, Hooper & Co. Ltd und anderen. Insgesamt wurden 5.490 Flugzeuge gebaut.  
   
 Erste Tests wurden von der British Squadron N60 im März 1917 durchgeführt. Anschließend flossen kleine Veränderungen in die Fertigung der Sopwith Camel ein. Die Sopwith Camel wurde im Mai 1917 an die Schwadrone ausgeliefert. Sie wurde im Kampf gegen feindliche Flugzeuge und Ballons eingesetzt; ab und zu auch in Einsätzen gegen Bodenziele.  Englische Journalisten nannten dieses Flugzeug auch "das kleine und agile Biest".  

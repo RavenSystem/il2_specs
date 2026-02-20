@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd12.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd12.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd12.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 En el diseño de la siguiente modificación del Pfalz, los ingenieros de la compañía decidieron utilizar un ala de sección delgada similar a la del SPAD VII. Este ala satisfizo las necesidades de las tácticas de combate utilizadas por los pilotos alemanes: Caer en picado, disparar al enemigo y ascender a la anterior altitud. El diseño también incluyó áreas de superficie iguales en las alas superior e inferior. Además, el avión estaba equipado con un radiador montado en el morro del avión, similar al Fokker D.VII. y fue el primer caza equipado con un radiador de tubo (que posteriormente sería rediseñado debido a problemas de refrigeración). Se construyeron un total de 800 aviones de este modelo.  
   
 El primer vuelo fue realizado a finales de febrero de 1918 en Adlershof. En junio de 1918, en las competiciones de caza en Adlershof, el avión (provisto de un motor BMW IIIa) logró el segundo lugar en la prueba de velocidad de ascenso -¡5 km en 17,6 min! Después de esto, fue enviado al frente para probarlo en combate. Un piloto destacó la buena visibilidad de cabina, especialmente hacia abajo, y en los picados, superaba en velocidad al Fokker D.VII. Sin embargo, era menos maniobrable y sus controles eran más pesados. El 30 de junio de 1918, el avión entró en servicio con los escuadrones de combate. A menudo se utilizaba junto con el Fokker D VII, volando a menor altitud que el Fokker D VII, con mejor tasa de ascenso. Fue asignado principalmente a pilotos novatos y a escuadrones de apoyo.  

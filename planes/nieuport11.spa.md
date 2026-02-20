@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/nieuport11.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport11.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport11.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Nieuport 11 <i>Bébé</i> (bebé, en francés) fue un desarrollo avanzado de los conceptos propuestos por Gustave Delage, diseñador del Nieuport 10. En términos generales, el <i>Bébé</i> fue diseñado como un caza monoplaza sesquiplano. El ala inferior, con un solo larguero de refuerzo y con una superficie de ala menor que el plano superior, estaba sujeto al mismo mediante refuerzos entre planos en forma de V. Una desventaja de este diseño era la baja resistencia estructural que tenía el plano inferior, que tendía a flexar y doblarse cuando se sometía a fuertes cargas alares. Problemas similares fueron comunes a otros sesquiplanos, incluyendo la familia entera de Nieuport desde el 10 al 23, el Albatros D.III y D.V, etc.  
   
 Los primeros Nieuport 11 llegaron al frente francés en enero de 1916. El <i>Bébé</i> pronto se convirtió en un formidable adversario para el monoplano Fokker Eindecker, al que superaba en casi todas las características. La presencia de alerones y el uso de elevadores vinculados a un plano de cola convencional, con estabilizador vertical y timón deflector, mejoró de forma importante la maniobrabilidad y la precisión de los controles en comparación con aviones de modelos más antiguos, equipados con controles de alabeo por flexión del ala y elevadores equilibrados del tipo Morane.  

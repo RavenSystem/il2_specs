@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fokkere3.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkere3.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkere3.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Der Fokker E.III ist ein einisitziger Jagdeindecker. Entworfen wurde das Flugzeug Anfang 1915 durch Anton Herman Gerard (Anthony) Fokker. Die Rollsteuerung wurde durch verdrehen des Anstellwinkels der Tragflächen implementiert, der sogenannten Flügelverwindung. Diese Art der Steuerung war typisch für alle frühen Luftfahrzeuge. Später wurde die unzuverlässige und ineffektive Flügelversteifung durch Rollsteuerung über die Querruder ersetzt.  
   
 Der Fokker E.III war mit einem Synchronisierungsgetriebe ausgestattet, eine revolutionäre Erfindung, welche den gesammten Luftkampf verändern sollte. Mit desem Sychronisierungsgetriebe war es möglich, durch den Propellerkreis zu feuern ohne den Propeller selbst zu beschädigen. Diese Vorrichtung erhöhte die Feuerkraft für Flugzeuge drastisch. Das Synchronisierungsgetriebe (oder auch Unterbrechungsgetriebe) kam zum Einsatz, nachdem Roland Garros seine Morane-Saulnier Typ L auf deutscher Seite notlanden musste und unbeschädigt in deutsche Hände geriet. Dieses Flugzeug war mit Ablenkblechen am Propeller ausgestattet, welche verhinderten, dass das ebenfalls durch den Propellerkreis feuernde Machinengewehr den Propeller beschädigte. Diese Bleche verringerten die Effizienz des Propellers stark, außerdem war ein solches Design für die deutschen Stahlmantelgeschosse ungeeignet. Daher entschied sich Fokker für eine andere Methode welche den Abzug des MGs über eine Nockenwelle mit mit der rotierenden Motorachse verband. Dies ermöglichte es, den Feuerzyklus zu unterbrechen, wenn sich ein Propellerblatt vor der Mündung befand.  

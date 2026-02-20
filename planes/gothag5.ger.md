@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/gothag5.png"></td><td style="text-align: center"><img src="../pilots_notes/gothag5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/gothag5.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Diese Flugzeug war die Weiterentwickling des Gotha G.IV. Kampfeinsätze zeigten das Tanks, in unmittelbarer Nähe zum Triebwerk angebracht, fatal waren. Die Tanks wurden daraufhin zum Rumpf des Flugzeugs verlegt. Eine Verknappung von Qualitätswerkstoffen führte zu einem größeren Gesamtgewicht des Flugzeuges. In dem hinteren Teil des Rumpfes ermöglichte ein MG-Tunnel das Schießen schräg nach hinten, unten. Um die Stabilität beim Rollen in  bei Start- und Landungephase zu erhöhen, wurde das Fahrwerk verkürzt und die Triebwerksgondel nach oben verlegt. Dieses sind die wichtigsten optischen Merkmale der V Serie. Im Oktober 1916 wurden 100 Bomber bestellt. Im August 1917 verließ die erste Gotha G.V das Werk der Gothaer Waggonfabrik AG. Insgesamt wurden 205 Flugzeuge der V Serie produziert.  
 Das Flugzeug wurde eingesetzt zur Bombardierung strategisch wichtiger Bodenziele, aber auch  London wurde bombardiert. Zum Ende des Krieges wurde die Gotha G.V als Nachtbomber eingesetzt, um den feindlichen Jägern zu entgehen .  
 Bei maximaler Beladung flog das Flugzeug stabil, nach einem Bomben-Abwurf wurde es jedoch instabil, die veränderte Gewichtsverteilung und das große Gewicht des Leitwerks machte sich dann ungünstig bemerkbar. Um dieses auszugleichen, kletterte der Heckschütze nach vorn ins Cockpit. Später versetzte man die Tragflächen 20 cm weiter nach hinten. Beim Landen zeigte das Flugzeug eine Tendenz zum Drehen, die erst beim Kontakt mit dem Boden aufhörte. Im Februar 1918 wurde ein zusätzliches Fahrwerk angebracht, um die Landungen sicherer zu gestalten. Das Flugzeug wurde an der Westfront eingesetzt.  

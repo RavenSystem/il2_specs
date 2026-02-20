@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Vitesse de décrochage indiquée en configuration de vol : 168..185 km/h  
 Vitesse de décrochage indiquée en configuration de décollage/atterrissage : 147..159 km/h  
 Vitesse limite de piqué : 720 km/h  

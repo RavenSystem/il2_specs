@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Developed by Henschel company in 1942, first combat action took place on Leningrad front in August 1942.  
   
 The tank was famous for its powerful armour and square look. Its wheels are placed in a checkered pattern to optimize ground pressure and provide additional protection for the hull sides, but this made the chassis repair complicated and often lead to a loss of a damaged tank.  

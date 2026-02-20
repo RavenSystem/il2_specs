@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s29.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s29.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/lagg3s29.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 163..189 km/h  
 Indicated stall speed in takeoff/landing configuration: 138..168 km/h  
 Dive speed limit: 750 km/h  

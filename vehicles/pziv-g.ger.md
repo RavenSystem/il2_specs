@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Dieser Pz.Kpfw. IV Ausf.G mit 75 mm KwK 40/L48 Kanone wurde im Juni 1943 in den Nibelungenwerken hergestellt. Der Hauptunterschied der "Ausf.G"-Modifikation gegenüber den Vorgängermodellen war eine neue Kanone - längerer (+5 Kaliber) Lauf, aber mit festem Drall anstelle des variablen.  
   
 Der offensichtlichste optische Unterschied war das Hinzufügen von Seitenpanzerplatten, "Schürzen", die an der Wannen- und Turmseite angebracht wurden. Sie wurden hauptsächlich hinzugefügt, um den Panzer vor massivem Anti-Panzer-Gewehrfeuer zu schützen, was für die dünner gepanzerten Seiten gefährlich war. Da sie ein panzerbrechendes Geschoss nicht aufhalten konnte, destabilisierte diese zusätzliche Panzerung es oder verursachte seine Fragmentierung, bevor es auf den Hauptpanzer treffen konnte.  

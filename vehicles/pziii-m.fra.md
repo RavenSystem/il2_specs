@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Pz.Kpfw. III Ausf.M was similar to the previous modification Ausf.L. Some internal, chassis, engine compartment and other elements were altered based on the service experience.  
   
 The most apparent visual difference was the addition of side armor plates, "Schürzen", which were attached to the hull and turret sides. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  

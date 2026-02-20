@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Pfalz D.III fue diseñado por Pfalz Flugzeugwerke. Los ingenieros alemanes estaban impresionados por el famoso caza francés Nieuport, diseñado con alas «una y media». Por ello, el diseño de Pfalz se basó en los logros de los ingenieros franceses. El primer vuelo de prueba se realizó en mayo de 1917. El diseño se caracterizó por incluir ametralladoras montadas a ambos lados del motor y por situar los cables de control de los alerones en el ala inferior. Un año y medio después, se desarrolló el Pfalz D.IIIa. Contaba con un motor más potente, un timón de cola más grande, cambios en la forma del ala inferior y ametralladoras montadas en la línea de vista del piloto. En total se construyeron 1010 Pfalz D.III y Pfalz D.IIIa.  
   
 En junio de 1917 los primeros Pfalz D.III entraron en servicio con escuadrones de combate. El avión fue utilizado como escolta de bombarderos y para interceptar cazas y globos enemigos. Los pilotos destacaron su excepcional visibilidad en cabina, buena maniobrabilidad, estabilidad al disparar las ametralladoras y buena velocidad y tasa de ascenso. Algunos pilotos afirmaron que la sensibilidad de los controles era incluso mejor que las del Albatros D.V. La resistencia de su estructura le permitía realizar grandes picados en combate e incluso aterrizajes forzosos con éxito. Pilotos ingleses y franceses comentaban que solo podían derribarlo produciéndole grandes daños o  matando a su piloto. Sus características de vuelo mejoraron cuando se equipó con el motor Mercedes D.IIIa. El avión participó en batallas sobre el frente occidental y turco.  

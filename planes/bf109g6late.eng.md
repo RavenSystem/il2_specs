@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 161..179 km/h  
 Indicated stall speed in takeoff/landing configuration: 153..170 km/h  
 Dive speed limit: 850 km/h  

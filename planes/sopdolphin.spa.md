@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Sopwith Dolphin fue diseñado por la British Sopwith Aviation Co. Para el diseño del avión se tuvieron en cuenta los defectos del Sopwith Camel, entre los que se incluían una mala visibilidad hacia adelante y hacia arriba y las dificultades de manejar un avión con motor rotativo. Para solventar este último problema, los ingenieros decidieron construir el nuevo avión con un motor lineal. El diseño incluyó una disposición compacta de la cabina, tanques de combustible, ametralladoras y motor. En consecuencia, la cabeza del piloto se situó al nivel de la abertura del ala superior y los radiadores se movieron a los lados del fuselaje, por detrás de la cabina. Los primeros vuelos de prueba se hicieron en mayo de 1917. Además de la Sopwith Aviation Company, otras empresas fabricaron el avión: Darracq, Hooper y SACA. Al final de la guerra, un total de 1532 aeroplanos de este tipo habían sido construidos.  
   
 La evaluación del comportamiento del Dolphin comenzó con el escuadrón británico n.º 56 el 13 de junio de 1917, a la que seguirían varias mejoras en el diseño. En enero de 1918, el escuadrón n.º 19 se convirtió en la primera unidad operativa en recibir los modelos de producción del Dolphin. Fue utilizado contra cazas y globos enemigos, especialmente a gran altura, donde era superior al Sopwith Camel. También fue utilizado en el ataque a objetivos en tierra.  

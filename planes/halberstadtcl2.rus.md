@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Описание  
+
 Разработка Halberstadt CL.II была ответом на спецификацию «idflieg» (инспекция войсковой авиации), выпущенную в августе 1916 года для нового «лёгкого  самолёта типа С» под двигатель мощностью 160-180 л.с.  
   
 Целью было создание двухместного истребителя сопровождения для защиты более тяжелых  самолётов-разведчиков от атак союзных истребителей. В ноябре 1916 года «idflieg» заказало три прототипа Halberstadt CL.II с двигателем Mercedes D. III, так что первый готовый  самолёта был выпущен в апреле 1917 года, и после нескольких конструктивных изменений крыла проходил последние испытания в Адлесдорфе 2-7 мая 1917 года.  

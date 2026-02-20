@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 GAZ-MM-LKW, hergestellt in der Gorki-Automobilfabrik im Jahr 1943, mit der 25 mm 72-K automatischen Luftabwehrkanone, installiert auf der speziellen Holzplattform. Dieser LKW war ein verbessertes Modell des GAZ-AA mit stärkerem Motor, besserem Lenkmechanismus und verstärkter Aufhängung.  
   
 Die Entwicklung des automatischen 25-mm-Regiments-Flakgeschützes begann 1939 im Kalinin-Werk in Leningrad. Es wurde 1940 in Dienst gestellt und seine Massenproduktion begann 1941. Die Herstellung von gezogenen Plattformen für diese Geschütze war jedoch problematisch, daher wurden 72-K-Geschütze auf gepanzerten Zugplattformen, dreiachsigen LKWs GAZ-AAA und dann auf zweiachsigen GAZ-MM installiert.  

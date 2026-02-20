@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 Halberstadt CL.II design was a response to an Idflieg (Inspectorate of Aviation Troops) specification issued in august of 1916 for a new "light C-type" with 160-180 engine.  
   
 The purpose was to create a two-seat escort fighter to protect heavier observation aircraft from attacks of allied fighters. In November of 1916 Idflieg ordered three prototypes of the Halberstadt CL.II with Mercedes D.III engine, with the first ready airplane was rolled out in April of 1917. After a few wing design changes the type was undergoing final tests in Adlesdorf during 2-7 May 1917.  

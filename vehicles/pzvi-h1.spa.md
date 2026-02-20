@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Desarrollado por la compañía Henschel en 1942, su primera acción de combate tuvo lugar en el Frente de Leningrado en agosto de 1942.  
   
 El carro de combate era famoso por su poderoso blindaje y apariencia «cuadrada». Sus ruedas estaban intercaladas y solapadas para optimizar la presión al suelo y proporcionar protección adicional a los lados del casco, pero esto hizo que las reparaciones del tren de rodaje fuesen complicadas, lo que en condiciones de combate real provocaba a menudo la pérdida del tanque.  

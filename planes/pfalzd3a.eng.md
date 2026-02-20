@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 The Pfalz D.III was designed by Pfalz Flugzeugwerke. German engineers were impressed by the famous French Nieuport fighters, which were designed with “one-and-a-half” wings. As such, Pfalz’s design was based on the achievements of French engineers. The first trial flight was carried out in May 1917. The plane’s design featured machine guns mounted on the sides of the engine and aileron control wires situated in the lower wing. Half a year later, the Pfalz D.IIIa was introduced. It featured a more powerful engine, a larger tail fin, a modified shape of the lower wing and machine guns mounted at the pilots line of sight. In all, 1010 Pfalz D.III and Pfalz D.IIIa aircraft were built.  
   
 In June 1917, the first Pfalz D.IIIs entered service with combat squadrons. The plane was used for bomber escort and for engaging enemy fighters and balloons. Pilots noted its exceptional cockpit visibility, good manoeuvrability, and stability when firing the machine guns; speed and climb rate were described as good. Some pilots claimed that its control sensitivity was even better than that of the Albatros D.V. Its structural durability permitted steep dives in combat and successful forced landings. English and French pilots claimed that one could shoot it down only when seriously wounding or killing the pilot. Its flight characteristics improved slightly when the Mercedes D.IIIa engine was fitted. The plane participated in battles over the Western and the Turkish fronts.  

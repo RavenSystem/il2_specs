@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/churchill-iv.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El tanque Churchill pertenecía a la clase de tanques de infantería desarrollados por el ejército británico. Según esta clasificación, el Churchill tenía poca movilidad y no contaba con el armamento más potente, pero estaba protegido con un potente blindaje, por lo que pertenecía a la clase de tanques pesados. El tanque se fabricó en Inglaterra durante los años de la guerra y fue uno de los vehículos blindados más numerosos de las fuerzas armadas de Su Majestad. El modelo que aparece en la simulación fue producido por la fábrica Leyland.  
   
 El primer lote de carros Churchill incluidos en el marco del programa «<i>Lend-Lease</i>» se entregó a la URSS en el infame convoy ártico PQ-17. En total, se enviaron 301 tanques Churchill a la URSS durante los años de guerra, de los cuales algo menos de 50 vehículos se perdieron durante el transporte y 253 tanques fueron entregados al Ejército Rojo durante 1942 y 1943. El Churchill fue el único modelo de carro de combate pesado suministrado a la URSS por los Aliados.  

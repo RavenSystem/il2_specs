@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 Este Pz.Kpfw. IV Ausf.G con cañón KwK 40/L48 de 75 mm fue fabricado en Nibelungenwerke en junio de 1943. La princpal diferencia de la modificación Ausf.G respecto a las anteriores fue su cañón, 5 calibres más largo, pero con el giro del estriado fijo en lugar de variable.   
   
 La diferencia visual más evidente era la adición de planchas de blindaje lateral a modo de faldones o <i>Schürzen</i>, que se unían a los laterales de casco y torreta. Se añadieron principalmente para proteger el tanque de los disparos de rifle anticarro, peligrosos para los blindajes laterales, más finos. Aunque no eran capaces de detener una bala anticarro, estas chapas adicionales la desestabilizaban o provocaban que se fragmentara antes de que pudiera impactar contra el casco blindado.  

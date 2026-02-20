@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Pz.Kpfw. III Ausf.M era un carro de combate similar a su modificación anterior, Ausf.L. Se modificaron algunos elementos internos, chasis, compartimento del motor y otras cuestiones menores, de acuerdo a la experiencia adquirida durante el periodo de servicio de la versión anterior.  
   
 La diferencia visual más evidente era la adición de planchas de blindaje lateral a modo de faldones o <i>Schürzen</i>, que se unían a los laterales de casco y torreta. Se añadieron principalmente para proteger el tanque de los disparos de rifle anticarro, peligrosos para los blindajes laterales, más finos. Aunque no eran capaces de detener una bala anticarro, estas chapas adicionales la desestabilizaban o provocaban que se fragmentara antes de que pudiera impactar contra el casco blindado.  

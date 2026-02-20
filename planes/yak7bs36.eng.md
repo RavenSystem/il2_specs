@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Indicated stall speed in flight configuration: 155..172 km/h  
 Indicated stall speed in takeoff/landing configuration: 139..154 km/h  
 Dive speed limit: 740 km/h  

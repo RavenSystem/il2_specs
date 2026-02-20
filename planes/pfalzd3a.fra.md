@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pfalzd3a.png"></td><td style="text-align: center"><img src="../pilots_notes/pfalzd3a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/pfalzd3a.eng.jpg"></td></tr></tbody></table>  
 
+
+## Description  
+
 L\avion a été conçu par Pfalz Flugzeugwerke. Les ingénieurs allemands été impressionnés par le célèbre chasseur français Neuport conçu comme un avion et demi. Leur conception était basée sur les réalisations des ingénieurs français. Le premier vol d\essai a été effectué en mai 1917. Le design comportait des mitrailleuses montées sur les cotés du moteur, le cable de controle d\aileron a été placé dans l\aile inférieure. Une moitié d\année après le Pfalz D IIIa a été fait avec a un moteur plus puissant, une queue plus fine, la forme de l\aile inférieure modifiée et les mitrailleuses dans la ligne de l\oeil du pilote. 1010 Pfalz D.III et D.IIIa ont été construits au total.  
   
 En juin 1917 les premiers chasseurs sont entrés en service dans des escadrons de combat. Le Pfalz a été utilisé pour l\escorte de bombardiers et aussi engagés contre les chasseurs ennemis et les ballons. Les pilotes ont noté une visibilité du cockpit exceptionnelle, une bonne maniabilité, stabilité lors de tirs, la vitesse et le taux de montée ont été décrits comme bons. Certains pilotes ont affirmé que la sensibilité des contrôles était encore meilleure alors avec l\Albatros D.V. lors de fortes plongées en combat et les atterrissages ont prouvé sa résistance . Les pilotes anglais et français disent que vous pouvez l\abattre seulement quand le pilote est sérieusement blessé ou tué. L\installation plus tard d\un moteur Mercedes d. IIIA, a légèrement augmenté les caractéristiques de vol. L\avion a participé à des batailles sur les fronts occidentaux et turques.  

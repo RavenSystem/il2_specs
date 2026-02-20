@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El F.E.2 era un biplano con una hélice de empuje y un tren de aterrizaje amortiguado con una rueda de apoyo delantera para minimizar el riesgo de vuelco durante un mal aterrizaje. En su modelo F.E.2a, toda la parte posterior de la sección superior central estaba articulada a lo largo del larguero trasero y podía ser bajada para actuar como una especie de aerofreno tipo flaps. El artillero observador ocupaba la cabina delantera, mientras que el piloto se situaba detrás de él en una posición más elevada. El motor poseía una cubierta que lo ocultaba casi en su totalidad y accionaba a una hélice de empuje de dos palas.  
   
 En los primeros vuelos del F.E.2a, resultó palpable la ineficacia del diseño del aerofreno tipo flap para reducir la distancia de aterrizaje. Se probaron nuevos diseños de aerofreno como alternativa a este ineficaz sistema, sin resultados positivos. Como dato curioso, en febrero de 1915, se probó un F.E.2a con un pequeño paracaídas en la cola. Fue quizás el primer paracaídas de frenado usado en un aeroplano de la historia. La idea del aerofreno quedaría finalmente desechada en posteriores versiones.  

@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s29.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s29.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/lagg3s29.eng.jpg"></td></tr></tbody></table>  
 
+
+## Beschreibung  
+
 Überziehgeschwindigkeit in Flugkonfiguration: 163..189 km/h  
 Überziehgeschwindigkeit in Landekonfiguration: 138..168 km/h  
 Höchstzulässige Geschwindigkeit im Sturzflug: 750 km/h  

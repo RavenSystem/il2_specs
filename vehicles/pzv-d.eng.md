@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
 
+
+## Description  
+
 Developed by MAN company in 1942, it first saw action in the Kursk battle in 1943. The tank had a powerful main gun, thick frontal armor and good mobility at the price of protection from other sides.  
   
 For the better distribution of weight and protecting the sides, its wheels were positioned in a checkerboard order, making the running gear repairs very difficult - in combat conditions its damage often led to a loss of tank. The compression stroke of the suspension was very large and it was significantly softer than on other tanks, resulting in traveling comfort. One suspension unit included two torsion bars (32 bars in total). The reliability of these machines, especially at the beginning of their production, was abysmal - only 4 of 174 were sent to the front line units by April 1943, the others were returned to the factories of origin for reworking.  

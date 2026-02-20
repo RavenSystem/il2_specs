@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/soppup.png"></td><td style="text-align: center"><img src="../pilots_notes/soppup.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soppup.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El Sopwith Pup fue un caza monoplaza diseñado por el talentoso ingeniero Herbert Smith de la Sopwith Aviation Company. El primer vuelo del prototipo se realizó en febrero de 1916. El aeroplano se ganó rápidamente el favor de sus pilotos gracias a sus buenas características de vuelo y maniobrabilidad. En marzo de 1916, después de una serie de mejoras, el aeroplano fue transferido a unidades del Royal Naval Service (RNAS) para ser probado en servicio operativo. El avión fue llamado oficialmente «Sopwith Scout», pero los pilotos lo apodaron «Pup»(cachorro) por la similitud con el Sopwith 1½ Strutter, aunque de menores proporciones. Aunque el apodo «Pup» nunca fue reconocido oficialmente, así empezó la costumbre de la Sopwith de poner nombres de aves o animales a los aviones posteriores.  
   
 Las primeras unidades del Sopwith Pup fueron transferidas al frente en octubre de 1916. Sus buenas características de vuelo le permitieron combatir con éxito a la oposición enemiga. Durante la batalla del Somme, alrededor de 20 victorias fueron atribuidas al 8.º Escuadrón de RNAS, que contaba con biplano. Tras encontrarse con el Pup en combate, Manfred von Richthofen anotó: «Vimos al instante que los aeroplanos enemigos eran superior a los nuestros».  

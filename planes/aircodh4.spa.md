@@ -2,6 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><img src="../images/aircodh4.png"></td><td style="text-align: center"><img src="../pilots_notes/aircodh4.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/aircodh4.spa.jpg"></td></tr></tbody></table>  
 
+
+## Descripción  
+
 El D.H.4 fue diseñado por Geoffrey de Havilland para ser un bombardero ligero biplaza propulsado por un motor BHP. El primer prototipo voló en agosto de 1916, pero se comprobó que el motor BHP no era fiable,  requiriendo un importante rediseño para ser adaptado al motor Rolls Royce Eagle. El primer pedido de 50 aviones equipados con el motor Eagle III (250 CV) fue realizado al final de 1916.  
   
 Este biplano, construido en su práctica totalidad con madera y con un motor tractor, a diferencia de sus antecesores, de impulsión, equipa una ametralladora sincronizada Vickers de disparo frontal y una o dos ametralladoras Lewis montadas sobre un afuste articulado anular, más conocido como «anillo Scarff», en el puesto del observador. Podía cargar hasta 460 lb en bombas en dos anclajes bajo las alas y otros dos en la panza.  
