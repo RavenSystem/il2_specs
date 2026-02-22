@@ -43,24 +43,26 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
     printf "### $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
     
+    printf "<select onchange=\"window.location.href=this.value\">\n" >> "$TARGET_DIR/README.md"
+    printf "<option value=\"\"> </option>\n" >> "$TARGET_DIR/README.md"
+    
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
         
         CLEAN_VEHICLE_NAME="`head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | tr -d '#\r\n' | sed 's/^.//g' | sed 's/  //g'`"
         LINK_VEHICLE_NAME="`printf "$CLEAN_VEHICLE_NAME" |  tr -d '.½/()' | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`"
         
-        printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
+        printf "<option value=\"#$LINK_VEHICLE_NAME\">$CLEAN_VEHICLE_NAME</option>\n" >> "$TARGET_DIR/README.md"
+        #printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
     done
     
-    printf "\n\n" >> "$TARGET_DIR/README.md"
+    printf "</select>\n\n" >> "$TARGET_DIR/README.md"
     
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
 done
 
 
 for VEHICLE_TYPE in "planes" "vehicles"; do
-    mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
-
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
     printf "## $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
 

@@ -5,11 +5,150 @@ Game version: 7.002 - Date: 2026-02-22 [ [Sponsor this project](https://paypal.m
 
 ### Planes
 
-[ [A-20B](#a-20b) ] [ [Airco D.H.2](#airco-dh2) ] [ [Airco D.H.4](#airco-dh4) ] [ [Albatros D.II](#albatros-dii) ] [ [Albatros D.III](#albatros-diii) ] [ [Albatros D.Va](#albatros-dva) ] [ [Ar 234 B-2](#ar-234-b-2) ] [ [B-25D](#b-25d) ] [ [B-26B-55](#b-26b-55) ] [ [Bf 109 E-4](#bf-109-e-4) ] [ [Bf 109 E-7](#bf-109-e-7) ] [ [Bf 109 F-2](#bf-109-f-2) ] [ [Bf 109 F-4](#bf-109-f-4) ] [ [Bf 109 G-14](#bf-109-g-14) ] [ [Bf 109 G-2](#bf-109-g-2) ] [ [Bf 109 G-4](#bf-109-g-4) ] [ [Bf 109 G-6](#bf-109-g-6) ] [ [Bf 109 G-6AS](#bf-109-g-6as) ] [ [Bf 109 G-6 Late](#bf-109-g-6-late) ] [ [Bf 109 K-4](#bf-109-k-4) ] [ [Bf 110 E-2](#bf-110-e-2) ] [ [Bf 110 G-2](#bf-110-g-2) ] [ [Breguet 14.B2](#breguet-14b2) ] [ [Bristol F2B (F.II)](#bristol-f2b-fii) ] [ [Bristol F2B (F.III)](#bristol-f2b-fiii) ] [ [C-47A](#c-47a) ] [ [CG-4A](#cg-4a) ] [ [DFW C.V](#dfw-cv) ] [ [F.E.2b](#fe2b) ] [ [Fokker D.VII](#fokker-dvii) ] [ [Fokker D.VIIF](#fokker-dviif) ] [ [Fokker D.VIII](#fokker-dviii) ] [ [Fokker Dr.I](#fokker-dri) ] [ [Fokker E.III](#fokker-eiii) ] [ [Fw 190 A-3](#fw-190-a-3) ] [ [Fw 190 A-5](#fw-190-a-5) ] [ [Fw 190 A-6](#fw-190-a-6) ] [ [Fw 190 A-8](#fw-190-a-8) ] [ [Fw 190 D-9](#fw-190-d-9) ] [ [Gotha G.V](#gotha-gv) ] [ [Halberstadt CL.II](#halberstadt-clii) ] [ [Halberstadt CL.II 200hp](#halberstadt-clii-200hp) ] [ [Halberstadt D.II](#halberstadt-dii) ] [ [Handley Page O/400](#handley-page-o400) ] [ [Hanriot HD.1](#hanriot-hd1) ] [ [He 111 H-16](#he-111-h-16) ] [ [He 111 H-6](#he-111-h-6) ] [ [Hs 129 B-2](#hs-129-b-2) ] [ [Hurricane Mk.II](#hurricane-mkii) ] [ [I-153](#i-153) ] [ [I-16 type 24](#i-16-type-24) ] [ [I.A.R. 80-A](#iar-80-a) ] [ [I.A.R. 80-B](#iar-80-b) ] [ [Il-2 mod.1941](#il-2-mod1941) ] [ [Il-2 mod.1942](#il-2-mod1942) ] [ [Il-2 mod.1943](#il-2-mod1943) ] [ [Il-2 mod.1944](#il-2-mod1944) ] [ [Ju 52/3m g4e](#ju-523m-g4e) ] [ [Ju 87 D-3](#ju-87-d-3) ] [ [Ju 87 D-5](#ju-87-d-5) ] [ [Ju 88 A-4](#ju-88-a-4) ] [ [Ju 88 C-6](#ju-88-c-6) ] [ [La-5FN ser.2](#la-5fn-ser2) ] [ [La-5F ser.38](#la-5f-ser38) ] [ [La-5 ser.8](#la-5-ser8) ] [ [La-7 ser.1](#la-7-ser1) ] [ [LaGG-3 ser.29](#lagg-3-ser29) ] [ [LaGG-3 ser.4](#lagg-3-ser4) ] [ [Li-2](#li-2) ] [ [MC.202 ser.VIII](#mc202-serviii) ] [ [Me 262 A](#me-262-a) ] [ [Me 410 A-1](#me-410-a-1) ] [ [MiG-3 ser.24](#mig-3-ser24) ] [ [Mosquito F.B. Mk.VI ser.2](#mosquito-fb-mkvi-ser2) ] [ [Nieuport 11.C1](#nieuport-11c1) ] [ [Nieuport 17.C1](#nieuport-17c1) ] [ [Nieuport 17.C1 GBR](#nieuport-17c1-gbr) ] [ [Nieuport 28.C1](#nieuport-28c1) ] [ [P-38J-25](#p-38j-25) ] [ [P-39L-1](#p-39l-1) ] [ [P-40E-1](#p-40e-1) ] [ [P-47D-22](#p-47d-22) ] [ [P-47D-28](#p-47d-28) ] [ [P-51B-5](#p-51b-5) ] [ [P-51D-15](#p-51d-15) ] [ [Pe-2 ser.35](#pe-2-ser35) ] [ [Pe-2 ser.87](#pe-2-ser87) ] [ [Pfalz D.XII](#pfalz-dxii) ] [ [Pfalz D.IIIa](#pfalz-diiia) ] [ [R.E.8](#re8) ] [ [Roland C.IIa](#roland-ciia) ] [ [SSW D.IV](#ssw-div) ] [ [S.E.5a](#se5a) ] [ [Sopwith Camel](#sopwith-camel) ] [ [Sopwith Dolphin](#sopwith-dolphin) ] [ [Sopwith Pup](#sopwith-pup) ] [ [Sopwith Snipe](#sopwith-snipe) ] [ [Sopwith 1½ Strutter](#sopwith-1-strutter) ] [ [Sopwith 1½ Strutter B](#sopwith-1-strutter-b) ] [ [Sopwith Triplane](#sopwith-triplane) ] [ [SPAD 13.C1](#spad-13c1) ] [ [SPAD 7.C1 150hp](#spad-7c1-150hp) ] [ [SPAD 7.C1 180hp](#spad-7c1-180hp) ] [ [Spitfire Mk.IXc](#spitfire-mkixc) ] [ [Spitfire Mk.IXe](#spitfire-mkixe) ] [ [Spitfire Mk.VB](#spitfire-mkvb) ] [ [Spitfire Mk.XIV](#spitfire-mkxiv) ] [ [Spitfire Mk.XIVe](#spitfire-mkxive) ] [ [Ta 152 H-1](#ta-152-h-1) ] [ [Tempest Mk.V ser.2](#tempest-mkv-ser2) ] [ [Typhoon Mk.Ib](#typhoon-mkib) ] [ [U-2VS](#u-2vs) ] [ [Yak-1b ser.127](#yak-1b-ser127) ] [ [Yak-1 ser.23](#yak-1-ser23) ] [ [Yak-1 ser.69](#yak-1-ser69) ] [ [Yak-3 ser.9](#yak-3-ser9) ] [ [Yak-7B series 36](#yak-7b-series-36) ] [ [Yak-9 ser.1](#yak-9-ser1) ] [ [Yak-9T ser.1](#yak-9t-ser1) ] 
+<select onchange="window.location.href=this.value">
+<option value=""> </option>
+<option value="#a-20b">A-20B</option>
+<option value="#airco-dh2">Airco D.H.2</option>
+<option value="#airco-dh4">Airco D.H.4</option>
+<option value="#albatros-dii">Albatros D.II</option>
+<option value="#albatros-diii">Albatros D.III</option>
+<option value="#albatros-dva">Albatros D.Va</option>
+<option value="#ar-234-b-2">Ar 234 B-2</option>
+<option value="#b-25d">B-25D</option>
+<option value="#b-26b-55">B-26B-55</option>
+<option value="#bf-109-e-4">Bf 109 E-4</option>
+<option value="#bf-109-e-7">Bf 109 E-7</option>
+<option value="#bf-109-f-2">Bf 109 F-2</option>
+<option value="#bf-109-f-4">Bf 109 F-4</option>
+<option value="#bf-109-g-14">Bf 109 G-14</option>
+<option value="#bf-109-g-2">Bf 109 G-2</option>
+<option value="#bf-109-g-4">Bf 109 G-4</option>
+<option value="#bf-109-g-6">Bf 109 G-6</option>
+<option value="#bf-109-g-6as">Bf 109 G-6AS</option>
+<option value="#bf-109-g-6-late">Bf 109 G-6 Late</option>
+<option value="#bf-109-k-4">Bf 109 K-4</option>
+<option value="#bf-110-e-2">Bf 110 E-2</option>
+<option value="#bf-110-g-2">Bf 110 G-2</option>
+<option value="#breguet-14b2">Breguet 14.B2</option>
+<option value="#bristol-f2b-fii">Bristol F2B (F.II)</option>
+<option value="#bristol-f2b-fiii">Bristol F2B (F.III)</option>
+<option value="#c-47a">C-47A</option>
+<option value="#cg-4a">CG-4A</option>
+<option value="#dfw-cv">DFW C.V</option>
+<option value="#fe2b">F.E.2b</option>
+<option value="#fokker-dvii">Fokker D.VII</option>
+<option value="#fokker-dviif">Fokker D.VIIF</option>
+<option value="#fokker-dviii">Fokker D.VIII</option>
+<option value="#fokker-dri">Fokker Dr.I</option>
+<option value="#fokker-eiii">Fokker E.III</option>
+<option value="#fw-190-a-3">Fw 190 A-3</option>
+<option value="#fw-190-a-5">Fw 190 A-5</option>
+<option value="#fw-190-a-6">Fw 190 A-6</option>
+<option value="#fw-190-a-8">Fw 190 A-8</option>
+<option value="#fw-190-d-9">Fw 190 D-9</option>
+<option value="#gotha-gv">Gotha G.V</option>
+<option value="#halberstadt-clii">Halberstadt CL.II</option>
+<option value="#halberstadt-clii-200hp">Halberstadt CL.II 200hp</option>
+<option value="#halberstadt-dii">Halberstadt D.II</option>
+<option value="#handley-page-o400">Handley Page O/400</option>
+<option value="#hanriot-hd1">Hanriot HD.1</option>
+<option value="#he-111-h-16">He 111 H-16</option>
+<option value="#he-111-h-6">He 111 H-6</option>
+<option value="#hs-129-b-2">Hs 129 B-2</option>
+<option value="#hurricane-mkii">Hurricane Mk.II</option>
+<option value="#i-153">I-153</option>
+<option value="#i-16-type-24">I-16 type 24</option>
+<option value="#iar-80-a">I.A.R. 80-A</option>
+<option value="#iar-80-b">I.A.R. 80-B</option>
+<option value="#il-2-mod1941">Il-2 mod.1941</option>
+<option value="#il-2-mod1942">Il-2 mod.1942</option>
+<option value="#il-2-mod1943">Il-2 mod.1943</option>
+<option value="#il-2-mod1944">Il-2 mod.1944</option>
+<option value="#ju-523m-g4e">Ju 52/3m g4e</option>
+<option value="#ju-87-d-3">Ju 87 D-3</option>
+<option value="#ju-87-d-5">Ju 87 D-5</option>
+<option value="#ju-88-a-4">Ju 88 A-4</option>
+<option value="#ju-88-c-6">Ju 88 C-6</option>
+<option value="#la-5fn-ser2">La-5FN ser.2</option>
+<option value="#la-5f-ser38">La-5F ser.38</option>
+<option value="#la-5-ser8">La-5 ser.8</option>
+<option value="#la-7-ser1">La-7 ser.1</option>
+<option value="#lagg-3-ser29">LaGG-3 ser.29</option>
+<option value="#lagg-3-ser4">LaGG-3 ser.4</option>
+<option value="#li-2">Li-2</option>
+<option value="#mc202-serviii">MC.202 ser.VIII</option>
+<option value="#me-262-a">Me 262 A</option>
+<option value="#me-410-a-1">Me 410 A-1</option>
+<option value="#mig-3-ser24">MiG-3 ser.24</option>
+<option value="#mosquito-fb-mkvi-ser2">Mosquito F.B. Mk.VI ser.2</option>
+<option value="#nieuport-11c1">Nieuport 11.C1</option>
+<option value="#nieuport-17c1">Nieuport 17.C1</option>
+<option value="#nieuport-17c1-gbr">Nieuport 17.C1 GBR</option>
+<option value="#nieuport-28c1">Nieuport 28.C1</option>
+<option value="#p-38j-25">P-38J-25</option>
+<option value="#p-39l-1">P-39L-1</option>
+<option value="#p-40e-1">P-40E-1</option>
+<option value="#p-47d-22">P-47D-22</option>
+<option value="#p-47d-28">P-47D-28</option>
+<option value="#p-51b-5">P-51B-5</option>
+<option value="#p-51d-15">P-51D-15</option>
+<option value="#pe-2-ser35">Pe-2 ser.35</option>
+<option value="#pe-2-ser87">Pe-2 ser.87</option>
+<option value="#pfalz-dxii">Pfalz D.XII</option>
+<option value="#pfalz-diiia">Pfalz D.IIIa</option>
+<option value="#re8">R.E.8</option>
+<option value="#roland-ciia">Roland C.IIa</option>
+<option value="#ssw-div">SSW D.IV</option>
+<option value="#se5a">S.E.5a</option>
+<option value="#sopwith-camel">Sopwith Camel</option>
+<option value="#sopwith-dolphin">Sopwith Dolphin</option>
+<option value="#sopwith-pup">Sopwith Pup</option>
+<option value="#sopwith-snipe">Sopwith Snipe</option>
+<option value="#sopwith-1-strutter">Sopwith 1½ Strutter</option>
+<option value="#sopwith-1-strutter-b">Sopwith 1½ Strutter B</option>
+<option value="#sopwith-triplane">Sopwith Triplane</option>
+<option value="#spad-13c1">SPAD 13.C1</option>
+<option value="#spad-7c1-150hp">SPAD 7.C1 150hp</option>
+<option value="#spad-7c1-180hp">SPAD 7.C1 180hp</option>
+<option value="#spitfire-mkixc">Spitfire Mk.IXc</option>
+<option value="#spitfire-mkixe">Spitfire Mk.IXe</option>
+<option value="#spitfire-mkvb">Spitfire Mk.VB</option>
+<option value="#spitfire-mkxiv">Spitfire Mk.XIV</option>
+<option value="#spitfire-mkxive">Spitfire Mk.XIVe</option>
+<option value="#ta-152-h-1">Ta 152 H-1</option>
+<option value="#tempest-mkv-ser2">Tempest Mk.V ser.2</option>
+<option value="#typhoon-mkib">Typhoon Mk.Ib</option>
+<option value="#u-2vs">U-2VS</option>
+<option value="#yak-1b-ser127">Yak-1b ser.127</option>
+<option value="#yak-1-ser23">Yak-1 ser.23</option>
+<option value="#yak-1-ser69">Yak-1 ser.69</option>
+<option value="#yak-3-ser9">Yak-3 ser.9</option>
+<option value="#yak-7b-series-36">Yak-7B series 36</option>
+<option value="#yak-9-ser1">Yak-9 ser.1</option>
+<option value="#yak-9t-ser1">Yak-9T ser.1</option>
+</select>
 
 ### Vehicles
 
-[ [Churchill IV](#churchill-iv) ] [ [GAZ-MM 72-K](#gaz-mm-72-k) ] [ [KV-1s ChTZ (1943)](#kv-1s-chtz-1943) ] [ [M4A2](#m4a2) ] [ [Pz.Kpfw.III Ausf.L](#pzkpfwiii-ausfl) ] [ [Pz.Kpfw.III Ausf.M](#pzkpfwiii-ausfm) ] [ [Pz.Kpfw.IV Ausf.G](#pzkpfwiv-ausfg) ] [ [Pz.Kpfw.V Ausf.D](#pzkpfwv-ausfd) ] [ [Pz.Kpfw.VI Ausf.H1](#pzkpfwvi-ausfh1) ] [ [Sd.Kfz.10/5](#sdkfz105) ] [ [Sd.Kfz.184](#sdkfz184) ] [ [StuG III Ausf.G](#stug-iii-ausfg) ] [ [SU-122 UZTM (1943)](#su-122-uztm-1943) ] [ [SU-152 ChKZ (1943)](#su-152-chkz-1943) ] [ [T-34/76 STZ (1942)](#t-3476-stz-1942) ] [ [T-34/76 UTZ (1943)](#t-3476-utz-1943) ] 
+<select onchange="window.location.href=this.value">
+<option value=""> </option>
+<option value="#churchill-iv">Churchill IV</option>
+<option value="#gaz-mm-72-k">GAZ-MM 72-K</option>
+<option value="#kv-1s-chtz-1943">KV-1s ChTZ (1943)</option>
+<option value="#m4a2">M4A2</option>
+<option value="#pzkpfwiii-ausfl">Pz.Kpfw.III Ausf.L</option>
+<option value="#pzkpfwiii-ausfm">Pz.Kpfw.III Ausf.M</option>
+<option value="#pzkpfwiv-ausfg">Pz.Kpfw.IV Ausf.G</option>
+<option value="#pzkpfwv-ausfd">Pz.Kpfw.V Ausf.D</option>
+<option value="#pzkpfwvi-ausfh1">Pz.Kpfw.VI Ausf.H1</option>
+<option value="#sdkfz105">Sd.Kfz.10/5</option>
+<option value="#sdkfz184">Sd.Kfz.184</option>
+<option value="#stug-iii-ausfg">StuG III Ausf.G</option>
+<option value="#su-122-uztm-1943">SU-122 UZTM (1943)</option>
+<option value="#su-152-chkz-1943">SU-152 ChKZ (1943)</option>
+<option value="#t-3476-stz-1942">T-34/76 STZ (1942)</option>
+<option value="#t-3476-utz-1943">T-34/76 UTZ (1943)</option>
+</select>
 
 ## Planes
 

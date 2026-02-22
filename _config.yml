@@ -1,6 +1,3 @@
 name: Il-2 BoX Planes and Vehicles
 title: Il-2 BoX Planes and Vehicles
-
-remote_theme: pages-themes/primer@v0.6.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-primer
