@@ -1,3 +1,4 @@
 name: Il-2 BoX Planes and Vehicles
 title: Il-2 BoX Planes and Vehicles
 theme: jekyll-theme-primer
+includes_dir: _includes
