@@ -20,6 +20,7 @@ mkdir -p "$TARGET_DIR/images"
 mkdir -p "$TARGET_DIR/pilots_notes"
 mkdir -p "$TARGET_DIR/cockpits"
 mkdir -p "$TARGET_DIR/manuals"
+mkdir -p "$TARGET_DIR/real_manuals"
 
 # Prepare Pilots Notes
 mv -f Another\ Pilots\ Notes\ for\ CockPit\ Photos\ official\ numbers\ v*/data/graphics/Planes/ ./planes_notes &&
@@ -30,9 +31,7 @@ cd ..
 GENERATION_DATE="`date +%Y-%m-%d`"
 
 printf "
-# IL-2: Sturmovik Great Battles: Vehicle Specifications
-
-Version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Game version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Pilots Notes v$PILOTS_NOTES_VERSION WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
@@ -69,11 +68,13 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
         
         # Vehicle image
-        cp -f "$VEHICLE_TYPE/$VEHICLE_NAME/preview2.png" "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
-        
-        if [[ " albatrosd5 fokkerd7 fokkerd7f fokkerdr1 fw190d9 p47d28 pfalzd3a se5a sopcamel sopdolphin spad13 u2vs " == *" $NEW_VEHICLE_NAME "* ]]; then
-            sips --resampleHeightWidth 426 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
-            sips --padToHeightWidth 512 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+        if [ ! -f "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png" ]; then
+            cp -f "$VEHICLE_TYPE/$VEHICLE_NAME/preview2.png" "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+            
+            if [[ " albatrosd5 fokkerd7 fokkerd7f fokkerdr1 fw190d9 p47d28 pfalzd3a se5a sopcamel sopdolphin spad13 u2vs " == *" $NEW_VEHICLE_NAME "* ]]; then
+                sips --resampleHeightWidth 426 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+                sips --padToHeightWidth 512 1024 "$TARGET_DIR/images/$NEW_VEHICLE_NAME.png"
+            fi
         fi
         
         # Pilots notes
