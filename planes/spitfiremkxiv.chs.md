@@ -174,3 +174,11 @@ MkII陀螺射击瞄准具
 裁剪翼  
 减少质量：4 kg  
 预期速度损失：0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Bottom.jpg"></td></tr>
+</tbody></table>

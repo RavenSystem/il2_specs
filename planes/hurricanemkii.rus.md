@@ -188,3 +188,11 @@
 Масса боекомплекта: 84 кг  
 Масса орудий: 323 кг  
 Ориентировочная потеря скорости: 14 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Bottom.jpg"></td></tr>
+</tbody></table>

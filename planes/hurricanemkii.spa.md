@@ -187,3 +187,11 @@ Peso adicional: 242 kg
 Peso de munición: 84 kg  
 Peso del armamento: 323 kg  
 Pérdida de velocidad estimada: 14 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -102,3 +102,10 @@ Gun shields are completely removed for an improved field of view.
 ### Remove gunsight shield  
 
 Removing the gunsight shield gives the gunner a slightly wider field of view.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Back.jpg"></td></tr>
+</tbody></table>

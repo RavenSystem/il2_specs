@@ -131,3 +131,11 @@ Gewicht der Munition: 464 kg
 Gewicht der Abwurfwaffenroste: 20 kg  
 Geschwindigkeitsverlust vor Abwurf: 45 km/h  
 Geschwindigkeitsverlust nach Abwurf: 12 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -173,3 +173,10 @@ Muzzle velocity 1130 m/s, armour penetration at point blank range 266 mm.
 ### 倒置炮盾  
 
 带有倒置炮盾的自定义改装。  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+</tbody></table>

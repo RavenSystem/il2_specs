@@ -114,3 +114,10 @@ Velocidad de salida 910 m/s.
 500 m: velocidad 753 m/s, caída -1,8 m.  
 1000 m: velocidad 623 m/s, caída -8,1 m.  
 2000 m: velocidad 436 m/s, caída -42,4 m.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+</tbody></table>

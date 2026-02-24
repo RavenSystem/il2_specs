@@ -164,3 +164,11 @@
 Козырёк кабины пилота с плоским секционным остеклением для лучшего обзора  
 Дополнительная масса: 2 кг  
 Ориентировочная потеря скорости: 2 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/la5s8.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Bottom.jpg"></td></tr>
+</tbody></table>

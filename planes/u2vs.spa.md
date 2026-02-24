@@ -236,3 +236,10 @@ Pérdida de velocidad estimada: 2 km/h
 1 ametralladora ShKAS de 7,62 mm montada en el ala con 500 balas  
 Peso adicional: 27 kg  
 Pérdida de velocidad estimada: 3 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+</tbody></table>

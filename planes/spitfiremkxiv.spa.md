@@ -174,3 +174,11 @@ Ganancia de velocidad estimada: 8 km/h
 Alas recortadas  
 Peso retirado: 4 kg  
 Pérdida de velocidad estimada: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Bottom.jpg"></td></tr>
+</tbody></table>

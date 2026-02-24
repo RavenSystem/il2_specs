@@ -103,3 +103,10 @@
 ——前轮自由偏转，没有刹车，无法控制。  
 ——在尾部安装有白色和红色的信号灯：当炸弹舱门打开时，白色灯会点亮；当炸弹被投放后，红色的灯会持续点亮五 s钟。  
 ——飞机装有炸弹齐投控制器，允许齐投已选的炸弹或全弹齐投。控制器可设置单次齐投中炸弹投放的延迟。  
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/b25draf.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Bottom.jpg"></td></tr>
+</tbody></table>

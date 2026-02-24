@@ -187,3 +187,11 @@
 Масса держателей: 40 кг  
 Ориентировочная потеря скорости до сброса: 52 км/ч  
 Ориентировочная потеря скорости после сброса: 12 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6late.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Bottom.jpg"></td></tr>
+</tbody></table>

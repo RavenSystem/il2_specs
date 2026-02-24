@@ -238,3 +238,10 @@ Perte estimée de vitesse : 2 km/h
 Wing-mounted 7.62mm ShKAS machinegun with 500 rounds  
 Additional mass: 27 kg  
 Estimated speed loss: 3 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+</tbody></table>

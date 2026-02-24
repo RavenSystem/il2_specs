@@ -186,3 +186,11 @@ Ammunition mass: 264 kg
 Racks mass: 40 kg  
 Estimated speed loss before drop: 52 km/h  
 Estimated speed loss after drop: 12 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6late.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Bottom.jpg"></td></tr>
+</tbody></table>

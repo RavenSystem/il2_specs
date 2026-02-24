@@ -168,3 +168,10 @@ Durchschlagsleistung aus kürzester Entfernung: 150 mm
 ### Zusätzliche Panzerschürzen  
 
 Zusätzlicher Schutz 5mm. Zum Schutz vor Panzerbüchsen, welche die dünnere Seitenpanzerung durschlagen konnten. Obwohl die Schürzen ein panzerbrechendes Geschoss nicht aufhalten können, kann diese Zusatzpanzerung dafür sorgen, das Geschoss zum Trudeln zu bringen oder zu zersplittern, bevor es auf die Hauptpanzerung trifft.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+</tbody></table>

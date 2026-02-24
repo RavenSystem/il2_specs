@@ -168,3 +168,10 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 附加防护：车身和炮塔附上5mm装甲板。  
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。  
 虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+</tbody></table>

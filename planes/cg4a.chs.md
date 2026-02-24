@@ -62,3 +62,11 @@
 
 威利斯MB1⁄4吨4x4吉普车  
 Additional mass: 1630 kg  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/cg4a.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/cg4a.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/cg4a.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/cg4a.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/cg4a.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/cg4a.Bottom.jpg"></td></tr>
+</tbody></table>

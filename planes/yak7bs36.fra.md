@@ -147,3 +147,11 @@ Perte estimee de vitesse : 0 km/h
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak7bs36.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak7bs36.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Bottom.jpg"></td></tr>
+</tbody></table>

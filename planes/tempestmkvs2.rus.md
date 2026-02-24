@@ -132,3 +132,11 @@
 Масса держателей: 20 кг  
 Ориентировочная потеря скорости до сброса: 45 км/ч  
 Ориентировочная потеря скорости после сброса: 12 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Bottom.jpg"></td></tr>
+</tbody></table>

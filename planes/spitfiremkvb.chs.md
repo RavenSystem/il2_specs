@@ -148,3 +148,11 @@ Basic data and recommended positions of the aircraft controls:
 后视镜  
 增加质量：1 kg  
 预期速度损失：0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Bottom.jpg"></td></tr>
+</tbody></table>

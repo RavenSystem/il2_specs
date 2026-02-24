@@ -144,3 +144,11 @@ Basic data and recommended positions of the aircraft controls:
 装有MG 15 7.92mm机枪的后部炮塔，备弹1125发  
 增加质量：130 kg  
 预期速度损失：4 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Bottom.jpg"></td></tr>
+</tbody></table>

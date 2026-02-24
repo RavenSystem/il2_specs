@@ -165,3 +165,11 @@ Basic data and recommended positions of the aircraft controls:
 用于无线电信标导航的固定环形无线电罗盘  
 增加质量：10 kg  
 预期速度损失：0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak1s69.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Bottom.jpg"></td></tr>
+</tbody></table>

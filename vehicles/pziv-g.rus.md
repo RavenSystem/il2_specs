@@ -156,3 +156,10 @@
 
 Дополнительная защита корпуса и башни при помощи навесных бронированных экранов толщиной 5мм.  
 Навесные экраны предназначены для противодействия обстрелу из противотанковых ружей с боковых ракурсов. Экран такой толщины, сам по себе, не является серьезным препятствием для крупнокалиберной бронебойной пули, однако он дестабилизирует полёт пули и нарушает условия её встречи с основной бронёй танка.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+</tbody></table>

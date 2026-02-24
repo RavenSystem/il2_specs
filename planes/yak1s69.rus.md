@@ -165,3 +165,11 @@
 Радиополукомпас для навигации по радиомаякам  
 Дополнительная масса: 10 кг  
 Ориентировочная потеря скорости: 0 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak1s69.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Bottom.jpg"></td></tr>
+</tbody></table>

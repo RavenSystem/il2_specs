@@ -191,3 +191,11 @@ MW-50甲醇-水混合加力系统
 挂架质量：30 kg  
 投弹前预期速度损失：33 km/h  
 投弹后预期速度损失：11 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6as.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Bottom.jpg"></td></tr>
+</tbody></table>

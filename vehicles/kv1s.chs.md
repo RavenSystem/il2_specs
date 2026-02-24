@@ -163,3 +163,9 @@ BR-354P
 500m时：装甲穿深 90mm，速度 741 m/s，下坠高度 1.7m  
 1000m时：装甲穿深 60mm，速度 558 m/s，下坠高度 8.0m  
 2000m时：装甲穿深 24mm，速度 295 m/s，下坠高度 53.3m  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+</tbody></table>

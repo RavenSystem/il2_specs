@@ -164,3 +164,11 @@ Peso adicional: 35 kg
 Peso de munición: 45 kg  
 Peso de cañón: 66 kg  
 Pérdida de velocidad estimada: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/lagg3s29.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Bottom.jpg"></td></tr>
+</tbody></table>

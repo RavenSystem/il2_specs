@@ -170,3 +170,10 @@
 ### Обратная установка маски  
 
 Полевая модификация с установленной задом наперёд маской орудия для облегчения доступа к болтам крепления.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+</tbody></table>

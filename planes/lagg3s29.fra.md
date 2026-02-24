@@ -168,3 +168,11 @@ Masse supplémentaire : 35 kg
 Masse des munitions : 45 kg  
 Masse de canon: 66 kg  
 Perte estimée de vitesse : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/lagg3s29.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Bottom.jpg"></td></tr>
+</tbody></table>

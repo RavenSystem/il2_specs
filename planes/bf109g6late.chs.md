@@ -186,3 +186,11 @@ MW-50水-甲醇混合物喷射系统
 挂架质量：40 kg  
 投弹前预期速度损失：52 km/h  
 投弹后预期速度损失：12 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6late.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Bottom.jpg"></td></tr>
+</tbody></table>

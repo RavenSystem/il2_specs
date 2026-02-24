@@ -208,3 +208,11 @@ Ammunition mass: 170 kg
 Racks mass: 56 kg  
 Estimated speed loss before launch: 42 km/h  
 Estimated speed loss after launch: 21 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+</tbody></table>

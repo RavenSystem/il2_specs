@@ -131,3 +131,11 @@ Masse des munitions : 464 kg
 Masse des pylones : 20 kg  
 Perte estimée de vitesse avant le largage : 45 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/tempestmkvs2.Bottom.jpg"></td></tr>
+</tbody></table>

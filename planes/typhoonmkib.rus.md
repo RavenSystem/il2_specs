@@ -208,3 +208,11 @@
 Масса держателей: 56 кг  
 Ориентировочная потеря скорости до пуска: 42 км/ч  
 Ориентировочная потеря скорости после пуска: 21 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+</tbody></table>

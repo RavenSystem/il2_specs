@@ -144,3 +144,11 @@
 Задняя турельная установка с 7,92-мм пулемётом MG 15 и боезапасом в 1125 патронов  
 Дополнительная масса: 130 кг  
 Ориентировочная потеря скорости: 4 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Bottom.jpg"></td></tr>
+</tbody></table>

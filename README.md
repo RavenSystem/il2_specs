@@ -1,5 +1,5 @@
 
-Game version: 7.002 - Date: 2026-02-22 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Game version: 7.002 - Date: 2026-02-24 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
@@ -977,6 +977,7 @@ Game version: 7.002 - Date: 2026-02-22 [ [Sponsor this project](https://paypal.m
 ## Credits
 
 - Planes and vehicles specifications texts are taken directly from in-game data of [Il-2 Sturmovik Great Battles](https://il2-series.com).
+- Extra images are from https://il2sturmovik.com.
 - Pilots Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
 - Pilots Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
 - Cockpits images of WWII planes are from Il-2 Battle of Stalingrad: User Manual and [Luke "LukeFF" Wallace](https://forum.il2-series.com/profile/5-lukeff/).

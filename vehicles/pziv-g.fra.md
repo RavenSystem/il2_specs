@@ -166,3 +166,10 @@ Muzzle velocity 930 m/s, armour penetration at point blank range 150 mm.
 ### Plaques de blindage supplémentaires  
 
 Protections supplémentaires 5mm. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+</tbody></table>

@@ -174,3 +174,10 @@ Velocidad de salida 1130 m/s, penetración del blindaje a bocajarro 266 mm.
 ### Pantalla de cañón invertida  
 
 Modificación en campo en el que se instala la plancha de protección del cañón dejando los pernos y tuercas que sujetan las dos mitades de la plancha hacia afuera, facilitando de esta forma su acceso.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+</tbody></table>

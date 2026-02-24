@@ -188,3 +188,11 @@ Basic data and recommended positions of the aircraft controls:
 弹药质量: 84 kg  
 枪炮质量: 323 kg  
 预期速度损失: 14 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Bottom.jpg"></td></tr>
+</tbody></table>

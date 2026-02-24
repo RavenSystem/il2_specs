@@ -164,3 +164,11 @@
 Масса боекомплекта: 45 кг  
 Масса орудия: 66 кг  
 Ориентировочная потеря скорости: 0 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/lagg3s29.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Bottom.jpg"></td></tr>
+</tbody></table>

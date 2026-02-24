@@ -174,3 +174,11 @@ Gain estimé de vitesse : 8 km/h
 Clipped Wing  
 Removed mass: 4 kg  
 Estimated speed loss: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxiv.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -238,3 +238,10 @@ Geschwindigkeitsverlust: 2 km/h
 Flügelmontiertes 7,62mm SchKAS Maschinengewehr mit 500 Schuss  
 Zusätzliches Gewicht: 27 kg  
 Geschätzter Geschwindigkeitsverlust: 3 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+</tbody></table>

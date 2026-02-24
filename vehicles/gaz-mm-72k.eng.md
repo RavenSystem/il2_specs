@@ -112,3 +112,10 @@ Muzzle velocity: 910 m/s.
 500 m: velocity 753 m/s, drop -1.8 m.  
 1000 m: velocity 623 m/s, drop -8.1 m.  
 2000 m: velocity 436 m/s, drop -42.4 m.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+</tbody></table>

@@ -213,3 +213,11 @@ Additional mass: 2 kg
 
 Open multi stub exhausts  
 Estimated speed increase at sea level: 22 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></td></tr>
+</tbody></table>

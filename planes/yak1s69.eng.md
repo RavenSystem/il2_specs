@@ -165,3 +165,11 @@ Estimated speed loss after launch: 17 km/h
 Fixed loop radio compass for navigation with radio beacons  
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak1s69.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -168,3 +168,10 @@ Velocidad de salida 930 m/s, penetración del blindaje a bocajarro 150 mm.
 
 Protección adicional: planchas blindadas de 5 mm unidas a los laterales del casco y torreta.  
 Las planchas están diseñadas para contrarrestar los disparos de rifles anticarro, peligrosos para los laterales, que cuentan con un blindaje más fino. No son capaces de detener una bala anticarro, pero la desestabilizan o provocan que se fragmente antes de que pueda impactar contra el casco blindado.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+</tbody></table>

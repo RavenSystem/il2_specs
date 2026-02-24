@@ -151,3 +151,10 @@
 Дымовая граната Schnellnebelkerze 39 (Nb K S 39)  
 Дальность выстрела: 80 m  
 Время работы дымовой шашки: 3 min  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pzv-d.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzv-d.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzv-d.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzv-d.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzv-d.Back.jpg"></td></tr>
+</tbody></table>

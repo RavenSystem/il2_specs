@@ -9,6 +9,8 @@
 # - macOS:
 # Unzip and copy "Another Pilots Notes for CockPit Photos official numbers v..." folder into "worldobjects" directory.
 # Copy and run this script into "worldobjects" directory.
+#
+# (Run this script twice if there are new planes or missing images)
 
 ### Composer Configuration Data
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
@@ -17,6 +19,7 @@ PILOTS_NOTES_VERSION="11.3"
 ###
 
 mkdir -p "$TARGET_DIR/images"
+mkdir -p "$TARGET_DIR/images_other"
 mkdir -p "$TARGET_DIR/pilots_notes"
 mkdir -p "$TARGET_DIR/cockpits"
 mkdir -p "$TARGET_DIR/manuals"
@@ -199,13 +202,49 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             sed -i.bak -e 's/^  $//g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
             sed -i.bak -e 's/\%25/\%/g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-
+            
+            # Add more images at bottom
+            IS_MORE_IMAGES=0
+            for LOCAL_IMG_TYPE in "Isometric" "Left" "LeftUC" "Front" "Top" "Bottom" "Back"; do
+                if [ -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
+                    IS_MORE_IMAGES=1
+                    break
+                fi
+            done
+            
+            if [ $IS_MORE_IMAGES -eq 1 ]; then
+                printf "\n<table><tbody>" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                for LOCAL_IMG_TYPE in "Isometric" "Left" "LeftUC" "Front" "Top" "Bottom" "Back"; do
+                    if [ -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
+                        printf "<tr><td style=\"text-align: center\"><img src=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"></td></tr>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                    fi
+                done
+                printf "</tbody></table>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            fi
+            
             rm -f "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md.bak"
         done
-
+        
         printf "##" >> "$TARGET_DIR/README.md"
         head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
         printf "\n" >> "$TARGET_DIR/README.md"
+        
+        # Download more images
+        DOWNLOAD_VEHICLE_NAME=$(head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | sed -e 's/-/_/g' | sed -e 's/ /_/g' | sed -e 's/\.//g' | sed -e 's/\///g' | sed -e 's/(//g' | sed -e 's/)//g' | sed -e 's/^#_//g' | sed -e 's/__\r//g' | tr 'A-Z' 'a-z')
+        for IMG_TYPE in "Isometric" "Left" "Left%20UC" "Front" "Top" "Bottom" "Back"; do
+            LOCAL_IMG_TYPE=$IMG_TYPE
+            if [ "$IMG_TYPE" = "Left%20UC" ]; then
+                LOCAL_IMG_TYPE="LeftUC"
+            fi
+            
+            if [ ! -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
+                if [ $(curl -Is "https://il2sturmovik.com/m/articles/$DOWNLOAD_VEHICLE_NAME/$IMG_TYPE.png" | grep 200 | wc -l) -eq 1 ]; then
+                    curl -o "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png" "https://il2sturmovik.com/m/articles/$DOWNLOAD_VEHICLE_NAME/$IMG_TYPE.png"
+                    sips --setProperty format jpeg "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png" -o "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg"
+                    rm -f "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png"
+                fi
+            fi
+        done
         
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
             printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
@@ -238,6 +277,7 @@ printf "
 ## Credits
 
 - Planes and vehicles specifications texts are taken directly from in-game data of [Il-2 Sturmovik Great Battles](https://il2-series.com).
+- Extra images are from https://il2sturmovik.com.
 - Pilots Notes of WWII planes are by [lefuneste](https://forum.il2-series.com/profile/214-lefuneste/).
 - Pilots Notes of WWI planes are by [Charlo](https://forum.il2-series.com/profile/215-charlo/).
 - Cockpits images of WWII planes are from Il-2 Battle of Stalingrad: User Manual and [Luke \"LukeFF\" Wallace](https://forum.il2-series.com/profile/5-lukeff/).

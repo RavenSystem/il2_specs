@@ -164,3 +164,9 @@ Velocidad de salida 950 m/s, penetración del blindaje a bocajarro 129 mm.
 500 m: penetración del blindaje 90 mm, velocidad 741 m/s, caída -1,7 m.  
 1000 m: penetración del blindaje 60 mm, velocidad 558 m/s, caída -8,0 m.  
 2000 m: penetración del blindaje 24 mm, velocidad 295 m/s, caída -53,3 m.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+</tbody></table>

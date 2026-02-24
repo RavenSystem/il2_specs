@@ -243,3 +243,10 @@ ROS-132x8:
 安装在机翼上的7.62mm施卡斯机枪，备弹500发  
 增加质量：27 kg  
 预期速度损失：3 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+</tbody></table>

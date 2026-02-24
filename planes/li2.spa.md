@@ -173,3 +173,11 @@ Pérdida de velocidad estimada tras soltar: 2 km/h
 Peso adicional: 1600 kg  
 Pérdida de velocidad estimada antes de soltar: 7 km/h  
 Pérdida de velocidad estimada tras soltar: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/li2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Bottom.jpg"></td></tr>
+</tbody></table>

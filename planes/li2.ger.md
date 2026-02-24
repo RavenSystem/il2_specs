@@ -171,3 +171,11 @@ Geschwindigkeitsverlust nach Abwurf: 2 km/h
 Zusätzliches Gewicht: 1600 kg  
 Geschwindigkeitsverlust vor Abwurf: 7 km/h  
 Geschwindigkeitsverlust nach Abwurf: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/li2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Bottom.jpg"></td></tr>
+</tbody></table>

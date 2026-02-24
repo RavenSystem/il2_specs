@@ -169,3 +169,11 @@ Geschwindigkeitsverlust: 0 km/h
 Flache Frontsektion für bessere Übersichtlichkeit  
 Zusätzliches Gewicht: 2 kg  
 Geschwindigkeitsverlust: 2 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/la5s8.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Bottom.jpg"></td></tr>
+</tbody></table>

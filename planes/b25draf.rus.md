@@ -103,3 +103,10 @@
 - Самолёт имеет шасси с передней стойкой. Передняя стойка свободноориентируемая, управления и тормозов не имеет.  
 - В хвосте самолёта установлен белый сигнальный огонь, который загорается при открытых створках бомболюка, и красный сигнальный огонь, который горит пять секунд после нажатия на кнопку сброса бомб.  
 - На самолёте установлен электросбрасыватель бомб, который позволяет выполнять бомбометание выбранных бомб или выполнить сброс всех бомб в одной серии. Также самолёт оборудован задатчиком интервала между сбросом бомб в серии.  
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/b25draf.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -207,3 +207,11 @@ Basic data and recommended positions of the aircraft controls:
 挂架质量：56 kg  
 发射前预期速度损失：42 km/h  
 发射后预期速度损失：21 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+</tbody></table>

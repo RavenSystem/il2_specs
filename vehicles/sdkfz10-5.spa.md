@@ -105,3 +105,10 @@ Desinstalación de los escudos blindados del cañón para mejorar el campo de vi
 ### Desinstalar escudo de la mira  
 
 Desinstalación del escudo blindado de la mira para proporcionar al artillero un campo de visión ligeramente más amplio.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Back.jpg"></td></tr>
+</tbody></table>

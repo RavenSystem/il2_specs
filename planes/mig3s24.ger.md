@@ -195,3 +195,11 @@ Zusätzliches Gewicht: 4 kg
 Gewicht der Munition: 69 kg  
 Gewicht der Schusswaffen: 94 kg  
 Geschwindigkeitsverlust: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/mig3s24.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Bottom.jpg"></td></tr>
+</tbody></table>

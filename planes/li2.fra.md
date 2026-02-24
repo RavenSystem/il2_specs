@@ -171,3 +171,11 @@ Perte estimée de vitesse après le largage : 2 km/h
 Masse supplémentaire : 1600 kg  
 Perte estimée de vitesse avant le largage : 7 km/h  
 Perte estimée de vitesse après le largage : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/li2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/li2.Bottom.jpg"></td></tr>
+</tbody></table>

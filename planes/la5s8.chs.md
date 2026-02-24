@@ -163,3 +163,11 @@ Basic data and recommended positions of the aircraft controls:
 正前方部分为平板，视野更佳  
 增加质量：2 kg  
 预期速度损失：2 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/la5s8.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Bottom.jpg"></td></tr>
+</tbody></table>

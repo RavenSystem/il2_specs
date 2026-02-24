@@ -162,3 +162,10 @@ Installation of 6 external single-shot smoke mortars.
 Schnellnebelkerze 39 (Nb K S 39) smoke grenade  
 Range: 80 m  
 Smoking time: 3 min  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziii-m.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziii-m.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziii-m.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziii-m.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pziii-m.Back.jpg"></td></tr>
+</tbody></table>

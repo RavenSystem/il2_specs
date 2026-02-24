@@ -103,3 +103,10 @@ Operation features:
 - The nose gear orients by itself, doesnt have brakes and cant be controlled.  
 - There are white and red signal lamps in the tail: the white one is lit while bomb doors are open and the red one lights up for 5 seconds when bombs are released.  
 - The aircraft is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.  
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/b25draf.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Bottom.jpg"></td></tr>
+</tbody></table>

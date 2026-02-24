@@ -208,3 +208,11 @@ Peso de munición: 170 kg (375 lb)
 Peso de los soportes: 56 kg (123 lb)  
 Pérdida de velocidad estimada antes de lanzarlos: 42 km/h (26  mph)  
 Pérdida de velocidad estimada tras lanzarlos: 21 km/h (13 mph)  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+</tbody></table>

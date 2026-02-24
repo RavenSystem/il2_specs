@@ -193,3 +193,11 @@ Gewicht der Munition: 249 kg
 Gewicht der Abwurfwaffenroste: 30 kg  
 Geschwindigkeitsverlust vor Abwurf: 33 km/h  
 Geschwindigkeitsverlust nach Abwurf: 11 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6as.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Bottom.jpg"></td></tr>
+</tbody></table>

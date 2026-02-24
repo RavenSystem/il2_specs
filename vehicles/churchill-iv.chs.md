@@ -129,3 +129,10 @@ Rare variant with mid sections of caterpillar fenders removed.
 ### Removed Fuel Tank  
 
 The external rear-mounted fuel tank was commonly removed on the Eastern front.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/churchill-iv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Back.jpg"></td></tr>
+</tbody></table>

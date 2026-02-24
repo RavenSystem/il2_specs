@@ -195,3 +195,11 @@ Masse supplémentaire : 4 kg
 Masse des munitions : 69 kg  
 Masse des armes : 94 kg  
 Perte estimée de vitesse : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/mig3s24.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mig3s24.Bottom.jpg"></td></tr>
+</tbody></table>

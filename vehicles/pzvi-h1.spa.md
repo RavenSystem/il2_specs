@@ -177,3 +177,10 @@ Instalación de 6 morteros externos lanzagranadas de humo de un único proyectil
 Granada de humo Schnellnebelkerze 39 (Nb K S 39)  
 Distancia de lanzamiento: 80 m  
 Duración del humo: 3 minutos  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Back.jpg"></td></tr>
+</tbody></table>

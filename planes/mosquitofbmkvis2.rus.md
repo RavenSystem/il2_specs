@@ -214,3 +214,11 @@ RP-3 бронебойные:
 
 Индивидуальные выхлопные патрубки открытого типа  
 Ориентировочная прибавка скорости у земли: 22 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></td></tr>
+</tbody></table>

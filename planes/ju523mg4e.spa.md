@@ -144,3 +144,11 @@ Pérdida de velocidad estimada tras soltar: 0 km/h
 Posición de artillero trasero con ametralladora MG 15 de 7,92 mm con 1125 balas  
 Peso adicional: 130 kg  
 Pérdida de velocidad estimada: 4 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Bottom.jpg"></td></tr>
+</tbody></table>

@@ -162,3 +162,11 @@ Replacement of MkII Gyro Gunsight with MkII* Reflector Gunsight
 裁剪翼  
 减少质量：4 kg  
 预期速度损失：0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Bottom.jpg"></td></tr>
+</tbody></table>

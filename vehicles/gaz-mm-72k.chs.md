@@ -112,3 +112,10 @@ OZR-132
 500m时：速度 753 m/s，下坠高度 1.8m  
 1000m时：速度 623 m/s，下坠高度 8.1m  
 2000m时：速度 436 m/s，下坠高度 42.4m  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+</tbody></table>

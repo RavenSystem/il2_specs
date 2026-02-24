@@ -166,3 +166,9 @@ Durchschlagsleistung aus kürzester Entfernung: 129 mm
 500 m: Durchschlagsleistung 90 mm, Geschwindigkeit 741 m/s, Fall -1,7 m  
 1000 m: Durchschlagsleistung 60 mm, Geschwindigkeit 558 m/s, Fall -8,0 m  
 2000 m: Durchschlagsleistung 24 mm, Geschwindigkeit 295 m/s, Fall -53,3 m  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+</tbody></table>

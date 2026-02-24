@@ -128,3 +128,10 @@
 ### Без внешнего бака  
 
 На Восточном фронте внешний топливный бак на корме довольно часто снимали.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/churchill-iv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Back.jpg"></td></tr>
+</tbody></table>

@@ -163,3 +163,11 @@ Reemplaza la mira giroscópica Mk.II por una mira reflectora Mk.II* fija
 Alas recortadas  
 Peso retirado: 4 kg  
 Pérdida de velocidad estimada: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Bottom.jpg"></td></tr>
+</tbody></table>

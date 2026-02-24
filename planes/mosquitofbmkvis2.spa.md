@@ -214,3 +214,11 @@ Pérdida de velocidad estimada: 0 km/h
 
 Desinstalación de la cubierta de los múltiples tubos de escape del motor  
 Incremento estimado de velocidad a nivel del mar: 22 km/h (13,6 mph)  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></td></tr>
+</tbody></table>

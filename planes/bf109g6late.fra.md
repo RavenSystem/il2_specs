@@ -190,3 +190,11 @@ Masse des munitions : 264 kg
 Masse des pylones : 40 kg  
 Perte estimée de vitesse avant le largage : 52 km/h  
 Perte estimée de vitesse après le largage : 12 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6late.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Bottom.jpg"></td></tr>
+</tbody></table>

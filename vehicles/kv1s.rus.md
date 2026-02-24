@@ -160,3 +160,9 @@
 Дистанция 500 м: бронепробиваемость по нормали 90 мм, скорость 741 м/с, понижение -1.7 м.  
 Дистанция 1000 м: бронепробиваемость по нормали 60 мм, скорость: 558 м/с, понижение -8.0 м.  
 Дистанция 2000 м: бронепробиваемость по нормали 24 мм, скорость: 295 м/с, понижение -53.3 м.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+</tbody></table>

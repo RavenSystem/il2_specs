@@ -170,3 +170,11 @@ Perte estimée de vitesse après le lancement : 17 km/h
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak1s69.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak1s69.Bottom.jpg"></td></tr>
+</tbody></table>

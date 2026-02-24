@@ -102,3 +102,10 @@
 ### 移除瞄准具护罩  
 
 取下瞄准器护罩可以让炮手的视野稍大一些。  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Back.jpg"></td></tr>
+</tbody></table>

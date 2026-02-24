@@ -163,3 +163,11 @@ Pérdida de velocidad estimada: 0 km/h
 Sección frontal plana para una mejor visibilidad  
 Peso adicional: 2 kg  
 Pérdida de velocidad estimada: 2 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/la5s8.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/la5s8.Bottom.jpg"></td></tr>
+</tbody></table>

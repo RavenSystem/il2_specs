@@ -130,3 +130,10 @@ Variante no muy habitual, con la sección central de los guardabarros de las oru
 ### Retirada de depósito externo  
 
 En el Frente Oriental, el depósito de combustible externo instalado en la parte trasera del carro se retiraba con bastante frecuencia.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/churchill-iv.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Back.jpg"></td></tr>
+</tbody></table>

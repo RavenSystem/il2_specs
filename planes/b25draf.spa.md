@@ -102,3 +102,10 @@ Características operativas:
 - La rueda del morro no puede ser controlada; se orienta por sí sola y carece de freno.  
 - Tiene una lámpara indicadora blanca y otra roja en la cola: la blanca se enciende cuando la compuerta de bombas está abierta y la roja luce durante 5 segundos cuando se lanzan las bombas.  
 - El controlador de lanzamiento de bombas permite arrojar las bombas en varias salvas o todas de una sola vez. Cuenta también con un controlador para definir el intervalo de tiempo entre el lanzamiento de cada bomba de la salva.  
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/b25draf.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/b25draf.Bottom.jpg"></td></tr>
+</tbody></table>

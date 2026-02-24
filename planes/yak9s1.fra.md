@@ -136,3 +136,11 @@ Estimated speed loss: 0 km/h
 Goniomètre pour la radionavigation  
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak9s1.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9s1.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9s1.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9s1.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9s1.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9s1.Bottom.jpg"></td></tr>
+</tbody></table>

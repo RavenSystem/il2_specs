@@ -141,3 +141,11 @@ Pérdida de velocidad estimada: 0 km/h
 Radiogoniómetro para navegación con radiobalizas  
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak9ts1.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9ts1.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9ts1.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9ts1.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9ts1.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/yak9ts1.Bottom.jpg"></td></tr>
+</tbody></table>

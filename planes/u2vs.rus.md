@@ -239,3 +239,10 @@
 Крыльевая установка 7,62-мм пулемёта ШКАС c боезапасом 500 патронов  
 Дополнительная масса: 27 кг  
 Ориентировочная потеря скорости: 3 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+</tbody></table>

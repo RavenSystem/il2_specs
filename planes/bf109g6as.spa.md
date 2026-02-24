@@ -191,3 +191,11 @@ Peso de munición: 249 kg
 Peso de los soportes: 30 kg  
 Pérdida de velocidad estimada antes de soltar: 33 km/h  
 Pérdida de velocidad estimada tras soltar: 11 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6as.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Bottom.jpg"></td></tr>
+</tbody></table>

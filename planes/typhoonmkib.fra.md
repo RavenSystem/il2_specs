@@ -207,3 +207,11 @@ Masse des munitions : 170 kg
 Masse des rails : 56 kg  
 Perte estimée de vitesse avant le lancement : 42 km/h  
 Perte estimée de vitesse après le lancement : 21 km/h  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+</tbody></table>

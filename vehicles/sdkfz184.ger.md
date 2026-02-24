@@ -173,3 +173,10 @@ Muzzle velocity 1130 m/s, armour penetration at point blank range 266 mm.
 ### Rückwärtiges Kanonenmantelschild  
 
 Kanonenmantelschild, hauptsächlich angebracht, um einen leichteren Zugang zu den Bolzen zu ermöglichen, die Schildhälften zusammenhalten (kosmetische Änderung).  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+</tbody></table>

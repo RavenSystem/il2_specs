@@ -111,3 +111,10 @@
 Дистанция 500 м: скорость 753 м/с, понижение -1,8 м.  
 Дистанция 1000 м: скорость 623 м/с, понижение -8,1 м.  
 Дистанция 2000 м: скорость 436 м/с, понижение -42,4 м.  
+
+<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
+<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+</tbody></table>
