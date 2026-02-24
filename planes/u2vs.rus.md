@@ -1,6 +1,6 @@
 # У-2ВС  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/u2vs.png"></td><td style="text-align: center"><img src="../pilots_notes/u2vs.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/u2vs.png"><img src="../images/u2vs.png"></a></td><td style="text-align: center"><a href="../pilots_notes/u2vs.png"><img src="../pilots_notes/u2vs.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -240,9 +240,9 @@
 Дополнительная масса: 27 кг  
 Ориентировочная потеря скорости: 3 км/ч  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/u2vs.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/u2vs.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/u2vs.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/u2vs.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/u2vs.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/u2vs.Isometric.jpg"><img src="../images_other/u2vs.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/u2vs.Left.jpg"><img src="../images_other/u2vs.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/u2vs.Front.jpg"><img src="../images_other/u2vs.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/u2vs.Top.jpg"><img src="../images_other/u2vs.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/u2vs.Bottom.jpg"><img src="../images_other/u2vs.Bottom.jpg"></a></td></tr>
 </tbody></table>

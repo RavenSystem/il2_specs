@@ -1,6 +1,6 @@
 # B-25D  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/b25draf.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/b25draf.png"><img src="../images/b25draf.png"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  
@@ -103,10 +103,10 @@ Eigenschaften:
 - Das Bugfahrwerk steuert von alleine, hat keine Bremsen und kann nicht kontrolliert werden.  
 - Es gibt weiße und rote Signallampen im Heck: die weiße leuchtet, wenn die Türen des Bombenschachts offen sind, und die rote leuchtet für 5 Sekunden, wenn die Bomben ausgelöst werden.  
 - The aircraft is equipped with a bomb salvo controller. It allows to drop selected bombs in a salvo or drop all bombs in salvo. There is also a controller for a drop delay between each bomb in the salvo.  
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/b25draf.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/b25draf.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/b25draf.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/b25draf.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/b25draf.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/b25draf.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/b25draf.Isometric.jpg"><img src="../images_other/b25draf.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/b25draf.Left.jpg"><img src="../images_other/b25draf.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/b25draf.LeftUC.jpg"><img src="../images_other/b25draf.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/b25draf.Front.jpg"><img src="../images_other/b25draf.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/b25draf.Top.jpg"><img src="../images_other/b25draf.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/b25draf.Bottom.jpg"><img src="../images_other/b25draf.Bottom.jpg"></a></td></tr>
 </tbody></table>

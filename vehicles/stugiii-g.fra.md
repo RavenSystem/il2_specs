@@ -1,6 +1,6 @@
 # StuG III Ausf.G  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/stugiii-g.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/stugiii-g.png"><img src="../images/stugiii-g.png"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -218,8 +218,8 @@ Schnellnebelkerze 39 (Nb K S 39) smoke grenade
 Range: 80 m  
 Smoking time: 3 min  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/stugiii-g.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/stugiii-g.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/stugiii-g.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/stugiii-g.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/stugiii-g.Isometric.jpg"><img src="../images_other/stugiii-g.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/stugiii-g.Left.jpg"><img src="../images_other/stugiii-g.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/stugiii-g.Front.jpg"><img src="../images_other/stugiii-g.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/stugiii-g.Back.jpg"><img src="../images_other/stugiii-g.Back.jpg"></a></td></tr>
 </tbody></table>

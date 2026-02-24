@@ -1,6 +1,6 @@
 # F.E.2b  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fe2b.png"></td><td style="text-align: center"><img src="../pilots_notes/fe2b.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fe2b.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/fe2b.png"><img src="../images/fe2b.png"></a></td><td style="text-align: center"><a href="../pilots_notes/fe2b.png"><img src="../pilots_notes/fe2b.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/fe2b.eng.jpg"><img src="../cockpits/fe2b.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  

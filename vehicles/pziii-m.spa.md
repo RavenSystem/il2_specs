@@ -1,6 +1,6 @@
 # Pz.Kpfw.III Ausf.M  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-m.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pziii-m.png"><img src="../images/pziii-m.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -165,9 +165,9 @@ Granada de humo Schnellnebelkerze 39 (Nb K S 39)
 Distancia de lanzamiento: 80 m  
 Duración del humo: 3 minutos  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziii-m.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziii-m.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziii-m.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziii-m.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziii-m.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pziii-m.Isometric.jpg"><img src="../images_other/pziii-m.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziii-m.Left.jpg"><img src="../images_other/pziii-m.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziii-m.Front.jpg"><img src="../images_other/pziii-m.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziii-m.Top.jpg"><img src="../images_other/pziii-m.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziii-m.Back.jpg"><img src="../images_other/pziii-m.Back.jpg"></a></td></tr>
 </tbody></table>

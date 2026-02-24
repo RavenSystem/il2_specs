@@ -1,6 +1,6 @@
 # Yak-9 ser.1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak9s1.png"></td><td style="text-align: center"><img src="../pilots_notes/yak9s1.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/yak9s1.png"><img src="../images/yak9s1.png"></a></td><td style="text-align: center"><a href="../pilots_notes/yak9s1.png"><img src="../pilots_notes/yak9s1.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -136,10 +136,10 @@ Radiogoniómetro para navegación con radiobalizas
 Peso adicional: 10 kg  
 Pérdida de velocidad estimada: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak9s1.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak9s1.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak9s1.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak9s1.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak9s1.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak9s1.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/yak9s1.Isometric.jpg"><img src="../images_other/yak9s1.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak9s1.Left.jpg"><img src="../images_other/yak9s1.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak9s1.LeftUC.jpg"><img src="../images_other/yak9s1.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak9s1.Front.jpg"><img src="../images_other/yak9s1.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak9s1.Top.jpg"><img src="../images_other/yak9s1.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak9s1.Bottom.jpg"><img src="../images_other/yak9s1.Bottom.jpg"></a></td></tr>
 </tbody></table>

@@ -1,6 +1,6 @@
 # La-5 sér.8  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/la5s8.png"></td><td style="text-align: center"><img src="../pilots_notes/la5s8.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/la5s8.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/la5s8.png"><img src="../images/la5s8.png"></a></td><td style="text-align: center"><a href="../pilots_notes/la5s8.png"><img src="../pilots_notes/la5s8.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/la5s8.eng.jpg"><img src="../cockpits/la5s8.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -170,10 +170,10 @@ La section frontale du pare-brise est plate pour une meilleure visibilité
 Masse supplémentaire : 2 kg  
 Perte estimée de vitesse : 2 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/la5s8.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/la5s8.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/la5s8.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/la5s8.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/la5s8.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/la5s8.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/la5s8.Isometric.jpg"><img src="../images_other/la5s8.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/la5s8.Left.jpg"><img src="../images_other/la5s8.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/la5s8.LeftUC.jpg"><img src="../images_other/la5s8.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/la5s8.Front.jpg"><img src="../images_other/la5s8.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/la5s8.Top.jpg"><img src="../images_other/la5s8.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/la5s8.Bottom.jpg"><img src="../images_other/la5s8.Bottom.jpg"></a></td></tr>
 </tbody></table>

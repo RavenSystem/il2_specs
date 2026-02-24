@@ -1,6 +1,6 @@
 # Bf 109 G-6AS  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6as.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6as.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/bf109g6as.png"><img src="../images/bf109g6as.png"></a></td><td style="text-align: center"><a href="../pilots_notes/bf109g6as.png"><img src="../pilots_notes/bf109g6as.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -192,10 +192,10 @@ MW-50甲醇-水混合加力系统
 投弹前预期速度损失：33 km/h  
 投弹后预期速度损失：11 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6as.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6as.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6as.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/bf109g6as.Isometric.jpg"><img src="../images_other/bf109g6as.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6as.Left.jpg"><img src="../images_other/bf109g6as.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6as.LeftUC.jpg"><img src="../images_other/bf109g6as.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6as.Front.jpg"><img src="../images_other/bf109g6as.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6as.Top.jpg"><img src="../images_other/bf109g6as.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6as.Bottom.jpg"><img src="../images_other/bf109g6as.Bottom.jpg"></a></td></tr>
 </tbody></table>

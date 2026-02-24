@@ -1,6 +1,6 @@
 # Yak-1ser.23  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s23.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s23.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/yak1s23.png"><img src="../images/yak1s23.png"></a></td><td style="text-align: center"><a href="../pilots_notes/yak1s23.png"><img src="../pilots_notes/yak1s23.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  

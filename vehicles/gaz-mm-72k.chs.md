@@ -1,6 +1,6 @@
 # GAZ-MM 72-K  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/gaz-mm-72k.png"><img src="../images/gaz-mm-72k.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -113,9 +113,9 @@ OZR-132
 1000m时：速度 623 m/s，下坠高度 8.1m  
 2000m时：速度 436 m/s，下坠高度 42.4m  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Isometric.jpg"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Left.jpg"><img src="../images_other/gaz-mm-72k.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Front.jpg"><img src="../images_other/gaz-mm-72k.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Top.jpg"><img src="../images_other/gaz-mm-72k.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Back.jpg"><img src="../images_other/gaz-mm-72k.Back.jpg"></a></td></tr>
 </tbody></table>

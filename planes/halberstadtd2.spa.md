@@ -1,6 +1,6 @@
 # Halberstadt D.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtd2.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtd2.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtd2.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/halberstadtd2.png"><img src="../images/halberstadtd2.png"></a></td><td style="text-align: center"><a href="../pilots_notes/halberstadtd2.png"><img src="../pilots_notes/halberstadtd2.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/halberstadtd2.spa.jpg"><img src="../cockpits/halberstadtd2.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

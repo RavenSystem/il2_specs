@@ -1,6 +1,6 @@
 # ГАЗ-ММ 72-К  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/gaz-mm-72k.png"><img src="../images/gaz-mm-72k.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -112,9 +112,9 @@
 Дистанция 1000 м: скорость 623 м/с, понижение -8,1 м.  
 Дистанция 2000 м: скорость 436 м/с, понижение -42,4 м.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Isometric.jpg"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Left.jpg"><img src="../images_other/gaz-mm-72k.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Front.jpg"><img src="../images_other/gaz-mm-72k.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Top.jpg"><img src="../images_other/gaz-mm-72k.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Back.jpg"><img src="../images_other/gaz-mm-72k.Back.jpg"></a></td></tr>
 </tbody></table>

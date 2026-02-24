@@ -1,6 +1,6 @@
 # Nieuport 28.C1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport28.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport28.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport28.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/nieuport28.png"><img src="../images/nieuport28.png"></a></td><td style="text-align: center"><a href="../pilots_notes/nieuport28.png"><img src="../pilots_notes/nieuport28.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/nieuport28.eng.jpg"><img src="../cockpits/nieuport28.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  

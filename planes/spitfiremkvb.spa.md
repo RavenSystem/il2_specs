@@ -1,6 +1,6 @@
 # Spitfire Mk.VB  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkvb.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkvb.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spitfiremkvb.png"><img src="../images/spitfiremkvb.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spitfiremkvb.png"><img src="../pilots_notes/spitfiremkvb.png"></a></td></tr></tbody></table>  
 
 - Documento 01 [ [eng](../real_manuals/spitfiremkvb.01.eng.pdf) ]   
 
@@ -148,10 +148,10 @@ Espejo para ver qué sucede detrás del avión
 Peso adicional: 1 kg  
 Pérdida de velocidad estimada: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkvb.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.Isometric.jpg"><img src="../images_other/spitfiremkvb.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.Left.jpg"><img src="../images_other/spitfiremkvb.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.LeftUC.jpg"><img src="../images_other/spitfiremkvb.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.Front.jpg"><img src="../images_other/spitfiremkvb.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.Top.jpg"><img src="../images_other/spitfiremkvb.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkvb.Bottom.jpg"><img src="../images_other/spitfiremkvb.Bottom.jpg"></a></td></tr>
 </tbody></table>

@@ -1,6 +1,6 @@
 # Churchill IV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/churchill-iv.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/churchill-iv.png"><img src="../images/churchill-iv.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -129,9 +129,9 @@
 
 На Восточном фронте внешний топливный бак на корме довольно часто снимали.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/churchill-iv.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/churchill-iv.Isometric.jpg"><img src="../images_other/churchill-iv.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Left.jpg"><img src="../images_other/churchill-iv.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Front.jpg"><img src="../images_other/churchill-iv.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Top.jpg"><img src="../images_other/churchill-iv.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Back.jpg"><img src="../images_other/churchill-iv.Back.jpg"></a></td></tr>
 </tbody></table>

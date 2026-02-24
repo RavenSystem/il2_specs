@@ -1,6 +1,6 @@
 # Hurricane Mk.II  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/hurricanemkii.png"></td><td style="text-align: center"><img src="../pilots_notes/hurricanemkii.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/hurricanemkii.png"><img src="../images/hurricanemkii.png"></a></td><td style="text-align: center"><a href="../pilots_notes/hurricanemkii.png"><img src="../pilots_notes/hurricanemkii.png"></a></td></tr></tbody></table>  
 
 - Documento 01 [ [eng](../real_manuals/hurricanemkii.01.eng.pdf) ]   
 
@@ -188,10 +188,10 @@ Peso de munición: 84 kg
 Peso del armamento: 323 kg  
 Pérdida de velocidad estimada: 14 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/hurricanemkii.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/hurricanemkii.Isometric.jpg"><img src="../images_other/hurricanemkii.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/hurricanemkii.Left.jpg"><img src="../images_other/hurricanemkii.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/hurricanemkii.LeftUC.jpg"><img src="../images_other/hurricanemkii.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/hurricanemkii.Front.jpg"><img src="../images_other/hurricanemkii.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/hurricanemkii.Top.jpg"><img src="../images_other/hurricanemkii.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/hurricanemkii.Bottom.jpg"><img src="../images_other/hurricanemkii.Bottom.jpg"></a></td></tr>
 </tbody></table>

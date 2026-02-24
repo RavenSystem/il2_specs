@@ -40,14 +40,16 @@ Game version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](htt
 
 " > "$TARGET_DIR/README.md"
 
+printf "### Jump to...\n\n" >> "$TARGET_DIR/README.md"
+
+printf "<select onchange=\"window.location.href=this.value\">\n" >> "$TARGET_DIR/README.md"
+
 for VEHICLE_TYPE in "planes" "vehicles"; do
     mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
     
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
-    printf "### $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
     
-    printf "<select onchange=\"window.location.href=this.value\">\n" >> "$TARGET_DIR/README.md"
-    printf "<option value=\"\"> </option>\n" >> "$TARGET_DIR/README.md"
+    printf "<option value=\"\">--- $VEHICLE_TYPE_U</option>\n" >> "$TARGET_DIR/README.md"
     
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
@@ -59,10 +61,10 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         #printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
     done
     
-    printf "</select>\n\n" >> "$TARGET_DIR/README.md"
-    
     rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
 done
+
+printf "</select>\n\n" >> "$TARGET_DIR/README.md"
 
 
 for VEHICLE_TYPE in "planes" "vehicles"; do
@@ -138,10 +140,10 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
 
             sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\"><img src=\"..\/images\/$NEW_VEHICLE_NAME.png\">"
+            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\"><a href=\"..\/images\/$NEW_VEHICLE_NAME.png\"><img src=\"..\/images\/$NEW_VEHICLE_NAME.png\"><\/a>"
             
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><img src=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\">"
+                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><a href=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><img src=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><\/a>"
             fi
             
             if [ -f "$TARGET_DIR/cockpits/$COCKPIT_IMAGE" ]; then
@@ -151,7 +153,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                     TABLE_DETAILS="$TABLE_DETAILS colspan=\"2\""
                 fi
                 
-                TABLE_DETAILS="$TABLE_DETAILS><img src=\"..\/cockpits\/$COCKPIT_IMAGE\">"
+                TABLE_DETAILS="$TABLE_DETAILS><a href=\"..\/cockpits\/$COCKPIT_IMAGE\"><img src=\"..\/cockpits\/$COCKPIT_IMAGE\"><\/a>"
             fi
             
             TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>\n"
@@ -216,7 +218,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 printf "\n<table><tbody>" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 for LOCAL_IMG_TYPE in "Isometric" "Left" "LeftUC" "Front" "Top" "Bottom" "Back"; do
                     if [ -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
-                        printf "<tr><td style=\"text-align: center\"><img src=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"></td></tr>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                        printf "<tr><td style=\"text-align: center\"><a href=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"><img src=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"></a></td></tr>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                     fi
                 done
                 printf "</tbody></table>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
@@ -240,6 +242,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             if [ ! -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
                 if [ $(curl -Is "https://il2sturmovik.com/m/articles/$DOWNLOAD_VEHICLE_NAME/$IMG_TYPE.png" | grep 200 | wc -l) -eq 1 ]; then
                     curl -o "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png" "https://il2sturmovik.com/m/articles/$DOWNLOAD_VEHICLE_NAME/$IMG_TYPE.png"
+                    #sips --resampleHeightWidthMax 2000 2000 "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png"
                     sips --setProperty format jpeg "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png" -o "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg"
                     rm -f "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png"
                 fi
@@ -251,11 +254,11 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         done
         
         printf "\n\n<table><tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-        printf "<img src=\"images/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
+        printf "<a href=\"images/$NEW_VEHICLE_NAME.png\"><img src=\"images/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/README.md"
         
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
             printf "</td><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-            printf "<img src=\"pilots_notes/$NEW_VEHICLE_NAME.png\">" >> "$TARGET_DIR/README.md"
+            printf "<a href=\"pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"pilots_notes/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/README.md"
         fi
         
         printf "</td></tr></tbody></table>\n\n" >> "$TARGET_DIR/README.md"

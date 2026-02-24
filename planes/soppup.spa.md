@@ -1,6 +1,6 @@
 # Sopwith Pup  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/soppup.png"></td><td style="text-align: center"><img src="../pilots_notes/soppup.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soppup.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/soppup.png"><img src="../images/soppup.png"></a></td><td style="text-align: center"><a href="../pilots_notes/soppup.png"><img src="../pilots_notes/soppup.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/soppup.spa.jpg"><img src="../cockpits/soppup.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

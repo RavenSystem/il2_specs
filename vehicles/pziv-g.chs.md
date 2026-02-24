@@ -1,6 +1,6 @@
 # 四号坦克G型（Pz.Kpfw.IV Ausf.G）  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pziv-g.png"><img src="../images/pziv-g.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -169,9 +169,9 @@ VHF Fu 5 transceiver with additional Fu 2 receiver.
 添加它们主要是为了保护坦克免受大规模反坦克步枪火力的伤害，这对装甲较薄的一侧来说是危险的。  
 虽然无法阻停穿甲子弹，这种附加装甲可以使其失稳或导致其碎裂，然后才击中主装甲保护车体。  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pziv-g.Isometric.jpg"><img src="../images_other/pziv-g.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Left.jpg"><img src="../images_other/pziv-g.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Front.jpg"><img src="../images_other/pziv-g.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Top.jpg"><img src="../images_other/pziv-g.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Back.jpg"><img src="../images_other/pziv-g.Back.jpg"></a></td></tr>
 </tbody></table>

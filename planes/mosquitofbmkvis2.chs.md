@@ -1,6 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/mosquitofbmkvis2.png"><img src="../images/mosquitofbmkvis2.png"></a></td><td style="text-align: center"><a href="../pilots_notes/mosquitofbmkvis2.png"><img src="../pilots_notes/mosquitofbmkvis2.png"></a></td></tr></tbody></table>  
 
 - 文档 01 [ [eng](../real_manuals/mosquitofbmkvis2.01.eng.pdf) ]   
 
@@ -214,10 +214,10 @@ Mk.IIL瞄准具允许将瞄准基线线向下移动最多5度（默认按键为�
 打开多支管排气口  
 预计海平面速度增加：22 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Isometric.jpg"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Left.jpg"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.LeftUC.jpg"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Front.jpg"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Top.jpg"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Bottom.jpg"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></a></td></tr>
 </tbody></table>

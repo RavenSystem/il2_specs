@@ -1,6 +1,6 @@
 # SPAD 7.C1 180hp  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad7late.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7late.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7late.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spad7late.png"><img src="../images/spad7late.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spad7late.png"><img src="../pilots_notes/spad7late.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/spad7late.eng.jpg"><img src="../cockpits/spad7late.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  

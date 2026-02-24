@@ -1,6 +1,6 @@
 # Sd.Kfz.10/5  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz10-5.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sdkfz10-5.png"><img src="../images/sdkfz10-5.png"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  
@@ -103,9 +103,9 @@ Gun shields are completely removed for an improved field of view.
 
 Removing the gunsight shield gives the gunner a slightly wider field of view.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz10-5.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/sdkfz10-5.Isometric.jpg"><img src="../images_other/sdkfz10-5.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz10-5.Left.jpg"><img src="../images_other/sdkfz10-5.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz10-5.Front.jpg"><img src="../images_other/sdkfz10-5.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz10-5.Top.jpg"><img src="../images_other/sdkfz10-5.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz10-5.Back.jpg"><img src="../images_other/sdkfz10-5.Back.jpg"></a></td></tr>
 </tbody></table>

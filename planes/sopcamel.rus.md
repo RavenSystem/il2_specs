@@ -1,6 +1,6 @@
 # Sopwith Camel  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopcamel.png"></td><td style="text-align: center"><img src="../pilots_notes/sopcamel.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopcamel.rus.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sopcamel.png"><img src="../images/sopcamel.png"></a></td><td style="text-align: center"><a href="../pilots_notes/sopcamel.png"><img src="../pilots_notes/sopcamel.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/sopcamel.rus.jpg"><img src="../cockpits/sopcamel.rus.jpg"></a></td></tr></tbody></table>  
 
 
 ## Описание  

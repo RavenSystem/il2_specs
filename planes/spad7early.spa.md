@@ -1,6 +1,6 @@
 # SPAD 7.C1 150 CV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spad7early.png"></td><td style="text-align: center"><img src="../pilots_notes/spad7early.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spad7early.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spad7early.png"><img src="../images/spad7early.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spad7early.png"><img src="../pilots_notes/spad7early.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/spad7early.spa.jpg"><img src="../cockpits/spad7early.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

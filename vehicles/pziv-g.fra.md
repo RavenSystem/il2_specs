@@ -1,6 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pziv-g.png"><img src="../images/pziv-g.png"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -167,9 +167,9 @@ Muzzle velocity 930 m/s, armour penetration at point blank range 150 mm.
 
 Protections supplémentaires 5mm. They were added mainly to protect the tank from massed AT rifle fire which was dangerous for thinner armored sides. Not being able to stop an AP bullet, this additional armor destabilized it or caused its fragmentation before it could hit the main armored hull.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pziv-g.Isometric.jpg"><img src="../images_other/pziv-g.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Left.jpg"><img src="../images_other/pziv-g.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Front.jpg"><img src="../images_other/pziv-g.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Top.jpg"><img src="../images_other/pziv-g.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Back.jpg"><img src="../images_other/pziv-g.Back.jpg"></a></td></tr>
 </tbody></table>

@@ -1,6 +1,6 @@
 # Sopwith Dolphin  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopdolphin.png"></td><td style="text-align: center"><img src="../pilots_notes/sopdolphin.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopdolphin.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sopdolphin.png"><img src="../images/sopdolphin.png"></a></td><td style="text-align: center"><a href="../pilots_notes/sopdolphin.png"><img src="../pilots_notes/sopdolphin.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/sopdolphin.eng.jpg"><img src="../cockpits/sopdolphin.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  

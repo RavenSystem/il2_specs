@@ -1,6 +1,6 @@
 # LaGG-3 ser.29  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s29.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s29.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/lagg3s29.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/lagg3s29.png"><img src="../images/lagg3s29.png"></a></td><td style="text-align: center"><a href="../pilots_notes/lagg3s29.png"><img src="../pilots_notes/lagg3s29.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/lagg3s29.eng.jpg"><img src="../cockpits/lagg3s29.eng.jpg"></a></td></tr></tbody></table>  
 
 - Documento 01 [ [rus](../real_manuals/lagg3s29.01.rus.pdf) ]   
 
@@ -165,10 +165,10 @@ Peso de munición: 45 kg
 Peso de cañón: 66 kg  
 Pérdida de velocidad estimada: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/lagg3s29.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/lagg3s29.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/lagg3s29.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/lagg3s29.Isometric.jpg"><img src="../images_other/lagg3s29.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/lagg3s29.Left.jpg"><img src="../images_other/lagg3s29.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/lagg3s29.LeftUC.jpg"><img src="../images_other/lagg3s29.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/lagg3s29.Front.jpg"><img src="../images_other/lagg3s29.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/lagg3s29.Top.jpg"><img src="../images_other/lagg3s29.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/lagg3s29.Bottom.jpg"><img src="../images_other/lagg3s29.Bottom.jpg"></a></td></tr>
 </tbody></table>

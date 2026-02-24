@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sdkfz184.png"><img src="../images/sdkfz184.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -171,9 +171,9 @@
 
 Полевая модификация с установленной задом наперёд маской орудия для облегчения доступа к болтам крепления.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/sdkfz184.Isometric.jpg"><img src="../images_other/sdkfz184.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Left.jpg"><img src="../images_other/sdkfz184.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Front.jpg"><img src="../images_other/sdkfz184.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Top.jpg"><img src="../images_other/sdkfz184.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Back.jpg"><img src="../images_other/sdkfz184.Back.jpg"></a></td></tr>
 </tbody></table>

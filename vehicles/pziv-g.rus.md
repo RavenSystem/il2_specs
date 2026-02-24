@@ -1,6 +1,6 @@
 # Pz.Kpfw.IV Ausf.G  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziv-g.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pziv-g.png"><img src="../images/pziv-g.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -157,9 +157,9 @@
 Дополнительная защита корпуса и башни при помощи навесных бронированных экранов толщиной 5мм.  
 Навесные экраны предназначены для противодействия обстрелу из противотанковых ружей с боковых ракурсов. Экран такой толщины, сам по себе, не является серьезным препятствием для крупнокалиберной бронебойной пули, однако он дестабилизирует полёт пули и нарушает условия её встречи с основной бронёй танка.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pziv-g.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pziv-g.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pziv-g.Isometric.jpg"><img src="../images_other/pziv-g.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Left.jpg"><img src="../images_other/pziv-g.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Front.jpg"><img src="../images_other/pziv-g.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Top.jpg"><img src="../images_other/pziv-g.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pziv-g.Back.jpg"><img src="../images_other/pziv-g.Back.jpg"></a></td></tr>
 </tbody></table>

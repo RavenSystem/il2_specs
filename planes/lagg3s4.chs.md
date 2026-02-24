@@ -1,6 +1,6 @@
 # LaGG-3ser.4  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/lagg3s4.png"></td><td style="text-align: center"><img src="../pilots_notes/lagg3s4.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/lagg3s4.png"><img src="../images/lagg3s4.png"></a></td><td style="text-align: center"><a href="../pilots_notes/lagg3s4.png"><img src="../pilots_notes/lagg3s4.png"></a></td></tr></tbody></table>  
 
 - 文档 01 [ [rus](../real_manuals/lagg3s4.01.rus.pdf) ]   
 

@@ -1,6 +1,6 @@
 # SSW D.IV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/schuckertdiv.png"></td><td style="text-align: center"><img src="../pilots_notes/schuckertdiv.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/schuckertdiv.png"><img src="../images/schuckertdiv.png"></a></td><td style="text-align: center"><a href="../pilots_notes/schuckertdiv.png"><img src="../pilots_notes/schuckertdiv.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  

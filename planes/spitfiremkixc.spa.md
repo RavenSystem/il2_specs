@@ -1,6 +1,6 @@
 # Spitfire Mk.IXc  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixc.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixc.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spitfiremkixc.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spitfiremkixc.png"><img src="../images/spitfiremkixc.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spitfiremkixc.png"><img src="../pilots_notes/spitfiremkixc.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/spitfiremkixc.eng.jpg"><img src="../cockpits/spitfiremkixc.eng.jpg"></a></td></tr></tbody></table>  
 
 - Documento 01 [ [eng](../real_manuals/spitfiremkixc.01.eng.pdf) ]   
 

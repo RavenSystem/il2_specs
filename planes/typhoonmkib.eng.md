@@ -1,6 +1,6 @@
 # Typhoon Mk.Ib  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/typhoonmkib.png"></td><td style="text-align: center"><img src="../pilots_notes/typhoonmkib.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/typhoonmkib.png"><img src="../images/typhoonmkib.png"></a></td><td style="text-align: center"><a href="../pilots_notes/typhoonmkib.png"><img src="../pilots_notes/typhoonmkib.png"></a></td></tr></tbody></table>  
 
 - Document 01 [ [eng](../real_manuals/typhoonmkib.01.eng.pdf) ]   
 
@@ -209,10 +209,10 @@ Racks mass: 56 kg
 Estimated speed loss before launch: 42 km/h  
 Estimated speed loss after launch: 21 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/typhoonmkib.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/typhoonmkib.Isometric.jpg"><img src="../images_other/typhoonmkib.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/typhoonmkib.Left.jpg"><img src="../images_other/typhoonmkib.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/typhoonmkib.LeftUC.jpg"><img src="../images_other/typhoonmkib.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/typhoonmkib.Front.jpg"><img src="../images_other/typhoonmkib.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/typhoonmkib.Top.jpg"><img src="../images_other/typhoonmkib.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/typhoonmkib.Bottom.jpg"><img src="../images_other/typhoonmkib.Bottom.jpg"></a></td></tr>
 </tbody></table>

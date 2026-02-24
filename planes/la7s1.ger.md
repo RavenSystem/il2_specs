@@ -1,6 +1,6 @@
 # La-7 Brh. 1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/la7s1.png"></td><td style="text-align: center"><img src="../pilots_notes/la7s1.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/la7s1.png"><img src="../images/la7s1.png"></a></td><td style="text-align: center"><a href="../pilots_notes/la7s1.png"><img src="../pilots_notes/la7s1.png"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  

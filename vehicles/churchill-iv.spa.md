@@ -1,6 +1,6 @@
 # Churchill IV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/churchill-iv.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/churchill-iv.png"><img src="../images/churchill-iv.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -131,9 +131,9 @@ Variante no muy habitual, con la sección central de los guardabarros de las oru
 
 En el Frente Oriental, el depósito de combustible externo instalado en la parte trasera del carro se retiraba con bastante frecuencia.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/churchill-iv.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/churchill-iv.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/churchill-iv.Isometric.jpg"><img src="../images_other/churchill-iv.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Left.jpg"><img src="../images_other/churchill-iv.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Front.jpg"><img src="../images_other/churchill-iv.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Top.jpg"><img src="../images_other/churchill-iv.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/churchill-iv.Back.jpg"><img src="../images_other/churchill-iv.Back.jpg"></a></td></tr>
 </tbody></table>

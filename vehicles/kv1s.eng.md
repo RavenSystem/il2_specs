@@ -1,6 +1,6 @@
 # KV-1s ChTZ (1943)  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/kv1s.png"><img src="../images/kv1s.png"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -163,8 +163,8 @@ Muzzle velocity 950 m/s, armour penetration at point blank range 129 mm.
 1000 m: armour penetration 60 mm, velocity: 558 m/s, drop -8.0 m.  
 2000 m: armour penetration 24 mm, velocity: 295 m/s, drop -53.3 m.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/kv1s.Isometric.jpg"><img src="../images_other/kv1s.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Left.jpg"><img src="../images_other/kv1s.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Front.jpg"><img src="../images_other/kv1s.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Back.jpg"><img src="../images_other/kv1s.Back.jpg"></a></td></tr>
 </tbody></table>

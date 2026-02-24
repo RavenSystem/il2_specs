@@ -1,6 +1,6 @@
 # Ju 52/3m g4e  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/ju523mg4e.png"></td><td style="text-align: center"><img src="../pilots_notes/ju523mg4e.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/ju523mg4e.png"><img src="../images/ju523mg4e.png"></a></td><td style="text-align: center"><a href="../pilots_notes/ju523mg4e.png"><img src="../pilots_notes/ju523mg4e.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -145,10 +145,10 @@
 Дополнительная масса: 130 кг  
 Ориентировочная потеря скорости: 4 км/ч  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/ju523mg4e.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/ju523mg4e.Isometric.jpg"><img src="../images_other/ju523mg4e.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/ju523mg4e.Left.jpg"><img src="../images_other/ju523mg4e.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/ju523mg4e.LeftUC.jpg"><img src="../images_other/ju523mg4e.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/ju523mg4e.Front.jpg"><img src="../images_other/ju523mg4e.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/ju523mg4e.Top.jpg"><img src="../images_other/ju523mg4e.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/ju523mg4e.Bottom.jpg"><img src="../images_other/ju523mg4e.Bottom.jpg"></a></td></tr>
 </tbody></table>

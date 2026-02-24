@@ -1,6 +1,6 @@
 # 三号坦克L型（Pz.Kpfw.III Ausf.L）  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pziii-l.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pziii-l.png"><img src="../images/pziii-l.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  

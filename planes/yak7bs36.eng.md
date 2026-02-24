@@ -1,6 +1,6 @@
 # Yak-7B series 36  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak7bs36.png"></td><td style="text-align: center"><img src="../pilots_notes/yak7bs36.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/yak7bs36.png"><img src="../images/yak7bs36.png"></a></td><td style="text-align: center"><a href="../pilots_notes/yak7bs36.png"><img src="../pilots_notes/yak7bs36.png"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -145,10 +145,10 @@ Fixed loop radio compass for navigation with radio beacons
 Additional mass: 10 kg  
 Estimated speed loss: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak7bs36.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak7bs36.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak7bs36.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/yak7bs36.Isometric.jpg"><img src="../images_other/yak7bs36.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak7bs36.Left.jpg"><img src="../images_other/yak7bs36.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak7bs36.LeftUC.jpg"><img src="../images_other/yak7bs36.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak7bs36.Front.jpg"><img src="../images_other/yak7bs36.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak7bs36.Top.jpg"><img src="../images_other/yak7bs36.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak7bs36.Bottom.jpg"><img src="../images_other/yak7bs36.Bottom.jpg"></a></td></tr>
 </tbody></table>

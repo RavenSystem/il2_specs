@@ -1,6 +1,6 @@
 # MiG-3ser.24  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/mig3s24.png"></td><td style="text-align: center"><img src="../pilots_notes/mig3s24.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/mig3s24.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/mig3s24.png"><img src="../images/mig3s24.png"></a></td><td style="text-align: center"><a href="../pilots_notes/mig3s24.png"><img src="../pilots_notes/mig3s24.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/mig3s24.eng.jpg"><img src="../cockpits/mig3s24.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -191,10 +191,10 @@ FAB-100M:
 枪炮质量：94 kg  
 预期速度损失：0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/mig3s24.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mig3s24.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mig3s24.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mig3s24.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mig3s24.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mig3s24.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/mig3s24.Isometric.jpg"><img src="../images_other/mig3s24.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mig3s24.Left.jpg"><img src="../images_other/mig3s24.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mig3s24.LeftUC.jpg"><img src="../images_other/mig3s24.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mig3s24.Front.jpg"><img src="../images_other/mig3s24.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mig3s24.Top.jpg"><img src="../images_other/mig3s24.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mig3s24.Bottom.jpg"><img src="../images_other/mig3s24.Bottom.jpg"></a></td></tr>
 </tbody></table>

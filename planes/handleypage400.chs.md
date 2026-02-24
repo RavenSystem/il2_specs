@@ -1,6 +1,6 @@
 # Handley Page O/400  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/handleypage400.png"></td><td style="text-align: center"><img src="../pilots_notes/handleypage400.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/handleypage400.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/handleypage400.png"><img src="../images/handleypage400.png"></a></td><td style="text-align: center"><a href="../pilots_notes/handleypage400.png"><img src="../pilots_notes/handleypage400.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/handleypage400.eng.jpg"><img src="../cockpits/handleypage400.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  

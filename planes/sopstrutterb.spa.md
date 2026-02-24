@@ -1,6 +1,6 @@
 # Sopwith 1½ Strutter B  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopstrutterb.png"></td><td style="text-align: center"><img src="../pilots_notes/sopstrutterb.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/sopstrutterb.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sopstrutterb.png"><img src="../images/sopstrutterb.png"></a></td><td style="text-align: center"><a href="../pilots_notes/sopstrutterb.png"><img src="../pilots_notes/sopstrutterb.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/sopstrutterb.spa.jpg"><img src="../cockpits/sopstrutterb.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

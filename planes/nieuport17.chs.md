@@ -1,6 +1,6 @@
 # Nieuport 17.C1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/nieuport17.png"><img src="../images/nieuport17.png"></a></td><td style="text-align: center"><a href="../pilots_notes/nieuport17.png"><img src="../pilots_notes/nieuport17.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/nieuport17.eng.jpg"><img src="../cockpits/nieuport17.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## 描述  

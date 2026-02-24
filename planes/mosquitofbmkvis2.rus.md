@@ -1,6 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/mosquitofbmkvis2.png"></td><td style="text-align: center"><img src="../pilots_notes/mosquitofbmkvis2.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/mosquitofbmkvis2.png"><img src="../images/mosquitofbmkvis2.png"></a></td><td style="text-align: center"><a href="../pilots_notes/mosquitofbmkvis2.png"><img src="../pilots_notes/mosquitofbmkvis2.png"></a></td></tr></tbody></table>  
 
 - документ 01 [ [eng](../real_manuals/mosquitofbmkvis2.01.eng.pdf) ]   
 
@@ -215,10 +215,10 @@ RP-3 бронебойные:
 Индивидуальные выхлопные патрубки открытого типа  
 Ориентировочная прибавка скорости у земли: 22 км/ч  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Isometric.jpg"><img src="../images_other/mosquitofbmkvis2.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Left.jpg"><img src="../images_other/mosquitofbmkvis2.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.LeftUC.jpg"><img src="../images_other/mosquitofbmkvis2.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Front.jpg"><img src="../images_other/mosquitofbmkvis2.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Top.jpg"><img src="../images_other/mosquitofbmkvis2.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/mosquitofbmkvis2.Bottom.jpg"><img src="../images_other/mosquitofbmkvis2.Bottom.jpg"></a></td></tr>
 </tbody></table>

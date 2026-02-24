@@ -1,6 +1,6 @@
 # Halberstadt CL.II 200 CV  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/halberstadtcl2au.png"></td><td style="text-align: center"><img src="../pilots_notes/halberstadtcl2au.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/halberstadtcl2au.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/halberstadtcl2au.png"><img src="../images/halberstadtcl2au.png"></a></td><td style="text-align: center"><a href="../pilots_notes/halberstadtcl2au.png"><img src="../pilots_notes/halberstadtcl2au.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/halberstadtcl2au.spa.jpg"><img src="../cockpits/halberstadtcl2au.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

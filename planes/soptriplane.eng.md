@@ -1,6 +1,6 @@
 # Sopwith Triplane  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/soptriplane.png"></td><td style="text-align: center"><img src="../pilots_notes/soptriplane.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/soptriplane.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/soptriplane.png"><img src="../images/soptriplane.png"></a></td><td style="text-align: center"><a href="../pilots_notes/soptriplane.png"><img src="../pilots_notes/soptriplane.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/soptriplane.eng.jpg"><img src="../cockpits/soptriplane.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Description  

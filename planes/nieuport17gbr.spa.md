@@ -1,6 +1,6 @@
 # Nieuport 17.C1 GBR  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/nieuport17gbr.png"></td><td style="text-align: center"><img src="../pilots_notes/nieuport17gbr.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/nieuport17gbr.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/nieuport17gbr.png"><img src="../images/nieuport17gbr.png"></a></td><td style="text-align: center"><a href="../pilots_notes/nieuport17gbr.png"><img src="../pilots_notes/nieuport17gbr.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/nieuport17gbr.spa.jpg"><img src="../cockpits/nieuport17gbr.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

@@ -1,6 +1,6 @@
 # Li-2  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/li2.png"></td><td style="text-align: center"><img src="../pilots_notes/li2.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/li2.png"><img src="../images/li2.png"></a></td><td style="text-align: center"><a href="../pilots_notes/li2.png"><img src="../pilots_notes/li2.png"></a></td></tr></tbody></table>  
 
 - Document 01 [ [rus](../real_manuals/li2.01.rus.pdf) ]   
 
@@ -171,10 +171,10 @@ Additional mass: 1600 kg
 Estimated speed loss before drop: 7 km/h  
 Estimated speed loss after drop: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/li2.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/li2.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/li2.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/li2.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/li2.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/li2.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/li2.Isometric.jpg"><img src="../images_other/li2.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/li2.Left.jpg"><img src="../images_other/li2.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/li2.LeftUC.jpg"><img src="../images_other/li2.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/li2.Front.jpg"><img src="../images_other/li2.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/li2.Top.jpg"><img src="../images_other/li2.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/li2.Bottom.jpg"><img src="../images_other/li2.Bottom.jpg"></a></td></tr>
 </tbody></table>

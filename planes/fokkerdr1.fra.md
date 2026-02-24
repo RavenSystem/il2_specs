@@ -1,6 +1,6 @@
 # Fokker Dr.I  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerdr1.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerdr1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerdr1.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/fokkerdr1.png"><img src="../images/fokkerdr1.png"></a></td><td style="text-align: center"><a href="../pilots_notes/fokkerdr1.png"><img src="../pilots_notes/fokkerdr1.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/fokkerdr1.eng.jpg"><img src="../cockpits/fokkerdr1.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Description  

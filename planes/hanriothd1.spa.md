@@ -1,6 +1,6 @@
 # Hanriot HD.1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/hanriothd1.png"></td><td style="text-align: center"><img src="../pilots_notes/hanriothd1.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/hanriothd1.spa.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/hanriothd1.png"><img src="../images/hanriothd1.png"></a></td><td style="text-align: center"><a href="../pilots_notes/hanriothd1.png"><img src="../pilots_notes/hanriothd1.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/hanriothd1.spa.jpg"><img src="../cockpits/hanriothd1.spa.jpg"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

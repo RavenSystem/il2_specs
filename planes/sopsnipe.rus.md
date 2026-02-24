@@ -1,6 +1,6 @@
 # Sopwith Snipe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sopsnipe.png"></td><td style="text-align: center"><img src="../pilots_notes/sopsnipe.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sopsnipe.png"><img src="../images/sopsnipe.png"></a></td><td style="text-align: center"><a href="../pilots_notes/sopsnipe.png"><img src="../pilots_notes/sopsnipe.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  

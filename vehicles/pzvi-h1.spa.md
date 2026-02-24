@@ -1,6 +1,6 @@
 # Pz.Kpfw.VI Ausf.H1  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzvi-h1.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pzvi-h1.png"><img src="../images/pzvi-h1.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -178,9 +178,9 @@ Granada de humo Schnellnebelkerze 39 (Nb K S 39)
 Distancia de lanzamiento: 80 m  
 Duración del humo: 3 minutos  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzvi-h1.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pzvi-h1.Isometric.jpg"><img src="../images_other/pzvi-h1.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzvi-h1.Left.jpg"><img src="../images_other/pzvi-h1.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzvi-h1.Front.jpg"><img src="../images_other/pzvi-h1.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzvi-h1.Top.jpg"><img src="../images_other/pzvi-h1.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzvi-h1.Back.jpg"><img src="../images_other/pzvi-h1.Back.jpg"></a></td></tr>
 </tbody></table>

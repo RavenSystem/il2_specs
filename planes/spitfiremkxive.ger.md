@@ -1,6 +1,6 @@
 # Spitfire Mk.XIVe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkxive.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkxive.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spitfiremkxive.png"><img src="../images/spitfiremkxive.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spitfiremkxive.png"><img src="../pilots_notes/spitfiremkxive.png"></a></td></tr></tbody></table>  
 
 - Dokument 01 [ [eng](../real_manuals/spitfiremkxive.01.eng.pdf) ]   
 
@@ -164,10 +164,10 @@ Gekappter Flügel
 Reduziertes Gewicht: 4 kg  
 Geschwindigkeitsverlust: 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/spitfiremkxive.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.Isometric.jpg"><img src="../images_other/spitfiremkxive.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.Left.jpg"><img src="../images_other/spitfiremkxive.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.LeftUC.jpg"><img src="../images_other/spitfiremkxive.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.Front.jpg"><img src="../images_other/spitfiremkxive.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.Top.jpg"><img src="../images_other/spitfiremkxive.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/spitfiremkxive.Bottom.jpg"><img src="../images_other/spitfiremkxive.Bottom.jpg"></a></td></tr>
 </tbody></table>

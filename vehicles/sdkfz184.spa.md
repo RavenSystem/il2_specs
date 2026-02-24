@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/sdkfz184.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/sdkfz184.png"><img src="../images/sdkfz184.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -175,9 +175,9 @@ Velocidad de salida 1130 m/s, penetración del blindaje a bocajarro 266 mm.
 
 Modificación en campo en el que se instala la plancha de protección del cañón dejando los pernos y tuercas que sujetan las dos mitades de la plancha hacia afuera, facilitando de esta forma su acceso.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/sdkfz184.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/sdkfz184.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/sdkfz184.Isometric.jpg"><img src="../images_other/sdkfz184.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Left.jpg"><img src="../images_other/sdkfz184.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Front.jpg"><img src="../images_other/sdkfz184.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Top.jpg"><img src="../images_other/sdkfz184.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/sdkfz184.Back.jpg"><img src="../images_other/sdkfz184.Back.jpg"></a></td></tr>
 </tbody></table>

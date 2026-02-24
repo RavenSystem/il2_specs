@@ -1,6 +1,6 @@
 # Albatros D.Va  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/albatrosd5.png"></td><td style="text-align: center"><img src="../pilots_notes/albatrosd5.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/albatrosd5.rus.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/albatrosd5.png"><img src="../images/albatrosd5.png"></a></td><td style="text-align: center"><a href="../pilots_notes/albatrosd5.png"><img src="../pilots_notes/albatrosd5.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/albatrosd5.rus.jpg"><img src="../cockpits/albatrosd5.rus.jpg"></a></td></tr></tbody></table>  
 
 
 ## Описание  

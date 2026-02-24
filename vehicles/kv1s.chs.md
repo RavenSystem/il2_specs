@@ -1,6 +1,6 @@
 # KV-1S ChTZ（1943型）  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/kv1s.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/kv1s.png"><img src="../images/kv1s.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -164,8 +164,8 @@ BR-354P
 1000m时：装甲穿深 60mm，速度 558 m/s，下坠高度 8.0m  
 2000m时：装甲穿深 24mm，速度 295 m/s，下坠高度 53.3m  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/kv1s.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/kv1s.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/kv1s.Isometric.jpg"><img src="../images_other/kv1s.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Left.jpg"><img src="../images_other/kv1s.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Front.jpg"><img src="../images_other/kv1s.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/kv1s.Back.jpg"><img src="../images_other/kv1s.Back.jpg"></a></td></tr>
 </tbody></table>

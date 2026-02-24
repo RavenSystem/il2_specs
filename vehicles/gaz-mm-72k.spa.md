@@ -1,6 +1,6 @@
 # GAZ-MM 72-K  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/gaz-mm-72k.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/gaz-mm-72k.png"><img src="../images/gaz-mm-72k.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  
@@ -115,9 +115,9 @@ Velocidad de salida 910 m/s.
 1000 m: velocidad 623 m/s, caída -8,1 m.  
 2000 m: velocidad 436 m/s, caída -42,4 m.  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/gaz-mm-72k.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Isometric.jpg"><img src="../images_other/gaz-mm-72k.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Left.jpg"><img src="../images_other/gaz-mm-72k.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Front.jpg"><img src="../images_other/gaz-mm-72k.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Top.jpg"><img src="../images_other/gaz-mm-72k.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/gaz-mm-72k.Back.jpg"><img src="../images_other/gaz-mm-72k.Back.jpg"></a></td></tr>
 </tbody></table>

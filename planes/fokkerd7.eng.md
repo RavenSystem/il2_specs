@@ -1,6 +1,6 @@
 # Fokker D.VII  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/fokkerd7.png"></td><td style="text-align: center"><img src="../pilots_notes/fokkerd7.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/fokkerd7.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/fokkerd7.png"><img src="../images/fokkerd7.png"></a></td><td style="text-align: center"><a href="../pilots_notes/fokkerd7.png"><img src="../pilots_notes/fokkerd7.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/fokkerd7.eng.jpg"><img src="../cockpits/fokkerd7.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Description  

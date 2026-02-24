@@ -1,6 +1,6 @@
 # I.A.R. 80-A  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/iar80a.png"></td><td style="text-align: center"><img src="../pilots_notes/iar80a.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/iar80a.png"><img src="../images/iar80a.png"></a></td><td style="text-align: center"><a href="../pilots_notes/iar80a.png"><img src="../pilots_notes/iar80a.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  

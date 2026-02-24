@@ -1,6 +1,6 @@
 # Yak-1 sér.69  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak1s69.png"></td><td style="text-align: center"><img src="../pilots_notes/yak1s69.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/yak1s69.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/yak1s69.png"><img src="../images/yak1s69.png"></a></td><td style="text-align: center"><a href="../pilots_notes/yak1s69.png"><img src="../pilots_notes/yak1s69.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/yak1s69.eng.jpg"><img src="../cockpits/yak1s69.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Description  
@@ -171,10 +171,10 @@ Goniomètre pour la radionavigation
 Masse supplémentaire : 10 kg  
 Perte estimée de vitesse : 0 km/h  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/yak1s69.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak1s69.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak1s69.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak1s69.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak1s69.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/yak1s69.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/yak1s69.Isometric.jpg"><img src="../images_other/yak1s69.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak1s69.Left.jpg"><img src="../images_other/yak1s69.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak1s69.LeftUC.jpg"><img src="../images_other/yak1s69.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak1s69.Front.jpg"><img src="../images_other/yak1s69.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak1s69.Top.jpg"><img src="../images_other/yak1s69.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/yak1s69.Bottom.jpg"><img src="../images_other/yak1s69.Bottom.jpg"></a></td></tr>
 </tbody></table>

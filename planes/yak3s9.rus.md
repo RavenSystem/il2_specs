@@ -1,6 +1,6 @@
 # Як-3 9 серии  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/yak3s9.png"></td><td style="text-align: center"><img src="../pilots_notes/yak3s9.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/yak3s9.png"><img src="../images/yak3s9.png"></a></td><td style="text-align: center"><a href="../pilots_notes/yak3s9.png"><img src="../pilots_notes/yak3s9.png"></a></td></tr></tbody></table>  
 
 - документ 01 [ [rus](../real_manuals/yak3s9.01.rus.pdf) ]   
 

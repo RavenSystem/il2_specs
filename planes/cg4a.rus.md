@@ -1,6 +1,6 @@
 # CG-4A  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/cg4a.png"></td><td style="text-align: center"><img src="../pilots_notes/cg4a.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/cg4a.png"><img src="../images/cg4a.png"></a></td><td style="text-align: center"><a href="../pilots_notes/cg4a.png"><img src="../pilots_notes/cg4a.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -63,10 +63,10 @@
 Груз: автомобиль Виллис  
 Дополнительная масса: 1630 кг  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/cg4a.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/cg4a.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/cg4a.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/cg4a.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/cg4a.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/cg4a.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/cg4a.Isometric.jpg"><img src="../images_other/cg4a.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/cg4a.Left.jpg"><img src="../images_other/cg4a.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/cg4a.LeftUC.jpg"><img src="../images_other/cg4a.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/cg4a.Front.jpg"><img src="../images_other/cg4a.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/cg4a.Top.jpg"><img src="../images_other/cg4a.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/cg4a.Bottom.jpg"><img src="../images_other/cg4a.Bottom.jpg"></a></td></tr>
 </tbody></table>

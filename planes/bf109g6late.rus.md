@@ -1,6 +1,6 @@
 # Bf 109 G-6 Поздний  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/bf109g6late.png"></td><td style="text-align: center"><img src="../pilots_notes/bf109g6late.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/bf109g6late.png"><img src="../images/bf109g6late.png"></a></td><td style="text-align: center"><a href="../pilots_notes/bf109g6late.png"><img src="../pilots_notes/bf109g6late.png"></a></td></tr></tbody></table>  
 
 
 ## Описание  
@@ -188,10 +188,10 @@
 Ориентировочная потеря скорости до сброса: 52 км/ч  
 Ориентировочная потеря скорости после сброса: 12 км/ч  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/bf109g6late.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6late.LeftUC.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/bf109g6late.Bottom.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/bf109g6late.Isometric.jpg"><img src="../images_other/bf109g6late.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6late.Left.jpg"><img src="../images_other/bf109g6late.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6late.LeftUC.jpg"><img src="../images_other/bf109g6late.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6late.Front.jpg"><img src="../images_other/bf109g6late.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6late.Top.jpg"><img src="../images_other/bf109g6late.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/bf109g6late.Bottom.jpg"><img src="../images_other/bf109g6late.Bottom.jpg"></a></td></tr>
 </tbody></table>

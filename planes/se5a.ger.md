@@ -1,6 +1,6 @@
 # S.E.5a  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/se5a.png"></td><td style="text-align: center"><img src="../pilots_notes/se5a.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/se5a.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/se5a.png"><img src="../images/se5a.png"></a></td><td style="text-align: center"><a href="../pilots_notes/se5a.png"><img src="../pilots_notes/se5a.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/se5a.eng.jpg"><img src="../cockpits/se5a.eng.jpg"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  

@@ -1,6 +1,6 @@
 # Spitfire Mk.IXe  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/spitfiremkixe.png"></td><td style="text-align: center"><img src="../pilots_notes/spitfiremkixe.png"></td></tr><tr><td style="text-align: center" colspan="2"><img src="../cockpits/spitfiremkixe.eng.jpg"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/spitfiremkixe.png"><img src="../images/spitfiremkixe.png"></a></td><td style="text-align: center"><a href="../pilots_notes/spitfiremkixe.png"><img src="../pilots_notes/spitfiremkixe.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="../cockpits/spitfiremkixe.eng.jpg"><img src="../cockpits/spitfiremkixe.eng.jpg"></a></td></tr></tbody></table>  
 
 - Dokument 01 [ [eng](../real_manuals/spitfiremkixe.01.eng.pdf) ]   
 

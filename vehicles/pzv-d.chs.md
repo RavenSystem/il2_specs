@@ -1,6 +1,6 @@
 # 豹式坦克D型（Pz.Kpfw.V Ausf.D）  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images/pzv-d.png"></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="../images/pzv-d.png"><img src="../images/pzv-d.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  
@@ -156,9 +156,9 @@ Schnellnebelkerze 39 (Nb K S 39) smoke grenade
 Range: 80 m  
 Smoking time: 3 min  
 
-<table><tbody><tr><td style="text-align: center"><img src="../images_other/pzv-d.Isometric.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzv-d.Left.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzv-d.Front.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzv-d.Top.jpg"></td></tr>
-<tr><td style="text-align: center"><img src="../images_other/pzv-d.Back.jpg"></td></tr>
+<table><tbody><tr><td style="text-align: center"><a href="../images_other/pzv-d.Isometric.jpg"><img src="../images_other/pzv-d.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzv-d.Left.jpg"><img src="../images_other/pzv-d.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzv-d.Front.jpg"><img src="../images_other/pzv-d.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzv-d.Top.jpg"><img src="../images_other/pzv-d.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="../images_other/pzv-d.Back.jpg"><img src="../images_other/pzv-d.Back.jpg"></a></td></tr>
 </tbody></table>
