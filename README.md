@@ -1,6 +1,6 @@
 # Il-2 BoX Web Composer
 
-## [ [TO THE WEB](https://ravensystem.github.io/il2_specs/) ]
+### [ravensystem.github.io/il2_specs/](https://ravensystem.github.io/il2_specs/)
 
 This project is focused in the creation of a web with useful information about planes and vehicles of Il-2 Great Battles simulator game using an automation process to allow fast updates. It uses GitHub repo and GitHub pages to build the web from the /docs repo directory.
 
