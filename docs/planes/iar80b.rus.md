@@ -138,3 +138,11 @@
 Масса держателей: 20 кг  
 Ориентировочная потеря скорости до сброса: 41 км/ч  
 Ориентировочная потеря скорости после сброса: 19 км/ч  
+
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Isometric.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Left.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.LeftUC.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Front.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Top.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Bottom.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80b.Bottom.jpg"></a></td></tr>
+</tbody></table>

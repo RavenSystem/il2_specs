@@ -150,3 +150,11 @@ Peso de munición: 358,7 kg
 Peso de los soportes: 20,0 kg  
 Pérdida de velocidad estimada antes de soltar: 32 km/h  
 Pérdida de velocidad estimada tras soltar: 13 km/h  
+
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Isometric.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Isometric.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Left.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Left.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.LeftUC.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.LeftUC.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Front.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Front.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Top.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Top.jpg"></a></td></tr>
+<tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Bottom.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images_other/iar80a.Bottom.jpg"></a></td></tr>
+</tbody></table>
