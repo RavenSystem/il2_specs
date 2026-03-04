@@ -13,10 +13,10 @@
 # (Run this script twice if there are new planes or missing images)
 
 ### Composer Configuration Data
+GITHUB_USER_REPO="RavenSystem/il2_specs"
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
 IL2_VERSION="7.002"
 PILOTS_NOTES_VERSION="11.3"
-GITHUB_RAW_CONTENT="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main"
 ###
 
 mkdir -p "$TARGET_DIR/docs"
@@ -27,6 +27,7 @@ mkdir -p "$TARGET_DIR/cockpits"
 mkdir -p "$TARGET_DIR/manuals"
 mkdir -p "$TARGET_DIR/real_manuals"
 
+GITHUB_RAW_CONTENT="https://raw.githubusercontent.com/$GITHUB_USER_REPO/refs/heads/main"
 GITHUB_RAW_CONTENT_ESCAPE=$(printf "$GITHUB_RAW_CONTENT" | sed -e 's/\//\\\//g')
 
 # Prepare Pilots Notes
@@ -35,10 +36,10 @@ cd planes_notes &&
 for i in $( ls ); do mv -f $i `echo $i | tr 'A-Z' 'a-z'`; done &&
 cd ..
 
-GENERATION_DATE="`date +%Y-%m-%d`"
+GENERATION_DATE=$(date +%Y-%m-%d)
 
 printf "
-Game version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Date: $GENERATION_DATE - Game version: $IL2_VERSION [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/$GITHUB_USER_REPO) ]
 
 [ [Pilots Notes v$PILOTS_NOTES_VERSION WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
@@ -236,11 +237,23 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         printf "\n" >> "$TARGET_DIR/docs/README.md"
         
         # Download more images
-        DOWNLOAD_VEHICLE_NAME=$(head -1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | sed -e 's/-/_/g' | sed -e 's/ /_/g' | sed -e 's/\.//g' | sed -e 's/\///g' | sed -e 's/(//g' | sed -e 's/)//g' | sed -e 's/^#_//g' | sed -e 's/__\r//g' | tr 'A-Z' 'a-z')
+        DOWNLOAD_VEHICLE_NAME=$(head -1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | sed -e 's/-/_/g' | sed -e 's/ /_/g' | sed -e 's/\.//g' | sed -e 's/\///g' | sed -e 's/(//g' | sed -e 's/)//g' | sed -e 's/^#_//g' | sed -e 's/__\r//g' | tr 'A-Z' 'a-z' | sed -e 's/fw_190_a_/fw_190_/g' )
         for IMG_TYPE in "Isometric" "Left" "Left%20UC" "Front" "Top" "Bottom" "Back"; do
             LOCAL_IMG_TYPE=$IMG_TYPE
             if [ "$IMG_TYPE" = "Left%20UC" ]; then
                 LOCAL_IMG_TYPE="LeftUC"
+            fi
+            
+            if [ "$DOWNLOAD_VEHICLE_NAME" = "fw_190_d_9" ]; then
+                if [ "$IMG_TYPE" = "Isometric" ]; then
+                    IMG_TYPE="Isometric%20Bubble%20Canopy"
+                fi
+            elif [ "$DOWNLOAD_VEHICLE_NAME" = "iar_80_a" ]; then
+                DOWNLOAD_VEHICLE_NAME="ir_80_"
+            elif [ "$DOWNLOAD_VEHICLE_NAME" = "iar_80_b" ]; then
+                DOWNLOAD_VEHICLE_NAME="ir_80_b"
+            elif [ "$DOWNLOAD_VEHICLE_NAME" = "la_5fn_ser_2" ]; then
+                DOWNLOAD_VEHICLE_NAME="la_5fn_series_2"
             fi
             
             if [ ! -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then

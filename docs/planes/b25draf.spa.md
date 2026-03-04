@@ -2,6 +2,8 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/b25draf.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/b25draf.png"></a></td></tr></tbody></table>  
 
+- Documento 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.01.eng.pdf) ]   
+- Documento 02 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.02.eng.pdf) ]   
 
 ## Descripción  
 
