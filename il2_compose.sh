@@ -16,14 +16,18 @@
 TARGET_DIR="/Users/jose/Documents/Software/Juegos/IL2-Sturmovik BoX/il2_specs"
 IL2_VERSION="7.002"
 PILOTS_NOTES_VERSION="11.3"
+GITHUB_RAW_CONTENT="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main"
 ###
 
+mkdir -p "$TARGET_DIR/docs"
 mkdir -p "$TARGET_DIR/images"
 mkdir -p "$TARGET_DIR/images_other"
 mkdir -p "$TARGET_DIR/pilots_notes"
 mkdir -p "$TARGET_DIR/cockpits"
 mkdir -p "$TARGET_DIR/manuals"
 mkdir -p "$TARGET_DIR/real_manuals"
+
+GITHUB_RAW_CONTENT_ESCAPE=$(echo -n "$GITHUB_RAW_CONTENT" | sed -e 's/\//\\\//g')
 
 # Prepare Pilots Notes
 mv -f Another\ Pilots\ Notes\ for\ CockPit\ Photos\ official\ numbers\ v*/data/graphics/Planes/ ./planes_notes &&
@@ -38,38 +42,38 @@ Game version: $IL2_VERSION - Date: $GENERATION_DATE [ [Sponsor this project](htt
 
 [ [Pilots Notes v$PILOTS_NOTES_VERSION WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
 
-" > "$TARGET_DIR/README.md"
+" > "$TARGET_DIR/docs/README.md"
 
-printf "### Jump to...\n\n" >> "$TARGET_DIR/README.md"
+printf "### Jump to...\n\n" >> "$TARGET_DIR/docs/README.md"
 
-printf "<select onchange=\"window.location.href=this.value\">\n" >> "$TARGET_DIR/README.md"
+printf "<select onchange=\"window.location.href=this.value\">\n" >> "$TARGET_DIR/docs/README.md"
 
 for VEHICLE_TYPE in "planes" "vehicles"; do
-    mkdir -p "$TARGET_DIR/$VEHICLE_TYPE"
+    mkdir -p "$TARGET_DIR/docs/$VEHICLE_TYPE"
     
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
     
-    printf "<option value=\"\">--- $VEHICLE_TYPE_U</option>\n" >> "$TARGET_DIR/README.md"
+    printf "<option value=\"\">--- $VEHICLE_TYPE_U</option>\n" >> "$TARGET_DIR/docs/README.md"
     
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
         
-        CLEAN_VEHICLE_NAME="`head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | tr -d '#\r\n' | sed 's/^.//g' | sed 's/  //g'`"
+        CLEAN_VEHICLE_NAME="`head -1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | tr -d '#\r\n' | sed 's/^.//g' | sed 's/  //g'`"
         LINK_VEHICLE_NAME="`printf "$CLEAN_VEHICLE_NAME" |  tr -d '.½/()' | sed 's/ /-/g' | tr '[:upper:]' '[:lower:]'`"
         
-        printf "<option value=\"#$LINK_VEHICLE_NAME\">$CLEAN_VEHICLE_NAME</option>\n" >> "$TARGET_DIR/README.md"
-        #printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/README.md"
+        printf "<option value=\"#$LINK_VEHICLE_NAME\">$CLEAN_VEHICLE_NAME</option>\n" >> "$TARGET_DIR/docs/README.md"
+        #printf "[ [$CLEAN_VEHICLE_NAME](#$LINK_VEHICLE_NAME) ] " >> "$TARGET_DIR/docs/README.md"
     done
     
-    rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
+    rm -f "$TARGET_DIR/docs/$VEHICLE_TYPE/\.\!"*
 done
 
-printf "</select>\n\n" >> "$TARGET_DIR/README.md"
+printf "</select>\n\n" >> "$TARGET_DIR/docs/README.md"
 
 
 for VEHICLE_TYPE in "planes" "vehicles"; do
     VEHICLE_TYPE_U="$(tr '[:lower:]' '[:upper:]' <<< ${VEHICLE_TYPE:0:1})${VEHICLE_TYPE:1}"
-    printf "## $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/README.md"
+    printf "## $VEHICLE_TYPE_U\n\n" >> "$TARGET_DIR/docs/README.md"
 
     ls -1 "$VEHICLE_TYPE" | grep -v random | while read VEHICLE_NAME; do
         NEW_VEHICLE_NAME="`printf "$VEHICLE_NAME" | sed 's/^_\(.*\)/\1/'`"
@@ -136,14 +140,14 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 COCKPIT_IMAGE="$VEHICLE_NAME.eng.jpg"
             fi
 
-            cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            cat "$VEHICLE_TYPE/$VEHICLE_NAME/info.locale=$IL2_LOCALE.txt" > "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
-            sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e 's/.*&name=/# /g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\"><a href=\"..\/images\/$NEW_VEHICLE_NAME.png\"><img src=\"..\/images\/$NEW_VEHICLE_NAME.png\"><\/a>"
+            TABLE_DETAILS="<table><tbody><tr><td style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT_ESCAPE\/images\/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT_ESCAPE\/images\/$NEW_VEHICLE_NAME.png\"><\/a>"
             
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><a href=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><img src=\"..\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><\/a>"
+                TABLE_DETAILS="$TABLE_DETAILS<\/td><td style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT_ESCAPE\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT_ESCAPE\/pilots_notes\/$NEW_VEHICLE_NAME.png\"><\/a>"
             fi
             
             if [ -f "$TARGET_DIR/cockpits/$COCKPIT_IMAGE" ]; then
@@ -153,7 +157,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                     TABLE_DETAILS="$TABLE_DETAILS colspan=\"2\""
                 fi
                 
-                TABLE_DETAILS="$TABLE_DETAILS><a href=\"..\/cockpits\/$COCKPIT_IMAGE\"><img src=\"..\/cockpits\/$COCKPIT_IMAGE\"><\/a>"
+                TABLE_DETAILS="$TABLE_DETAILS><a href=\"$GITHUB_RAW_CONTENT_ESCAPE\/cockpits\/$COCKPIT_IMAGE\"><img src=\"$GITHUB_RAW_CONTENT_ESCAPE\/cockpits\/$COCKPIT_IMAGE\"><\/a>"
             fi
             
             TABLE_DETAILS="$TABLE_DETAILS<\/td><\/tr><\/tbody><\/table>\n"
@@ -169,7 +173,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                                 TABLE_DETAILS="$TABLE_DETAILS\n- $IL2_MANUAL $NUMBER_F$NUMBER_L "
                             fi
                             
-                            TABLE_DETAILS="$TABLE_DETAILS[ [$IL2_MANUAL_LOCALE](..\/real_manuals\/$NEW_VEHICLE_NAME.$NUMBER_F$NUMBER_L.$IL2_MANUAL_LOCALE.pdf) ] "
+                            TABLE_DETAILS="$TABLE_DETAILS[ [$IL2_MANUAL_LOCALE]($GITHUB_RAW_CONTENT_ESCAPE\/real_manuals\/$NEW_VEHICLE_NAME.$NUMBER_F$NUMBER_L.$IL2_MANUAL_LOCALE.pdf) ] "
                         fi
                     done
                 done
@@ -177,33 +181,33 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             
             TABLE_DETAILS="$TABLE_DETAILS\n\n## $IL2_DESCRIPTION"
             
-            sed -i.bak -e "s/&description=/\n$TABLE_DETAILS\n\n/g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e "s/&description=/\n$TABLE_DETAILS\n\n/g" "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e "s/'//g" "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
 
             if [ -d "$VEHICLE_TYPE/$VEHICLE_NAME/modifications" ]; then
-                printf "\n\n## $IL2_MODIFICATIONS" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                printf "\n\n## $IL2_MODIFICATIONS" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 
                 ls -1 "$VEHICLE_TYPE/$VEHICLE_NAME/modifications" | while read MOD; do
-                    cat "$VEHICLE_TYPE/$VEHICLE_NAME/modifications/$MOD/info.locale=$IL2_LOCALE.txt" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                    cat "$VEHICLE_TYPE/$VEHICLE_NAME/modifications/$MOD/info.locale=$IL2_LOCALE.txt" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                     
                     # Add a "\n" if there is none present at the end of each modification text
-                    if [ `tail -c 1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md" | xxd -p | grep -c 0a` -eq 0 ]; then
-                        printf "\r\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                    if [ `tail -c 1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md" | xxd -p | grep -c 0a` -eq 0 ]; then
+                        printf "\r\n" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                     fi
                 done
 
-                sed -i.bak -e 's/&name=/\n### /g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-                sed -i.bak -e 's/&description=/\n/g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
-                sed -i.bak -e "s/'//g" "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e 's/&name=/\n### /g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e 's/&description=/\n/g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                sed -i.bak -e "s/'//g" "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             fi
             
             # Add 2 blank spaces to the end of each line to show lists in the right way in GitHub
-            sed -i.bak -e 's/[^[:print:]]*$/  &/g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e 's/[^[:print:]]*$/  &/g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            sed -i.bak -e 's/^  $//g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e 's/^  $//g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
-            sed -i.bak -e 's/\%25/\%/g' "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+            sed -i.bak -e 's/\%25/\%/g' "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             
             # Add more images at bottom
             IS_MORE_IMAGES=0
@@ -215,24 +219,24 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             done
             
             if [ $IS_MORE_IMAGES -eq 1 ]; then
-                printf "\n<table><tbody>" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                printf "\n<table><tbody>" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                 for LOCAL_IMG_TYPE in "Isometric" "Left" "LeftUC" "Front" "Top" "Bottom" "Back"; do
                     if [ -f "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg" ]; then
-                        printf "<tr><td style=\"text-align: center\"><a href=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"><img src=\"../images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"></a></td></tr>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                        printf "<tr><td style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"><img src=\"$GITHUB_RAW_CONTENT/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg\"></a></td></tr>\n" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
                     fi
                 done
-                printf "</tbody></table>\n" >> "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
+                printf "</tbody></table>\n" >> "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md"
             fi
             
-            rm -f "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md.bak"
+            rm -f "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md.bak"
         done
         
-        printf "##" >> "$TARGET_DIR/README.md"
-        head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/README.md"
-        printf "\n" >> "$TARGET_DIR/README.md"
+        printf "##" >> "$TARGET_DIR/docs/README.md"
+        head -1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" >> "$TARGET_DIR/docs/README.md"
+        printf "\n" >> "$TARGET_DIR/docs/README.md"
         
         # Download more images
-        DOWNLOAD_VEHICLE_NAME=$(head -1 "$TARGET_DIR/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | sed -e 's/-/_/g' | sed -e 's/ /_/g' | sed -e 's/\.//g' | sed -e 's/\///g' | sed -e 's/(//g' | sed -e 's/)//g' | sed -e 's/^#_//g' | sed -e 's/__\r//g' | tr 'A-Z' 'a-z')
+        DOWNLOAD_VEHICLE_NAME=$(head -1 "$TARGET_DIR/docs/$VEHICLE_TYPE/$NEW_VEHICLE_NAME.eng.md" | sed -e 's/-/_/g' | sed -e 's/ /_/g' | sed -e 's/\.//g' | sed -e 's/\///g' | sed -e 's/(//g' | sed -e 's/)//g' | sed -e 's/^#_//g' | sed -e 's/__\r//g' | tr 'A-Z' 'a-z')
         for IMG_TYPE in "Isometric" "Left" "Left%20UC" "Front" "Top" "Bottom" "Back"; do
             LOCAL_IMG_TYPE=$IMG_TYPE
             if [ "$IMG_TYPE" = "Left%20UC" ]; then
@@ -245,36 +249,40 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                     #sips --resampleHeightWidthMax 2000 2000 "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png"
                     sips --setProperty format jpeg "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png" -o "$TARGET_DIR/images_other/$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.jpg"
                     rm -f "$NEW_VEHICLE_NAME.$LOCAL_IMG_TYPE.png"
+                    
+                # If there is not Isometric image type, don't try to download other image types
+                elif [ "$IMG_TYPE" = "Isometric" ]; then
+                    break
                 fi
             fi
         done
         
         for IL2_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
-            printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/README.md"
+            printf "[ [$IL2_LOCALE]($VEHICLE_TYPE/$NEW_VEHICLE_NAME.$IL2_LOCALE.md) ] " >> "$TARGET_DIR/docs/README.md"
         done
         
-        printf "\n\n<table><tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-        printf "<a href=\"images/$NEW_VEHICLE_NAME.png\"><img src=\"images/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/README.md"
+        printf "\n\n<table><tbody><tr><td style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
+        printf "<a href=\"$GITHUB_RAW_CONTENT/images/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/images/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/docs/README.md"
         
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "</td><td style=\"text-align: center\">" >> "$TARGET_DIR/README.md"
-            printf "<a href=\"pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"pilots_notes/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/README.md"
+            printf "</td><td style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
+            printf "<a href=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/docs/README.md"
         fi
         
-        printf "</td></tr></tbody></table>\n\n" >> "$TARGET_DIR/README.md"
+        printf "</td></tr></tbody></table>\n\n" >> "$TARGET_DIR/docs/README.md"
     done
 
-    rm -f "$TARGET_DIR/$VEHICLE_TYPE/\.\!"*
+    rm -f "$TARGET_DIR/docs/$VEHICLE_TYPE/\.\!"*
 done
 
 printf "
 ## Game Manuals
 
-- Il-2 Great Battles: Operators [ [eng](manuals/IL2GB_Operators_Manual_v4702_Release.pdf) ] 
-- Il-2 Great Battles: Purchase and Install [ [eng](manuals/IL2GB_Purchase_&_Install_Manual_v4702_Release.pdf) ] 
-- Il-2 Great Battles: Mission Editor and Multiplayer Server [ [eng](manuals/IL-2_Sturmovik_Mission_Editor_and_Multiplayer_Server_Manual.pdf) ] [ [spa](manuals/Manual_del_Editor_de_Misiones_y_Servidor_Multijugador.pdf) ] 
-- Il-2 Battle of Stalingrad: User Manual [ [eng](manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
-- Rise of Flight: User Manual [ [eng](manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra](manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger](manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus](manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa](manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
+- Il-2 Great Battles: Operators [ [eng]($GITHUB_RAW_CONTENT/manuals/IL2GB_Operators_Manual_v4702_Release.pdf) ] 
+- Il-2 Great Battles: Purchase and Install [ [eng]($GITHUB_RAW_CONTENT/manuals/IL2GB_Purchase_&_Install_Manual_v4702_Release.pdf) ] 
+- Il-2 Great Battles: Mission Editor and Multiplayer Server [ [eng]($GITHUB_RAW_CONTENT/manuals/IL-2_Sturmovik_Mission_Editor_and_Multiplayer_Server_Manual.pdf) ] [ [spa]($GITHUB_RAW_CONTENT/manuals/Manual_del_Editor_de_Misiones_y_Servidor_Multijugador.pdf) ] 
+- Il-2 Battle of Stalingrad: User Manual [ [eng]($GITHUB_RAW_CONTENT/manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa]($GITHUB_RAW_CONTENT/manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
+- Rise of Flight: User Manual [ [eng]($GITHUB_RAW_CONTENT/manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra]($GITHUB_RAW_CONTENT/manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger]($GITHUB_RAW_CONTENT/manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus]($GITHUB_RAW_CONTENT/manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa]($GITHUB_RAW_CONTENT/manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
 
 
 ## Credits
@@ -287,4 +295,4 @@ printf "
 - Cockpits images of WWI planes are from Rise of Flight: User Manual.
 - Historical documents are from archive.org, scribd.com and internet forums.
 
-" >> "$TARGET_DIR/README.md"
+" >> "$TARGET_DIR/docs/README.md"
