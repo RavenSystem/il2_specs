@@ -1,6 +1,6 @@
 # I.A.R. 80-B  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/iar80b.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/iar80b.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/iar80b.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/iar80b.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/iar80b.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/iar80b.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/iar80b.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/iar80b.png"></a></td></tr></tbody></table>  
 
 
 ## Description  

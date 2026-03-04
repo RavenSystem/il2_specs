@@ -1,6 +1,6 @@
 # KV-1s ChTZ (1943)  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/kv1s.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/kv1s.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/kv1s.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/kv1s.png"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  

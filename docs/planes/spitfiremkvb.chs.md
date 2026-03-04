@@ -1,8 +1,8 @@
 # Spitfire Mk.VB  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkvb.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkvb.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkvb.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkvb.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkvb.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkvb.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkvb.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkvb.png"></a></td></tr></tbody></table>  
 
-- 文档 01 [ [eng](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkvb.01.eng.pdf) ]   
+- 文档 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkvb.01.eng.pdf) ]   
 
 ## 描述  
 

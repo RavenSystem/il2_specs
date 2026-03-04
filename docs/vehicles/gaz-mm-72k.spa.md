@@ -1,6 +1,6 @@
 # GAZ-MM 72-K  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/gaz-mm-72k.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/gaz-mm-72k.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/gaz-mm-72k.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/gaz-mm-72k.png"></a></td></tr></tbody></table>  
 
 
 ## Descripción  

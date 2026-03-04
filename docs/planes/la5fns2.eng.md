@@ -1,8 +1,8 @@
 # La-5FN ser.2  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"></a></td></tr></tbody></table>  
 
-- Document 01 [ [rus](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/la5fns2.01.rus.pdf) ]   
+- Document 01 [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/la5fns2.01.rus.pdf) ]   
 
 ## Description  
 

@@ -1,8 +1,8 @@
 # Typhoon Mk.Ib  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/typhoonmkib.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/typhoonmkib.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/typhoonmkib.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/typhoonmkib.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/typhoonmkib.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/typhoonmkib.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/typhoonmkib.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/typhoonmkib.png"></a></td></tr></tbody></table>  
 
-- 文档 01 [ [eng](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/typhoonmkib.01.eng.pdf) ]   
+- 文档 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/typhoonmkib.01.eng.pdf) ]   
 
 ## 描述  
 

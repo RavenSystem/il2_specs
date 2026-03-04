@@ -1,6 +1,6 @@
 # Sd.Kfz.184  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/sdkfz184.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/sdkfz184.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/sdkfz184.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/sdkfz184.png"></a></td></tr></tbody></table>  
 
 
 ## Beschreibung  

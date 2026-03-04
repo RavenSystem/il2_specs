@@ -1,8 +1,8 @@
 # ЛаГГ-3 4 серии  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"></a></td></tr></tbody></table>  
 
-- документ 01 [ [rus](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/lagg3s4.01.rus.pdf) ]   
+- документ 01 [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/lagg3s4.01.rus.pdf) ]   
 
 ## Описание  
 

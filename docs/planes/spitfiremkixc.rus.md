@@ -1,8 +1,8 @@
 # Spitfire Mk.IXc  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"></a></td></tr></tbody></table>  
 
-- документ 01 [ [eng](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixc.01.eng.pdf) ]   
+- документ 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixc.01.eng.pdf) ]   
 
 ## Описание  
 

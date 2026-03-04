@@ -1,8 +1,8 @@
 # Spitfire Mk.IXe  
 
-<table><tbody><tr><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixe.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixe.png"></a></td><td style="text-align: center"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixe.png"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixe.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixe.eng.jpg"><img src="-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixe.eng.jpg"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixe.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixe.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixe.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixe.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixe.eng.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixe.eng.jpg"></a></td></tr></tbody></table>  
 
-- 文档 01 [ [eng](-n https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixe.01.eng.pdf) ]   
+- 文档 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixe.01.eng.pdf) ]   
 
 ## 描述  
 
