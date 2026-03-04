@@ -27,7 +27,7 @@ mkdir -p "$TARGET_DIR/cockpits"
 mkdir -p "$TARGET_DIR/manuals"
 mkdir -p "$TARGET_DIR/real_manuals"
 
-GITHUB_RAW_CONTENT_ESCAPE=$(echo -n "$GITHUB_RAW_CONTENT" | sed -e 's/\//\\\//g')
+GITHUB_RAW_CONTENT_ESCAPE=$(printf "$GITHUB_RAW_CONTENT" | sed -e 's/\//\\\//g')
 
 # Prepare Pilots Notes
 mv -f Another\ Pilots\ Notes\ for\ CockPit\ Photos\ official\ numbers\ v*/data/graphics/Planes/ ./planes_notes &&
