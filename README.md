@@ -4,11 +4,11 @@
 
 This project is focused in the creation of a web with useful information about planes and vehicles of Il-2 Great Battles simulator game using an automation process to allow fast updates. It uses GitHub repo and GitHub pages to build the web from the /docs repo directory.
 
-All the job is done by running il2_compose.sh script into worldobjects directory under Apple macOS. The script will not work on any other operatio¡ng system because it uses sips command to manipulate images.
+All the job is done by running il2_compose.sh script into worldobjects directory under Apple macOS. The script will not work on any other operating system because it uses `sips` command to manipulate images.
 
 The script must be configure to fit your paths and GitHub repo.
 
-Game worldobjects directory must be extracted from data/swf.gpt file using unGTP-IL2.exe program under MS Windows.
+Game worldobjects directory must be extracted from data/swf.gtp file using unGTP-IL2.exe program under MS Windows.
 
 ### Directories:
 - **cockpits**: Images from cockpits, in JPG. They must be added manually. Filename must be: `name.language.jpg`
