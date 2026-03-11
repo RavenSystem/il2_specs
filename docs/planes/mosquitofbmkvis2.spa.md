@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"></a></td></tr></tbody></table>  
 
-- Documento 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/mosquitofbmkvis2.01.eng.pdf) ]   
+- Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/mosquitofbmkvis2.Pilots_Notes.eng.pdf) ]   
 
 ## Descripción  
 

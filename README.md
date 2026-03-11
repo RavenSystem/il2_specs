@@ -17,4 +17,6 @@ Game worldobjects directory must be extracted from data/swf.gtp file using unGTP
 - **images_other**: Extra images, added automatically from the Il-2 web pag by il2_compose.sh script.
 - **manuals**: Official game manuals. They must be added manually, and then the links must be added manually at the end of the il2_compose.sh script.
 - **pilot_notes**: Cockpit photos of pilots notes. They are added automatically from another-pilots-notes-for-cockpit-photos file. See script.
-- **real_manuals**: Real flight handbooks and manuals of planes and vehicles, in PDF. They must be added manually. Filename must be: `name.index.language.pdf`
+- **personal_notes**: My own personal notes about some planes, with a more detailed cockpit photos. Notes must be added manually, but detailed cockpit photos are taken from il2_cockpit_photos local GitHub clone repo.
+- **real_manuals**: Real flight handbooks and manuals of planes and vehicles, in PDF. They must be added manually. Filename must be: `plane_name.document_title.language.pdf`
+- **tools**: Some tools to download, like JSGME. Files must be added manually and links must be added to script manually too.

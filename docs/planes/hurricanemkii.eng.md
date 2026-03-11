@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/hurricanemkii.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/hurricanemkii.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/hurricanemkii.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/hurricanemkii.png"></a></td></tr></tbody></table>  
 
-- Document 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/hurricanemkii.01.eng.pdf) ]   
+- Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/hurricanemkii.Pilots_Notes.eng.pdf) ]   
 
 ## Description  
 

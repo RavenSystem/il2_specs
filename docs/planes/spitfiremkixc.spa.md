@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkixc.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkixc.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/spitfiremkixc.eng.jpg"></a></td></tr></tbody></table>  
 
-- Documento 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixc.01.eng.pdf) ]   
+- Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixc.Pilots_Notes.eng.pdf) ]   
 
 ## Descripción  
 

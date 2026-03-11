@@ -2,8 +2,9 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/b25draf.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/b25draf.png"></a></td></tr></tbody></table>  
 
-- Documento 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.01.eng.pdf) ]   
-- Documento 02 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.02.eng.pdf) ]   
+- Instructors Syllabus [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.Instructors_Syllabus.eng.pdf) ]   
+- Pilot Training Manual [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.Pilot_Training_Manual.eng.pdf) ]   
+- Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/b25draf.Pilots_Notes.eng.pdf) ]   
 
 ## Descripción  
 

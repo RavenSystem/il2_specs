@@ -1,11 +1,11 @@
 
-Date: 2026-03-04 - Game version: 7.002 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Date: 2026-03-11 - Game version: 7.002 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
-[ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] [ [Game Manuals](#game-manuals) ] 
+[ [Game Manuals](#game-manuals) ] [ [Tools](#tools) ]
 
-### Jump to...
+[ [Pilots Notes v11.3 WWII by lefuneste & WWI by Charlo](https://forum.il2-series.com/topic/42-another-pilots-notes-for-cockpit-photos/) ] 
 
-<select onchange="window.location.href=this.value">
+**Jump to** <select onchange="window.location.href=this.value">
 <option value="">--- Planes</option>
 <option value="#a-20b">A-20B</option>
 <option value="#airco-dh2">Airco D.H.2</option>
@@ -968,6 +968,10 @@ Date: 2026-03-04 - Game version: 7.002 [ [Sponsor this project](https://paypal.m
 - Il-2 Battle of Stalingrad: User Manual [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/IL2_BOS_Manual_English_1011_rev1.pdf) ] [ [spa](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/IL2_BOS_Manual_Spanish_1011_rev1.pdf) ] 
 - Rise of Flight: User Manual [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/ROF_Manual_English_133c_rev1.pdf) ] [ [fra](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/ROF_Manual_French_133c_rev1.pdf) ] [ [ger](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/ROF_Manual_German_133c_rev1.pdf) ] [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/ROF_Manual_Russian_133c_rev1.pdf) ] [ [spa](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/manuals/ROF_Manual_Spanish_133c_rev1.pdf) ] 
 
+## Tools
+
+- [ [JSGME Mod Enabler](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/tools/JSGME.zip) ] 
+- [ [unGTP-IL2 Extraction Tool](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/tools/unGTP-IL2.zip) ] 
 
 ## Credits
 

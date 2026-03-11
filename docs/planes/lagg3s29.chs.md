@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s29.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s29.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s29.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s29.png"></a></td></tr><tr><td style="text-align: center" colspan="2"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/lagg3s29.eng.jpg"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/cockpits/lagg3s29.eng.jpg"></a></td></tr></tbody></table>  
 
-- 文档 01 [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/lagg3s29.01.rus.pdf) ]   
+- Pilot Instructions [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/lagg3s29.Pilot_Instructions.rus.pdf) ]   
 
 ## 描述  
 

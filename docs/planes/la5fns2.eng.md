@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/la5fns2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/la5fns2.png"></a></td></tr></tbody></table>  
 
-- Document 01 [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/la5fns2.01.rus.pdf) ]   
+- Pilot Instructions [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/la5fns2.Pilot_Instructions.rus.pdf) ]   
 
 ## Description  
 

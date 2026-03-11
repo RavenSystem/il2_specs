@@ -2,7 +2,7 @@
 
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/tempestmkvs2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/tempestmkvs2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/tempestmkvs2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/tempestmkvs2.png"></a></td></tr></tbody></table>  
 
-- Dokument 01 [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/tempestmkvs2.01.eng.pdf) ]   
+- Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/tempestmkvs2.Pilots_Notes.eng.pdf) ]   
 
 ## Beschreibung  
 
