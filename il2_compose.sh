@@ -260,10 +260,10 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
                 
                 TABLE_DETAILS="$TABLE_DETAILS\n\n## $IL2_PERSONAL_NOTES\n\n"
                 
-                TABLE_DETAILS="$TABLE_DETAILS<table><tbody><tr><td style=\"text-align: left\">$RAVENSYSTEM_NOTES_CONTENT"
+                TABLE_DETAILS="$TABLE_DETAILS<table><tbody><tr><td valign=\"top\" style=\"text-align: left\">$RAVENSYSTEM_NOTES_CONTENT"
                 
                 if [ -f "$TARGET_DIR/personal_notes/$NEW_VEHICLE_NAME.png" ]; then
-                    TABLE_DETAILS="$TABLE_DETAILS</td>\n<td width=\"25%\" style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT/personal_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/personal_notes/$NEW_VEHICLE_NAME.png\"></a><br>[ <a href=\"https://github.com/$RAVENSYSTEM_COCKPIT_GITHUB_USER_REPO\">Cockpit Photos</a> ]"
+                    TABLE_DETAILS="$TABLE_DETAILS</td>\n<td width=\"25%\" valign=\"top\" style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT/personal_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/personal_notes/$NEW_VEHICLE_NAME.png\"></a><br>[ <a href=\"https://github.com/$RAVENSYSTEM_COCKPIT_GITHUB_USER_REPO\">Cockpit Photos</a> ]"
                 fi
                 
                 TABLE_DETAILS="$TABLE_DETAILS</td></tr></tbody></table>"
