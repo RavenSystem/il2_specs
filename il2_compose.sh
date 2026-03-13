@@ -223,10 +223,17 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             
             # Real Manuals
             echo "*** $VEHICLE_TYPE $NEW_VEHICLE_NAME $IL2_LOCALE Real Manuals"
+            LAST_DOCUMENT_NAME="null..."
             for i in "$TARGET_DIR/real_manuals/$NEW_VEHICLE_NAME."*; do
                 DOCUMENT_BASENAME=$(basename "$i")
                 DOCUMENT_NAME=$(echo $DOCUMENT_BASENAME | cut -d . -f 2)
                 DOCUMENT_NAME_WITH_SPACES=$(echo $DOCUMENT_NAME | sed 's/_/ /g')
+                
+                if [ "$LAST_DOCUMENT_NAME" = "$DOCUMENT_NAME" ]; then
+                    continue
+                fi
+                
+                LAST_DOCUMENT_NAME="$DOCUMENT_NAME"
                 
                 IS_FIRST_MANUAL=1
                 for IL2_MANUAL_LOCALE in "chs" "eng" "fra" "ger" "rus" "spa"; do
