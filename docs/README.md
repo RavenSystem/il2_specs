@@ -1,5 +1,5 @@
 
-Date: 2026-03-14 - Game version: 7.002 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
+Date: 2026-03-15 - Game version: 7.002 [ [Sponsor this project](https://paypal.me/ravensystem) ] [ [GitHub](https://github.com/RavenSystem/il2_specs) ]
 
 [ [Game Manuals](#game-manuals) ] [ [Tools](#tools) ]
 
