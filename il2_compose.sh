@@ -381,7 +381,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         # Generic Pilot Notes
         echo "** $VEHICLE_TYPE $NEW_VEHICLE_NAME Generic Pilot Notes"
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "</td><td width=\"25%\" style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
+            printf "</td><td width=\"25%%\" style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
             printf "<a href=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/docs/README.md"
         fi
         
