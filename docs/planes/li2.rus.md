@@ -1,6 +1,6 @@
 # Ли-2  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/li2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/li2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/li2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/li2.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/li2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/li2.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/li2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/li2.png"></a></td></tr></tbody></table>  
 
 - Maintenance Manual [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/li2.Maintenance_Manual.rus.pdf) ]   
 

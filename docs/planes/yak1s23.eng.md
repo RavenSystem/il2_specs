@@ -1,6 +1,6 @@
 # Yak-1 ser.23  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak1s23.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak1s23.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak1s23.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak1s23.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak1s23.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak1s23.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak1s23.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak1s23.png"></a></td></tr></tbody></table>  
 
 
 ## Description  

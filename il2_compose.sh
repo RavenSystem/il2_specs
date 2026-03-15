@@ -199,7 +199,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
             # Generic Pilot Notes
             echo "*** $VEHICLE_TYPE $NEW_VEHICLE_NAME $IL2_LOCALE Generic Pilot Notes"
             if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-                TABLE_DETAILS="$TABLE_DETAILS</td><td style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"></a>"
+                TABLE_DETAILS="$TABLE_DETAILS</td><td width=\"25%\" style=\"text-align: center\"><a href=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"></a>"
             fi
             
             # Cockpit image
@@ -381,7 +381,7 @@ for VEHICLE_TYPE in "planes" "vehicles"; do
         # Generic Pilot Notes
         echo "** $VEHICLE_TYPE $NEW_VEHICLE_NAME Generic Pilot Notes"
         if [ -f "$TARGET_DIR/pilots_notes/$NEW_VEHICLE_NAME.png" ]; then
-            printf "</td><td style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
+            printf "</td><td width=\"25%\" style=\"text-align: center\">" >> "$TARGET_DIR/docs/README.md"
             printf "<a href=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"><img src=\"$GITHUB_RAW_CONTENT/pilots_notes/$NEW_VEHICLE_NAME.png\"></a>" >> "$TARGET_DIR/docs/README.md"
         fi
         

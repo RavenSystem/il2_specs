@@ -1,6 +1,6 @@
 # SSW D.IV  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/schuckertdiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/schuckertdiv.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/schuckertdiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/schuckertdiv.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/schuckertdiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/schuckertdiv.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/schuckertdiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/schuckertdiv.png"></a></td></tr></tbody></table>  
 
 
 ## 描述  

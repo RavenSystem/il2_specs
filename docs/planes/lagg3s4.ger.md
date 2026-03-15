@@ -1,6 +1,6 @@
 # LaGG-3 Brh. 4  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/lagg3s4.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/lagg3s4.png"></a></td></tr></tbody></table>  
 
 - Pilot Instructions [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/lagg3s4.Pilot_Instructions.rus.pdf) ]   
 

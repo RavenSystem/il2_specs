@@ -1,6 +1,6 @@
 # Mosquito F.B. Mk.VI ser.2  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/mosquitofbmkvis2.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/mosquitofbmkvis2.png"></a></td></tr></tbody></table>  
 
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/mosquitofbmkvis2.Pilots_Notes.eng.pdf) ]   
 

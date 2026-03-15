@@ -1,6 +1,6 @@
 # Spitfire Mk.XIVe  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxive.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxive.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxive.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxive.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxive.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxive.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxive.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxive.png"></a></td></tr></tbody></table>  
 
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxive.Pilots_Notes.eng.pdf) ]   
 

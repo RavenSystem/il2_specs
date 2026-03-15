@@ -1,6 +1,6 @@
 # Як-3 9 серии  
 
-<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak3s9.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak3s9.png"></a></td><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak3s9.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak3s9.png"></a></td></tr></tbody></table>  
+<table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak3s9.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/yak3s9.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak3s9.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/yak3s9.png"></a></td></tr></tbody></table>  
 
 - Pilot Instructions [ [rus](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/yak3s9.Pilot_Instructions.rus.pdf) ]   
 
