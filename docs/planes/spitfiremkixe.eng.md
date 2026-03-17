@@ -4,6 +4,11 @@
 
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkixe.Pilots_Notes.eng.pdf) ]   
 
+## Personal Notes  
+
+<table><tbody><tr><td valign="top" style="text-align: left">Cockpit photo data based on several real pilot manuals.</td>  
+<td width="25%" valign="top" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkixe.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkixe.png"></a><br>[ <a href="https://github.com/RavenSystem/il2_cockpit_photos">Cockpit Photos</a> ]</td></tr></tbody></table>  
+
 ## Description  
 
 Indicated stall speed in flight configuration: 143...163 km/h (89..101 mph)  
