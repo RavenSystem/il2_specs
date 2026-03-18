@@ -3,6 +3,7 @@
 <table><tbody><tr><td style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/images/spitfiremkxiv.png"></a></td><td width="25%" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/pilots_notes/spitfiremkxiv.png"></a></td></tr></tbody></table>  
 
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxiv.Pilots_Notes.eng.pdf) ]   
+- Rolls Royce Griffon 61 64 65 66 67 Engine [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxiv.Rolls_Royce_Griffon_61_64_65_66_67_Engine.eng.pdf) ]   
 
 ## Описание  
 
