@@ -15,7 +15,7 @@
 # (Run this script twice if there are new planes or missing images)
 
 ### Script Configuration Settings
-IL2_VERSION="7.002"
+IL2_VERSION="7.003"
 PILOTS_NOTES_VERSION="11.3"
 
 GITHUB_USER_REPO="RavenSystem/il2_specs"
