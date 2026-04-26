@@ -5,6 +5,11 @@
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxive.Pilots_Notes.eng.pdf) ]   
 - Rolls Royce Griffon 61 64 65 66 67 Engine [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxive.Rolls_Royce_Griffon_61_64_65_66_67_Engine.eng.pdf) ]   
 
+## Notas Personales  
+
+<table><tbody><tr><td valign="top" style="text-align: left">Cockpit photo data based on several real pilot manuals.</td>  
+<td width="25%" valign="top" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkxive.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkxive.png"></a><br>[ <a href="https://github.com/RavenSystem/il2_cockpit_photos">Cockpit Photos</a> ]</td></tr></tbody></table>  
+
 ## Descripción  
 
 Velocidad indicada de pérdida en configuración de vuelo: 153..173 km/h  

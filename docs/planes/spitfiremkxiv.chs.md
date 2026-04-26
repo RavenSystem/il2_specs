@@ -5,6 +5,11 @@
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxiv.Pilots_Notes.eng.pdf) ]   
 - Rolls Royce Griffon 61 64 65 66 67 Engine [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkxiv.Rolls_Royce_Griffon_61_64_65_66_67_Engine.eng.pdf) ]   
 
+## 个人笔记  
+
+<table><tbody><tr><td valign="top" style="text-align: left">Cockpit photo data based on several real pilot manuals.</td>  
+<td width="25%" valign="top" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkxiv.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkxiv.png"></a><br>[ <a href="https://github.com/RavenSystem/il2_cockpit_photos">Cockpit Photos</a> ]</td></tr></tbody></table>  
+
 ## 描述  
 
 飞行构型的失速指示空速：152~172 km/h  
