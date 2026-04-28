@@ -5,6 +5,11 @@
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkvb.Pilots_Notes.eng.pdf) ]   
 - Rolls Royce Merlin 46 Operational Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/spitfiremkvb.Rolls_Royce_Merlin_46_Operational_Notes.eng.pdf) ]   
 
+## Notas Personales  
+
+<table><tbody><tr><td valign="top" style="text-align: left">Cockpit photo data based on several real pilot manuals.</td>  
+<td width="25%" valign="top" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkvb.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/spitfiremkvb.png"></a><br>[ <a href="https://github.com/RavenSystem/il2_cockpit_photos">Cockpit Photos</a> ]</td></tr></tbody></table>  
+
 ## Descripción  
 
 Velocidad indicada de pérdida en configuración de vuelo: 137..144 km/h  
