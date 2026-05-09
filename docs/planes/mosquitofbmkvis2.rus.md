@@ -4,6 +4,11 @@
 
 - Pilots Notes [ [eng](https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/real_manuals/mosquitofbmkvis2.Pilots_Notes.eng.pdf) ]   
 
+## Личные заметки  
+
+<table><tbody><tr><td valign="top" style="text-align: left">Cockpit photo data based on several real pilot manuals.</td>  
+<td width="25%" valign="top" style="text-align: center"><a href="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/mosquitofbmkvis2.png"><img src="https://raw.githubusercontent.com/RavenSystem/il2_specs/refs/heads/main/personal_notes/mosquitofbmkvis2.png"></a><br>[ <a href="https://github.com/RavenSystem/il2_cockpit_photos">Cockpit Photos</a> ]</td></tr></tbody></table>  
+
 ## Описание  
 
 Приборная скорость сваливания в полётной конфигурации: 179...208 км/ч  
